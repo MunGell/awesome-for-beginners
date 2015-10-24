@@ -10,7 +10,7 @@ If you are an open source project maintainer, add label `first-timers-only` (or 
 
 [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: fisrt-timers-only)_
 
-## C\#
+## .NET
 
 [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_
 
