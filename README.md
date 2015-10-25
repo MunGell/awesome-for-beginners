@@ -1,4 +1,4 @@
-# Awesome First PR Opportunities
+# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
 
@@ -40,3 +40,13 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
