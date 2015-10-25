@@ -4,11 +4,11 @@ A list of awesome beginners-friendly projects.
 
 Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) blog post and [YourFirstPR](http://yourfirstpr.github.io/) project.
 
-If you are an open source project maintainer, add label `first-timers-only` (or similar) to your project and list it here so people can find it.
+If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
 ## C++
 
-[xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: fisrt-timers-only)_
+[xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_
 
 ## .NET
 
@@ -17,7 +17,7 @@ If you are an open source project maintainer, add label `first-timers-only` (or 
 ## JavaScript
 
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_
-- [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: fisrt time only)_
+- [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/easy%20fix) _(label: easy fix)_
 - [angular-formly](https://github.com/formly-js/angular-formly/labels/first-timers-only) _(label: first-timers-only)_
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_
