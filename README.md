@@ -8,11 +8,11 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## C++
 
-[xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_
+- [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_
 
 ## .NET
 
-[Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_
 
 ## JavaScript
 
