@@ -26,6 +26,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_
 - [The Reapp User Interface](https://github.com/reapp/reapp-ui/labels/good-for-beginner) _(label: good-for-beginner)_
 - [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_
+- [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_
 
 ## PHP
 
