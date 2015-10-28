@@ -43,6 +43,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_
 
+## Want to create something new?
+
+If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
