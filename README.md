@@ -6,6 +6,10 @@ Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only
 
 If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
+## C
+
+- [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_
+
 ## C++
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_
