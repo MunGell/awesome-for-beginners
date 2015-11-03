@@ -32,6 +32,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_
+- [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_
 
 ## PHP
 
@@ -46,6 +47,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_
+- [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_
 
 ## Want to create something new?
 
