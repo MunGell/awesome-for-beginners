@@ -33,6 +33,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_
 - [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_
+- [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_
 
 ## PHP
 
