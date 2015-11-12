@@ -44,6 +44,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_
 - [Python Babel](https://github.com/python-babel/babel/labels/easy) _(label: easy)_
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good%20first%20contribution) _(label: good first contribution)_
+- [Cliquet](https://github.com/mozilla-services/cliquet/labels/easy-pick) _(label: easy-pick)_
 
 ## Ruby
 
