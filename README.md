@@ -34,6 +34,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_ <br> BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
+- [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 
 ## PHP
 
