@@ -6,6 +6,10 @@ Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only
 
 If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
+## .NET
+
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
+
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
@@ -14,9 +18,9 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
 
-## .NET
+## Go
 
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
+- [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 
 ## JavaScript
 
@@ -35,6 +39,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_ <br> BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
+- [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 ## PHP
 
