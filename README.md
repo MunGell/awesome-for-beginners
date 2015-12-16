@@ -40,6 +40,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 - [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [Webpack](https://github.com/webpack/webpack/labels/easy) _(label: easy)_ <br> A bundler for javascript and friends.
 
 ## PHP
 
@@ -52,6 +53,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good%20first%20contribution) _(label: good first contribution)_ <br> An interactive SSL-capable intercepting HTTP proxy.
 - [Cliquet](https://github.com/mozilla-services/cliquet/labels/easy-pick) _(label: easy-pick)_ <br> A toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+- [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
 
 ## Ruby
 
