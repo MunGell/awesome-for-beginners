@@ -54,6 +54,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Cliquet](https://github.com/mozilla-services/cliquet/labels/easy-pick) _(label: easy-pick)_ <br> A toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
+- [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 
 ## Ruby
 
