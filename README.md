@@ -61,6 +61,13 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
 
+## Rust
+
+- [Servo](https://github.com/servo/servo/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-easy+-label%3A%22C-assigned%22+) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Rust-Clippy](https://github.com/Manishearth/rust-clippy/issues?q=is%3Aopen+is%3Aissue+label%3AE-easy) _(label: E-easy)_  <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/issues?q=is%3Aopen+is%3Aissue+label%3Aeasy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
+- [Iron](https://github.com/iron/iron/issues?q=is%3Aopen+is%3Aissue+label%3Aeasy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
+
 ## Want to create something new?
 
 If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
