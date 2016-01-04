@@ -61,6 +61,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
 
+## Rust
+
+- [Servo](https://github.com/servo/servo/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AE-easy+-label%3A%22C-assigned%22+) _(label:E-easy)_ <br> A browser engine designed for applications including embedded use.
+
 ## Want to create something new?
 
 If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
