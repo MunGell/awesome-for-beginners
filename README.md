@@ -41,6 +41,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 - [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [Webpack](https://github.com/webpack/webpack/labels/easy) _(label: easy)_ <br> A bundler for javascript and friends.
+- [Countly](https://github.com/countly/countly-server) _(label: good-for-beginner)_ <br> Mobile & web analytics platform     
 
 ## PHP
 
