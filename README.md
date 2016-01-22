@@ -24,6 +24,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## JavaScript
 
+- [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/easy%20fix) _(label: easy fix)_ <br> JavaScript library for mobile-friendly interactive maps.
