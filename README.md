@@ -24,7 +24,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Java
 
-- [TEAMMATES](https://github.com/TEAMMATES/teammates/issues) _(label: beginner)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students. Detailed document/tutorial is provided.
+- [TEAMMATES](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers) _(label: beginner)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students. Detailed document/tutorial is provided.
 
 ## JavaScript
 
