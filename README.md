@@ -22,6 +22,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 
+## Java
+
+- [TEAMMATES](https://github.com/TEAMMATES/teammates/issues?q=is%3Aopen+is%3Aissue+label%3Ad.FirstTimers) _(label: beginner)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students. Detailed document/tutorial is provided.
+
 ## JavaScript
 
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
