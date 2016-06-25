@@ -75,6 +75,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/easy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 
+## Scala
+
+- [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
+
 ## Want to create something new?
 
 If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
