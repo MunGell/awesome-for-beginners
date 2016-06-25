@@ -47,6 +47,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [Webpack](https://github.com/webpack/webpack/labels/easy) _(label: easy)_ <br> A bundler for javascript and friends.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
+- [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
+- [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
+
+
 
 ## PHP
 
