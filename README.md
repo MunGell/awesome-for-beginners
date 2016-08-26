@@ -72,6 +72,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
+- [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 
 ## Rust
 
