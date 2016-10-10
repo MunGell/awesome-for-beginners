@@ -53,6 +53,12 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Ghost](https://github.com/TryGhost/Ghost/labels/beginner) _(label: beginner)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 
+## Julia
+- [Intro. Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ 
+- [Documentation](https://github.com/JuliaLang/julia/labels/needs%20docs) _(label: needs docs)_
+- [Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_
+
+
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
