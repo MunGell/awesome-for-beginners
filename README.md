@@ -22,7 +22,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [LightTable](https://github.com/LightTable/LightTable) <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
   - [Beginner](https://github.com/LightTable/LightTable/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner)
-  - [Documentation](https://github.com/LightTable/developer-guide)
 
 ## Go
 
@@ -62,7 +61,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Julia
 - [Julia Language](http://julialang.org/) <br> "Move like Python, Run like C" - A fresh approach to technical computing!
   - [Intro. Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ 
-  - [Documentation](https://github.com/JuliaLang/julia/labels/needs%20docs) _(label: needs docs)_
   - [Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_
 
 
