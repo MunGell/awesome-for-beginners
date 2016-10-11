@@ -20,8 +20,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable) <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
-  - [Beginner](https://github.com/LightTable/LightTable/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner)
+- [LightTable](https://github.com/LightTable/LightTable/labels/beginner) _(label: beginner)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## Go
 
@@ -61,10 +60,9 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 
 ## Julia
-- [Julia Language](http://julialang.org/) <br> "Move like Python, Run like C" - A fresh approach to technical computing!
-  - [Intro. Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ 
-  - [Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_
 
+- [Julia Language: Intro Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Julia Language: Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
 ## PHP
 
