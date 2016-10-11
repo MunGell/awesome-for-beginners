@@ -53,6 +53,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Ghost](https://github.com/TryGhost/Ghost/labels/beginner) _(label: beginner)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> JS/HTML/CSS Terminal
+- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 
 ## PHP
 
