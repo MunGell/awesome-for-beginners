@@ -18,6 +18,11 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
 
+## ClojureScript
+
+- [LightTable](https://github.com/LightTable/LightTable) <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+  - [Beginner](https://github.com/LightTable/LightTable/issues?q=is%3Aopen+is%3Aissue+label%3Abeginner)
+
 ## Go
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
@@ -54,6 +59,12 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> JS/HTML/CSS Terminal
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
+
+## Julia
+- [Julia Language](http://julialang.org/) <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+  - [Intro. Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ 
+  - [Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_
+
 
 ## PHP
 
