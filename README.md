@@ -58,6 +58,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> JS/HTML/CSS Terminal
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
+- [Hoodie Camp](https://github.com/hoodiehq/camp/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
 
 ## Julia
 
