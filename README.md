@@ -25,6 +25,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Go
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
+- [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 
 ## Java
 
