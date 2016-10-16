@@ -69,7 +69,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Markdown
 
-- [tldr-pages: tldr](https://github.com/tldr-pages/tldr/) _(label: beginner)_ <br> Simplified and community-driven man pages.
+- [tldr-pages: tldr](https://github.com/tldr-pages/tldr/) _(label: new command)_ <br> Simplified and community-driven man pages.
 
 ## PHP
 
