@@ -61,7 +61,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
-- [Hoodie Camp](https://github.com/hoodiehq/camp/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
+- [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
 
 ## Julia
 
