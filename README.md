@@ -22,6 +22,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [LightTable](https://github.com/LightTable/LightTable/labels/beginner) _(label: beginner)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
+## Elixir
+
+- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
 ## Go
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
