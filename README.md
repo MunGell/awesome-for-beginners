@@ -63,6 +63,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
+- [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20bug) _(label: good first bug)_ <br> Fast, reliable, and secure dependency management.
 
 ## Julia
 
