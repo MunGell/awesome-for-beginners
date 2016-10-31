@@ -107,6 +107,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
 
+## HTML & CSS
+
+- [Spoon-Knife](https://github.com/octocat/Spoon-Knife) _(label: Starter)_ <br> Provide an example for forking a repository on GitHub.
+
 ## Want to create something new?
 
 If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
