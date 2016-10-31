@@ -30,6 +30,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
+- [Caddy](https://github.com/mholt/caddy/labels/easy) (label:easy) <br> Fast, cross-platform HTTP/2 web server with automatic HTTPS
 
 ## Java
 
