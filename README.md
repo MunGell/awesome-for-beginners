@@ -108,7 +108,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
 
-## Typescript
+## TypeScript
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
