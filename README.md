@@ -91,7 +91,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [pylearn2](https://github.com/lisa-lab/pylearn2) _(label: easy)_ <br> A Machine Learning library based on Theano.
 
-
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
