@@ -89,7 +89,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
-- [pylearn2](https://github.com/lisa-lab/pylearn2/issues?q=is%3Aopen+is%3Aissue+label%3A%22For+beginners%22) _(label: easy)_ <br> A Machine Learning library based on Theano.
+- [pylearn2](https://github.com/lisa-lab/pylearn2/labels/For%20beginners) _(label: For beginners)_ <br> A Machine Learning library based on Theano.
 
 ## Ruby
 
