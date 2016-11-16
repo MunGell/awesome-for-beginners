@@ -70,6 +70,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20bug) _(label: good first bug)_ <br> Fast, reliable, and secure dependency management.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
+- [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
 
 ## Julia
 
