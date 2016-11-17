@@ -91,6 +91,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [pylearn2](https://github.com/lisa-lab/pylearn2/labels/For%20beginners) _(label: For beginners)_ <br> A Machine Learning library based on Theano.
+- [scrapy](https://github.com/scrapy/scrapy/labels/easy) _(label: easy)_ <br>A fast high-level web crawling & scraping framework for Python.
 
 ## Ruby
 
