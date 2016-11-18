@@ -18,6 +18,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
 
+## Clojure
+ 
+- - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-haging-fruit)_ <br> A music programming language for musicians. :notes:
+
 ## ClojureScript
 
 - [LightTable](https://github.com/LightTable/LightTable/labels/beginner) _(label: beginner)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
