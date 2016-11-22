@@ -75,6 +75,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20bug) _(label: good first bug)_ <br> Fast, reliable, and secure dependency management.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
+- [Freelancer Management System](https://github.com/manparvesh/freelancer-management-system/labels/easy) _(label: easy)_ <br> A web-based system for managing freelancers
 
 ## Julia
 
