@@ -115,6 +115,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
+- [playframework](https://github.com/playframework/playframework/labels/newbie) _(label: newbie)_ The High Velocity Web Framework
 
 ## TypeScript
 
