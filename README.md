@@ -85,6 +85,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
+- [Activity](https://github.com/m1guelpf/Activity/labels/easy) _(label: easy)_ <br> A PHP API to log anything anywhere
 
 ## Python
 
