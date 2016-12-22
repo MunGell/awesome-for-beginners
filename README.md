@@ -77,6 +77,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
+- [Piwik](https://github.com/piwik/piwik/labels/Easy%20pick) _(label: Easy Pick)_ <br> Piwik is the leading Free/Libre open analytics platform.
 
 ## Julia
 
