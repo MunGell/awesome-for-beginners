@@ -19,7 +19,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
 
 ## Clojure
- 
+
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
 
 ## ClojureScript
@@ -106,6 +106,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
+- [Hanami](https://github.com/hanami/hanami/labels/easy) _(label: easy)_ <br> A modern framework for Ruby.
 
 ## Rust
 
