@@ -101,6 +101,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [pylearn2](https://github.com/lisa-lab/pylearn2/labels/For%20beginners) _(label: For beginners)_ <br> A Machine Learning library based on Theano.
 - [scrapy](https://github.com/scrapy/scrapy/labels/easy) _(label: easy)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution) _(label: good first contribution)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 
 ## Ruby
 
