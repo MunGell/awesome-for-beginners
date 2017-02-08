@@ -54,7 +54,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
 - [React Router](https://github.com/rackt/react-router/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A complete routing solution for React.js.
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
-- [The Reapp User Interface](https://github.com/reapp/reapp-ui/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Amazing cross platform UI's with React and JavaScript.
 - [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  Shumway is a Flash VM and runtime written in JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
@@ -74,7 +73,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
-- [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20bug) _(label: good first bug)_ <br> Fast, reliable, and secure dependency management.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
