@@ -53,9 +53,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [angular-formly](https://github.com/formly-js/angular-formly/labels/first-timers-only) _(label: first-timers-only)_ <br> JavaScript powered forms for AngularJS.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
-- [React Router](https://github.com/rackt/react-router/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A complete routing solution for React.js.
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
-- [The Reapp User Interface](https://github.com/reapp/reapp-ui/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Amazing cross platform UI's with React and JavaScript.
 - [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  Shumway is a Flash VM and runtime written in JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
