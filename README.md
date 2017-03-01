@@ -114,7 +114,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
-- [operationcode](https://github.com/OperationCode/operationcode/issues?q=is%3Aopen+is%3Aissue+label%3A%22beginner+friendly%22) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
+- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
 
 ## Rust
 
