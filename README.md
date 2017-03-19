@@ -18,7 +18,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
 - [electron](https://github.com/electron/electron/labels/beginner) _(label: beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-- [tensorflow](https://github.com/tensorflow/tensorflow/labels/contributions%20welcome) _(label: contributions welcome)_ Computation using data flow graphs for scalable machine learning
+- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
 ## Clojure
 
