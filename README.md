@@ -95,7 +95,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Python
 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
-- [Python Babel](https://github.com/python-babel/babel/labels/easy) _(label: easy)_ <br> The Python Internationalization Library.
+- [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good%20first%20contribution) _(label: good first contribution)_ <br> An interactive SSL-capable intercepting HTTP proxy.
 - [Cliquet](https://github.com/mozilla-services/cliquet/labels/easy-pick) _(label: easy-pick)_ <br> A toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
