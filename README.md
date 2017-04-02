@@ -55,7 +55,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
-- [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  Shumway is a Flash VM and runtime written in JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_ <br> BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
