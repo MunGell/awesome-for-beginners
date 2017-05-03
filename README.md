@@ -117,6 +117,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
+- [The Odin Project](https://github.com/TheOdinProject/theodinproject) _(label: beginner friendly)_ <br> An open source community and curriculum for learning web development
 
 ## Rust
 
