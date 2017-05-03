@@ -1,6 +1,6 @@
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome] This is a test comment.(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome beginners-friendly projects.
+#-A list of awesome beginners-friendly projects.
 
 Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) blog post and [YourFirstPR](http://yourfirstpr.github.io/) project.
 
