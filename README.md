@@ -87,6 +87,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Julia Language: Intro Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
+## Markdown
+
+- [tldr-pages: tldr](https://github.com/tldr-pages/tldr/) _(label: new command)_ <br> Simplified and community-driven man pages.
+
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
