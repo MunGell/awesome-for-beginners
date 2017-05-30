@@ -108,6 +108,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first_timers_only)_ <br> A transpiler that converts Python code into Java bytecode.
+- [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first_timers_only)_ <br> A Javascript implementation of the Python virtual machine.
 
 ## Ruby
 
