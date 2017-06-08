@@ -20,6 +20,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
+## Android
+
+- [ObjectStore/nosql Database](https://github.com/nikhilkarnwal/nosqldb_android) _(label: beginner & Contibutions are welcome)_ <br> A very lightweight nosql database library for android. 
+
 ## Clojure
 
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
