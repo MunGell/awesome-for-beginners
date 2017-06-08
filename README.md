@@ -13,6 +13,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
+- [stmp](https://github.com/ParadoxZero/stmp) _(label: beginer-friendly, beginer-project)_ <br> stmp is a simple and tiny macro processor written in c.
 
 ## C++
 
