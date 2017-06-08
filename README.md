@@ -17,9 +17,11 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## C++
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
+- [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
 ## Clojure
- 
+
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
 
 ## ClojureScript
@@ -34,11 +36,15 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
-- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) (label: exp/beginner) <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
 
 ## Java
 
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
+- [elasticsearch](https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit) _(label: low hanging fruit)_ <br> Open Source, Distributed, RESTful Search Engine.
+- [JabRef](https://github.com/JabRef/jabref/labels/beginner) _(label: beginner)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 
 ## JavaScript
 
@@ -49,10 +55,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [angular-formly](https://github.com/formly-js/angular-formly/labels/first-timers-only) _(label: first-timers-only)_ <br> JavaScript powered forms for AngularJS.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
-- [React Router](https://github.com/rackt/react-router/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A complete routing solution for React.js.
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
-- [The Reapp User Interface](https://github.com/reapp/reapp-ui/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Amazing cross platform UI's with React and JavaScript.
-- [Mozilla Shumway](https://github.com/mozilla/shumway/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  Shumway is a Flash VM and runtime written in JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_ <br> BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
@@ -76,6 +79,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
+- [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
+- [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
 
 ## Julia
 
@@ -85,18 +90,23 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
+- [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
+- [Piwik](https://github.com/piwik/piwik/labels/Easy%20pick) _(label: Easy Pick)_ <br> Piwik is the leading Free/Libre open analytics platform.
 
 ## Python
 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
-- [Python Babel](https://github.com/python-babel/babel/labels/easy) _(label: easy)_ <br> The Python Internationalization Library.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good%20first%20contribution) _(label: good first contribution)_ <br> An interactive SSL-capable intercepting HTTP proxy.
-- [Cliquet](https://github.com/mozilla-services/cliquet/labels/easy-pick) _(label: easy-pick)_ <br> A toolkit to ease the implementation of HTTP microservices, such as data-driven REST APIs.
+- [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [pylearn2](https://github.com/lisa-lab/pylearn2/labels/For%20beginners) _(label: For beginners)_ <br> A Machine Learning library based on Theano.
 - [scrapy](https://github.com/scrapy/scrapy/labels/easy) _(label: easy)_ <br>A fast high-level web crawling & scraping framework for Python.
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution) _(label: good first contribution)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
+- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
+- [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 
 ## Ruby
 
@@ -104,6 +114,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
+- [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
+- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
+- [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
+- [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/projects/2) _(label: beginner)_ <br> An open source publishing platform for environmental projects.
 
 ## Rust
