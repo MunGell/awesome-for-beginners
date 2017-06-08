@@ -81,6 +81,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
 - [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
+- [Atom](https://github.com/atom/atom/labels/beginner) _(label: beginner)_ <br> The hackable text editor
 
 ## Julia
 
