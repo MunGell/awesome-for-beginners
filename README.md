@@ -10,6 +10,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 
+## BASH
+- [pak](https://github.com/tburnam/pak) _(label: Good for New Contributors)_ <br> A command-line tool for everything.
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
