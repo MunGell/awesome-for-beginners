@@ -105,7 +105,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [scrapy](https://github.com/scrapy/scrapy/labels/easy) _(label: easy)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution) _(label: good first contribution)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
-- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [coala](https://github.com/coala/coala/issues?q=is%3Aissue+is%3Aopen+label%3Adifficulty%2Fnewcomer+no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 
