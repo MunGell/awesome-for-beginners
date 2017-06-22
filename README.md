@@ -111,6 +111,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 
 ## Ruby
 
