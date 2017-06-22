@@ -14,6 +14,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
 
+- [varunzxzx](https://github.com/varunzxzx/TIC-TAC-TOE-AI-IN-C) _(label: first-timers-only)_ <br> AI for Tic-Tac-Toe in C
+
 ## C++
  
 - [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
