@@ -144,7 +144,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Contribute
 
-Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md) for guidelines.
+Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
