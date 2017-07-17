@@ -30,6 +30,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Dart
 
 - [webdev.dartlang.org](https://github.com/dart-lang/site-webdev/labels/beginner) _(label: beginner)_ <br> A website for developers writing Dart web apps, including AngularDart apps.
+- [www.dartlang.org](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering the Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 
 ## Elixir
 
