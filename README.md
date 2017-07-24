@@ -63,11 +63,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
-- [Chai](https://github.com/chaijs/chai/labels/easy-fix) _(label: easy-fix)_ <br> BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the [Kinto API](http://kinto.readthedocs.org/) for remote data synchronization.
 - [ESLint](https://github.com/eslint/eslint/labels/beginner) _(label: beginner)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
-- [Webpack](https://github.com/webpack/webpack/labels/easy) _(label: easy)_ <br> A bundler for javascript and friends.
+- [Webpack](https://github.com/webpack/webpack/labels/D0%3A%20My%20First%20Commit%20%28Contrib.%20Difficulty%29) _(label: D0: My First Commit (Contrib. Difficulty))_ <br> A bundler for javascript and friends.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
