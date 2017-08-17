@@ -120,6 +120,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Gratipay](https://github.com/gratipay/gratipay.com/labels/Low-hanging%20Fruit) _(label: Low-hanging Fruit)_ <br> Helping companies and others pay for open source.
+- [Pytest](https://github.com/pytest-dev/pytest/labels/easy) _(label: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 
 ## Ruby
 
