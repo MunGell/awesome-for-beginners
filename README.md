@@ -21,7 +21,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Clojure
 
-- [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
+- [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ (not available at present) <br> A music programming language for musicians. :notes:
 
 ## ClojureScript
 
