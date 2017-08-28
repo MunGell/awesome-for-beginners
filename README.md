@@ -38,6 +38,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Go
 
+- [captain](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> The Captain is a free open source framework for controlling autonomous vehicles (e.g., drones) and interacting with other autonomous vehicles and services.
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
@@ -53,6 +54,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## JavaScript
 
+- [missioncontrol](https://github.com/davfoundation/captain/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
+- [missions](https://github.com/davfoundation/missions/labels/first-timers-only) _(label: first-timers-only)_ <br> Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
