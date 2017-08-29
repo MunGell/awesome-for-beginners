@@ -122,6 +122,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Gratipay](https://github.com/gratipay/gratipay.com/labels/Low-hanging%20Fruit) _(label: Low-hanging Fruit)_ <br> Helping companies and others pay for open source.
 - [Pytest](https://github.com/pytest-dev/pytest/labels/easy) _(label: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
+- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/issues?q=is%3Aissue+is%3Aopen+label%3A%22Good+for+New+Contributors%22) _(Good for New Contributors)_ <br> Building a Better Democracy for the Internet Age
 
 ## Ruby
 
