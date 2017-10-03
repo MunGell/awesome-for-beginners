@@ -89,7 +89,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
-- [funnies](https://github.com/1egoman/funnies) _(label: low-hanging-fruit)_ <br> 😜 Make users laugh when your app loads.
+- [funnies](https://github.com/1egoman/funnies/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> 😜 Make users laugh when your app loads.
 
 ## Julia
 
