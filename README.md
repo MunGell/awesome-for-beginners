@@ -105,6 +105,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Piwik](https://github.com/piwik/piwik/labels/Easy%20pick) _(label: Easy Pick)_ <br> Piwik is the leading Free/Libre open analytics platform.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
+- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 
 ## Python
 
