@@ -93,6 +93,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
+- [botkit](https://github.com/howdyai/botkit/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) _(label: help wanted)_ <br> toolkit for bot making
 
 ## Julia
 
