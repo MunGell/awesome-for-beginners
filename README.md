@@ -9,6 +9,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
+- [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac. 
 
 ## C
 
