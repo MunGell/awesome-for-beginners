@@ -94,6 +94,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
 
+- [mattermost](https://github.com/mattermost/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22Help+Wanted%22) _(label: Help Wanted)_ Slack alternativ<br> 
+
 ## Julia
 
 - [Julia Language: Intro Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
