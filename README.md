@@ -12,7 +12,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
+- [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C++
 
