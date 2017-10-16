@@ -153,7 +153,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Swift
 
-- [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram/labels/help%20wanted) _(label: help-wanted)_ <br> A Swift client for Instagram API.
+- [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram/labels/Status%3A%20Pending) _(label: Status: Pending)_ <br> An Instagram API client written in Swift.
 
 ## TypeScript
 
