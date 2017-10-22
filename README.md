@@ -151,6 +151,10 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/newbie) _(label: newbie)_ The High Velocity Web Framework
 
+## Swift
+
+- [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram/labels/Status%3A%20Pending) _(label: Status: Pending)_ <br> An Instagram API client written in Swift.
+
 ## TypeScript
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
