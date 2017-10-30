@@ -37,6 +37,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 ## Elixir
 
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 
 ## Go
 
