@@ -130,6 +130,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Gratipay](https://github.com/gratipay/gratipay.com/labels/Low-hanging%20Fruit) _(label: Low-hanging Fruit)_ <br> Helping companies and others pay for open source.
 - [Pytest](https://github.com/pytest-dev/pytest/labels/easy) _(label: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
+- [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue) _(label: good first issue)_ <br> Jupyter interactive notebook.
 
 ## Ruby
 
