@@ -160,6 +160,10 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
+## Data collection for non-programmers
+
+- [Code And Talk](https://github.com/szabgab/codeandtalk.com) _(label: data-collection)_ <br> Collecting meta-data about tech confernces around the world.
+
 ## Contribute
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
