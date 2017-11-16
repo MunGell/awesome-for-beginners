@@ -103,6 +103,10 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Julia Language: Intro Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
+## Perl
+
+- [Ravada](https://github.com/UPC/ravada/) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
+
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
