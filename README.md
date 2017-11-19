@@ -98,6 +98,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source screen recorder built with web technology
+- [axios](https://github.com/axios/axios/labels/first-timers-only) _(label: first-timers-only)_ <br> Promise based HTTP client for the browser and node.js
 
 ## Julia
 
