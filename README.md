@@ -153,6 +153,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/Manishearth/rust-clippy/labels/E-easy) _(label: E-easy)_  <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/easy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
+- [crates.io](https://github.com/rust-lang/crates.io/issues?utf8=%E2%9C%93&q=is%3Aopen%20label%3AE-mentor%20label%3AE-easy) _(label: E-easy and E-mentor) <br> The website to search for and browse Rust crates.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 
 ## Scala
