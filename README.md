@@ -128,7 +128,6 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
-- [Gratipay](https://github.com/gratipay/gratipay.com/labels/Low-hanging%20Fruit) _(label: Low-hanging Fruit)_ <br> Helping companies and others pay for open source.
 - [Pytest](https://github.com/pytest-dev/pytest/labels/easy) _(label: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
