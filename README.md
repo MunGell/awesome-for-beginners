@@ -55,6 +55,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit) _(label: low hanging fruit)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+- [LoLPing 2](https://github.com/mayuso/LoLPing2/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> A tool to check your ping delay (ms) to your favourite League of Legends server.
 
 ## JavaScript
 
