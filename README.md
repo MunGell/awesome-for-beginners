@@ -78,7 +78,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
 - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
-- [Ghost](https://github.com/TryGhost/Ghost/labels/beginner) _(label: beginner)_ <br> Just a blogging platform
+- [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue) _(label: good first issue)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
