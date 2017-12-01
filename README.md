@@ -103,8 +103,8 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 ## Julia
 
-- [Julia Language: Intro Issues](https://github.com/JuliaLang/julia/labels/intro%20issue) _(label: intro issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
-- [Julia Language: Up for Grabs](https://github.com/JuliaLang/julia/labels/up%20for%20grabs) _(label: up for grabs )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue) _(label: good first issue )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
 ## PHP
 
