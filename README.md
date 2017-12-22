@@ -141,7 +141,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
-- [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
+- [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
 - [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
