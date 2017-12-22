@@ -159,7 +159,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
-- [playframework](https://github.com/playframework/playframework/labels/newbie) _(label: newbie)_ The High Velocity Web Framework
+- [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ The High Velocity Web Framework
 
 ## TypeScript
 
