@@ -152,8 +152,8 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 ## Rust
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
-- [Rust-Clippy](https://github.com/Manishearth/rust-clippy/labels/E-easy) _(label: E-easy)_  <br> A bunch of lints to catch common mistakes and improve Rust code
-- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/easy) _(label: easy)_ <br> A tool for formatting Rust code according to style guidelines.
+- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 
 ## Scala
