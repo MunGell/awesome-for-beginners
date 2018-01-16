@@ -159,13 +159,13 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
-- [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ The High Velocity Web Framework
+- [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
 
 ## TypeScript
 
-- [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ <br>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
-- [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>TSLint is an extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
+- [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
+- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+- [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>An extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 
 ## Contribute
 
