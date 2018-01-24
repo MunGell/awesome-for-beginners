@@ -19,7 +19,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 ## C++
 
-- [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron/labels/good-beginner-issue) _(label: good-beginner-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
 ## Clojure
