@@ -22,7 +22,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 - [electron](https://github.com/electron/electron/labels/good-beginner-issue) _(label: good-beginner-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
-## Clojures
+## Clojure
 
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
 
