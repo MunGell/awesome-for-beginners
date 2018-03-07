@@ -166,7 +166,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## TypeScript
 
-- [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
+- [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>An extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 
