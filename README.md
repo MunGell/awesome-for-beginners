@@ -60,6 +60,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## JavaScript
 
+- [epollo](https://github.com/the-epollo/epollo/issues) _(label: for-new-contributors)_ <br> Epollo is a free to use story sharing website where users can write new threads to stories which can be also threaded and so on. Readers can choose between the written threads where the story continues. 
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only) _(label: first-timers-only)_ <br> Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
