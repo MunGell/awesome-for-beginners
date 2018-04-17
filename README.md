@@ -151,7 +151,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
-- [devSR](https://github.com/hyrumcarlile/devSR) _(label: good first issue)_ <br>devSR is an open source web application inteded primarily for users in the tech industry to provide soft accreditation to both formal and non-formal methods of education.
+- [devSR](https://github.com/hyrumcarlile/devSR/labels/good%20first%20issue) _(label: good first issue)_ <br>devSR is an open source web application inteded primarily for users in the tech industry to provide soft accreditation to both formal and non-formal methods of education.
 
 ## Rust
 
