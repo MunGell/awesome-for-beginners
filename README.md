@@ -44,7 +44,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Go
 
-- [captain](https://github.com/davfoundation/captain/labels/first-timers-only) _(label: first-timers-only)_ <br> The Captain is a free open source framework for controlling autonomous vehicles (e.g., drones) and interacting with other autonomous vehicles and services.
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
@@ -106,6 +105,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Jest](https://github.com/facebook/jest/labels/Good%20First%20Issue%20%3Awave%3A) _(label: good first issue 👋)_ <br> A complete and easy to set up JavaScript testing solution.
+- [captain](https://github.com/davfoundation/captain/labels/first-timers-only) _(label: first-timers-only)_ <br> The Captain is a free open source framework for controlling autonomous vehicles (e.g., drones) and interacting with other autonomous vehicles and services.
 
 ## Julia
 
