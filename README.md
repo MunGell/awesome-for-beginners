@@ -44,7 +44,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Go
 
-- [captain](https://github.com/davfoundation/captain/labels/first-timers-only) _(label: first-timers-only)_ <br> The Captain is a free open source framework for controlling autonomous vehicles (e.g., drones) and interacting with other autonomous vehicles and services.
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
