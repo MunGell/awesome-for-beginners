@@ -141,6 +141,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue) _(label: good first issue)_ <br> Aims to develop an end-to-end application for lung cancer detection that connects the predictive power of machine learning with functional software tested against errors and a clean user interface focused on clinical use.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python/labels/first-timers-only) _(label: first-timers-only)_ <br> A curated list of sub-projects related to desktop applications, games and machine learning applications.
+
 
 ## Ruby
 
