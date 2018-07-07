@@ -121,6 +121,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Python
 
+- [Oppia](https://github.com/oppia/oppia/labels/good%20first%20issue) _(label: good first issue)_ <br> [Oppia](www.oppia.org) is an online learning tool that enables anyone to easily create and share interactive activities. It is written using Python and AngularJS, and is built on top of Google App Engine
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
