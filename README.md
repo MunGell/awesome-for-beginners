@@ -172,6 +172,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>An extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 
+## Data collection for non-programmers
+
+- [Code And Talk](https://github.com/szabgab/codeandtalk.com) _(label: data-collection)_ <br> Collecting meta-data about tech confernces around the world.
+
 ## Contribute
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
