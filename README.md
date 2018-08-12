@@ -49,6 +49,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
+- [mimetype](https://github.com/gabriel-vasile/mimetype/labels/good%20first%20issue) _(label: good first issue)_ <br> The mimetype detecting library for GoLang
 
 ## Java
 
