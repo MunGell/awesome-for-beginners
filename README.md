@@ -143,7 +143,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [Code Sleep Python](https://github.com/prateekiiest/Code-Sleep-Python/labels/first-timers-only) _(label: first-timers-only)_ <br> A curated list of sub-projects related to desktop applications, games and machine learning applications.
 
-
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
