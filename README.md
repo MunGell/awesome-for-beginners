@@ -57,6 +57,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit) _(label: low hanging fruit)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 
 ## JavaScript
 
