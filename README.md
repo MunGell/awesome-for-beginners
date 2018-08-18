@@ -107,7 +107,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Jest](https://github.com/facebook/jest/labels/Good%20First%20Issue%20%3Awave%3A) _(label: good first issue 👋)_ <br> A complete and easy to set up JavaScript testing solution.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AReactJS) _(label: Up For Grabs, Difficulty: Introductory, ReactJS)_ <br> Open source Slack-alternative in Golang and React
-- [p5.js](https://github.com/processing/p5.js/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 
 ## Julia
 
