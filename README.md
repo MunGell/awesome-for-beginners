@@ -175,6 +175,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue) _(label: good first issue)_ <br>An extensible static analysis tool that checks TypeScript code for readability, maintainability, and functionality errors.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
 - [cookiesense](https://github.com/MattL019/cookiesense/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+) _(label: good first issue)_ <br> cookiesense is a client-side cookie consent manager, allowing you to easily request cookie permission from users with minimal effort written in TypeScript
+
 ## Contribute
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
