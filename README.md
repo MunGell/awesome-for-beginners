@@ -21,7 +21,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## C++
 
-- [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
 ## Clojure
