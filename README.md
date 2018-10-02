@@ -44,12 +44,16 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Go
 
-- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
-- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [Caddy](https://github.com/mholt/caddy/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast, cross-platform HTTP/2 web server with automatic HTTPS
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [Go-Ethereum](https://github.com/ethereum/go-ethereum/labels/good%20first%20issue) _(label: good first issue)_ <br> Official Go implementation of the Ethereum protocol
 - [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
+- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [Kubernetes](https://github.com/kubernetes/kubernetes/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo) _(label: Up For Grabs, Difficulty: Introductory, Go)_ <br> Open source Slack-alternative in Golang and React
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
+- [MySQL](https://github.com/go-sql-driver/mysql/labels/good%20first%20issue) _(label: good first issue)_ <br> Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 
 ## Java
 
