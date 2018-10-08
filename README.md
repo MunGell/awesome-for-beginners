@@ -52,6 +52,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo) _(label: Up For Grabs, Difficulty: Introductory, Go)_ <br> Open source Slack-alternative in Golang and React
 
+## HTML
+- [Hacktoberfest 2018 Sign In](https://github.com/s-bridges/Hacktoberfest-Sign-In-2018) _(label: beginner-friendly)_ <br> An HTML sign in for Hacktoberfest 2018 and first time pull requests.
+
 ## Java
 
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
