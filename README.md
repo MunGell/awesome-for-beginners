@@ -18,6 +18,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
+- [LibFalcon](https://github.com/Zefyer/LibFalcon/labels/good%20first%20issue) _(label: good first issue)_ <br> A simple (and incomplete) C/C++ Library to be linked with Hobby OS kernels.
 
 ## C++
 
