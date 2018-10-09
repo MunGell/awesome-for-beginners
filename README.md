@@ -168,7 +168,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
 
 ## TypeScript
