@@ -22,7 +22,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C++
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-- [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job or [Hacktoberfest](https://github.com/godotengine/godot/labels/Hacktoberfest) during October)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 
 ## Clojure
