@@ -10,6 +10,8 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
+If you are interested in exploring open source projects and jump in, look at [first-timers-only] (https://up-for-grabs.net/#/) to get involved.
+
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
