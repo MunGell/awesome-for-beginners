@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `- [Repository Name](link-to-repository) _(beginner-friendly-label-in-the-repository)_ <br> Description`
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
+- Check your spelling and grammar. Know the difference between "your & you're"
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - If label does not clearly state its "beginner friendly" purpose, please make sure to confirm with maintainer that it is used for such issues. Please include the link to where maintainer confirms it in the PR. See examples below:
