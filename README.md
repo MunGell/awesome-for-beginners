@@ -145,7 +145,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue) _(label: good first issue)_ <br> Aims to develop an end-to-end application for lung cancer detection that connects the predictive power of machine learning with functional software tested against errors and a clean user interface focused on clinical use.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special) <br> An implementation of Python for backend web development.
+- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 
 ## Ruby
 
@@ -154,7 +154,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
-- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
+- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
