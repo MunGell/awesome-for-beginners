@@ -22,7 +22,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C++
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
+- [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 
 ## Clojure
 
@@ -54,7 +55,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Java
 
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
-- [elasticsearch](https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit) _(label: low hanging fruit)_ <br> Open Source, Distributed, RESTful Search Engine.
+- [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
@@ -105,10 +106,12 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Brave Browser](https://github.com/brave/browser-laptop/labels/bug%2Fgood-first-bug) _(label: bug/good-first-bug)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
-- [Jest](https://github.com/facebook/jest/labels/Good%20First%20Issue%20%3Awave%3A) _(label: good first issue 👋)_ <br> A complete and easy to set up JavaScript testing solution.
+- [Jest](https://github.com/facebook/jest/labels/%3Awave%3A%20Good%20First%20Issue) _(label: 👋 good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AReactJS) _(label: Up For Grabs, Difficulty: Introductory, ReactJS)_ <br> Open source Slack-alternative in Golang and React
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue) _(label: good first issue)_ <br> Squirrelly is a lightweight template engine that supports helpers, filters, partials, and more.
+- [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
+- [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 
 ## Julia
 
@@ -134,7 +137,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
-- [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
@@ -144,6 +146,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue) _(label: good first issue)_ <br> Aims to develop an end-to-end application for lung cancer detection that connects the predictive power of machine learning with functional software tested against errors and a clean user interface focused on clinical use.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 
 ## Ruby
 
@@ -152,10 +155,11 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
-- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
+- [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
+- [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
 
 ## Rust
 
@@ -166,7 +170,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/Starter) _(label: Starter)_ <br> Wonderful reusable code from Twitter
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
 
 ## TypeScript
