@@ -181,7 +181,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Contribute
 
-Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
+Contributions are always welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
