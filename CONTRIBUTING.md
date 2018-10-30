@@ -9,6 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
+- Using welcoming and inclusive language
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
 - If label does not clearly state its "beginner friendly" purpose, please make sure to confirm with maintainer that it is used for such issues. Please include the link to where maintainer confirms it in the PR. See examples below:
