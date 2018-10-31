@@ -1,5 +1,5 @@
 # Versatile logging with short implementation.
-## in JavaScript
+## JavaScript
 
 ```javascript
 // Superpowered logging for AngularJS.
@@ -10,7 +10,8 @@ angular.module('logFactory', ['ng'])
 //.value('logFactory_whiteList', /!|.*Ctrl|run/)                                                                                   
 .value('logFactory_piercingMethods', {warn:true, error:true})                                                                      
                                                                                                                                    
-.factory('logFactory', ['$log', 'logFactory_whiteList' , 'logFactory_piercingMethods', function ($log, whiteList, piercing) {      
+.factory('logFactory', ['$log', 'logFactory_whiteList' , 'logFactory_piercingMethods', function ($log, whiteList, piercing) 
+{      
   piercing = piercing || {}                                                                                                        
   whiteList = whiteList || /.*/                                                                                                    
                                                                                                                                    
@@ -37,5 +38,7 @@ angular.module('logFactory', ['ng'])
       }                                                                                                                            
     )                                                                                                                              
   }                                                                                                                                
-}])
+}
+]
+)
 ```
