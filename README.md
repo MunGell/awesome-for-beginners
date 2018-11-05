@@ -4,7 +4,7 @@ A list of awesome beginners-friendly projects.
 
 Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) blog post and [YourFirstPR](http://yourfirstpr.github.io/) project.
 
-If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
 If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
