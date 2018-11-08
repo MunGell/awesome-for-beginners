@@ -12,7 +12,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## .NET
 
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting _Should_ be!
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 
 ## C
@@ -31,7 +31,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## Dart
 
@@ -46,7 +46,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Go
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
-- [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
+- [Apex](<https://github.com/apex/apex/labels/contrib%20(easy)>) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
@@ -70,7 +70,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only) _(label: first-timers-only)_ <br> Angular directive that allows you to split!
-- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
+- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br> A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of Javascript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
@@ -147,6 +147,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 
+- [Ansible examples](https://github.com/ansible/ansible-examples)_(label: ansible python)_ <br> A few starter examples of ansible playbooks, to show features and how they work together.
+
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
@@ -163,7 +165,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Rust
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
-- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 
