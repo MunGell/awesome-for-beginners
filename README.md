@@ -10,6 +10,26 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
+## Table of Contents:
+
+- [.NET](#net)
+- [C](#c)
+- [C++](#c-1)
+- [Clojure](#clojure)
+- [ClojureScript](#clojurescript)
+- [Dart](#dart)
+- [Elixir](#elixir)
+- [Go](#go)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [Julia](#julia)
+- [PHP](#php)
+- [Python](#python)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Scala](#scala)
+- [TypeScript](#typescript)
+
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
