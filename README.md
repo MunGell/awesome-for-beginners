@@ -168,6 +168,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
+- [Create aio app](https://github.com/aio-libs/create-aio-app/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 
 ## Ruby
 
