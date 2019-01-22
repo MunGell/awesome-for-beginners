@@ -71,6 +71,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Helm](https://github.com/kubernetes/helm/labels/starter) _(label: starter)_ <br> The Kubernetes Package Manager
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo) _(label: Up For Grabs, Difficulty: Introductory, Go)_ <br> Open source Slack-alternative in Golang and React
+- [vegeta-server](https://github.com/nitishm/vegeta-server/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22Difficulty%3A+Introductory%22) _(label: Introductory)_ <br> A RESTful API server for vegeta, a load testing tool written in Go. 
 
 ## Java
 
