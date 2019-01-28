@@ -181,6 +181,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
+- [OpenSourcePolitics/Decidim](https://github.com/OpenSourcePolitics/decidim) Decidim is a free open-source participatory democracy for cities and organizations generator made with Ruby On Rails. Check out issue labeled with "NORMAL" and discuss with the team on [Gitter](https://gitter.im/open-source-politics/Lobby)
 
 ## Rust
 
