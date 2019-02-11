@@ -105,7 +105,7 @@ If you are looking to contribute then explore this list, look at [`first-timers-
 
 ## Perl
 
-- [Ravada](https://github.com/UPC/ravada/) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
+- [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
 
 ## PHP
 
