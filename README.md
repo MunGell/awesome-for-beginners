@@ -23,6 +23,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
+- [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
