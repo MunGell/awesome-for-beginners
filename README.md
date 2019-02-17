@@ -129,7 +129,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source screen recorder built with web technology
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted) _(label: help wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
-- [Brave Browser](https://github.com/brave/browser-laptop/labels/bug%2Fgood-first-bug) _(label: bug/good-first-bug)_ <br> Desktop browser for macOS, Windows, and Linux.
+- [Brave Browser](https://github.com/brave/brave-browser/labels/documentation%20%3Awriting_hand%3A) _(label: documentation)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
