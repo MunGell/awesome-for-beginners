@@ -1,4 +1,4 @@
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
 
@@ -13,6 +13,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Table of Contents:
 
 - [.NET](#net)
+- [R](#r)
 - [C](#c)
 - [C++](#c-1)
 - [Clojure](#clojure)
