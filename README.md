@@ -139,7 +139,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
-- [fitPlant](https://github.com/KrisKodira/fitPlant) _(good first issue)_ <br> A fitness app where you are able to grow artificial plants and track your exercise progress in a simple and fun way.
+- [fitPlant](https://github.com/KrisKodira/fitPlant/labels/good%20first%20issue) _(good first issue)_ <br> A fitness app where you are able to grow artificial plants and track your exercise progress in a simple and fun way.
 
 ## Julia
 
