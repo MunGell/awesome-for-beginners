@@ -180,6 +180,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
+- [HoneyBpt](https://github.com/abdur-rahmaanj/honeybot/labels/first-timers-only) _(label:first-timers-only)_ <br> IRC bot with simple plugin dev
 
 ## Ruby
 
