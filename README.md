@@ -33,6 +33,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## .NET
 
+- [EISK Web API](https://github.com/EISK/eisk.webapi/labels/first-timers-only) _(label: first-timers-only)_ - ASP.NET Core templates with simple use cases to build scalable web api with architectural best practices (DDD, Onion Architecture etc).
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 
