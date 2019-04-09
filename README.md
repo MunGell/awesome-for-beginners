@@ -186,7 +186,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
-- [PyJudge](https://github.com/PyJaipur/PyJudge)<br>Simple programming contest hosting software
+- [PyJudge](https://github.com/PyJaipur/PyJudge/labels/good%20first%20issue) _(label: good first issue)_ <br>Simple programming contest hosting software
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 
 ## Ruby
