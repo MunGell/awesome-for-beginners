@@ -68,6 +68,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Go
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
+- [Gin] (https://github.com/gin-gonic/gin) _(label: exp/beginner)_ <br>  HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
