@@ -164,7 +164,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Python
 
-- [a](https://github.com/doczi-dominik/a)<br>
+- [a](https://github.com/doczi-dominik/a/labels/good%20first%20issue) _(label: Good First Issue)_ <br>
 Simple Linux CLI alarm, heavily documented for beginners to expand upon.
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
