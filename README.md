@@ -83,7 +83,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
-- [Beginner-Level-Android-Studio-Apps](https://github.com/anshulkhattar/Beginner-Level-Android-Studio-Apps/issues) _(label: good first issue)_ <br> This repository some basic android apps build be developers all over the world.
+- [Beginner-Level-Android-Studio-Apps](https://github.com/anshulkhattar/Beginner-Level-Android-Studio-Apps/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> This repository some basic android apps build be developers all over the world.
 
 ## JavaScript
 
