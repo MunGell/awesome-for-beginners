@@ -83,6 +83,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [Image-Cipher](https://github.com/SKocur/Image-Cipher) _(label: good first issue)_ <br> Small steganography software for encrypting text into image, so that it will not be visible to human eye.
 
 ## JavaScript
 
