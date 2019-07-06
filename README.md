@@ -23,6 +23,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
+- [Kotlin](#kotlin)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -149,6 +150,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue) _(label: good first issue )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+
+## Kotlin
+
+- [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 
 ## Perl
 
