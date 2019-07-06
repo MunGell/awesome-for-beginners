@@ -153,7 +153,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Kotlin
 
-- [Atrium](https://github.com/robstoll/atrium/labels/help%20wanted) _(label: help wanted and especially [good first issue](https://github.com/robstoll/atrium/labels/good%20first%20issue) for beginners)_ <br> Multiplatform assertion library for Kotlin
+- [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 
 ## Perl
 
