@@ -40,8 +40,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
-- [c-programs-for-beginners](https://github.com/hedyhyry/c-programs-for-beginners) _(label: Jump-In)_ <br> Beginner, simple C-programs
-- [beginners-C-program-examples](https://github.com/gouravthakur39/beginners-C-program-examples)
+- [c-programs-for-beginners](https://github.com/hedyhyry/c-programs-for-beginners) <br> Beginner, simple C-programs.
+- [beginners-C-program-examples](https://github.com/gouravthakur39/beginners-C-program-examples) <br> Fairly short and simple beginners friendly C language programs.
 
 ## C++
 
