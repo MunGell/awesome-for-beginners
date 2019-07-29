@@ -128,7 +128,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Atom](https://github.com/atom/atom/labels/beginner) _(label: beginner)_ <br> The hackable text editor
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly) _(label:beginner-friendly)_ <br> Operation Code is a non-profit organization that are helping Veterans and their families get into the tech industry through mentorships, scholarships, and providing a supportive community.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source screen recorder built with web technology
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted) _(label: help wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
