@@ -207,7 +207,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 
+
 ## Rust
+
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
