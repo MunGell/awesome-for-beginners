@@ -193,6 +193,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [optimize-images](https://github.com/victordomingos/optimize-images/labels/good%20first%20issue) _(label: good first issue)_  <br> A command-line interface (CLI) utility written in pure Python to help you reduce the file size of images.
 
 ## Ruby
 
