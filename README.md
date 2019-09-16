@@ -216,7 +216,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
 
-
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
