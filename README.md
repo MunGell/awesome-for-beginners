@@ -146,6 +146,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue) _(label: good first issue)_ <br> Create a webpage with just markdown.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
+- [EmojiScreen](https://github.com/brittanyrw/emojiscreen/labels/good%20first%20issue) _(label: good first issue)_ <br> A listing of movies, TV shows and musicals depicted through emojis.
 
 ## Julia
 
