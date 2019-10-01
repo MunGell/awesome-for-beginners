@@ -86,6 +86,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [RxJava](https://github.com/ReactiveX/RxJava/issues?q=is%3Aissue+is%3Aopen+label%3A%22PR+welcome%22) _(label: PR Welcome)_ <br> [RxJava](http://reactivex.io/)  is a Java VM implementation of Reactive Extensions: a library for composing asynchronous and event-based programs by using observable sequences.
+
 
 ## JavaScript
 
@@ -199,6 +201,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+
 
 ## Ruby
 
