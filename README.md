@@ -169,6 +169,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted) _(label: help wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
+- [REACT PHP](https://github.com/reactphp/react) _(label: good-for-beginner)_ <br> Event-driven, non-blocking I/O with PHP.
 
 ## Python
 
