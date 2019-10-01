@@ -199,6 +199,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+- [tojson](https://github.com/Bezmehrabi/tojson/issues) _(label: good first issue)_ <br> a module to convert peace of HTML document to JSON, easy and readable.
 
 ## Ruby
 
