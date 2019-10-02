@@ -46,7 +46,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
-- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi. 
+- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 - [Roc](https://github.com/roc-project/roc/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 
 ## Clojure
@@ -200,6 +200,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 
 ## Ruby
 
