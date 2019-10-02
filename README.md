@@ -29,6 +29,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Swift](#swift)
 - [Scala](#scala)
 - [TypeScript](#typescript)
 
