@@ -236,6 +236,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
+- [newbie-hacktoberfest](https://github.com/sreetamdas/newbie-hacktoberfest) _(label: easy first contribution)_ <br>Easy first contribution for hactober fest to widen your knowledge in open source.
 
 ## Contribute
 
