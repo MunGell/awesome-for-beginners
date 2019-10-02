@@ -235,7 +235,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Swift
 - [Language official github](https://github.com/apple/swift) _(label: Official language)_ <br>Swift official language to develop iOS applications
-- [Visual Studio Code](https://developer.apple.com/xcode/) _(label: iOS developer environment)_ <br>In its new versión 11 with the new framework SwiftUI.
+- [Xcode](https://developer.apple.com/xcode/) _(label: iOS developer environment)_ <br>In its new versión 11 with the new framework SwiftUI.
 
 
 ## TypeScript
