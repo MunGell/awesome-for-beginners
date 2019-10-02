@@ -242,7 +242,5 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
