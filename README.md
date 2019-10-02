@@ -60,6 +60,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering the Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+<br> Optimized for UI 
+<br> Productive development
+<br> Fast on all platforms
 
 ## Elixir
 
