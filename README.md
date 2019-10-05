@@ -107,6 +107,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [Webpack](https://github.com/webpack/webpack/labels/D0%3A%20My%20First%20Commit%20%28Contrib.%20Difficulty%29) _(label: D0: My First Commit (Contrib. Difficulty))_ <br> A bundler for javascript and friends.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
+- [Mozilla](https://github.com/mozilla) _(label: first_timers_only)_ <br> Open Source and Free Web Browser
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome) _(label: first timers welcome)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
