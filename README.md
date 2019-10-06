@@ -1,4 +1,7 @@
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome
+
+<a href="https://github.com/a-m-i-t-kumar" target="_blank">Amit kumar</a>
+https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
 
@@ -8,7 +11,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
-If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
+If you are not a programmer, but would like to contribute, check  out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
 ## Table of Contents:
 
