@@ -148,6 +148,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue) _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 
 ## Julia
