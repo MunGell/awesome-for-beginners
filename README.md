@@ -55,7 +55,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on [KickStarter](https://www.kickstarter.com).
 
 ## Dart
 
