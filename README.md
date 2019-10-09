@@ -30,6 +30,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## .NET
@@ -234,6 +235,14 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+
+## Swift
+
+- [Alamofire](https://github.com/Alamofire/Alamofire/issues) _(label: documentation)_ <br> HTTP Networking library written in Swift
+- [Alamofire](https://github.com/raywenderlich/swift-algorithm-club/issues) _(label: project)_ <br> This resource is especially useful for interview preparation
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON/issues) _(label: good first issue)_ <br> Deal with JSON data easily in Swift
+- [SkeletonView](https://github.com/Juanpe/SkeletonView/labels/%F0%9F%95%BA%F0%9F%8F%BB%20improve%20example) _(label: improve example)_ <br>  An elegant way to show users that something is happening and also prepare them to which contents he is waiting
+
 
 ## TypeScript
 
