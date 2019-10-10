@@ -239,8 +239,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Swift
 
 - [Alamofire](https://github.com/Alamofire/Alamofire/issues) _(label: documentation)_ <br> HTTP Networking library written in Swift
-- [Alamofire](https://github.com/raywenderlich/swift-algorithm-club/issues) _(label: project)_ <br> This resource is especially useful for interview preparation
+- [Swift-30 projects](https://github.com/soapyigu/Swift-30-Projects/issues) _(label: bug)_ <br> Build 30 apps for iOS!
+- [Swift Algorithms](https://github.com/raywenderlich/swift-algorithm-club/issues) _(label: project)_ <br> This resource is especially useful for interview preparation
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON/issues) _(label: good first issue)_ <br> Deal with JSON data easily in Swift
+- [Open-Source iOS apps](https://github.com/dkhamsing/open-source-ios-apps/issues) A great repository for learning to develop Swift based apps.
 - [SkeletonView](https://github.com/Juanpe/SkeletonView/labels/%F0%9F%95%BA%F0%9F%8F%BB%20improve%20example) _(label: improve example)_ <br>  An elegant way to show users that something is happening and also prepare them to which contents he is waiting
 
 
