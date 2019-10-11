@@ -150,6 +150,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
+- [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 
 ## Julia
 
