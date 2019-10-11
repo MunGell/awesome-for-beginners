@@ -209,7 +209,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
-- [python-ds](https://github.com/prabhupant/python-ds) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
+- [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 
 ## Ruby
 
