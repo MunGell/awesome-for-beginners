@@ -249,7 +249,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
 
 ## R
-- [R](https://github.com/Xiaodan/Coursera-R-Programming) _(label: good first issue)_ <br>Regarding setting the directory #3
+- [R](https://github.com/Xiaodan/Coursera-R-Programming) _(label: good first issue)_ <br>A list of awesome beginners-friendly projects.
 
 ## Contribute
 
