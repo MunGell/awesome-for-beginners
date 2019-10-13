@@ -177,6 +177,17 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 
+### Some useful libraries
+- [Retrofit](https://square.github.io/retrofit/) ,[Volley](https://developer.android.com/training/volley/) (Networking)
+- [Glide](https://bumptech.github.io/glide/),[picasso](http://square.github.io/picasso/) (images)
+- [GSON](https://github.com/google/gson)  (JSON to POJO and vice versa)
+- [leakcanary](https://github.com/square/leakcanary)  (memory leaks)
+- [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room) (abstraction layer over SQLite)
+- [Data Binding](https://developer.android.com/topic/libraries/data-binding/) (Binding views without expensive findViewById() calls)
+- **A big list [here](https://github.com/wasabeef/awesome-android-libraries)**
+
+
+
 ## Python
 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
