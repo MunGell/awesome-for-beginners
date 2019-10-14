@@ -11,7 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
+- The pull request and commit should have a meaningful title.
 - Make sure to give a description about your pull request.
 - If label does not clearly state its "beginner friendly" purpose, please make sure to confirm with maintainer that it is used for such issues. Please include the link to where maintainer confirms it in the PR. See examples below:
   - Repository called "HornsAndHoovesJs" has label `good-first-contribution`. This PR does not need to be confirmed with the maintainer and can be merged straight away.
