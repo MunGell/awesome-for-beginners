@@ -173,6 +173,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
 
+## Python
+- [Road](https://github.com/shahjui2000/Drive-able-Road-Detection)_(label: good first issue)_<br>Segmenting road _
+
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
