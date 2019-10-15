@@ -28,6 +28,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
+- [Q#](#q-sharp)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -217,6 +218,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
+
+## <a name="q-sharp"></a>Q#
+
+- [Quantum Katas](https://github.com/Microsoft/QuantumKatas) _(label: beginner)_ <br> Programming exercises for learning Q# and quantum computing
 
 ## Ruby
 
