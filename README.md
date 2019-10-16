@@ -33,6 +33,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Rust](#rust)
 - [Scala](#scala)
 - [TypeScript](#typescript)
+- [Firebase](https://github.com/firebase/)
 
 ## .NET
 
@@ -261,6 +262,13 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
 - [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+
+## Firebase
+- [Firebase](https://github.com/firebase/firebase-tools/issues) _(label: good first issue)_ <br>Firebase is a mobile and web application development platform developed by Firebase, Inc. in 2011, then acquired by Google in 2014.
+- [Admob](https://github.com/topics/firebase-admob)<br> Admob is a Google product that integrates with Firebase audience.
+- [Firebase Hosting](https://github.com/firebase/friendlychat-web/issues)<br>Firebase Hosting is a static and dynamic web hosting service.<br>It supports hosting static files such as CSS, HTML, JavaScript and other files, as well as support through Cloud Functions.
+
+
 
 ## Contribute
 
