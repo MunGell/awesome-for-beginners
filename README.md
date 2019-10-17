@@ -1,4 +1,4 @@
-﻿# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginner-friendly projects.
 
@@ -25,6 +25,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
+- [LaTex](#latex)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -169,6 +170,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
 
+## LaTex
+
+- [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
@@ -206,7 +211,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
-- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue) _(label: good first issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
@@ -234,6 +239,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 - [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
+- [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 
 ## Rust
 
@@ -255,6 +261,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
+- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 
 ## Contribute
 
