@@ -1,0 +1,31 @@
+a=float(input())
+if (0 < a <= 400):
+   n=(0.15*a)
+   s=n+a
+   print("Novo salario: %1.2f" %s)
+   print("Reajuste ganho: %1.2f" %n)
+   print("Em percentual: 15 %")
+if (400.01 <= a <= 800):
+   n=0.12*a
+   s=n+a
+   print("Novo salario: %1.2f" %s)
+   print("Reajuste ganho: %1.2f" %n)
+   print("Em percentual: 12 %")
+if (800.01 <= a <= 1200):
+   n=0.10*a
+   s=n+a
+   print("Novo salario: %1.2f" %s)
+   print("Reajuste ganho: %1.2f" %n)
+   print("Em percentual: 10 %")
+if (1200.01 <= a <= 2000):
+   n=0.07*a
+   s=n+a
+   print("Novo salario: %1.2f" %s)
+   print("Reajuste ganho: %1.2f" %n)
+   print("Em percentual: 7 %")
+if (2000.01 <= a):
+   n=0.04*a
+   s=n+a
+   print("Novo salario: %1.2f" %s)
+   print("Reajuste ganho: %1.2f" %n)
+   print("Em percentual: 4 %")
