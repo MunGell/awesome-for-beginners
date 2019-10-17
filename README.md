@@ -222,7 +222,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
-- [numpy](https://github.com/numpy/numpy/issues?utf8=✓&q=is%3Aissue+is%3Abeginner) _(label: beginner)_ <br>  It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
 
 ## Ruby
 
