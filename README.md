@@ -21,7 +21,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
-- [Java](#java)
+- [Java](#java).
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
