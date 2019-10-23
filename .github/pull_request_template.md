@@ -4,7 +4,7 @@ Please complete the following checklist if your PR is adding new link to the lis
 - [ ] This PR does not introduce duplicates to the list
 - [ ] The link is added at the bottom of the list category
 - [ ] Suggested repository is maintained, have active community, is able to mentor new contributors and have issues with the suggested label
-- [ ] The link I add follows suggested pattern:
+- [ ] The link I add follows the suggested pattern:
 
 ```
 - [Repository Name](link-to-repository-label) _(label: beginner-friendly-label-in-the-repository)_ <br> Description
