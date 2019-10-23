@@ -159,11 +159,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
-<<<<<<< HEAD
-- [BitViz](https://github.com/unsuitable001/BitViz/labels/first-timers-only) _(label: first-timers-only)_ <br> A Bitwize Operation Visualizer
-=======
-- [coding-ai](https://github.com/10secondsofcode/coding-ai/labels/first-timers-only) _(label: first-timers-only)_ <br> Coding-AI helps to find a mentor related your technologies stack.
->>>>>>> f4793a1238bd8a2c9552838bf9c33a872e565598
+- [BitViz](https://github.com/unsuitable001/BitViz/labels/hacktoberfest) _(label: hacktoberfest)_ <br> A Bitwize Operation Visualizer
 
 ## Julia
 
