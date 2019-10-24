@@ -256,6 +256,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+- [xitrum-framework](https://github.com/xitrum-framework/xitrum/labels/good%20first%20issue) _(label: good first issue)_ <br>Xitrum is an async and clustered Scala web framework on top of Netty, Akka, and Hazelcast. It also has a fast built-in HTTP(S) server.
 
 ## TypeScript
 
