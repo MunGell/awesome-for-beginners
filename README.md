@@ -14,8 +14,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [.NET](#net)
 - [C](#c)
-- [C#](#c-sharp)
-- [C++](#c-1)
+- [C#](#c-1)
+- [C++](#c-2)
 - [Clojure](#clojure)
 - [ClojureScript](#clojurescript)
 - [Dart](#dart)
