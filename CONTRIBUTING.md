@@ -2,6 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- search for easy projects first
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your contribution is useful and relevant before submitting. That implies it having enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
