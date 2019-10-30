@@ -43,7 +43,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
-## <a name="c-sharp"></a>C#
+## C#
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue) _(label: good first issue)_ <br> Music game. Rhythm is just a *click* away!
