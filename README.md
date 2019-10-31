@@ -27,6 +27,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
 - [Perl](#perl)
+-[C++](#sid)
 - [PHP](#php)
 - [Python](#python)
 - [Ruby](#ruby)
