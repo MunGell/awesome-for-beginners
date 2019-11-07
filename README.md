@@ -170,6 +170,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
+- [KotlinChessClock](https://github.com/joanb/KotlinChessClock/labels/good%20first%20issue) _(label: good first issue)_ <br> A begginer friendly - open source chess clock for Android
 
 ## LaTeX
 
