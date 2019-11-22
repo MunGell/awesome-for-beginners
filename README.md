@@ -161,7 +161,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-
+- [Zulip Chat](https://github.com/zulip/zulip) _(label:Intermediate)_ <br> open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
 ## Julia
 
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
