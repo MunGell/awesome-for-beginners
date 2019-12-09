@@ -229,7 +229,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## R
 
-- [ICON](https://github.com/rrrlw/ICON/issues/1) _(label: good first issue)_ <br> R data package providing cleanly formatted complex network datasets from the Index of COmplex Networks (ICON) database.
+- [ICON](https://github.com/rrrlw/ICON/labels/good%20first%20issue) _(label: good first issue)_ <br> R data package providing cleanly formatted complex network datasets from the Index of COmplex Networks (ICON) database.
 
 ## Ruby
 
