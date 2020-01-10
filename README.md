@@ -32,6 +32,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## .NET
@@ -259,6 +260,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+
+## Swift
+
+- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
 
