@@ -6,7 +6,7 @@ Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) b
 
 If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
-If you are looking to contribute, then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
+If you are looking to contribute, then explore this list, look at [`first-timers-only` labeled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
@@ -46,7 +46,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## C#
 
-- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
+- [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real-Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue) _(label: good first issue)_ <br> Music game. Rhythm is just a *click* away!
 
 ## C++
@@ -63,7 +63,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top-funded projects on KickStarter.
 
 ## Dart
 
@@ -91,10 +91,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
-- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
+- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure a high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
-- [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka, and Java/DB APIs, CI/Jenkins Friendly.
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is a versioned NoSQL document store (XML and JSON) written in Java.
 
 ## JavaScript
@@ -197,13 +197,13 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+- [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronization and sharing abilities.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue) _(label: good first issue)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/help%20wanted) _(label: help wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command-line Interface.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
@@ -216,8 +216,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix) _(label:easyfix)_ <br> A simple IT automation platform
-- [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue) _(label: good first issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
-- [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
+- [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue) _(label: good first issue)_ <br> A command-line utility that creates the aiohttp template with the best practices.
+- [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
@@ -241,9 +241,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue) _(label: good first issue)_ <br>Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences</br> See ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A) _(label: good first issue)_ <br>A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.</br> See ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly) _(label: Beginner Friendly)_ <br>Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
-- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp, etc.
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
-- [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
+- [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open-source web application framework written in Ruby.
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 
 ## Rust
