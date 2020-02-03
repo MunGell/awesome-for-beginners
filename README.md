@@ -48,6 +48,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue) _(label: good first issue)_ <br> Music game. Rhythm is just a *click* away!
+- [RawCMS](https://github.com/arduosoft/RawCMS) _(label: help wanted)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 
 ## C++
 
