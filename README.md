@@ -37,9 +37,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## .NET
 
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 
 ## C
 
@@ -163,6 +163,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 
 ## Julia
 
@@ -193,6 +194,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
+- [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
 
 ## Python
 
