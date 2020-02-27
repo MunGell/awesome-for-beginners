@@ -164,8 +164,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 - [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
-- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) _(label: good first issue)_ <br>
-A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
+- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _(label: good first issue)_ <br>
+A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
 
 ## Julia
 
