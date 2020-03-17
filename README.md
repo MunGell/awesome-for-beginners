@@ -200,7 +200,7 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
 - [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
-[PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 
 ## Python
 
