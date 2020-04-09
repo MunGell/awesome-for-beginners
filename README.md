@@ -272,7 +272,7 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 ## Swift
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
-- [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver)_(label: good first contribution)_<br>The open source Tab Manager for Safari.
+- [Ultra TabSaver](https://github.com/morsamatias/UltraTabSaver) _(label: good first contribution)_<br>The open source Tab Manager for Safari.
 
 ## TypeScript
 
