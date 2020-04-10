@@ -235,6 +235,7 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- [BitDust](https://github.com/bitdust-io/devel/labels/good%20first%20issue) _(label: good first issue)_ <br> BitDust APP provides independent P2P on-line storage and secure private messaging.
 
 ## Ruby
 
