@@ -235,6 +235,8 @@ A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 
 ## Ruby
 
