@@ -1,0 +1,296 @@
+.keys {
+  position: absolute;
+  width: 829px;
+  height: 650px;
+  background-color: #F3E0BE;
+  box-sizing: border-box;
+  border-radius: 20px;
+  margin-left: 350px;
+  margin-top: 10px;
+}
+
+.buttons {
+  width: 756px;
+  height: 330px;
+  border: 2px solid;
+  border-style: inset;
+  border-color: #d89641;
+  border-radius: 15px;
+  margin: 35px 35px;
+  font-family: 'Baloo Bhaina 2', cursive;
+}
+
+.r1 {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 50px;
+  height: 30px;
+  float: left;
+  text-align: center;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 40px;
+  text-align: center;
+
+}
+
+.power {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  float: left;
+  text-align: center;
+  color: white;
+  background: black;
+  border-radius: 5px;
+
+}
+
+.esc {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 45px;
+  height: 30px;
+  float: left;
+  text-align: left;
+  padding-left: 5px;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 30px;
+
+  text-align: left;
+
+}
+
+.alpha {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  text-align: center;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 50px;
+
+}
+
+.r2 {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  text-align: center;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  line-height: 25px;
+  font-size: 13px;
+
+}
+
+.rr2 {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  text-align: center;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  line-height: 25px;
+  font-size: 13px;
+
+}
+
+.delete {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 77px;
+  height: 47px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 70px;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.tab {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 77px;
+  height: 46px;
+  float: left;
+  text-align: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  padding-left: 5px;
+  font-size: 13px;
+  line-height: 65px;
+  text-align: left;
+}
+
+.caps {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 85px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 23px;
+  text-align: left;
+  padding-left: 5px;
+}
+
+.return {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 84px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 70px;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.shift {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 110px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 65px;
+  text-align: left;
+  padding-left: 5px;
+}
+
+.shift1 {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 110px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 70px;
+  text-align: right;
+  padding-right: 5px;
+}
+
+.r6 {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 22px;
+  text-align: center;
+}
+
+.fn {
+  margin: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 65px;
+  text-align: left;
+  padding-left: 5px;
+}
+
+.command {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 64px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 23px;
+  text-align: center;
+}
+
+.left {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 47px;
+  text-align: center;
+}
+
+.right {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 47px;
+  text-align: center;
+}
+
+.space {
+  margin: 5px 5px 5px 0;
+  display: inline-block;
+  width: 245px;
+  height: 46px;
+  float: left;
+  color: white;
+  background: black;
+  border-radius: 5px;
+}
+
+.mouse {
+  width: 320px;
+  height: 220px;
+  border: 2px solid;
+  border-style: inset;
+  border-color: #d89641;
+  border-radius: 10px;
+  margin: auto;
+}
