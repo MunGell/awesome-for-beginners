@@ -102,6 +102,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well stuited for modern hardware.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
+- [Book Project](https://github.com/knjk04/book-project/labels/good%20first%20issue) _(label: good first issue)_ <br> A book tracker web app that lets you categorise a list of books in books you want to read, have read, are currently reading or did not finish. If you need help, feel free to ask in the [Book Project Gitter channel](https://gitter.im/book-project-community/community?source=orgpage).
 
 ## JavaScript
 
