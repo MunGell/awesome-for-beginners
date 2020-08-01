@@ -174,6 +174,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
 - [json-editor](https://github.com/json-editor/json-editor/labels/good%20first%20issue) _(label: good first issue)_ <br>
 JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
+- [chat-e2ee](https://github.com/muke1908/chat-e2ee/labels/good%20first%20issue) _(label: good first issue)_ <br>
+Web app that allows two users to chat in an end-to-end encrypted environment without any user registration.
 
 ## Julia
 
