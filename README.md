@@ -250,6 +250,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models
+- [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 
 ## Ruby
 
