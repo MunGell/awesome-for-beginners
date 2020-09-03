@@ -18,6 +18,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [C++](#c-2)
 - [Clojure](#clojure)
 - [ClojureScript](#clojurescript)
+- [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -66,6 +67,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## ClojureScript
 
 - [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+
+## CSS
+- [sButtons](https://github.com/shahednasser/sbuttons/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
 
 ## Dart
 
