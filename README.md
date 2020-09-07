@@ -255,6 +255,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models
+- [NBA Search](https://github.com/skekre98/NBA-Search/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs) _(up-for-grabs)_ <br> NBA analytics website with chatbot, blogs, and predictions. Great starter project for data scientists and machine learning engineers!
 
 ## Ruby
 
