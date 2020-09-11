@@ -185,6 +185,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [reactjs.org](https://github.com/reactjs/reactjs.org/labels/good%20first%20issue) _(label: good first issue)_ <br> The documenation website for reactjs
 - [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
+- [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
 
 ## Julia
 
