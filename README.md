@@ -18,6 +18,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [C++](#c-2)
 - [Clojure](#clojure)
 - [ClojureScript](#clojurescript)
+- [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -37,8 +38,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## .NET
 
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+- [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 
 ## C
 
@@ -53,9 +55,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
-- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
-- [Roc](https://github.com/roc-project/roc/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
+- [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
+- [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
+- [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
 
 ## Clojure
 
@@ -65,37 +68,46 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
+## CSS
+
+- [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
+
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 
 ## Elixir
 
-- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
+- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 ## Go
 
-- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
-- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
-- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
+- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
+- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
-- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
+- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [script](https://github.com/bitfield/script/labels/good%20first%20issue) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+- [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
+- [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
 
 ## Java
 
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
-- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
+- [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. [Dedicated to code quality and constructive feedback](https://devdocs.jabref.org/getting-into-the-code/development-strategy): Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org) is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
-- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is a versioned NoSQL document store (XML and JSON) written in Java.
+- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well stuited for modern hardware.
+- [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
+- [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
 
 ## JavaScript
 
@@ -117,7 +129,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
-- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome) _(label: first timers welcome)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
+- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20only) _(label: first timers only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue) _(label: good first issue)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
@@ -162,6 +174,18 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast/labels/easy) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted) _(label: help wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+- [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
+- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _(label: good first issue)_ <br>
+A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
+- [json-editor](https://github.com/json-editor/json-editor/labels/good%20first%20issue) _(label: good first issue)_ <br>
+JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
+- [Habitica](https://github.com/HabitRPG/habitica/labels/good%20first%20issue) _(label: good first issue)_ <br>
+Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. [Guidance for contributing here](https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths) (mongo, express, vue, node stack for webapp)
+- [reactjs.org](https://github.com/reactjs/reactjs.org/labels/good%20first%20issue) _(label: good first issue)_ <br> The documenation website for reactjs
+- [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
+- [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
 
 ## Julia
 
@@ -172,6 +196,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
+- [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> A <a href="https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api">non-blocking HTTP(S)-Server</a> for <a href="https://sirix.io">SirixDB</a>, a temporal, evolutionary NoSQL document store for XML and JSON.
 
 ## LaTeX
 
@@ -192,25 +217,28 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue) _(label: good first issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Appwrite](https://github.com/appwrite/appwrite/labels/good%20first%20issue) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
+- [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
+- [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 
 ## Python
 
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
+- [Kinto.sh](https://github.com/rbreaves/kinto/labels/first-timers-only) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue) _(label: good first issue)_ <br>A fast high-level web crawling & scraping framework for Python.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/help%20wanted) _(label: help wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy) _(label: status: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue) _(label: good first issue)_ <br> Jupyter interactive notebook.
-- [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue) _(label: good first issue)_ <br> Aims to develop an end-to-end application for lung cancer detection that connects the predictive power of machine learning with functional software tested against errors and a clean user interface focused on clinical use.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
@@ -220,12 +248,16 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue) _(label: good first issue)_ <br> 1-click OpenVPN deployment and management dashboard.
-- [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
+- [SaltStack](https://github.com/saltstack/salt/labels/good%20first%20issue) _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue) _(label: Good First Issue)_ <br> Learn and code in Python using your native language.
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
+- [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
+- [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
+- [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 
 ## Ruby
 
@@ -233,7 +265,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/hanami/hanami/labels/easy) _(label: easy)_ <br> A modern framework for Ruby.
-- [Operation Code](https://github.com/OperationCode/operationcode_backend/labels/good%20first%20issue) _(label: good first issue)_ <br>An open source community dedicated to getting military veterans coding.
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>Ohai profiles your system and emits JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
@@ -250,7 +281,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
-- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
+- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy) _(label: D: Easy)_ <br> A distributed transactional key-value database
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
