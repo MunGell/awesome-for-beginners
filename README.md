@@ -186,7 +186,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
-- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/You%20Can%20Do%20This) _(label: You can do this)_ <br> Free and opensource online queue manager to create and manage queues for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
+- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/You%20Can%20Do%20This) _(label: You can do this)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 
 ## Julia
 
