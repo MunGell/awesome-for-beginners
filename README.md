@@ -12,29 +12,33 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C#](#c-1)
-- [C++](#c-2)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [CSS](#css)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [Kotlin](#kotlin)
-- [LaTeX](#latex)
-- [Perl](#perl)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Swift](#swift)
-- [TypeScript](#typescript)
+- [Awesome First PR Opportunities ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-first-pr-opportunities-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+  - [Table of Contents:](#table-of-contents)
+  - [.NET](#net)
+  - [C](#c)
+  - [C](#c-1)
+  - [C++](#c-2)
+  - [Clojure](#clojure)
+  - [ClojureScript](#clojurescript)
+  - [CSS](#css)
+  - [Dart](#dart)
+  - [Elixir](#elixir)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Kotlin](#kotlin)
+  - [LaTeX](#latex)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+  - [TypeScript](#typescript)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## .NET
 
@@ -186,6 +190,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
+- [Freshworks sample apps](https://github.com/freshworks/marketplace-sample-apps) _(label: good first issue)_ <br>  Sample codes repository of apps those run inside of a iframe within browser.
 
 ## Julia
 
