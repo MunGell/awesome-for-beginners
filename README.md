@@ -12,11 +12,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Table of Contents:
 
-- [Awesome First PR Opportunities ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-first-pr-opportunities-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
-- [Table of Contents:](#table-of-contents)
 - [.NET](#net)
 - [C](#c)
-- [C](#c-1)
+- [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
 - [ClojureScript](#clojurescript)
@@ -37,8 +35,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Scala](#scala)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Contribute](#contribute)
-- [License](#license)
 
 ## .NET
 
