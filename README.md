@@ -13,6 +13,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Table of Contents:
 
 - [.NET](#net)
+- [.NET](#net)
+- [.NET](#net)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
