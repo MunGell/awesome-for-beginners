@@ -304,6 +304,11 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue) _(label: good first issue)_ <br> Conway's Game of Life web version!
 
+## HTML
+
+- [HTML](https://github.com/whatwg/html/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> Begginer friendly issues to get started with...
+
+
 ## Contribute
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
