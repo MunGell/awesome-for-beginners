@@ -259,6 +259,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Pygame](https://github.com/pygame/pygame/labels/good%20first%20issue) _(label: good first issue)_ <br> A free and open source Python library for making multimedia applications like games built on top of the excellent SDL library.
+- [scipy](https://github.com/scipy/scipy/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source software for mathematics, science, and engineering in Python.
 
 ## Ruby
 
