@@ -1,6 +1,6 @@
-# Contribution Guidelines
+# Important Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+Please ensure your pull request adheres to the following guidelines properly:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
