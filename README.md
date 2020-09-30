@@ -99,7 +99,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## GraphQL
 
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine/labels/good%20first%20issue)_(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine/labels/good%20first%20issue) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ## Java
 
