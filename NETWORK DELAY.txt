@@ -1,0 +1,71 @@
+class Solution {
+    public int networkDelayTime(int[][] times, int N, int K) {
+        
+        // Use Dijkstra Algorithm to get shortest dist
+        // from K to all nodes
+        // Return the max value in dist array
+        int[] dist = new int[N+1];
+        boolean[] mark = new boolean[N+1];
+        for (int i = 1; i < N+1; i++) {
+            dist[i] = Integer.MAX_VALUE;
+            mark[i] = false;
+        }
+        dist[K] = 0;
+        
+        Map<Integer, List<int[]>> adjMap = buildAdjacentMap(times);
+        
+        // PriorityQueue for selecting next node
+        // Keep the shortest distance node on the top
+        Queue<int[]> pq = new PriorityQueue<>(
+            (a1, a2) -> a1[1] - a2[1]
+        );
+        // initiate pd with source target with zero distance
+        int[] start = new int[]{K, 0};
+        pq.offer(start);
+        
+        while (!pq.isEmpty()) {
+            int[] current = pq.poll();
+            mark[current[0]] = true;
+            // Go through neighbors if there is any
+            if (adjMap.containsKey(current[0])) {    
+                List<int[]> neighbors = adjMap.get(current[0]);
+                for (int[] neighbor : neighbors) {
+                    int cost = neighbor[1] + current[1];
+                    if (mark[neighbor[0]] == false) {
+                        if (dist[neighbor[0]] > cost) {
+                            dist[neighbor[0]] = cost;
+                            pq.offer(new int[]{neighbor[0], cost});
+                        }
+                    }
+                }
+            }
+        }
+        
+        // Return the longest path
+        // Return -1 if INFINITE found
+        int maxDist = 0;
+        for (int i = 1; i < N+1; i++) {
+            if (dist[i] == Integer.MAX_VALUE) return -1;
+            maxDist = Math.max(maxDist, dist[i]);
+        }
+        return maxDist;
+    }
+    
+    private Map<Integer, List<int[]>> buildAdjacentMap(int[][] times) {
+        // Convert weighted edge list to weighted adjacent map
+        Map<Integer, List<int[]>> adjMap = new HashMap<>();
+        for (int[] time : times) {
+            int u = time[0];
+            int v = time[1];
+            int w = time[2];
+            int[] t = new int[]{v, w};
+            List<int[]> l = new ArrayList<>();
+            if (adjMap.containsKey(u)) {
+                l = adjMap.get(u);
+            }
+            l.add(t);
+            adjMap.put(u, l);
+        }
+        return adjMap;
+    }
+}
