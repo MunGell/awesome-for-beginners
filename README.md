@@ -223,6 +223,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 ## Python
 
+- [Queer of the Day Twitter Bot](https://github.com/VickiLanger/Queer-of-the-day-bot) _(label: good first issue)_ <br> Twitter bot tweeting fun goofy lgbtq things and queer history of the day
+- [Code Questions Twitter Bot](https://github.com/VickiLanger/code-questions-bot) _(label: good first issue)_ <br> A Twitter bot who tweets code questions and trivia
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
