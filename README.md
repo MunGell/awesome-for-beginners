@@ -22,6 +22,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Go](#go)
+- [GraphQL](#graphql)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Julia](#julia)
@@ -95,6 +96,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [script](https://github.com/bitfield/script/labels/good%20first%20issue) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 - [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
+
+## GraphQL
+
+- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine/labels/good%20first%20issue)_(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 ## Java
 
