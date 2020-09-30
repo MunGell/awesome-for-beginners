@@ -1,15 +1,14 @@
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome beginner-friendly projects.
+A rundown of amazing fledgling agreeable undertakings. 
 
-Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
+Motivated by [First Timers Only](https://kentcdodds.com/blog/beginners just) blog entry. 
 
-If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
+In the event that you are a maintainer for open-source ventures, include the name 'amateurs just' (or like) your task and show it here so individuals can discover it. 
 
-If you are looking to contribute, then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
+On the off chance that you are hoping to contribute, at that point investigate this rundown, take a gander at ['first-clocks just' named open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-clocks only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be informed when another 'amateurs just' issue is made. 
 
-If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
-
+In the event that you are not a software engineer, yet might want to contribute, look at the [Awesome for non-programmers](https://github.com/szabgab/magnificent for-non-developers) list.
 ## Table of Contents:
 
 - [.NET](#net)
