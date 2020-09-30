@@ -261,6 +261,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
+- [password Pattern](https://github.com/tanaychaulinsec/Password-check-pattern) _(label: good first issue)_ <br> A password checking pattern.
+
 
 ## Ruby
 
