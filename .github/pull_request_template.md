@@ -15,3 +15,5 @@ Example link formatting:
 ```
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners/labels/good-first-contribution) _(label: good-first-contribution)_ <br> A list of awesome beginners-friendly projects.
 ```
+This fill was quite useful for a beginner.
+```
