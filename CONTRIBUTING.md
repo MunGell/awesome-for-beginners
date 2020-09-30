@@ -12,6 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should be given a meaningful title.
+- Best for beginners on github(New to programming world)
 - Make sure to describe your pull request.
 - If the label does not clearly state its "beginner friendly" purpose, please make sure to confirm with the maintainer that it is used for such issues. Please include the link to where maintainer approves it in the PR. See examples below:
   - Repository called "HornsAndHoovesJs" has label `good-first-contribution`. This PR does not need to be confirmed with the maintainer and can be merged straight away.
