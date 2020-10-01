@@ -35,6 +35,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Scala](#scala)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Flutter](#flutter)
 
 ## .NET
 
