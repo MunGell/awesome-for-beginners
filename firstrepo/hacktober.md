@@ -8,3 +8,4 @@ that's neccessary more than flow.
 6.commit the changes to the repo.
 7.Then lastly pull request the repo 
 AND hurray! you are done.
+just follow what said and do some googling.
