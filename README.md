@@ -259,11 +259,11 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [mypy](https://github.com/python/mypy/labels/good-first-issue) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [python-ds](https://github.com/prabhupant/python-ds/labels/good%20first%20issue) _(label: good first issue)_ <br> A repository for data structures and algorithms in Python.
 - [numpy](https://github.com/numpy/numpy/labels/good%20first%20issue) _(label: good first issue)_ <br> It is the core library for scientific computing, which contains a powerful n-dimensional array object.
-- [Tkinter](https://github.com/memeyankm/Tkinter/labels/good%20first%20issue) _(label: good-first-issue)_ <br> A repository containing Tkinter, a GUI tool for python develpers to accept input/output from the user.
 - [matplotlib](https://github.com/matplotlib/matplotlib/labels/good%20first%20issue) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [datascience](https://github.com/data-8/datascience/labels/good%20first%20issue) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [ArviZ](https://github.com/arviz-devs/arviz/labels/Beginner) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
+- [Tkinter](https://github.com/memeyankm/Tkinter/labels/good%20first%20issue) _(label: good-first-issue)_ <br> A repository containing Tkinter, a GUI tool for python develpers to accept input/output from the user.
 
 ## Ruby
 
