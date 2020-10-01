@@ -1,4 +1,4 @@
-Please complete the following checklist if your PR is adding new link to the list:
+Please complete the following form for adding a new PR Link:
 
 - [ ] I've read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md)
 - [ ] This PR does not introduce duplicates to the list
