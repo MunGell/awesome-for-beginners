@@ -109,6 +109,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
 
+[Guava] (https://github.com/google/guava) _(label: good first issue)_ <br> Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more!
+
 ## JavaScript
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
