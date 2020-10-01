@@ -1,0 +1,7 @@
+height = int(input("Enter height of rectangle: "))
+width = int(input("Enter width of rectangle: "))
+area=width*height
+print("The area of the rectangle is",area)
+
+int will not be able to convert a string to an integer if it contains anything except digits. 
+The program above will exit with an error if the user enters "aaa", "zzz10" or even "7". 
