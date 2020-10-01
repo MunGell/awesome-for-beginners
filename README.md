@@ -35,6 +35,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Scala](#scala)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Learn-By-Write](#Learn-By-Write)
 
 ## .NET
 
@@ -309,7 +310,10 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue) _(label: good first issue)_ <br> Conway's Game of Life web version!
 - [Graphback](https://github.com/aerogear/graphback/labels/good%20first%20issue) _(label: good first issue)_ <br>A CLI and runtime framework to generate a GraphQL API in seconds.
-- [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
+- [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good-first-contribution)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
+## Learn-By-Write
+
+- [Learn-By-Write](https://github.com/akrish4/Learn-By-Write) _(label: help wanted)_ <br>A place where anyone interested can learn , practicse and contribute it so others can learn and contribute.
 
 ## Contribute
 
