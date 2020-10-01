@@ -1,4 +1,4 @@
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginner-friendly projects.
 
@@ -50,6 +50,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good%20first%20issue) _(label: good first issue)_ <br> Music game. Rhythm is just a *click* away!
+- [Henry](https://github.com/Henry6612700/OperatingSystem)
 
 ## C++
 
