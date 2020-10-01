@@ -7,7 +7,7 @@ Please complete the following checklist if your PR is adding new link to the lis
 - [ ] The link I add follows the suggested pattern:
 
 ```
-- [Repository Name](link-to-repository-label) _(label: beginner-friendly-label-in-the-repository)_ <br> Description
+- [fall-dawam/awesome-for-beginners](https://github.com/fall-dawam/awesome-for-beginners.git) _(label: good-first-contribution)_ <br> A list of awesome beginners-friendly projects.
 ```
 
 Example link formatting:
