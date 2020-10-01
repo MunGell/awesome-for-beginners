@@ -313,7 +313,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good-first-contribution)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 ## Learn-By-Write
 
-- [Learn-By-Write](https://github.com/akrish4/Learn-By-Write) _(label: help wanted)_ <br>A place where anyone interested can learn , practicse and contribute it so others can learn and contribute.
+- [Learn-By-Write](https://github.com/akrish4/Learn-By-Write) _(label: help wanted)_ <br>A place where anyone interested can learn , practice and contribute it so others can learn and contribute.
 
 ## Contribute
 
