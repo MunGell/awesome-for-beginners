@@ -74,7 +74,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Dart
 
-- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile apps using Flutter. is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
 
 ## Elixir
 
