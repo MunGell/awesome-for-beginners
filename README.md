@@ -243,7 +243,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy) _(label: status: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
-- [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue) _(label: good first issue)_ <br> Jupyter interactive notebook.
+- [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue) _(label: good first issue)_ <br> Jupyter interactive notebook, best used for vivid visualisations,especially when dealing with Machine Learning projects.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue) _(label: good first issue)_ <br> Powerful open source group chat.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest) _(label: django hacktober special)_ <br> An implementation of Python for backend web development.
