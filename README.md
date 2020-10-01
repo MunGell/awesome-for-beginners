@@ -192,7 +192,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Vue Router](https://github.com/vuejs/vue-router/labels/good%20first%20issue) _(label: good first issue)_ <br> The official router for Vue.js. 
 - [VuePress](https://github.com/vuejs/vuepress/labels/good%20first%20issue) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 
-## Julia
+## Julia.
 
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue) _(label: good first issue )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
