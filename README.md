@@ -12,29 +12,33 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C#](#c-1)
-- [C++](#c-2)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [CSS](#css)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [Kotlin](#kotlin)
-- [LaTeX](#latex)
-- [Perl](#perl)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Swift](#swift)
-- [TypeScript](#typescript)
+- [Awesome First PR Opportunities ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-first-pr-opportunities-img-srchttpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg-altawesome)
+  - [Table of Contents:](#table-of-contents)
+  - [.NET](#net)
+  - [C](#c)
+  - [C](#c-1)
+  - [C++](#c-2)
+  - [Clojure](#clojure)
+  - [ClojureScript](#clojurescript)
+  - [CSS](#css)
+  - [Dart](#dart)
+  - [Elixir](#elixir)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Kotlin](#kotlin)
+  - [LaTeX](#latex)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+  - [TypeScript](#typescript)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## .NET
 
@@ -191,6 +195,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Vue CLI](https://github.com/vuejs/vue-cli/labels/good%20first%20issue) _(label: good first issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router/labels/good%20first%20issue) _(label: good first issue)_ <br> The official router for Vue.js. 
 - [VuePress](https://github.com/vuejs/vuepress/labels/good%20first%20issue) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
+- [Ninja_Developers](https://github.com/Ninja-Developers/jsv-convert/issues/3) _(label: good first issue)_ <br> Extra comma at the end of each line which is creating extra column.
 
 ## Julia
 
