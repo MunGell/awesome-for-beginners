@@ -18,7 +18,7 @@ Please ensure your pull request adheres to the following guidelines:
   - Repository called "bicycle-wheels-php" has label `easy`. This PR must be confirmed with the maintainer of "bicycle-wheels-php". The issue link where the maintainer confirms that label `easy` is used in the repository for beginner-friendly tasks has to be provided in the PR description.
 - Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
 - The contributed repository must be maintained, have an active community to be able to help newcomers and have issues with an appropriate label.
-- Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
+- Links must be pointing directly to the repository, no tracking links are allowed. This list is not for advertising purposes.
 
 Thank you for your suggestions!
 
