@@ -1,0 +1,7 @@
+import random
+a=int(input('choose a number between 1 to 25: '))
+b=random.randint(1,25)
+if a==b:
+	print('congrats,you guess right.the lucky number is',b)
+else:
+	print('oh no! you guess wrong,the random number is',b) 
