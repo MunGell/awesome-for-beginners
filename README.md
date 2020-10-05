@@ -85,6 +85,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
+- [go-regex-utility](https://github.com/patil-ashutosh/go-regex-utility/labels/good%20first%20issue) _(label: good first issue)_ <br> A curated list of golang applications using regex 
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
