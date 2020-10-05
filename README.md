@@ -1,7 +1,5 @@
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**This repository is being archived until November 2020 due to high volumes of [low quality PRs](https://github.com/MunGell/awesome-for-beginners/pulls?q=is%3Apr+is%3Aclosed+label%3Ainvalid) related to Hacktoberfest. Thanks for your understanding!**
-
 A list of awesome beginner-friendly projects.
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
