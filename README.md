@@ -44,6 +44,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## C
 
+- [The Algorithms in c](https://https://github.com/TheAlgorithms/C) _(label: first-timers-only)_ <br> The Algorithms in C language
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C#
