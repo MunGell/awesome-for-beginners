@@ -268,6 +268,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
+- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 
 ## Ruby
 
