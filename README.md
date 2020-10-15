@@ -13,7 +13,6 @@ If you are looking to contribute, then explore this list, look at [`first-timers
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
 ## Table of Contents:
-
 - [.NET](#net)
 - [C](#c)
 - [C#](#c-1)
@@ -39,22 +38,18 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [TypeScript](#typescript)
 
 ## .NET
-
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting *Should* be!
 
 ## C
-
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C#
-
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
 
 ## C++
-
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
@@ -63,11 +58,9 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
 
 ## Clojure
-
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
 
 ## ClojureScript
-
 - [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## CSS
@@ -75,16 +68,13 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
 
 ## Dart
-
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 
 ## Elixir
-
 - [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 ## Go
-
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
@@ -100,7 +90,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [lxd](https://github.com/lxc/lxd/labels/easy) _(label: easy)_ <br> System container and virtual machine manager.
 
 ## Java
-
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
@@ -113,7 +102,6 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
 
 ## JavaScript
-
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
@@ -199,26 +187,21 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br>  Next-gen browser and mobile automation test framework for Node.js 
 
 ## Julia
-
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue) _(label: good first issue )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
 ## Kotlin
-
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> A <a href="https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api">non-blocking HTTP(S)-Server</a> for <a href="https://sirix.io">SirixDB</a>, a temporal, evolutionary NoSQL document store for XML and JSON.
 
 ## LaTeX
-
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
 
 ## Perl
-
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
 
 ## PHP
-
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted) _(label: help wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
@@ -233,7 +216,6 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 
 ## Python
-
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
@@ -270,7 +252,6 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
 
 ## Ruby
-
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 - [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
@@ -288,7 +269,6 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 
 ## Rust
-
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for formatting Rust code according to style guidelines.
@@ -298,16 +278,13 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 
 ## Scala
-
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
 
 ## Swift
-
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
-
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
@@ -317,11 +294,9 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 
 ## Contribute
-
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
-
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
