@@ -74,6 +74,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
 
+- [primer](https://github.com/primer/css) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
+
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
