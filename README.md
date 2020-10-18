@@ -234,7 +234,6 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 ## Python
 
-- [Jarvis](https://github.com/virejdasani/Jarvis/labels/good%20first%20issue) _(Good First Issue)_ <br> Jarvis is an Open Source command line Robot butler!
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
@@ -269,6 +268,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
+- [Jarvis](https://github.com/virejdasani/Jarvis/labels/good%20first%20issue) _(Good First Issue)_ <br> Jarvis is an Open Source command line Robot butler!
 
 ## Ruby
 
