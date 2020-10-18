@@ -12,6 +12,8 @@ If you are looking to contribute, then explore this list, look at [`first-timers
 
 If you are not a programmer, but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
+This is really good for beginners to start making pull requests and learn something new.
+
 ## Table of Contents:
 
 - [.NET](#net)
