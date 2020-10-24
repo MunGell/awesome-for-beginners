@@ -86,6 +86,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## Go
 
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [Consul](https://github.com/hashicorp/consul/labels/good%20first%20issue) _(label: good first issue)_ <br> Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
