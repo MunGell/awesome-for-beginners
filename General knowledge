@@ -1,0 +1,93 @@
+f=0
+c=0
+print('1.bharat ki rajdhani kya hai.')
+print('1.bombay		2.agra									3.delhi		4.kolkata')
+e=int(input('apka jawaab:'))
+if e==3:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('2.bharat ke vartamaan rashtrapati kon hai')
+print('1.apj abdul kalam		2.ramnaath kovind		3.lall krashna adwani		4.inme se koi nhi')
+g=int(input('apka jawaab:'))
+if g==2:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('3.madhya pradesh me kumbh tirth sthal kha h:') 
+print('1.indore		2.ujjain									3.bhopal		4.chhindawada')
+h=int(input('apka jawaab:'))
+if h==2:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('4.bharat ka sanvidhan kb laagu kiya gya')
+print('1.15 aguast 1947		2.15 aguast1950		3.26january1947		4.26 january 1950')
+i=int(input('apka jawaab:'))
+if i==4:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('5.bharat ka lockdown kab se laagu hua')
+print('1.23 march		2.24 march		3.25 march	4.26 march')
+j=int(input('apka jawaab:'))
+if j==2:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('6.bharat me total kitne dino ka lockdown he')
+print('1.40 din		2.21din		3.19 din		4.inme se koi  nhi')
+j=int(input('apka jawaab:'))
+if j==1:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('7.bal diwas kab manaya jata he')
+print('1.2 octobar		2.4 sitambar		3.11 january		4.5sitambar')
+k=int(input('apka jawaab:'))
+if k==4:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('8.corona kya he')
+print('1.desease		2.mahaamari		3.virus		4.inme se kuch nhi')
+l=int(input('apka jawaab'))
+if l==3:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('9.bahubali 2 ke baad sbse jyada paise kamaane wali movie konsi he')
+print('1.KGF		2.2.o		3.kabeer singh		4.dangal')
+m=int(input('apka ,jawaaab:'))
+if m==4:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('bharat ke airospace station ka naam kya he')
+print('1.nasa		2.isro		3.apj		4.inme se koi nhi')
+n=int(input('apka jawaab:'))
+if n==2:
+	print('shi jawaab')
+	f+=4
+else:
+	print('galat jawaab')
+	f-=1
+print('or isike sath apka score ho gya he',f)
