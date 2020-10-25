@@ -1,0 +1,7 @@
+import random
+a=int(input('1 se 25 k bich me se apka lucky nber enter kijiye:'))
+b=random.randint(1,25)
+if a==b:
+	print('aap lucky h,aapke man ka number shi h')
+else:
+	print('sorry,aap ka guess galat h,lucky number h',b)
