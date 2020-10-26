@@ -268,6 +268,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [MindsDB](https://github.com/mindsdb/mindsdb/labels/good%20first%20issue) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
+- [Face-Rec.](https://github.com/starkk242/Face-rec..git) _(label: Begineer)_ <br> Python Script for Face Recognition using Opencv, Numpy and FaceRecognition Libraries.
+- [VM_Check](https://github.com/starkk242/vm_check.git) _(label: Begineer)_ <br> Basic Python script to verify if the maching is a Virtual Machine or Not.
 
 ## Ruby
 
