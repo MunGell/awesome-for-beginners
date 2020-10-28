@@ -52,7 +52,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
-
+- [The Space Invader Game](https://www.c-sharpcorner.com/article/space-invaders-for-C-Sharp-and-net) _(label: good-first-issue)_ <br> Create an easy game in C#!
 ## C++
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
