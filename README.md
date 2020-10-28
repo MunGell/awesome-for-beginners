@@ -43,6 +43,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting *Should* be!
+- [Oxyplot](https://github.com/oxyplot/oxyplot/labels/good%20first%20issue) _(label: good first issue)_ <br> A cross-platform plotting library for .NET.
 
 ## C
 
