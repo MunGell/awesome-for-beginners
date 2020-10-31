@@ -42,7 +42,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
-- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting *Should* be!
+- [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting _Should_ be!
 
 ## C
 
@@ -51,7 +51,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 ## C#
 
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
-- [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
+- [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a _click_ away!
 
 ## C++
 
@@ -68,7 +68,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## ClojureScript
 
-- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
+- [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## CSS
 
@@ -122,7 +122,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
-- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
+- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br> A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor) _(label: first time contributor)_ <br> Helping you select an MV\* framework by implementing Todo in lots of JavaScript apps.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Futuristic test runner.
@@ -181,22 +181,22 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct/labels/help%20wanted) _(label: help wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [Binari](https://github.com/BrandonArmand/Binari/labels/up%20for%20grabs) _(label: up for grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end/labels/good%20first%20issue) _(label: good first issue)_ <br>
-A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
+  A Svelte/Sapper based <a href="https://github.com/sirixdb/sirix-svelte-front-end">web front-end</a> for <a href="https://sirix.io">SirixDB</a>, which is a versioned NoSQL document store (XML and JSON) written in Java.
 - [json-editor](https://github.com/json-editor/json-editor/labels/good%20first%20issue) _(label: good first issue)_ <br>
-JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
+  JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Habitica](https://github.com/HabitRPG/habitica/labels/good%20first%20issue) _(label: good first issue)_ <br>
-Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. [Guidance for contributing here](https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths) (mongo, express, vue, node stack for webapp)
+  Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. [Guidance for contributing here](https://habitica.fandom.com/wiki/Guidance_for_Blacksmiths) (mongo, express, vue, node stack for webapp)
 - [reactjs.org](https://github.com/reactjs/reactjs.org/labels/good%20first%20issue) _(label: good first issue)_ <br> The documenation website for reactjs
 - [Vest](https://github.com/ealush/vest/labels/good%20first%20issue) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch/labels/good%20first%20issue) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
-- [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br>  Fast, easy and reliable testing for anything that runs in a browser.
+- [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 - [Time to Leave](https://github.com/thamara/time-to-leave/labels/good%20first%20issue) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
 - [cypress](https://github.com/cypress-io/cypress/labels/first-timers-only) _(label: first-timers-only)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 - [Vue CLI](https://github.com/vuejs/vue-cli/labels/good%20first%20issue) _(label: good first issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router/labels/good%20first%20issue) _(label: good first issue)_ <br> The official router for Vue.js.
 - [VuePress](https://github.com/vuejs/vuepress/labels/good%20first%20issue) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [Letra Extension](https://github.com/jayehernandez/letra-extension/labels/good%20first%20issue) _(label: good first issue)_ <br> Passively learn a new language every time you open a new tab.
-- [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br>  Next-gen browser and mobile automation test framework for Node.js 
+- [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 
 ## Julia
 
@@ -287,10 +287,13 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 
+- [MagicFoodRecipes](https://github.com/ahmedfadhil/MagicFoodRecipes/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_
+  <br> MagicFoodRecipes is a Ruby on rails application that fetches food recipes from a database. Contributions to update gems and the layout are welcome.
+
 ## Rust
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
-- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_  <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue) _(label: good first issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Iron](https://github.com/iron/iron/labels/easy) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [TiKV](https://github.com/tikv/tikv/labels/difficulty%2Feasy) _(label: D: difficulty/easy)_ <br> A distributed transactional key-value database
