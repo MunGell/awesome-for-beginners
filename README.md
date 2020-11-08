@@ -318,8 +318,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 ## Contribute
 
-Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
-
+Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md) before contributing.
+All the best !
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
