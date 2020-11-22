@@ -61,6 +61,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
+- [envoy](https://github.com/envoyproxy/envoy/labels/beginner) _(label: beginner)_ <br> High-performance edge/middle/service proxy.
 
 ## Clojure
 
@@ -98,6 +99,8 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
 - [lxd](https://github.com/lxc/lxd/labels/easy) _(label: easy)_ <br> System container and virtual machine manager.
+- [Prometheus](https://github.com/prometheus/prometheus/issues?q=is%3Aissue+is%3Aopen+label%3A%22low+hanging+fruit%22) _(label: low hanging fruit)_ <br> Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts when specified conditions are observed.
+- [Thanos](https://github.com/thanos-io/thanos/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
 ## Java
 
