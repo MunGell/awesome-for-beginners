@@ -55,14 +55,14 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## C++
 
-- [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS.
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
 
-## Clojure
+## Clojure 
 
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
 
@@ -80,20 +80,20 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Elixir
 
-- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
-- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir.
+- [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications.
 
 ## Go
 
-- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, and Strongly-Consistent SQL Database.
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
+- [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System.
+- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React.
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Terraform](https://github.com/hashicorp/terraform/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
-- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors) _(label: for new contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database.
 - [script](https://github.com/bitfield/script/labels/good%20first%20issue) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 - [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
@@ -317,11 +317,11 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Graphback](https://github.com/aerogear/graphback/labels/good%20first%20issue) _(label: good first issue)_ <br>A CLI and runtime framework to generate a GraphQL API in seconds.
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 
-## Contribute
+## Contribute 
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
 
-## License
+## License 📃
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
