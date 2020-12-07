@@ -14,29 +14,33 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C#](#c-1)
-- [C++](#c-2)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [CSS](#css)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [Kotlin](#kotlin)
-- [LaTeX](#latex)
-- [Perl](#perl)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Swift](#swift)
-- [TypeScript](#typescript)
+- [Awesome First PR Opportunities ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-first-pr-opportunities-)
+  - [Table of Contents:](#table-of-contents)
+  - [.NET](#net)
+  - [C](#c)
+  - [C](#c-1)
+  - [C++](#c-2)
+  - [Clojure](#clojure)
+  - [ClojureScript](#clojurescript)
+  - [CSS](#css)
+  - [Dart](#dart)
+  - [Elixir](#elixir)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Kotlin](#kotlin)
+  - [LaTeX](#latex)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+  - [TypeScript](#typescript)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## .NET
 
@@ -312,7 +316,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution) _(label: nice first contribution)_ <br> ESLint rules for TSLint.
-- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager designed for both simple and complex applications.
 - [game-of-life](https://github.com/TroyTae/game-of-life/labels/good%20first%20issue) _(label: good first issue)_ <br> Conway's Game of Life web version!
 - [Graphback](https://github.com/aerogear/graphback/labels/good%20first%20issue) _(label: good first issue)_ <br>A CLI and runtime framework to generate a GraphQL API in seconds.
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
