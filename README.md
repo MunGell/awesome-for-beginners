@@ -135,7 +135,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
-- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20only) _(label: first timers only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20only) _(label: first timers only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue) _(label: good first issue)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
