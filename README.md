@@ -50,8 +50,10 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 
 ## C#
 
+- [grok.net](https://github.com/Marusyk/grok.net/labels/good%20first%20issue) _(label: good first issue)_ <br> Cross platform .NET grok implementation
 - [OpenRA](https://github.com/OpenRA/OpenRA/labels/Easy) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
+- [Uno Platform](https://github.com/unoplatform/uno/labels/good%20first%20issue) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 
 ## C++
 
@@ -61,6 +63,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
+- [MoveIt](https://github.com/ros-planning/moveit/labels/first-timer-only) _(label: first-timer-only)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 
 ## Clojure
 
@@ -98,6 +101,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [httpexpect](https://github.com/gavv/httpexpect/labels/help%20wanted) _(label: help wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Killgrave](https://github.com/friendsofgo/killgrave/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
 - [lxd](https://github.com/lxc/lxd/labels/easy) _(label: easy)_ <br> System container and virtual machine manager.
+- [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue) _(label: GoodFirstIssue)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 
 ## Java
 
@@ -111,6 +115,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
+- [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 ## JavaScript
 
@@ -132,7 +137,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors) _(label: Good for New Contributors)_ <br> A data persistence library for Ember.js.
-- [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20only) _(label: first timers only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20only) _(label: first timers only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue) _(label: good first issue)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
@@ -194,8 +199,11 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Vue CLI](https://github.com/vuejs/vue-cli/labels/good%20first%20issue) _(label: good first issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router/labels/good%20first%20issue) _(label: good first issue)_ <br> The official router for Vue.js.
 - [VuePress](https://github.com/vuejs/vuepress/labels/good%20first%20issue) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
+- [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Letra Extension](https://github.com/jayehernandez/letra-extension/labels/good%20first%20issue) _(label: good first issue)_ <br> Passively learn a new language every time you open a new tab.
+- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev/labels/good%20first%20issue) _(label: good first issue)_ <br> Swag opportunities for developers.
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br>  Next-gen browser and mobile automation test framework for Node.js 
+- [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 
 ## Julia
 
@@ -270,6 +278,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Bokeh](https://github.com/bokeh/bokeh/labels/good%20first%20issue) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [SymPy](https://github.com/sympy/sympy/labels/Easy%20to%20Fix) _(label: Easy to Fix)_ <br> A Python library for symbolic mathematics.
 - [Pytorch](https://github.com/pytorch/pytorch/labels/good%20first%20issue) _(label: Good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 
 ## Ruby
 
@@ -288,6 +298,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
+- [Matestack](https://github.com/matestack/matestack-ui-core/labels/good%20first%20issue) _(label: good first issue)_ <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
 
 ## Rust
 
@@ -298,6 +309,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [TiKV](https://github.com/tikv/tikv/labels/difficulty%2Feasy) _(label: D: difficulty/easy)_ <br> A distributed transactional key-value database
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter/labels/good%20first%20issue) _(label: good first issue)_ <br> ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
 
 ## Scala
 
