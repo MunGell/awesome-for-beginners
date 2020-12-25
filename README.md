@@ -295,6 +295,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
+- [Matestack](https://github.com/matestack/matestack-ui-core/labels/good%20first%20issue) _(label: good first issue)_ <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
 
 ## Rust
 
