@@ -308,6 +308,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [TiKV](https://github.com/tikv/tikv/labels/difficulty%2Feasy) _(label: D: difficulty/easy)_ <br> A distributed transactional key-value database
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter/labels/good%20first%20issue) _(label: good first issue)_ <br> ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
 
 ## Scala
 
