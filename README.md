@@ -241,6 +241,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [NextCloud Server](https://github.com/nextcloud/server/labels/good%20first%20issue) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
+- [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task, link to external website)_ <br> The free and open-source wiki software package that powers Wikipedia.
 
 ## Python
 
