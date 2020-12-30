@@ -282,6 +282,12 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Pytorch](https://github.com/pytorch/pytorch/labels/good%20first%20issue) _(label: Good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
+- [fastai](https://github.com/fastai/fastai/labels/good%20first%20issue) _(label: good first issue)_ <br> The fastai library simplifies training fast and accurate neural nets using modern best practices.
+- [Pipenv](https://github.com/pypa/pipenv/labels/good%20first%20issue) _(label: good first issue)_ <br> Pipenv is a dependency manager for Python projects that simplifies dependency management for common use cases.
+- [Sentry](https://github.com/getsentry/sentry/labels/Component%3A%20Issues) _(label: component issue)_ <br> Sentry is a service that helps you monitor and fix crashes in realtime. Although written in Python, Sentry works with most languages and frameworks.
+- [Face Recognition](https://github.com/ageitgey/face_recognition/labels/duplicate) _(label: duplicate)_ <br> Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
+- [Requests](https://github.com/psf/requests/labels/Contributor%20Friendly) _(label: contributor freindly)_ <br> Requests is a Python HTTP library that makes HTTP requests simpler and more human-friendly.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl/labels/build%2Fupdate) _(label: build update)_ <br> Command-line program to download videos from YouTube and other video sites.
 
 ## Ruby
 
