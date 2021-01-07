@@ -247,6 +247,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
+- [Jina](https://github.com/jina-ai/jina/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> A deep learning-powered search framework for building cross-/multi-modal search systems (e.g. text, images, video, audio) in the cloud.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Kinto.sh](https://github.com/rbreaves/kinto/labels/first-timers-only) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
