@@ -205,6 +205,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev/labels/good%20first%20issue) _(label: good first issue)_ <br> Swag opportunities for developers.
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br>  Next-gen browser and mobile automation test framework for Node.js 
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
+- [LogChimp](https://github.com/logchimp/logchimp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> Build better products by track, manage, and analyse your customers feedback with ease. [theme](https://github.com/logchimp/theme/labels/good%20first%20issue)
 
 ## Julia
 
