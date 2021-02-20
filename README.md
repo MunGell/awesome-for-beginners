@@ -116,6 +116,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Presto](https://github.com/prestosql/presto/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://prestosql.io/slack.html).
 - [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
+- [MyHome](https://github.com/jmprathab/MyHome) _(label: good first issue)_ <br> Application to manage apartments
 
 ## JavaScript
 
@@ -205,6 +206,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev/labels/good%20first%20issue) _(label: good first issue)_ <br> Swag opportunities for developers.
 - [webdriver.io](https://github.com/webdriverio/webdriverio/labels/first-timers-only) _(label: first-timers-only)_ <br>  Next-gen browser and mobile automation test framework for Node.js 
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
+- [MyHome](https://github.com/jmprathab/MyHome-Web) _(label: good first issue)_ <br> Application to manage apartments
 
 ## Julia
 
