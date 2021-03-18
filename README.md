@@ -106,7 +106,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Java
 
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
-- [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
+- [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/good%20first%20issue) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue) _(label: good first issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. [Dedicated to code quality and constructive feedback](https://devdocs.jabref.org/getting-into-the-code/development-strategy): Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
