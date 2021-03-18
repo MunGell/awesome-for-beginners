@@ -63,7 +63,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit/labels/help%20wanted) _(label: help wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
-- [MoveIt](https://github.com/ros-planning/moveit/labels/first-timer-only) _(label: first-timer-only)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
+- [MoveIt](https://github.com/ros-planning/moveit/labels/good%20first%20issue) _(label: good first issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 
 ## Clojure
 
