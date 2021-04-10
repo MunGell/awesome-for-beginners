@@ -76,6 +76,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## CSS
 
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
+- [Reseter.css](https://github.com/krishdevdb/reseter.css/labels/good%20first%20issue) _(label: good first issue)_ <br> Reseter.css - A Futuristic Alternative To Normalize.css And CSS Resets
 
 ## Dart
 
