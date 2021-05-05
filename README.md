@@ -317,6 +317,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Hyper](https://github.com/hyperium/hyper/labels/E-easy) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter/labels/good%20first%20issue) _(label: good first issue)_ <br> ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
+- [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name%5B%5D=beginner) _(label: beginner and difficulty::easy)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 
 ## Scala
 
