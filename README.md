@@ -337,6 +337,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [LitmusChaos](https://github.com/litmuschaos/litmus/labels/good%20first%20issue) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 - [Booster](https://github.com/boostercloud/booster/labels/good%20first%20issue) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp/labels/good%20first%20issue) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
+- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp/labels/good%20first%20issue) _(label: good first issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 
 ## Contribute
 
