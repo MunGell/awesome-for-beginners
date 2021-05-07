@@ -35,6 +35,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
+- [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
@@ -323,6 +324,10 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+
+## Smalltalk
+
+- [Pharo](https://github.com/pharo-project/pharo/labels/good%20first%20issue) _(label: good first issue)_ <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 
 ## Swift
 
