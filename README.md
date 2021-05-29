@@ -14,29 +14,33 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C#](#c-1)
-- [C++](#c-2)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [CSS](#css)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [Kotlin](#kotlin)
-- [LaTeX](#latex)
-- [Perl](#perl)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [Swift](#swift)
-- [TypeScript](#typescript)
+- [Awesome First PR Opportunities ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-first-pr-opportunities-)
+  - [Table of Contents:](#table-of-contents)
+  - [.NET](#net)
+  - [C](#c)
+  - [C](#c-1)
+  - [C++](#c-2)
+  - [Clojure](#clojure)
+  - [ClojureScript](#clojurescript)
+  - [CSS](#css)
+  - [Dart](#dart)
+  - [Elixir](#elixir)
+  - [Go](#go)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Kotlin](#kotlin)
+  - [LaTeX](#latex)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Swift](#swift)
+  - [TypeScript](#typescript)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## .NET
 
@@ -92,7 +96,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue) _(label: good first issue)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> The Docker CLI
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
-- [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [Hugo](https://github.com/gohugoio/hugo/issues?q=label%3AGoodFirstIssue) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+) _(label: Up For Grabs, Difficulty/1:Easy, Tech/Go)_ <br> Open source Slack-alternative in Golang and React
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
