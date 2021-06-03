@@ -119,6 +119,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://trino.io/slack.html).
 - [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
+- [astra](https://github.com/alfasoftware/astra/labels/good%20first%20issue) _(label: good first issue)_ <br> Astra is a Java tool for analysing and refactoring Java source code
 
 ## JavaScript
 
