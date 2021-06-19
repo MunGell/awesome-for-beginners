@@ -55,7 +55,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
 - [Uno Platform](https://github.com/unoplatform/uno/labels/good%20first%20issue) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 - [Cake](https://github.com/cake-build/cake/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-- [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Pixel Vision 8 is a free and open soucre fantasy console made in C# and Lua.
+- [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Pixel Vision 8 is a free and open source fantasy console made in C# and Lua.
 ## C++
 
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -227,7 +227,9 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 ## LaTeX
 
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+## Lua
 
+- [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Pixel Vision 8 is a free and open source fantasy console made in C# and Lua.
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
