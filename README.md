@@ -105,6 +105,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue) _(label: GoodFirstIssue)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [containerd](https://github.com/containerd/containerd/labels/exp/beginner) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Meshery](https://github.com/layer5io/meshery/labels/good%20first%20issue) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
+- [Golang Examples] (https://github.com/kashifkhan0771/Golang/labels/good%20first%20issue) _(label: good first issue)_ <br> Example programs of Golang for beginners.
 
 ## Java
 
