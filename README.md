@@ -249,9 +249,9 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task)_ <br> The free and open-source wiki software package that powers Wikipedia.
 
-## PHP
+## PowerShell
 
-- [JEnvForWindows](https://github.com/https://github.com/FelixSelter/JEnv-for-Windows/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) _(label: first-timers-only)_ <br> Takes some parts of the idea of https://github.com/jenv/jenv to Windows. Lets you easily switch between installed java versions
+- [JEnvForWindows](https://github.com/FelixSelter/JEnv-for-Windows/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) _(label: first-timers-only)_ <br> Takes some parts of the idea of https://github.com/jenv/jenv to Windows. Lets you easily switch between installed java versions
 
 ## Python
 
