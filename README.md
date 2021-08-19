@@ -31,6 +31,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [LaTeX](#latex)
 - [Perl](#perl)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -247,6 +248,10 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task)_ <br> The free and open-source wiki software package that powers Wikipedia.
+
+## PHP
+
+- [JEnvForWindows](https://github.com/https://github.com/FelixSelter/JEnv-for-Windows/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only) _(label: first-timers-only)_ <br> Takes some parts of the idea of https://github.com/jenv/jenv to Windows. Lets you easily switch between installed java versions
 
 ## Python
 
