@@ -45,9 +45,13 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting *Should* be!
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## C
 
 - [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## C#
 
@@ -56,6 +60,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [osu!](https://github.com/ppy/osu/labels/good-first-issue) _(label: good-first-issue)_ <br> Music game. Rhythm is just a *click* away!
 - [Uno Platform](https://github.com/unoplatform/uno/labels/good%20first%20issue) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 - [Cake](https://github.com/cake-build/cake/labels/Good%20first%20issue) _(label: Good first issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## C++
 
@@ -67,26 +73,38 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db/labels/good%20first%20issue) _(label: good first issue)_ <br> Distributed SQL database.
 - [MoveIt](https://github.com/ros-planning/moveit/labels/good%20first%20issue) _(label: good first issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Clojure
 
 - [Alda](https://github.com/alda-lang/alda/labels/low-hanging%20fruit) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. :notes:
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## ClojureScript
 
 - [LightTable](https://github.com/LightTable/LightTable/labels/good%20first%20issue) _(label: good first issue)_ <br>  The Next Generation code editor! One of the top funded projects on KickStarter.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## CSS
 
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Elixir
 
 - [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## Go
 
@@ -107,6 +125,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [containerd](https://github.com/containerd/containerd/labels/exp/beginner) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Meshery](https://github.com/layer5io/meshery/labels/good%20first%20issue) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Java
 
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
@@ -120,6 +140,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://trino.io/slack.html).
 - [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## JavaScript
 
@@ -212,10 +234,14 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Julia
 
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted) _(label: help wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue) _(label: good first issue )_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## Kotlin
 
@@ -224,14 +250,19 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> A <a href="https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api">non-blocking HTTP(S)-Server</a> for <a href="https://sirix.io">SirixDB</a>, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground/labels/good%20first%20issue) _(label: good first issue)_ <br>  A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
 
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## LaTeX
 
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## PHP
 
@@ -248,6 +279,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task)_ <br> The free and open-source wiki software package that powers Wikipedia.
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## Python
 
@@ -289,6 +322,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
@@ -308,6 +343,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Faker](https://github.com/faker-ruby/faker/labels/good%20first%20issue) _(label: good first issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 - [Matestack](https://github.com/matestack/matestack-ui-core/labels/good%20first%20issue) _(label: good first issue)_ <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Rust
 
 - [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
@@ -320,18 +357,26 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter/labels/good%20first%20issue) _(label: good first issue)_ <br> ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name%5B%5D=beginner) _(label: beginner and difficulty::easy)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Scala
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Smalltalk
 
 - [Pharo](https://github.com/pharo-project/pharo/labels/good%20first%20issue) _(label: good first issue)_ <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 
+<br>[⬆ Back to top](## Table of Contents:)
+
 ## Swift
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## TypeScript
 
@@ -345,6 +390,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Booster](https://github.com/boostercloud/booster/labels/good%20first%20issue) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp/labels/good%20first%20issue) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp/labels/good%20first%20issue) _(label: good first issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+
+<br>[⬆ Back to top](## Table of Contents:)
 
 ## Contribute
 
