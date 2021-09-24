@@ -106,6 +106,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue) _(label: GoodFirstIssue)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [containerd](https://github.com/containerd/containerd/labels/exp/beginner) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Meshery](https://github.com/layer5io/meshery/labels/good%20first%20issue) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
+- [MojoAuth](https://github.com/MojoAuth/mojoauth-go/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> MojoAuth, Complete Passwordless as a Service
 
 ## Java
 
@@ -120,6 +121,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF/labels/good%20first%20issue) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://trino.io/slack.html).
 - [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
+- [MojoAuth](https://github.com/MojoAuth/java-sdk/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> MojoAuth, Complete Passwordless as a Service
 
 ## JavaScript
 
@@ -211,6 +213,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
+- [MojoAuth - NodeJs](https://github.com/MojoAuth/mojoauth-node/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> MojoAuth, Complete Passwordless as a Service
 
 ## Julia
 
@@ -248,6 +251,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task)_ <br> The free and open-source wiki software package that powers Wikipedia.
+- [MojoAuth - PHP](https://github.com/MojoAuth/mojoauth-php/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) _(label: good first issue)_ <br> MojoAuth, Complete Passwordless as a Service
 
 ## Python
 
