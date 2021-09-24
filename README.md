@@ -1,5 +1,3 @@
-[![Himnadram](assets/himnadram-dark.jpg)](https://bit.ly/himnadram_donate)
-
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginner-friendly projects.
@@ -348,6 +346,27 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 ## Contribute
 
 Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
+
+## Thanks to GitHub Sponsors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thamara">
+        <img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/>
+        <br />
+        <sub><b>Thamara Andrade</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ShehanAT">
+        <img src="https://avatars1.githubusercontent.com/u/24355366?v=4?s=60" width="60px;" alt=""/>
+        <br>
+        <sub><b>Shehan Atukorala</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## License
 
