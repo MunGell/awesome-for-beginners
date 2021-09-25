@@ -104,6 +104,9 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name%5B%5D=GoodFirstIssue) _(label: GoodFirstIssue)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [containerd](https://github.com/containerd/containerd/labels/exp/beginner) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Meshery](https://github.com/layer5io/meshery/labels/good%20first%20issue) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
+- [LoginRadius CLI](https://github.com/LoginRadius/lr-cli/labels/good%20first%20issue) _(label: good first issue)_ <br> Implement authentication to your application without leaving the terminal.
+- [Go SAML](https://github.com/LoginRadius/go-saml/labels/hacktoberfest) _(label: hacktoberfest)_ <br> High Level API Implementation of SAML 2.0 (Currently Supported Identity Provider Implementation) Single Sign On
+- 
 
 ## Java
 
@@ -209,6 +212,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
+- [LoginRadius Blog](https://github.com/LoginRadius/engineering-portal/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of valuable resources by developers -- for developers -- to share practical learnings, development challenges, open-source initiatives in dev, QA, Infra, and implementation.
+- [LoginRadius Docs](https://github.com/LoginRadius/docs/labels/good%20first%20issue) _(label: good first issue)_ <br> LoginRadius Developer Documentation
 
 ## Julia
 
@@ -342,6 +347,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Booster](https://github.com/boostercloud/booster/labels/good%20first%20issue) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp/labels/good%20first%20issue) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp/labels/good%20first%20issue) _(label: good first issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+- [LoginRadius React SDK](https://github.com/LoginRadius/loginradius-react/labels/good%20first%20issue) _(label: good first issue)_ <br> A React SDK to implement LoginRadius.
 
 ## Contribute
 
