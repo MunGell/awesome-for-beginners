@@ -76,7 +76,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## CSS
 
 - [sButtons](https://github.com/shahednasser/sbuttons/labels/good%20first%20issue) _(label: good first issue)_ <br> Simple buttons you can easily use for your next project.
-- [Bootstrap 5 cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) <br> An interactive list of Bootstrap 5 classes, variables, and mixins..
+- [Bootstrap 5 cheatsheet](https://github.com/themeselection/bootstrap-cheatsheet) <br> An interactive list of Bootstrap 5 classes, variables, and mixins..
 
 
 ## Dart
