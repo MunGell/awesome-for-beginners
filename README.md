@@ -20,6 +20,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [ClojureScript](#clojurescript)
 - [CSS](#css)
 - [Dart](#dart)
+- [Documentation](#documentation)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Java](#java)
@@ -80,6 +81,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www/labels/beginner) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+
+## Documentation
+
+- [C-DAC-Notes](https://github.com/shreeshailaya/C-DAC-Notes/issues?q=label%3A%22good+first+issue%22+) _(label: good first issue)_ This is a notes of Computer Science with documentation and assignments of various subjects like Java,JS,Data Structures etc
 
 ## Elixir
 
