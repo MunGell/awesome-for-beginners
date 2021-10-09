@@ -209,6 +209,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend/labels/good%20first%20issue) _(label: good first issue)_ <br> Free online queue manager for easy and instant crowd control. [Contributing Guidelines](https://github.com/SimplQ/simplQ-frontend#contributing)
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
+- [Flame Coach - Web](https://github.com/FlameNutrition/flame-coach-web/labels/easy-to-contribute) _(label: easy to contribute)_ <br> Flame Coach, is a simple way nutrition coaches track their client's progress!
 
 ## Julia
 
@@ -221,7 +222,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted) _(label: help wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix/labels/good%20first%20issue) _(label: good first issue)_ <br> A <a href="https://github.com/sirixdb/sirix/tree/master/bundles/sirix-rest-api">non-blocking HTTP(S)-Server</a> for <a href="https://sirix.io">SirixDB</a>, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground/labels/good%20first%20issue) _(label: good first issue)_ <br>  A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
-
+- [Flame Coach - Service](https://github.com/FlameNutrition/flame-coach-service/labels/easy-to-contribute) _(label: easy to contribute)_ <br> Flame Coach - Service, is the backend for an application to help nutrition coaches track their client's progress! 
 
 ## LaTeX
 
