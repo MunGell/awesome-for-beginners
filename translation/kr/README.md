@@ -1,7 +1,9 @@
 # Awesome First PR Opportunities(Kr) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 블로그 포스트에 영감을 받은 초보자에게 친숙하고 멋진 프로젝트의 목록입니다!
- 
+초보자에게 친숙하고 멋진 프로젝트의 목록입니다.
+
+이 목록은 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 블로그 포스트에서 영감을 받았습니다.
+
 만약 당신이 오픈소스 프로젝트의 메인테이너라면, `first-timers-only` (또는 이와 비슷한) label을 당신의 프로젝트에 추가하고, 사람들이 찾을 수 있도록 여기에 작성하세요!
 
 혹은 기여할게 있는지 찾고있는 중이라면 이 목록을 탐색하고,  [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)를 보세요. 그리고 새로운 `first-timers-only` 이슈가 생길 때 알림받을 수 있도록 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 트위터를 팔로우하세요.
