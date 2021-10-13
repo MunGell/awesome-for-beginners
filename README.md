@@ -160,6 +160,7 @@ If you are not a programmer, but would like to contribute, check out the [Awesom
 - [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue) _(label: good first issue)_ <br> Open source content management for your git workflow.
 - [altair](https://github.com/imolorhe/altair/labels/good%20first%20issue) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App/labels/good%20first%20issue) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
+- [Thanosjs](https://thanosjs.org/) _(label: good first issue)_ <br> Reduce the file size of your project down to 50%, by randomly deleting half of the files.
 
 ## Julia
 
