@@ -23,3 +23,6 @@ Please ensure that your pull request adheres to the following guidelines:
 Thank you for your suggestions!
 
 (This file was partially copied from [awesome-speaking](https://github.com/matteofigus/awesome-speaking))
+
+
+(This is just for a task, don;t mind it)
