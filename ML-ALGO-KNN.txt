@@ -1,0 +1,7 @@
+K-NEARESRT NEIGHBOURS ALGORITHM:-
+
+The KNN algorithm is very simple and very effective. The model representation for KNN is the entire training dataset. Simple right?
+
+Predictions are made for a new data point by searching through the entire training set for the K most similar instances (the neighbors) and summarizing the output variable for those K instances. For regression problems, this might be the mean output variable, for classification problems this might be the mode (or most common) class value.
+
+The trick is in how to determine the similarity between the data instances. The simplest technique if your attributes are all of the same scale (all in inches for example) is to use the Euclidean distance, a number you can calculate directly based on the differences between each input variable
