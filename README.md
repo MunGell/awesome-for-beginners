@@ -27,6 +27,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Julia](#julia)
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
+- [Markdown](#markdown)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -226,6 +227,10 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 ## LaTeX
 
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+
+## Markdown
+
+- [tldr-pages](https://github.com/tldr-pages/tldr/labels/help%20wanted) _(label: help wanted)_ <br> Collaborative cheatsheets for console commands.
 
 ## Perl
 
