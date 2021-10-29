@@ -45,7 +45,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
+- [Neovim](https://github.com/neovim/neovim/labels/good-first-issue) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C#
 
