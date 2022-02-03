@@ -46,7 +46,9 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim/labels/good-first-issue) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
+- [Neovim](https://github.com/neovim/neovim/labels/good-first-issue) _(label: good-first-issue-)_ <br> Vim-fork focused on extensibility and agility.
+
+- [RajAdwaita](https://github.com/RajAdwaita/DATA-STRUCTURES) _(label:good-first-issue-good-first-contribution-beginner friendly)_<br> Data Structures Solved Codes in C language.
 
 ## C#
 
