@@ -360,15 +360,15 @@ Contributions are welcome! See the [contribution guidelines](CONTRIBUTING.md).
     <td align="center">
       <a href="https://github.com/thamara">
         <img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/>
-        <br />
-        <sub><b>Thamara Andrade</b></sub>
+        <br>
+        <sub><strong>Thamara Andrade</strong></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ShehanAT">
         <img src="https://avatars1.githubusercontent.com/u/24355366?v=4?s=60" width="60px;" alt=""/>
         <br>
-        <sub><b>Shehan Atukorala</b></sub>
+        <sub><strong>Shehan Atukorala</strong></sub>
       </a>
     </td>
   </tr>
