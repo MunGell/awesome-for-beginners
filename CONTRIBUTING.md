@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution Guidelines for beginners
 
 Please ensure that your pull request adheres to the following guidelines:
 
