@@ -34,10 +34,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
-- [Smalltalk](#smalltalk)
-- [Swift](#swift)
-- [TypeScript](#typescript)
-
 ## .NET
 
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross/labels/first-timers-only) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
