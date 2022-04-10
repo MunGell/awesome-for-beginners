@@ -211,6 +211,8 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch/labels/good%20first%20issue%20%3Awave%3A) _(label: good first issue)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [Create React App](https://github.com/facebook/create-react-app/labels/good%20first%20issue) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
 - [Svelte](https://github.com/sveltejs/svelte/labels/good%20first%20issue) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
+- [React Help Create](https://github.com/Omar-Belghaouti/react-help-create) _(label: first-timers-only)_ <br>
+This command line helps you create components, pages and even redux implementation for your react project.
 
 ## Julia
 
