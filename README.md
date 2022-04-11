@@ -327,6 +327,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 - [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue) _(label: good first issue)_ <br>The High Velocity Web Framework
+- [tldr-pages](https://github.com/tldr-pages/tldr/labels/help%20wanted) _(label: help wanted)_ <br> Collaborative cheatsheets for console commands.
 
 ## Smalltalk
 
