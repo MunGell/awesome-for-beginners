@@ -120,6 +120,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino/labels/good%20first%20issue) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on [project's Slack](https://trino.io/slack.html).
 - [appsmith](https://github.com/appsmithorg/appsmith/labels/good%20first%20issue) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Codename One](https://github.com/codenameone/CodenameOne/labels/good%20first%20issue) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
+- [Dinosaur Exploder](https://github.com/dylan-power/dinosaur-exploder/labels/good%20first%20issue) _(label: good first issue)_ <br> A classic inspired shoot em' up game written in Java with JavaFX and FXGL.
 
 ## JavaScript
 
