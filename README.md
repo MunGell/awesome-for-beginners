@@ -291,6 +291,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [Pytorch](https://github.com/pytorch/pytorch/labels/good%20first%20issue) _(label: Good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer/labels/good%20first%20issue) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
+- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost. 
 
 ## Ruby
 
