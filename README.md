@@ -252,6 +252,7 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop/labels/good%20first%20issue) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Flarum](https://github.com/flarum/core/labels/Good%20first%20issue) _(label: good first issue)_ <br> Simple forum software for building great communities.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: good first task)_ <br> The free and open-source wiki software package that powers Wikipedia.
+- [Ratchet] (http://socketo.me/) _(label: good first task)_ <br> Ratchet is a loosely coupled PHP library providing developers with tools to create real time, bi-directional applications between clients and servers over WebSockets. 
 
 ## Python
 
