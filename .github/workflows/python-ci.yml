@@ -3,14 +3,22 @@ on:
   schedule:
     - cron: "0 10 15 * *"
 jobs:
-  update-list:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - name: Setup Python Application
       - uses: actions/setup-python@v3
         with:
           python-version: "3.x"
           architecture: "x64"
+      - name: Setup venv
+        run: python3 -m venv ./venv
+      - name: Activate venv
+        run: source venv/bin/active
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
       - name: Run Script
         run: python3 main.py
       - name: Print Results
