@@ -1,6 +1,5 @@
 name: Update List
 on:
-  push:
   schedule:
     - cron: "0 10 15 * *"
 jobs:
