@@ -44,6 +44,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [RawCMS](https://github.com/arduosoft/RawCMS/labels/good%20first%20issue) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 - [Legerity](https://github.com/MADE-Apps/legerity/labels/good%20first%20issue) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
+- [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno/labels/good%20first%20issue) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 
 ## C
 
