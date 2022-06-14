@@ -1,15 +1,49 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Dictionary;
+import java.util.Hashtable;
+import java.util.List;
+import java.util.Set;
+import java.util.TreeMap;
+
+import applesoranges.applesoranges;
+import cupcake.cupcake;
+import gradingstudents.gradingstudents;
+import pageobjects.page;
+import timeconversion.timeconversion;
 
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+
+        applesoranges.countapplesoranges(7, 11, 5, 15, new int[] { -2, 2, 1 }, new int[] { 5, -6 });
+        Integer[] grades = {73, 67, 38, 33};
+        gradingstudents.gradingStudents(grades);
+        String convertedTime = timeconversion.timeConversion("07:05:45PM");
+
+        cupcake.calculatecalorie(new int[] { 5, 10, 7 });
+
+        List<Integer> calories = new ArrayList<Integer>();
+        calories.add(5);
+        calories.add(10);
+        calories.add(7);
+        cupcake.calculatecalorie(calories);
+        
+        
         addtwonumbers(2, 3);
-        int[] a = createrandomarray(10);
+        int[] a = createrandomarray(100);
+        printoccurences(a);
         sortarray(a);
 
         Node head = createlinklistwithrandomnumbers(10);
         lengthoflinkedlist(head);
+
+        page pg = new page();
+        pg.navigatetopage1("https://www.okta.com");
+
+        
         
     }
 
@@ -294,17 +328,34 @@ public void multiplymatrices(int[][] a, int[][] b) {
 }
 
 //print the occurences of a numbers in a array
-public void printoccurences(int[] a) {
+public static void printoccurences(int[] a) {
     int count = 0;
+    Hashtable<Integer, Integer> int_count = new Hashtable<>();
     for (int i = 0; i < a.length; i++) {
         for (int j = 0; j < a.length; j++) {
             if (a[i] == a[j]) {
                 count++;
-            }
+                if(int_count.containsKey(a[i])){
+                    int_count.put(a[i], int_count.get(a[i])+1);
+                }else{
+                    int_count.put(a[i], 1);
+                }
         }
-        System.out.println(a[i] + " occurs " + count + " times");
+    }
+        //System.out.println(a[i] + " occurs " + count + " times");
         count = 0;
     }
+    System.out.println(" ");
+    System.out.println("Occurences of each number in the array and sorted in ascending order");
+    Collections.list(int_count.keys());
+
+    //sort a hashtable
+    TreeMap<Integer, Integer> tmap = new TreeMap<Integer, Integer>(int_count);
+    //System.out.print(tmap);
+    for (int i : tmap.keySet()) {
+        System.out.println(i + " occurs " + tmap.get(i) + " times");
+    }
+    System.out.println("****************************************************************************************** ");
 }
 
 }
