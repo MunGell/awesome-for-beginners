@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/madhuridevidi/Downloads/selenium-java-4.2.2/**/*.jar"
+    ]
+}

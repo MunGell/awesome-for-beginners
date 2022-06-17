@@ -9,14 +9,25 @@ import java.util.Set;
 import java.util.TreeMap;
 
 import applesoranges.applesoranges;
+import beautifultriplets.beautifultriplets;
 import cupcake.cupcake;
 import gradingstudents.gradingstudents;
 import pageobjects.page;
 import timeconversion.timeconversion;
+import circulararrayrotation.circulararrayrotation;
 
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+
+        List<Integer> l1 = new ArrayList(); l1.add(3); l1.add(4);l1.add(5);
+        Integer k = 2;
+        List<Integer> queries = new ArrayList(); queries.add(1);queries.add(2);
+        List<Integer> returnindicesvalues = circulararrayrotation.circulararrayrotationnumbers(l1, k, queries);
+
+        int d = 3;
+        int[] arr = { 1, 2, 4, 5, 7, 8, 10 };
+        beautifultriplets.beautifultriplet(d, arr);
 
         applesoranges.countapplesoranges(7, 11, 5, 15, new int[] { -2, 2, 1 }, new int[] { 5, -6 });
         Integer[] grades = {73, 67, 38, 33};
