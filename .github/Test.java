@@ -15,10 +15,17 @@ import gradingstudents.gradingstudents;
 import pageobjects.page;
 import timeconversion.timeconversion;
 import circulararrayrotation.circulararrayrotation;
+import electronicsshop.*;
 
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
+
+        List<Integer> keyboards = new ArrayList<>();
+        keyboards.add(40);keyboards.add(50);keyboards.add(60);
+        List<Integer> drives = new ArrayList<>();
+        drives.add(5);drives.add(8);drives.add(12);
+        electronicshop.electronicsshop(60, keyboards, drives);
 
         List<Integer> l1 = new ArrayList(); l1.add(3); l1.add(4);l1.add(5);
         Integer k = 2;
