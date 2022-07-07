@@ -108,6 +108,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Java
 
+- [RoastyToasty](https://github.com/dev-aniketj/RoastyToasty) _(label: good first issue)_ <br> Create custom Toast easily.
+- [Brick Breaker Game](https://github.com/dev-aniketj/Brick-Breaker-Game) _(label: good first issue)_ <br> Brick Breaker Game is a Breakout clone which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle.
 - [Strongbox](https://github.com/strongbox/strongbox/labels/good%20first%20issue) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/good%20first%20issue) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
