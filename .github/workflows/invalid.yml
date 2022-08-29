@@ -3,7 +3,7 @@ name: Check on Invalid PR
 on:
   pull_request_target:
     branches:
-      - master
+      - main
     paths-ignore:
       - '.github/**'
       - 'data.json'

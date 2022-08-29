@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - 'master'
+      - main
     paths:
       - 'data.json'
       - '.github/tpl.md'
