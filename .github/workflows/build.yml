@@ -1,0 +1,26 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - 'master'
+    paths:
+      - 'data.json'
+      - '.github/tpl.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16.x"
+      - name: Build
+        run: node .github/scripts/build.js
+      - name: Commit
+        run: |
+          git config --global user.name 'Shmavon Gazanchyan'
+          git config --global user.email 'MunGell@users.noreply.github.com'
+          git commit -am "Update README.md"
+          git push

@@ -1,0 +1,38 @@
+name: Check on Invalid PR
+
+on:
+  pull_request_target:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/**'
+      - 'data.json'
+      - 'CONTRIBUTING.md'
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v6
+        with:
+           script: |
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'This PR is not valid. Please read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/CONTRIBUTING.md).'
+            });
+            if (context.payload.pull_request.labels.indexOf('Invalid') === -1) {
+              await github.rest.issues.addLabels({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                labels: ['Invalid']
+              });
+            }
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              state: 'closed'
+            });
