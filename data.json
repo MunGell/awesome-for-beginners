@@ -106,7 +106,7 @@
         {
             "name": "Godot Engine",
             "link": "https://github.com/godotengine/godot",
-            "label": "junior-job",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -238,8 +238,8 @@
         },
         {
             "name": "Hugo",
-            "link": "https://github.com/spf13/hugo",
-            "label": "exp/beginner",
+            "link": "https://github.com/gohugoio/hugo",
+            "label": "GoodFirstIssue",
             "technologies": [
                 "Go"
             ],
@@ -754,15 +754,6 @@
                 "JavaScript"
             ],
             "description": "The only sane way to build great bots."
-        },
-        {
-            "name": "Atom",
-            "link": "https://github.com/atom/atom",
-            "label": "beginner",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "The hackable text editor"
         },
         {
             "name": "cdnjs",
@@ -1718,7 +1709,7 @@
         },
         {
             "name": "Rust-Clippy",
-            "link": "https://github.com/rust-lang-nursery/rust-clippy",
+            "link": "https://github.com/rust-lang/rust-clippy",
             "label": "good-first-issue",
             "technologies": ["Rust"],
             "description": "A bunch of lints to catch common mistakes and improve Rust code"
@@ -1814,13 +1805,6 @@
             "description": "A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
         },
         {
-            "name": "tslint-eslint-rules",
-            "link": "https://github.com/buzinas/tslint-eslint-rules",
-            "label": "nice-first-contribution",
-            "technologies": ["TypeScript"],
-            "description": "ESLint rules for TSLint."
-        },
-        {
             "name": "reatom",
             "link": "https://github.com/artalar/reatom",
             "label": "good-first-issue",
@@ -1868,6 +1852,69 @@
             "label": "good-first-issue",
             "technologies": ["TypeScript"],
             "description": "Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)"
+        },
+        {
+            "name": "a-b-street",
+            "link": "https://github.com/a-b-street/abstreet",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit."
+        },
+        {
+            "name": "typescript-eslint",
+            "link": "https://github.com/typescript-eslint/typescript-eslint",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Monorepo for all the tooling which enables ESLint to support TypeScript."
+        },
+        {
+            "name": "Colossal-AI",
+            "link": "https://github.com/hpcaitech/ColossalAI",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open-source deep learning system for large-scale model training and inference with high efficiency and low cost."
+        },
+        {
+            "name": "Amplication",
+            "link": "https://github.com/amplication/amplication",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
+        },
+        {
+            "name": "React Help Create",
+            "link": "https://github.com/Omar-Belghaouti/react-help-create",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "This command line helps you create components, pages and even redux implementation for your react project."
+        },
+        {
+            "name": "pythonping",
+            "link": "https://github.com/alessandromaggio/pythonping",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell."
+        },
+        {
+            "name": "flutter",
+            "link": "https://github.com/flutter/flutter",
+            "label": "good first contribution",
+            "technologies": [
+                "Dart"
+            ],
+            "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase."
         }
     ]
 }
