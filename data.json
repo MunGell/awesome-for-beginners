@@ -477,36 +477,9 @@
             "description": "The easy-to-use OpenStreetMap editor in JavaScript."
         },
         {
-            "name": "missioncontrol",
-            "link": "https://github.com/davfoundation/missioncontrol",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries."
-        },
-        {
-            "name": "missions",
-            "link": "https://github.com/davfoundation/missions",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace."
-        },
-        {
-            "name": "annyang",
-            "link": "https://github.com/TalAter/annyang",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones."
-        },
-        {
             "name": "PouchDB",
             "link": "https://github.com/pouchdb/pouchdb",
-            "label": "first-timers-only",
+            "label": "help-wanted",
             "technologies": [
                 "JavaScript"
             ],
@@ -520,33 +493,6 @@
                 "JavaScript"
             ],
             "description": "JavaScript library for mobile-friendly interactive maps."
-        },
-        {
-            "name": "Dragula",
-            "link": "https://github.com/bevacqua/dragula",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Drag and drop so simple it hurts."
-        },
-        {
-            "name": "history",
-            "link": "https://github.com/rackt/history",
-            "label": "good-for-beginner",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A minimal, functional history library for JavaScript."
-        },
-        {
-            "name": "TodoMVC",
-            "link": "https://github.com/tastejs/todomvc",
-            "label": "first-time-contributor",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Helping you select an MV* framework by implementing Todo in lots of JavaScript apps."
         },
         {
             "name": "AVA",
@@ -639,15 +585,6 @@
             "description": "JS/HTML/CSS Terminal"
         },
         {
-            "name": "pdf.js",
-            "link": "https://github.com/mozilla/pdf.js",
-            "label": "5-good-beginner-bug",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "PDF Reader in JavaScript"
-        },
-        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
@@ -664,15 +601,6 @@
                 "JavaScript"
             ],
             "description": "The Serverless Framework"
-        },
-        {
-            "name": "Hoodie Camp",
-            "link": "https://github.com/hoodiehq/camp",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Hoodie Camp is a space for new and existing contributors."
         },
         {
             "name": "React",
@@ -713,7 +641,7 @@
         {
             "name": "pixi.js",
             "link": "https://github.com/pixijs/pixi.js",
-            "label": "Difficulty:-Easy",
+            "label": "🤩 Good First PR",
             "technologies": [
                 "JavaScript"
             ],
@@ -729,15 +657,6 @@
             "description": "A minimalistic framework for universal server-rendered React applications"
         },
         {
-            "name": "keystonejs",
-            "link": "https://github.com/keystonejs/keystone",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB."
-        },
-        {
             "name": "Semantic-UI-React",
             "link": "https://github.com/Semantic-Org/Semantic-UI-React",
             "label": "good-first-issue",
@@ -749,7 +668,7 @@
         {
             "name": "Botpress",
             "link": "https://github.com/botpress/botpress",
-            "label": "good-first-issue",
+            "label": "contributor-friendly",
             "technologies": [
                 "JavaScript"
             ],
@@ -767,7 +686,7 @@
         {
             "name": "Video.js",
             "link": "https://github.com/videojs/video.js",
-            "label": "first-timers-only",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -776,7 +695,7 @@
         {
             "name": "stryker",
             "link": "https://github.com/stryker-mutator/stryker",
-            "label": "beginner-friendly",
+            "label": "👶 Good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -844,15 +763,6 @@
                 "JavaScript"
             ],
             "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web."
-        },
-        {
-            "name": "squirrelly",
-            "link": "https://github.com/nebrelbug/squirrelly",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Squirrelly is a lightweight template engine that supports helpers, filters, partials, and more."
         },
         {
             "name": "NativeScript",
@@ -1082,7 +992,7 @@
         {
             "name": "cypress",
             "link": "https://github.com/cypress-io/cypress",
-            "label": "first-timers-only",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1158,7 +1068,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "description": "Free online queue manager for easy and instant crowd control. Contributing Guidelines"
+            "description": "Free online queue manager for easy and instant crowd control."
         },
         {
             "name": "ReactiveSearch",
