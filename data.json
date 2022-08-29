@@ -1431,13 +1431,6 @@
             "description": "An optional static typing for python."
         },
         {
-            "name": "numpy",
-            "link": "https://github.com/numpy/numpy",
-            "label": "good-first-issue",
-            "technologies": ["Python"],
-            "description": "It is the core library for scientific computing, which contains a powerful n-dimensional array object."
-        },
-        {
             "name": "matplotlib",
             "link": "https://github.com/matplotlib/matplotlib",
             "label": "good-first-issue",
