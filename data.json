@@ -1355,8 +1355,8 @@
         },
         {
             "name": "cookiecutter",
-            "link": "https://github.com/audreyr/cookiecutter",
-            "label": "low-hanging-fruit",
+            "link": "https://github.com/cookiecutter/cookiecutter",
+            "label": "good first issue",
             "technologies": ["Python"],
             "description": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects."
         },
@@ -1818,6 +1818,33 @@
                 "Dart"
             ],
             "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase."
+        },
+        {
+            "name": "Profanity",
+            "link": "https://github.com/profanity-im/profanity",
+            "label": "good-first-issue",
+            "technologies": [
+                "C"
+            ],
+            "description": "Ncurses XMPP chat client."
+        },
+        {
+            "name": "Superalgos",
+            "link": "https://github.com/Superalgos/Superalgos",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token."
+        },
+        {
+            "name": "Ockam",
+            "link": "https://github.com/ockam-network/ockam",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "End-to-end encryption and mutual authentication for distributed applications."
         }
     ]
 }
