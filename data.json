@@ -1818,6 +1818,15 @@
                 "Dart"
             ],
             "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase."
-        }
+        },
+        {
+            "name": "startupeer",
+            "link": "https://github.com/zaidajani/startupeer-MERN",
+            "label": "good-first-contribution",
+            "technologies": [
+                "Javascript",
+                "CSS"
+            ],
+            "description": "A utility where startup ideas meet its market reviews, in MERN stack."
     ]
 }
