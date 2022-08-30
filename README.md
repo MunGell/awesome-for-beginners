@@ -47,6 +47,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## C
 
 - [Neovim](https://github.com/neovim/neovim) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
+- [Profanity](https://github.com/profanity-im/profanity) _(label: good-first-issue)_ <br> Ncurses XMPP chat client.
 
 ## C#
 
@@ -184,6 +185,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend) _(label: good-first-issue)_ <br> Free online queue manager for easy and instant crowd control.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) _(label: good-first-issue)_ <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
 - [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
+- [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good-first-issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good-first-issue)_ <br> Swag opportunities for developers.
 - [Tessel 2 CLI](https://github.com/tessel/t2-cli) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
@@ -247,7 +249,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good-first-issue)_ <br> Building a Better Democracy for the Internet Age
 - [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) _(label: low-hanging-fruit)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 - [datascience](https://github.com/data-8/datascience) _(label: good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
@@ -304,6 +306,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hyper](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [Iron](https://github.com/iron/iron) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [nushell](https://github.com/nushell/nushell) _(label: good-first-issue)_ <br> A modern shell for the GitHub era written in Rust.
+- [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
 - [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
