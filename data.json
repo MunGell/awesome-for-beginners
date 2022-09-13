@@ -1846,7 +1846,7 @@
             ],
             "description": "End-to-end encryption and mutual authentication for distributed applications."
         },
-         {
+        {
             "name": "H2O Wave",
             "link": "https://github.com/h2oai/wave",
             "label": "good first issue",
@@ -1855,6 +1855,17 @@
                 "Typescript"
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
+        },
+        {
+            "name": "OpenMetadata",
+            "link": "https://github.com/open-metadata/OpenMetadata",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "Typescript",
+                "Java"
+            ],
+            "description": "A Single Place to Discover, Collaborate and get your Data Right."
         }
     ]
 }
