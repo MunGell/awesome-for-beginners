@@ -1865,7 +1865,7 @@
                 "Typescript",
                 "Java"
             ],
-            "description": "A Single Place to Discover, Collaborate and get your Data Right."
+            "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
         }
     ]
 }
