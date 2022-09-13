@@ -1855,6 +1855,16 @@
                 "Typescript"
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
+        },
+          {
+            "name": "Node Efficientnet",
+            "link": "https://github.com/ntedgi/node-efficientnet",
+            "label": "good first issue",
+            "technologies": [
+                "NodeJS",
+                "Image Recognition"
+            ],
+            "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
         }
     ]
 }
