@@ -345,6 +345,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Typescript
 
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 
 
 ## Contribute
