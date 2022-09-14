@@ -1861,8 +1861,7 @@
             "link": "https://github.com/ntedgi/node-efficientnet",
             "label": "good first issue",
             "technologies": [
-                "JavaScript",
-                "Image Recognition"
+                "Typescript"
             ],
             "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
         }
