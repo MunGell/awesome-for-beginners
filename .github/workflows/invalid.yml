@@ -20,7 +20,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'This PR is not valid. Please read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/CONTRIBUTING.md).'
+              body: 'This PR is not valid. Please read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/blob/main/CONTRIBUTING.md).'
             });
             if (context.payload.pull_request.labels.indexOf('Invalid') === -1) {
               await github.rest.issues.addLabels({
