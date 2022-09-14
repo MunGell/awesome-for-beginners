@@ -1846,7 +1846,7 @@
             ],
             "description": "End-to-end encryption and mutual authentication for distributed applications."
         },
-         {
+        {
             "name": "H2O Wave",
             "link": "https://github.com/h2oai/wave",
             "label": "good first issue",
@@ -1856,7 +1856,7 @@
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
         },
-          {
+        {
             "name": "Node Efficientnet",
             "link": "https://github.com/ntedgi/node-efficientnet",
             "label": "good first issue",
@@ -1864,6 +1864,17 @@
                 "Typescript"
             ],
             "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
+        },
+        {
+            "name": "OpenMetadata",
+            "link": "https://github.com/open-metadata/OpenMetadata",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "Typescript",
+                "Java"
+            ],
+            "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
         }
     ]
 }
