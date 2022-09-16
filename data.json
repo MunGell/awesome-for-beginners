@@ -1878,7 +1878,7 @@
         },
         {
             "name": "Eui Event Template",
-            "link": "https://github.com/brittanyjoiner15/eui-event",
+            "link": "https://github.com/brittanyjoiner15/eui-event-template",
             "label": "good first issue",
             "technologies": [
                 "Javascript",
