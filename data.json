@@ -1875,6 +1875,15 @@
                 "Java"
             ],
             "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
+        },
+        {
+            "name": "Eui Event Template",
+            "link": "https://github.com/brittanyjoiner15/eui-event",
+            "label": "good first issue",
+            "technologies": [
+                "Javascript",
+            ],
+            "description": "A simple React app styled with Eui to display information about an event or conference, including speaker bios, agenda, and more! "
         }
     ]
 }
