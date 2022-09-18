@@ -35,6 +35,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Rust](#rust)
 - [Scala](#scala)
 - [Smalltalk](#smalltalk)
+- [Solidity](#solidity)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Typescript](#typescript)
@@ -325,6 +326,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Smalltalk
 
 - [Pharo](https://github.com/pharo-project/pharo) _(label: good-first-issue)_ <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
+
+## Solidity
+
+- [Metafy](https://github.com/metafy-social/web3-smart-contracts) _(label: good-first-issue)_ <br> A beginner-friendly open-source repository that helps people transition from web2 to web3, with experts guiding you through the journey of writing effective smart contracts.
 
 ## Swift
 
