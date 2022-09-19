@@ -252,6 +252,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [datascience](https://github.com/data-8/datascience) _(label: good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
+- [fund-at-first-sight](https://github.com/fabric/fabric) _(label: good-first-issue)_ <br> A university scraping tool made for Graduate Students who are in search of Professors for Research Assistant position.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(label: Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
@@ -269,7 +270,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [pandas](https://github.com/pandas-dev/pandas) _(label: good-first-issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
+- [
+ping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
 - [Pytorch](https://github.com/pytorch/pytorch) _(label: good-first-issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [SaltStack](https://github.com/saltstack/salt) _(label: good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
