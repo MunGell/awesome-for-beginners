@@ -2043,7 +2043,7 @@
             "label": "good first issue",
             "technologies": [
                 "Python",
-                "Typescript"
+                "TypeScript"
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
         },
@@ -2052,7 +2052,7 @@
             "link": "https://github.com/ntedgi/node-efficientnet",
             "label": "good first issue",
             "technologies": [
-                "Typescript"
+                "TypeScript"
             ],
             "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
         },
@@ -2062,7 +2062,7 @@
             "label": "good first issue",
             "technologies": [
                 "Python",
-                "Typescript",
+                "TypeScript",
                 "Java"
             ],
             "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
@@ -2073,7 +2073,7 @@
             "label": "good first issue",
             "technologies": [
                 "Haskell",
-                "Typescript"
+                "TypeScript"
             ],
             "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
         },
