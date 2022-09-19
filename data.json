@@ -1875,6 +1875,15 @@
                 "Java"
             ],
             "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
+        },
+        {
+            "name": "Fund at first sight",
+            "link": "https://github.com/rafathasan/fund-at-first-sight",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+            ],
+            "description": "A university scraping tool made for Graduate Students who are in search of Professors for Research Assistant position."
         }
     ]
 }
