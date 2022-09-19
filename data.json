@@ -2094,6 +2094,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Fund at first sight",
+            "link": "https://github.com/rafathasan/fund-at-first-sight",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+            ],
+            "description": "A university scraping tool made for Graduate Students who are in search of Professors for Research Assistant position."
         }
     ]
 }
