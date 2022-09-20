@@ -2047,7 +2047,7 @@
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
         },
-                {
+	{
             "name": "H2O Wave Apps",
             "link": "https://github.com/h2oai/wave-apps",
             "label": "hacktoberfest",
