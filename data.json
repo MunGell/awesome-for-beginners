@@ -28,7 +28,7 @@
             "technologies": [
                 ".NET"
             ],
-            "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
+            "description": "RawCMS is headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
         },
         {
             "name": "Shouldly",
