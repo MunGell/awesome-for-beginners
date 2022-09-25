@@ -9,9 +9,19 @@
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
-        "C++": "c-2"
+        "C++": "c-2",
+        "Solidity": "solidity"
     },
     "repositories": [
+        {
+            "name": "Metafy Web3 Smart-Contracts",
+            "link": "https://github.com/metafy-social/web3-smart-contracts",
+            "label": "good first issue",
+            "technologies": [
+                "Solidity"
+            ],
+            "description": "A compilation of smart-contracts in the web3 space, all in a simple and collective space of hardhat for you to refer anytime."
+        },
         {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
