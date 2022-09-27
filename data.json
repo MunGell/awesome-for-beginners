@@ -2094,6 +2094,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Face-X",
+            "link": "https://github.com/akshitagupta15june/Face-X",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Demonstration of different algorithms and operations on faces"
         }
     ]
 }
