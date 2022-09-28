@@ -277,6 +277,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
 - [Pytorch](https://github.com/pytorch/pytorch) _(label: good-first-issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [Port-scanner](https://github.com/thecyberworld/port-scanner) _(label: good-first-issue)_ <br>  A fast port scanner written in python with a focus on reliability and simplicity.
 - [SaltStack](https://github.com/saltstack/salt) _(label: good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
