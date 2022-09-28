@@ -1225,6 +1225,15 @@
             "description": "Open source self-hosted continuous integration server for PHP projects."
         },
         {
+            "name": "PHP OOP",
+            "link": "https://github.com/ShoaibSiddiqi/phpOOP",
+            "label": "Good-For-Beginner",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "PHP OOP concepts for beginners."
+        },
+        {
             "name": "Drupal",
             "link": "https://www.drupal.org/getting-involved-guide",
             "technologies": [
