@@ -1313,6 +1313,15 @@
             "description": "The Python Internationalization Library."
         },
         {
+            "name": "port scanner",
+            "link": "https://github.com/thecyberworld/port-scanner",
+            "label": "difficulty/low",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A fast port scanner written in python with a focus on reliability and simplicity."
+        },
+        {
             "name": "Kinto",
             "link": "https://github.com/Kinto/kinto",
             "label": "easy-pick",
