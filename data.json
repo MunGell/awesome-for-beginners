@@ -1225,7 +1225,7 @@
             "description": "Open source self-hosted continuous integration server for PHP projects."
         },
         {
-            "name": "PHP OOP",
+            "name": "PHP OOP Concept",
             "link": "https://github.com/ShoaibSiddiqi/phpOOP",
             "label": "Good-For-Beginner",
             "technologies": [
