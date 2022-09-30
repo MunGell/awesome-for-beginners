@@ -2094,6 +2094,17 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
-        }
+        },
+        {
+            "name": "Awesome Developers List",
+            "link": "https://github.com/MonicaFidalgo/awesome-developers-list",
+            "label": "good first issue",
+            "technologies": [
+                "HTML",
+                "Git",
+                "GitHub"
+            ],
+            "description": "Your first contribution to an open source project, with a step-by-step tutorial. Add your name and website to the developers list"
+        },
     ]
 }
