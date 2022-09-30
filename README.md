@@ -17,6 +17,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Git/GitHub](#github)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -87,6 +88,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Ecto](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+## GitHub
+
+- [Awesome Developers List](https://github.com/MonicaFidalgo/awesome-developers-list)
 
 ## Go
 
