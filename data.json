@@ -2094,6 +2094,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "You Dont Know JS",
+            "link": "https://github.com/getify/You-Dont-Know-JS",
+            "label":"good first issue",
+            "technologies":[
+                "JavaScript"
+            ],
+            "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the second edition of the book series"
         }
     ]
 }

@@ -10,7 +10,7 @@ Please ensure that your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should be given a meaningful title.
-- Ensure that you describe your pull request.
+- Ensure that you describe the pull request you made.
 - If the label does not clearly state it's "beginner friendly" purpose, please make sure to confirm with the maintainer that it is used for such issues. Please include the link to where the maintainer approves it in the
 - Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
 - The contributed repository must be maintained, have an active community to be able to help newcomers and have issues with an appropriate label.
