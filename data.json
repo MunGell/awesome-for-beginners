@@ -2094,6 +2094,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Attendance-Management-System",
+            "link": "https://github.com/adarshgupta404/Attendance-Management-System",
+            "label": "good first issue",
+            "technologies": [
+                "php, js, css and sql"
+            ],
+            "description": "QR code attendance system for students"
         }
     ]
 }
