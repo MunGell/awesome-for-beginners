@@ -176,15 +176,6 @@
             "description": "The Next Generation code editor! One of the top funded projects on KickStarter."
         },
         {
-            "name": "sButtons",
-            "link": "https://github.com/shahednasser/sbuttons",
-            "label": "good-first-issue",
-            "technologies": [
-                "CSS"
-            ],
-            "description": "Simple buttons you can easily use for your next project."
-        },
-        {
             "name": "dart.dev",
             "link": "https://github.com/dart-lang/site-www",
             "label": "beginner",
