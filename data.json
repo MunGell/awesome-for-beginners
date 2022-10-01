@@ -2094,6 +2094,16 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Vite",
+            "link": "https://github.com/vitejs/vite",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "description": "Next generation frontend tooling. It's fast! Alternative to Create React App"
         }
     ]
 }
