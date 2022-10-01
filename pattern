@@ -1,0 +1,44 @@
+/*
+Code for this pattern is  
+1 2 3 4 5 5 4 3 2 1 
+1 2 3 4 * * 4 3 2 1 
+1 2 3 * * * * 3 2 1 
+1 2 * * * * * * 2 1 
+1 * * * * * * * * 1 
+*/
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int n;
+    cin >>n;
+    int i=1;
+    while(i<=n){
+        int j=1;
+        int count=n-i+1;
+        while(count){
+             cout<<j<<" ";
+             count--;
+             j++;
+        }
+        int star=1;
+        while(star<=i-1){
+             cout<<"*"<<" ";
+             star++;
+        }
+        int star2=1;
+        while(star2<i){
+            cout<<"*"<<" ";
+            star2++;
+        }
+        int k=n-i+1;
+        while(k){
+           cout<<k<<" ";
+           k--;
+        }
+        cout<<endl;
+        i++;
+    }
+    return 0;
+}
