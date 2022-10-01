@@ -87,7 +87,7 @@
         {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
-            "label": "Good-first-issue",
+            "label": "good-first-issue",
             "technologies": [
                 "C#"
             ],
@@ -239,7 +239,7 @@
         {
             "name": "Hugo",
             "link": "https://github.com/gohugoio/hugo",
-            "label": "GoodFirstIssue",
+            "label": "good-first-issue",
             "technologies": [
                 "Go"
             ],
