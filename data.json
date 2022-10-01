@@ -2094,6 +2094,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "OMRChecker",
+            "link": "https://github.com/Udayraj123/OMRChecker",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github."
         }
     ]
 }
