@@ -1492,6 +1492,15 @@
             "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
         },
         {
+            "name": "poetry",
+            "link": "https://github.com/python-poetry/poetry",
+            "label": "good-for-beginner",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Poetry is a python dependency management tool to manage dependencies, packages, and libraries in your python project. It will help you to make your project more simple by resolving dependency complexities in your project and managing to install and update for you."
+        },
+        {
             "name": "SaltStack",
             "link": "https://github.com/saltstack/salt",
             "label": "good-first-issue",
