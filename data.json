@@ -1864,7 +1864,7 @@
             "technologies": [
                 "Swift"
             ],
-            "description": "Open Source iOS app to save and categorize tweets."
+            "description": "Open Source iOS app to save and categorize tweets. Written in SwiftUI and uses the Twitter API."
         },
         {
             "name": "TypeScript",
