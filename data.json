@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Egyptian-Licence-Plate-Detector",
+            "link": "https://github.com/zulip/zulip](https://github.com/AymanAzzam/Egyptian-Licence-Plate-Detector",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Image processing open source detects the Egyptian Licence Plate."
         }
     ]
 }
