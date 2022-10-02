@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "sabik",
+            "link": "https://github.com/ytetsuro/sabik",
+            "label": "help wanted",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Visualize source code complexity with Sabik. This tool is to find the bad smell code. I think your helpful refactoring."
         }
     ]
 }
