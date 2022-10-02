@@ -2086,5 +2086,16 @@
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         }
+        {
+            "name": "Vaibhav",
+            "link": "https://github.com/Vaibhav832",
+            "label": "good first issue",
+            "technologies": [
+                "C"
+                "Python"
+                "HTML,CSS"
+            ],
+            "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        }
     ]
 }
