@@ -1857,6 +1857,15 @@
             ],
             "description": "Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product"
         },
+         {
+            "name": "Brain Marks",
+            "link": "https://github.com/mikaelacaron/brain-marks",
+            "label": "good-first-issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "Open Source iOS app to save and categorize tweets."
+        },
         {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
