@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Scribe - Language Keyboards",
+            "link": "https://github.com/scribe-org/Scribe-iOS",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "Keyboards for language learners with translation, verb conjugation and more!"
         }
     ]
 }
