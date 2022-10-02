@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "PyNotion",
+            "link": "https://github.com/pythonhubpy/PyNotion",
+            "label": "first-timers-only",
+            "description": "Python Wrapper Client/SDK for Notion API",
+            "technologies": [
+                "Python"
+            ]
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
