@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Croma",
+            "link": "https://github.com/croma-app/croma",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A open source react native app for web, iOS and android for color palette management"
         }
     ]
 }
