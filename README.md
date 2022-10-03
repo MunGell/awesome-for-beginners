@@ -33,6 +33,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Solidity](#sol)
 
 ## .NET
 
@@ -345,6 +346,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
+## Solidity
+- [Solidity-cheat_sheet](https://github.com/JerryCodesAfrica/Solidity-Cheat_sheet) _(label: good first issue)_ <br>  This is a basic solidity documentation that breaks down the complex syntax of solidity into simple format type with well understood examples and explanations.
 
 ## Contribute
 
