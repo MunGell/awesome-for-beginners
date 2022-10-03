@@ -6,6 +6,8 @@ If you are a maintainer of open-source projects, add the label `first-timers-onl
 
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
+If you don't know how to make a pull request, check out the [first-contributions](https://github.com/firstcontributions/first-contributions)
+
 ## Table of Contents:
 
 - [.NET](#net)
