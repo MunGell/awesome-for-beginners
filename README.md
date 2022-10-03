@@ -33,6 +33,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [React](#react)
 
 ## .NET
 
