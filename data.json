@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "RipMe for album ripper for various websites",
+            "link": "https://github.com/RipMeApp/ripme.git",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "RipMe is an album ripper for various websites. It is a cross-platform tool that runs on your computer, and requires Java 8."
         }
     ]
 }
