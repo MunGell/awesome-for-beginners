@@ -344,6 +344,15 @@
             "description": "Meshery, the service mesh management plane."
         },
         {
+            "name": "KVStoK",
+            "link": "https://github.com/waldirborbajr/kvstok",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A CLI-base KEY VALUE storage in Go."
+        },        
+        {
             "name": "Strongbox",
             "link": "https://github.com/strongbox/strongbox",
             "label": "good-first-issue",
