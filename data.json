@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "harish343",
+            "link": "https://github.com/harish343/chatappsocketio",
+            "label": "realtime webapplication group chat app",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "create server you can use live server and run index.js file which is in nodeserver with node index.js command"
         }
     ]
 }
