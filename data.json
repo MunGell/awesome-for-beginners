@@ -9,7 +9,8 @@
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
-        "C++": "c-2"
+        "C++": "c-2",
+        ".py":"python"
     },
     "repositories": [
         {
@@ -20,6 +21,16 @@
                 ".NET"
             ],
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+        },
+        {
+            "name": "Python-Projects",
+            "link": "https://github.com/KrunalKharat02/Python-Projects"
+            "label": "good-first-issue",
+            "technologies": [
+                ".py"
+            ],
+            "descirption": "90's most played mobile game Snake_game gui based using python tkinter."
+        
         },
         {
             "name": "RawCMS",
