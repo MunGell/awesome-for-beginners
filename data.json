@@ -2085,6 +2085,16 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
-        }
+        },
+        {
+            "name": "Create your first api",
+            "link": "https://github.com/Deepshikhayadav/StaticApi.git",
+            "label": "First api",
+            "technologies": [
+                "Javascript",
+                " node.js"
+            ],
+            "description": "Static api made in node.js"
+        },
     ]
 }
