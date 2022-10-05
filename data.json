@@ -631,6 +631,15 @@
             "description": "Fast, reliable, and secure dependency management."
         },
         {
+            "name": "lax.js",
+            "link": "https://github.com/alexfoxy/lax.js",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Simple & lightweight vanilla JavaScript library to create smooth & beautiful."
+        },
+        {
             "name": "pixi.js",
             "link": "https://github.com/pixijs/pixi.js",
             "label": "🤩 Good First PR",
