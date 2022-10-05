@@ -75,6 +75,16 @@
             ],
             "description": "Music game. Rhythm is just a click away!"
         },
+         {
+            "name": "Online Banking System",
+            "link": "https://github.com/PrashantRawat10/Online-Banking-System",
+            "label": "Good first issue",
+            "technologies": [
+                "SpringBoot",
+                "React.js"
+            ],
+            "description": "A net banking website with functionalities like admin/login, admin-control to open or delete or update a customer's account, customer control to make transaction/deposit and view his details."
+        },
         {
             "name": "Uno Platform",
             "link": "https://github.com/unoplatform/uno",
