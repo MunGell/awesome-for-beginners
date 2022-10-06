@@ -1036,6 +1036,15 @@
             "description": "Passively learn a new language every time you open a new tab."
         },
         {
+            "name": "Jasmine",
+            "link": "https://github.com/jasmine/jasmine",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Simple JavaScript testing framework for browsers and node.js."
+        },
+        {
             "name": "swag-for-dev",
             "link": "https://github.com/swapagarwal/swag-for-dev",
             "label": "good-first-issue",
