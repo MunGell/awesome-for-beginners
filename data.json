@@ -1402,6 +1402,15 @@
             "description": "Pythonic remote execution and deployment."
         },
         {
+            "name": "seaborn",
+            "link": "https://github.com/Madhav-2808",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics."
+        },
+        {
             "name": "Jupyter notebook",
             "link": "https://github.com/jupyter/notebook",
             "label": "good-first-issue",
