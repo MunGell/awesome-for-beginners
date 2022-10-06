@@ -1,0 +1,6 @@
+Perl is a general-purpose, high level interpreted and dynamic programming language. 
+At the beginning level, Perl was developed only for system management and text handling but in later versions, 
+Perl got the ability to handle regular expressions, and network sockets, etc. 
+At present Perl is popular for its ability to handling the Regex(Regular Expressions). 
+The first version of Perl was 1.0 which was released on December 18, 1987. 
+Perl 6 is different from Perl 5 because it is a fully object-oriented reimplementation of Perl 5.
