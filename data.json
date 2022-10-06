@@ -1035,6 +1035,17 @@
             ],
             "description": "Passively learn a new language every time you open a new tab."
         },
+      
+        {
+            "name": "Lodash",
+            "link": "https://github.com/lodash/lodash",
+            "label": "change",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+        },
+
         {
             "name": "swag-for-dev",
             "link": "https://github.com/swapagarwal/swag-for-dev",
