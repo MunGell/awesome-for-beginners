@@ -1295,6 +1295,15 @@
             "description": "Building a Better Democracy for the Internet Age"
         },
         {
+            "name": "mysql.connector",
+            "link": "https://github.com/mysql/mysql-connector-python",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "MySQL connector for python2 and python3, can be used to connect to MySQL databases"
+        },
+        {
             "name": "Python Babel",
             "link": "https://github.com/python-babel/babel",
             "label": "difficulty/low",
