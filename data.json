@@ -1519,6 +1519,15 @@
             "description": "An optional static typing for python."
         },
         {
+            "name": "Hash_generator-Block_Chain",
+            "link": "https://github.com/atul120212/Hash_generator-Block_Chain-",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Hash generator is convert simple text to Cypher Text or generate the encrypted text"
+        },
+        {
             "name": "matplotlib",
             "link": "https://github.com/matplotlib/matplotlib",
             "label": "good-first-issue",
