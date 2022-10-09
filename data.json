@@ -49,6 +49,13 @@
             "description": "Vim-fork focused on extensibility and agility."
         },
         {
+            "name": "mini",
+            "link": "https://github.com/rudranil723/mini-main",
+            "label": "self-project",
+            "technologies":["Python"],
+            "description": "chatbot and virtual assistant using python"
+        },
+        {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good-first-issue",
