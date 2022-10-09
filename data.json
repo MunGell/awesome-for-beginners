@@ -31,6 +31,15 @@
             "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
         },
         {
+            "name": "web-chatting-application",
+            "link": "https://github.com/dev-chouhan/web-chatting-application",
+            "label": "profesionally-developed-web-application",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "This web app, help to chat in group through internet connection."
+        },
+        {
             "name": "Shouldly",
             "link": "https://github.com/shouldly/shouldly",
             "label": "Jump-In",
