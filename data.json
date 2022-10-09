@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Visual Studio Code",
+            "link": "(https://github.com/Microsoft/vscode)",
+            "label": "first-timers-only",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A text editor for various coding entities"
         }
     ]
 }
