@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name"  : "rrweb",
+            "link": "https://github.com/rrweb-io/rrweb",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "rrweb is an open source web session replay library, which provides easy-to-use APIs to record user's interactions and replay it remotely."
         }
     ]
 }
