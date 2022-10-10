@@ -251,6 +251,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 - [datascience](https://github.com/data-8/datascience) _(label: good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
+- [Deepnote](www.deepnote.com) _(label: good-first-issue)_ <br> A coding environment that syncs with the cloud to allow editing across multiple devices and collaboration in real time.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
