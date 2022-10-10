@@ -1600,6 +1600,15 @@
             "description": "Scikit-learn is a machine learning library for Python."
         },
         {
+            "name": "Deepnote",
+            "link": "www.deepnote.com",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A coding environment that syncs with the cloud to allow editing across multiple devices and collaboration in real time."
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
