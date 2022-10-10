@@ -1419,15 +1419,6 @@
             ],
             "description": "Powerful open source group chat."
         },
-         {
-            "name": "IBM Quantum Experience",
-            "link": "https://quantum-computing.ibm.com",
-            "label": "good-first-issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "IBM environment to learn and code in the Qiskit package for Python"
-        },
         {
             "name": "cookiecutter",
             "link": "https://github.com/cookiecutter/cookiecutter",
