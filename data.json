@@ -1864,7 +1864,7 @@
             "technologies": [
                 "TypeScript"
             ],
-            "description": "A superset of JavaScript that compiles to clean JavaScript output."
+            "description": "A superset of JavaScript that compiles to clean JavaScript output. Used for now-a-days web development"
         },
         {
             "name": "Visual Studio Code",
