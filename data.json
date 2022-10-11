@@ -2086,5 +2086,14 @@
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         }
+         {
+            "name": "Hacktoberfest Quiz",
+            "link": "https://github.com/mvisic/Hacktoberfest-Quiz",
+            "label": "good first issue",
+            "technologies": [
+                "python"
+            ],
+            "description": "A short Hacktoberfest quiz created in python"
+        }
     ]
 }
