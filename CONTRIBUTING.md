@@ -6,7 +6,7 @@ Please ensure that your pull request adheres to the following guidelines:
 - Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Only include your suggested repository to `data.json` file, README.md file is generated from it.
-- New categories or improvements to the existing categorization are welcome.
+- New categories or improvements to the existing categorization are welcome and respected.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should be given a meaningful title.
