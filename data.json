@@ -2085,6 +2085,16 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Polymer",
+            "link": "https://github.com/Polymer/polymer",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A JavaScript open source library for building applications using what are called “Web Components."
         }
+
     ]
 }
