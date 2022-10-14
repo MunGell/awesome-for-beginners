@@ -1600,6 +1600,16 @@
             "description": "Scikit-learn is a machine learning library for Python."
         },
         {
+            "name": "torchvision",
+            "link": "https://github.com/pytorch/vision",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Consists of popular datasets, model architectures, and common image transformations for computer vision."
+
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
