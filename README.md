@@ -35,6 +35,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [TypeScript](#typescript)
 
 ## .NET
+  - [Groovy](#groovy) 
 
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
@@ -345,7 +346,27 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
+## groovy
+A multi-faceted language for the Java platform
+Apache Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming.
 
+Flat learning curve
+Concise, readable and expressive syntax, easy to learn for Java developers
+
+Smooth Java integration
+Seamlessly and transparently integrates and interoperates with Java and any third-party libraries
+
+Vibrant and rich ecosystem
+Web development, reactive applications, concurrency / asynchronous / parallelism library, test frameworks, build tools, code analysis, GUI building
+
+Powerful features
+Closures, builders, runtime & compile-time meta-programming, functional programming, type inference, and static compilation
+
+Domain-Specific Languages
+Flexible & malleable syntax, advanced integration & customization mechanisms, to integrate readable business rules in your applications
+
+Scripting and testing glue
+Great for writing concise and maintainable tests, and for all your build and automation tasks
 ## Contribute
 
 Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
