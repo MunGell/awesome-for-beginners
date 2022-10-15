@@ -33,9 +33,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+ - [Groovy](#groovy) 
 
 ## .NET
-  - [Groovy](#groovy) 
+ 
 
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
