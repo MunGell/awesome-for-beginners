@@ -64,6 +64,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) _(label: help-wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow) _(label: stat:contributions-welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) _(label: good-first-issue)_ <br> Distributed SQL database.
+- [Sockpp](https://github.com/fpagliughi/sockpp) _(label: good-first-issue)_ <br>  It is modern and simple in use C++ socket library that provides the connection between client and server application parts.
 
 ## Clojure
 
@@ -299,6 +300,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PublicLab.org](https://github.com/publiclab/plots2) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out new contributors welcome page.
 - [Ruby on Rails](https://github.com/rails/rails) _(label: good-first-issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Sinatra](https://github.com/sinatra/sinatra) _(label: good-first-issue)_ <br> Classy web-development dressed in a DSL.
+- [Quasar](https://github.com/quasarframework/quasar) _(label: good-first-issue)_ <br> This performance-focused Vue framework helps create Vue UIs.
 
 ## Rust
 
@@ -326,6 +328,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Swift
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+- [Vapor](https://github.com/vapor/vapor)_(label: help-wanted)_ <br> Vapor is a web framework for Swift. It provides a beautifully expressive and easy to use foundation for your next website, API, or cloud project.
 
 ## TypeScript
 
