@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Web_Scraping_Project_0001",
+            "link": "https://github.com/sasankaweera123/Web_Scraping_Project_0001",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The process of using bots to extract content and data from a website."
         }
     ]
 }
