@@ -2078,6 +2078,15 @@
             "description": "A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET."
         },
         {
+            "name": "Web-Octave",
+            "link": "https://github.com/dsdeeptisharma/Web-Octave",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "An application which solves equation problems, matrices, plots graph and ordinary linear equations using Octave. The backend is PHP and MySQL."
+        },
+        {
             "name": "Legerity for Uno Platform",
             "link": "https://github.com/MADE-Apps/legerity-uno",
             "label": "good first issue",
