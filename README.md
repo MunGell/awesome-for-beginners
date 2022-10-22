@@ -86,7 +86,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Go
 
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
-- [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
+- [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI (Command Line Interface)
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
@@ -206,8 +206,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Kotlin
 
-- [Atrium](https://github.com/robstoll/atrium) _(label: good-first-issue)_ <br> Multiplatform assertion library for Kotlin
-- [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
+- [Atrium](https://github.com/robstoll/atrium) _(label: good-first-issue, hacktoberfest 2022)_ <br> Multiplatform assertion library for Kotlin
+- [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted, good-first-issue)_ <br> A microservices toolkit written in Kotlin
 - [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground) _(label: good-first-issue)_ <br> A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 
