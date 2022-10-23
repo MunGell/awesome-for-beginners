@@ -2087,15 +2087,13 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
-            "name": "ForRent - Website to book rooms to Paying guest",
+            "name": "Simple",
             "link": "https://github.com/anurag-4508/ForRent",
-            "label": "good first issue",
+            "label": "good-first-issue",
             "technologies": [
-                "JavaScript",
-                "PHP",
-                "SQL"
+                "JavaScript"
             ],
-            "description": "It is a website hosted by house owner to give its house to paying guest on monthly basics"
+            "description": "An extension framework to Legerity for speeding up the development of automated UI tests."
         }
     ]
 }
