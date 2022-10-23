@@ -2071,7 +2071,7 @@
         {
             "name": "Legerity",
             "link": "https://github.com/MADE-Apps/legerity",
-            "label": "good first issue",
+            "label": "good-first-issue",
             "technologies": [
                 ".NET"
             ],
@@ -2085,15 +2085,6 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
-        },
-        {
-            "name": "Simple",
-            "link": "https://github.com/anurag-4508/ForRent",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "An extension framework to Legerity for speeding up the development of automated UI tests."
         }
     ]
 }
