@@ -2050,7 +2050,7 @@
         {
             "name": "OpenMetadata",
             "link": "https://github.com/open-metadata/OpenMetadata",
-            "label": "good first issue",
+            "label": "good-first-issue",
             "technologies": [
                 "Python",
                 "TypeScript",
