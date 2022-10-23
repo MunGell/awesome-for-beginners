@@ -31,6 +31,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Rust](#rust)
 - [Scala](#scala)
 - [Smalltalk](#smalltalk)
+- [SQL](#sql)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
@@ -141,6 +142,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [ESLint](https://github.com/eslint/eslint) _(label: good-first-issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) _(label: good-for-beginner)_ <br> Awesome ESLint rules.
 - [Fastify](https://github.com/fastify/fastify) _(label: good-first-issue)_ <br> Fast and low overhead web framework, for Node.js.
+- [ForRent - Website to book rooms to Paying guest](https://github.com/anurag-4508/ForRent) _(label: good first issue)_ <br> It is a website hosted by house owner to give its house to paying guest on monthly basics
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) _(label: good-first-issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good-first-issue)_ <br> Just a blogging platform
@@ -229,6 +231,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Deployer](https://github.com/deployphp/deployer) _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: n/a)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 - [Flarum](https://github.com/flarum/core) _(label: Good-first-issue)_ <br> Simple forum software for building great communities.
+- [ForRent - Website to book rooms to Paying guest](https://github.com/anurag-4508/ForRent) _(label: good first issue)_ <br> It is a website hosted by house owner to give its house to paying guest on monthly basics
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) _(label: good-first-issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Matomo](https://github.com/matomo-org/matomo) _(label: help-wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: n/a)_ <br> The free and open-source wiki software package that powers Wikipedia.
@@ -322,6 +325,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Smalltalk
 
 - [Pharo](https://github.com/pharo-project/pharo) _(label: good-first-issue)_ <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
+
+## SQL
+
+- [ForRent - Website to book rooms to Paying guest](https://github.com/anurag-4508/ForRent) _(label: good first issue)_ <br> It is a website hosted by house owner to give its house to paying guest on monthly basics
 
 ## Swift
 
