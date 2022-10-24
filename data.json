@@ -1333,7 +1333,7 @@
         {
             "name": "scrapy",
             "link": "https://github.com/scrapy/scrapy",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
