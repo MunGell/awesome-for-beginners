@@ -13,15 +13,6 @@
     },
     "repositories": [
         {
-            "name": "MvvmCross",
-            "link": "https://github.com/MvvmCross/MvvmCross",
-            "label": "first-timers-only",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
-        },
-        {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
             "label": "good-first-issue",
