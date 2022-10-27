@@ -2089,11 +2089,11 @@
         {
             "name": "Legerity for Uno Platform",
             "link": "https://github.com/Webpage-builder/Multimedia",
-            "label": "Multimedia html file with audio clip",
+            "label": "good first issue",
             "technologies": [
                 "HTML"
             ],
-            "description": "A normal HTML file which helps to listen audio clip"
+            "description": "Multimedia html file with audio clip"
         }
     ]
 }
