@@ -2078,7 +2078,7 @@
             "description": "A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET."
         },
         {
-            "name": "Multimedia",
+            "name": "Legerity for Uno Platform",
             "link": "https://github.com/MADE-Apps/legerity-uno",
             "label": "good first issue",
             "technologies": [
@@ -2087,7 +2087,7 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
-            "name": "Legerity for Uno Platform",
+            "name": "Multimedia",
             "link": "https://github.com/Webpage-builder/Multimedia",
             "label": "good first issue",
             "technologies": [
