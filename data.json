@@ -485,6 +485,15 @@
                 "JavaScript"
             ],
             "description": "JavaScript library for mobile-friendly interactive maps."
+        }, 
+        {
+            "name": "js-yaml",
+            "link": "https://github.com/nodeca/js-yaml",
+            "label": "good-for-beginners",
+            "technologies": [
+                "Javascript"
+            ],
+            "description": "A package that converts .yaml contents to javascript packages"
         },
         {
             "name": "AVA",
