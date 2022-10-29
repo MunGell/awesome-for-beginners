@@ -160,7 +160,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Meteor](https://github.com/meteor/meteor) _(label: good-first-issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
 - [Mocha](https://github.com/mochajs/mocha) _(label: good-first-issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Moment.js](https://github.com/moment/moment) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-- [mui-x](https://github.com/mui/mui-x) _(label: good-first-issue)_ <br> Advanced and powerful React components for complex use-cases.
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) _(label: good-first-issue)_ <br> Canonical common brand names for OpenStreetMap
 - [NativeScript](https://github.com/NativeScript/NativeScript) _(label: good-first-issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [netlify-cms](https://github.com/netlify/netlify-cms) _(label: good-first-issue)_ <br> Open source content management for your git workflow.

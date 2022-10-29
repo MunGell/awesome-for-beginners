@@ -586,6 +586,16 @@
             "description": "A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates."
         },
         {
+            "name": "mui-x",
+            "link": "https://github.com/mui/mui-x",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Advanced and powerful React components for complex use-cases."
+        },
+        
+        {
             "name": "serverless",
             "link": "https://github.com/serverless/serverless",
             "label": "good-first-issue",
