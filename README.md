@@ -149,6 +149,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
 - [iD](https://github.com/openstreetmap/iD) _(label: good-first-issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [Jest](https://github.com/facebook/jest) _(label: good-first-issue)_ <br> A complete and easy to set up JavaScript testing solution.
+- [js-yaml)(https://github.com/nodeca/js-yaml) _(label: good-first-issue)_ <br> Reads .yaml files to javascript objects.
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good-first-issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kap](https://github.com/wulkano/kap) _(label: good-first-issue)_ <br> An open-source screen recorder built with web technology
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
