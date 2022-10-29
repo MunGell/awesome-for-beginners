@@ -10,387 +10,723 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 <div class="markdown" id="1" markdown="1">
 <details>
-  <summary><h2>.Net</h2></summary>
+  <summary>
 
-- [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
-- [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
-- [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
-- [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good-first-issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
-- [Shouldly](https://github.com/shouldly/shouldly) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting Should be!
+  ## .Net
 
-</details>
+  </summary>
 
-<details>
-<summary><h2>C</h2></summary>
-
-- [Neovim](https://github.com/neovim/neovim) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
-- [Profanity](https://github.com/profanity-im/profanity) _(label: good-first-issue)_ <br> Ncurses XMPP chat client.
-
-</details>
-
-<details>
-<summary><h2>C#</h2></summary>
-
-- [Cake](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-- [grok.net](https://github.com/Marusyk/grok.net) _(label: good-first-issue)_ <br> Cross platform .NET grok implementation
-- [OpenRA](https://github.com/OpenRA/OpenRA) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
-- [osu!](https://github.com/ppy/osu) _(label: good-first-issue)_ <br> Music game. Rhythm is just a click away!
-- [Uno Platform](https://github.com/unoplatform/uno) _(label: good-first-issue)_ <br> OSS project for creating pixel-perfect, single-source C\# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
+1. [Legerity](https://github.com/MADE-Apps/legerity) **(label: good first issue)** \ 
+ A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
+1. [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) **(label: good first issue)** \ 
+ An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
+1. [MvvmCross](https://github.com/MvvmCross/MvvmCross) **(label: first-timers-only)** \ 
+ The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
+1. [RawCMS](https://github.com/arduosoft/RawCMS) **(label: good-first-issue)** \ 
+ RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
+1. [Shouldly](https://github.com/shouldly/shouldly) **(label: Jump-In)** \ 
+ Should testing for .NET - the way Asserting Should be!
 
 </details>
 
 <details>
-<summary><h2>C++</h2></summary>
+<summary>
 
-- [electron](https://github.com/electron/electron) _(label: good-first-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-- [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
-- [MoveIt](https://github.com/ros-planning/moveit) _(label: good-first-issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
-- [projectM](https://github.com/projectM-visualizer/projectm) _(label: good-first-issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
-- [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) _(label: help-wanted)_ <br> A toolkit for real-time audio streaming over the network.
-- [tensorflow](https://github.com/tensorflow/tensorflow) _(label: stat:contributions-welcome)_ <br> Computation using data flow graphs for scalable machine learning
-- [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) _(label: good-first-issue)_ <br> Distributed SQL database.
+## C
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Clojure</h2></summary>
-
-- [Alda](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
+1. [Neovim](https://github.com/neovim/neovim) **(label: good-first-issue)** \ 
+ Vim-fork focused on extensibility and agility.
+1. [Profanity](https://github.com/profanity-im/profanity) **(label: good-first-issue)** \ 
+ Ncurses XMPP chat client.
 
 </details>
 
 <details>
-<summary><h2>ClojureScript</h2></summary>
+<summary>
 
-- [LightTable](https://github.com/LightTable/LightTable) _(label: good-first-issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
+## C#
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Dart</h2></summary> 
-
-- [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
-- [flutter](https://github.com/flutter/flutter) _(label: good first contribution)_ <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
-
-</details>
-
-<details>
-<summary><h2>Elixir</h2></summary> 
-
-- [Ecto](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
-- [Elixir](https://github.com/elixir-lang/elixir) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+1. [Cake](https://github.com/cake-build/cake) **(label: Good-first-issue)** \ 
+ Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+1. [grok.net](https://github.com/Marusyk/grok.net) **(label: good-first-issue)** \ 
+ Cross platform .NET grok implementation
+1. [OpenRA](https://github.com/OpenRA/OpenRA) **(label: @Easy)** \ 
+ A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
+1. [osu!](https://github.com/ppy/osu) **(label: @good-first-issue)** \ 
+ Music game. Rhythm is just a click away!
+1. [Uno Platform](https://github.com/unoplatform/uno) **(label: good-first-issue)** \ 
+ OSS project for creating pixel-perfect, single-source C\# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 
 </details>
 
 <details>
-<summary><h2>Go</h2></summary>
+<summary>
 
-- [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
-- [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
-- [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
-- [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
-- [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good-first-issue)_ <br> Simple way to generate mock servers in Go.
-- [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good-first-issue)_ <br> Production-Grade Container Scheduling and Management System
-- [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
-- [Meshery](https://github.com/layer5io/meshery) _(label: good-first-issue)_ <br> Meshery, the service mesh management plane.
-- [Moby](https://github.com/moby/moby) _(label: exp/beginner)_ <br> Open-source application container engine
-- [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
-- [script](https://github.com/bitfield/script) _(label: good-first-issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
-- [Terraform](https://github.com/hashicorp/terraform) _(label: good-first-issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
-- [TiDB](https://github.com/pingcap/tidb) _(label: for-new-contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+## C++
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Haskell</h2></summary> 
-
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+1. [electron](https://github.com/electron/electron) **(label: good-first-issue)** \ 
+ Build cross platform desktop apps with JavaScript, HTML, and CSS
+1. [Godot Engine](https://github.com/godotengine/godot) **(label: good first issue)** \ 
+ 2D and 3D cross-platform game engine. Also has C# and Python code.
+1. [MoveIt](https://github.com/ros-planning/moveit) **(label: good-first-issue)** \ 
+ Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
+1. [projectM](https://github.com/projectM-visualizer/projectm) **(label: good-first-issue)** \ 
+ A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
+1. [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) **(label: help-wanted)** \ 
+ A toolkit for real-time audio streaming over the network.
+1. [tensorflow](https://github.com/tensorflow/tensorflow) **(label: stat:contributions-welcome)** \ 
+ Computation using data flow graphs for scalable machine learning
+1. [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) **(label: good-first-issue)** \ 
+ Distributed SQL database.
 
 </details>
 
 <details>
-<summary><h2>Java</h2></summary> 
+<summary>
 
-- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
-- [Codename One](https://github.com/codenameone/CodenameOne) _(label: good-first-issue)_ <br> Cross-platform mobile app development framework for Java developers
-- [elasticsearch](https://github.com/elastic/elasticsearch) _(label: good-first-issue)_ <br> Open Source, Distributed, RESTful Search Engine.
-- [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) _(label: good-first-issue)_ <br> An android app to convert images to PDF file.
-- [JabRef](https://github.com/JabRef/jabref) _(label: good-first-issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
-- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-- [SirixDB](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
-- [Strongbox](https://github.com/strongbox/strongbox) _(label: good-first-issue)_ <br> Strongbox is an artifact repository manager written in Java.
-- [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good-first-issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
-- [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good-first-issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
-- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good-first-issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding) _(label: n/a)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki.
-- [zerocode](https://github.com/authorjapps/zerocode) _(label: good-first-issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+## Clojure
+
+</summary>
+
+1. [Alda](https://github.com/alda-lang/alda) **(label: low-hanging-fruit)** \ 
+ A music programming language for musicians. 🎶
 
 </details>
 
 <details>
-<summary><h2>JavaScript</h2></summary>
+<summary>
 
-- [altair](https://github.com/imolorhe/altair) _(label: good-first-issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
-- [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
-- [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
-- [Babel](https://github.com/babel/babel) _(label: good-first-issue)_ <br> A compiler for writing next generation JavaScript.
-- [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
-- [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
-- [Brave Browser](https://github.com/brave/brave-browser) _(label: good-first-issue)_ <br> Desktop browser for macOS, Windows, and Linux.
-- [cdnjs](https://github.com/cdnjs/cdnjs) _(label: good-first-issue)_ <br> The best FOSS web front-end resource CDN
-- [Check It Out](https://github.com/jwu910/check-it-out) _(label: good-first-issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
-- [Create React App](https://github.com/facebook/create-react-app) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
-- [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
-- [electron](https://github.com/electron/electron) _(label: good-first-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
-- [Ember.js](https://github.com/emberjs/ember.js) _(label: Good-for-New-Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
-- [Ember.js Data](https://github.com/emberjs/data) _(label: Good-for-New-Contributors)_ <br> A data persistence library for Ember.js.
-- [ESLint](https://github.com/eslint/eslint) _(label: good-first-issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
-- [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) _(label: good-for-beginner)_ <br> Awesome ESLint rules.
-- [Fastify](https://github.com/fastify/fastify) _(label: good-first-issue)_ <br> Fast and low overhead web framework, for Node.js.
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
-- [Gatsby.js](https://github.com/gatsbyjs/gatsby) _(label: good-first-issue)_ <br> Build blazing fast, modern apps and websites with React.
-- [Ghost](https://github.com/TryGhost/Ghost) _(label: good-first-issue)_ <br> Just a blogging platform
-- [Habitica](https://github.com/HabitRPG/habitica) _(label: good-first-issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
-- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good-first-issue)_ <br> A free, fast and beautiful API request builder.
-- [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
-- [iD](https://github.com/openstreetmap/iD) _(label: good-first-issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
-- [Jest](https://github.com/facebook/jest) _(label: good-first-issue)_ <br> A complete and easy to set up JavaScript testing solution.
-- [json-editor](https://github.com/json-editor/json-editor) _(label: good-first-issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
-- [Kap](https://github.com/wulkano/kap) _(label: good-first-issue)_ <br> An open-source screen recorder built with web technology
-- [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
-- [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good-first-issue)_ <br> JavaScript library for mobile-friendly interactive maps.
-- [Letra Extension](https://github.com/jayehernandez/letra-extension) _(label: good-first-issue)_ <br> Passively learn a new language every time you open a new tab.
-- [material-ui](https://github.com/mui-org/material-ui) _(label: good-first-issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
-- [md-page](https://github.com/oscarmorrison/md-page) _(label: good-first-issue)_ <br> Create a webpage with just markdown.
-- [Meteor](https://github.com/meteor/meteor) _(label: good-first-issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
-- [Mocha](https://github.com/mochajs/mocha) _(label: good-first-issue)_ <br> Javascript test framework for Node.js and the browser.
-- [Moment.js](https://github.com/moment/moment) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
-- [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) _(label: good-first-issue)_ <br> Canonical common brand names for OpenStreetMap
-- [NativeScript](https://github.com/NativeScript/NativeScript) _(label: good-first-issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-- [netlify-cms](https://github.com/netlify/netlify-cms) _(label: good-first-issue)_ <br> Open source content management for your git workflow.
-- [Next.js](https://github.com/zeit/next.js) _(label: good-first-issue)_ <br> A minimalistic framework for universal server-rendered React applications
-- [Node.js core](https://github.com/nodejs/node) _(label: good-first-issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
-- [nuclear](https://github.com/nukeop/nuclear) _(label: good-first-issue)_ <br> Multiplatform music player that streams from free sources.
-- [p5.js](https://github.com/processing/p5.js) _(label: good-first-issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
-- [pixi.js](https://github.com/pixijs/pixi.js) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
-- [PouchDB](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
-- [Predator](https://github.com/Zooz/predator) _(label: good-first-issue)_ <br> A powerful open-source platform for load testing APIs.
-- [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
-- [React](https://github.com/facebook/react) _(label: good-first-issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [React Help Create](https://github.com/Omar-Belghaouti/react-help-create) _(label: first-timers-only)_ <br> This command line helps you create components, pages and even redux implementation for your react project.
-- [React Native](https://github.com/facebook/react-native) _(label: Good-first-issue)_ <br> A framework for building native apps with React.
-- [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
-- [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good-first-issue)_ <br> Tool to create your own react-content-loader easily.
-- [ReactiveSearch](https://github.com/appbaseio/reactivesearch) _(label: good-first-issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
-- [reactjs.org](https://github.com/reactjs/reactjs.org) _(label: good-first-issue)_ <br> The documenation website for reactjs
-- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) _(label: help-wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
-- [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) _(label: good-first-issue)_ <br> The official React integration for Semantic UI.
-- [serverless](https://github.com/serverless/serverless) _(label: good-first-issue)_ <br> The Serverless Framework
-- [SimplQ](https://github.com/SimplQ/simplQ-frontend) _(label: good-first-issue)_ <br> Free online queue manager for easy and instant crowd control.
-- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) _(label: good-first-issue)_ <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
-- [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
-- [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
-- [Svelte](https://github.com/sveltejs/svelte) _(label: good-first-issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
-- [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good-first-issue)_ <br> Swag opportunities for developers.
-- [Tessel 2 CLI](https://github.com/tessel/t2-cli) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
-- [Time to Leave](https://github.com/thamara/time-to-leave) _(label: good-first-issue)_ <br> Working hours time tracker app based on Electron and Javascript.
-- [Vest](https://github.com/ealush/vest) _(label: good-first-issue)_ <br> Validations framework inspired by unit testing frameworks.
-- [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good-first-issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
-- [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
-- [Vue CLI](https://github.com/vuejs/vue-cli) _(label: good-first-issue)_ <br> Standard Tooling for Vue.js Development
-- [Vue Router](https://github.com/vuejs/vue-router) _(label: good-first-issue)_ <br> The official router for Vue.js.
-- [Vue.js](https://github.com/vuejs/vue) _(label: good-first-issue)_ <br> The Progressive JavaScript Framework.
-- [VuePress](https://github.com/vuejs/vuepress) _(label: good-first-issue)_ <br> Minimalistic Vue-powered static site generator
-- [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
-- [Yarn](https://github.com/yarnpkg/yarn) _(label: good-first-issue)_ <br> Fast, reliable, and secure dependency management.
+## ClojureScript
+
+</summary>
+
+1. [LightTable](https://github.com/LightTable/LightTable) **(label: good-first-issue)** \ 
+ The Next Generation code editor! One of the top funded projects on KickStarter.
 
 </details>
 
 <details>
-<summary><h2>Julia</h2></summary> 
+<summary>
 
-- [Julia Language: Good first issue](https://github.com/JuliaLang/julia) _(label: good-first-issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
-- [Julia Language: Help wanted](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+## Dart
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Kotlin</h2></summary>
-
-- [Atrium](https://github.com/robstoll/atrium) _(label: good-first-issue)_ <br> Multiplatform assertion library for Kotlin
-- [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
-- [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground) _(label: good-first-issue)_ <br> A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
-- [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
+1. [dart.dev](https://github.com/dart-lang/site-www) **(label: beginner)** \ 
+ A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
+1. [flutter](https://github.com/flutter/flutter) **(label: good first contribution)** \ 
+ Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 
 </details>
 
 <details>
-<summary><h2>Latex</h2></summary> 
+<summary>
 
-- [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode) _(label: good-first-issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+## Elixir
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Markdown</h2></summary>
-
-- [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
-
-</details>
-
-<details>
-<summary><h2>Perl</h2></summary>
-
-- [Ravada](https://github.com/UPC/ravada) _(label: good-first-issue)_ <br> Remote Virtual Desktops Manager.
+1. [Ecto](https://github.com/elixir-ecto/ecto) **(label: Level:Starter)** \ 
+ Ecto is a database wrapper and language integrated query for Elixir
+1. [Elixir](https://github.com/elixir-lang/elixir) **(label: Level:Starter)** \ 
+ Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
 </details>
 
 <details>
-<summary><h2>PHP</h2></summary>
+<summary>
 
-- [Appwrite](https://github.com/appwrite/appwrite) _(label: good-first-issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
-- [Deployer](https://github.com/deployphp/deployer) _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
-- [Drupal](https://www.drupal.org/getting-involved-guide) _(label: n/a)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
-- [Flarum](https://github.com/flarum/core) _(label: Good-first-issue)_ <br> Simple forum software for building great communities.
-- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) _(label: good-first-issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
-- [Matomo](https://github.com/matomo-org/matomo) _(label: help-wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
-- [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: n/a)_ <br> The free and open-source wiki software package that powers Wikipedia.
-- [NextCloud Server](https://github.com/nextcloud/server) _(label: good-first-issue)_ <br> Nextcloud server, a safe home for all your data.
-- [OrgManager](https://github.com/orgmanager/orgmanager) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
-- [PHP Censor](https://github.com/php-censor/php-censor) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
-- [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
-- [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good-first-issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
-- [Symfony](https://github.com/symfony/symfony) _(label: good-first-issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+## Go
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Python</h2></summary>
-
-- [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
-- [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
-- [Bokeh](https://github.com/bokeh/bokeh) _(label: good-first-issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
-- [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
-- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good-first-issue)_ <br> Building a Better Democracy for the Internet Age
-- [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
-- [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
-- [datascience](https://github.com/data-8/datascience) _(label: good-first-issue)_ <br> A Jupyter notebook Python library for introductory data science.
-- [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
-- [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
-- [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
-- [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(label: Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
-- [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
-- [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
-- [Kinto.sh](https://github.com/rbreaves/kinto) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
-- [Mailpile](https://github.com/mailpile/Mailpile) _(label: Low-Hanging-Fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
-- [matplotlib](https://github.com/matplotlib/matplotlib) _(label: good-first-issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
-- [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good-first-issue)_ <br> MindsDB is an open source AI layer for existing databases.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-- [mygpo](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
-- [mypy](https://github.com/python/mypy) _(label: good-first-issue)_ <br> An optional static typing for python.
-- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-- [opsdroid](https://github.com/opsdroid/opsdroid) _(label: good-first-issue)_ <br> An open source chat-ops bot framework.
-- [pandas](https://github.com/pandas-dev/pandas) _(label: good-first-issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
-- [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
-- [Pytorch](https://github.com/pytorch/pytorch) _(label: good-first-issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-- [SaltStack](https://github.com/saltstack/salt) _(label: good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
-- [scrapy](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
-- [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
-- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
-- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
-- [Zulip](https://github.com/zulip/zulip) _(label: good-first-issue)_ <br> Powerful open source group chat.
+1. [containerd](https://github.com/containerd/containerd) **(label: exp/beginner)** \ 
+ Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
+1. [Docker/CLI](https://github.com/docker/cli) **(label: exp/beginner)** \ 
+ The Docker CLI
+1. [Helm](https://github.com/kubernetes/helm) **(label: good-first-issue)** \ 
+ The Kubernetes Package Manager
+1. [httpexpect](https://github.com/gavv/httpexpect) **(label: help-wanted)** \ 
+ End-to-end HTTP and REST API testing for Go.
+1. [Hugo](https://github.com/gohugoio/hugo) **(label: GoodFirstIssue)** \ 
+ A Fast and Flexible Static Site Generator built with love in GoLang
+1. [Killgrave](https://github.com/friendsofgo/killgrave) **(label: good-first-issue)** \ 
+ Simple way to generate mock servers in Go.
+1. [Kubernetes](https://github.com/kubernetes/kubernetes) **(label: good-first-issue)** \ 
+ Production-Grade Container Scheduling and Management System
+1. [lxd](https://github.com/lxc/lxd) **(label: easy)** \ 
+ System container and virtual machine manager.
+1. [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") **(label: n/a)** \ 
+ Open source Slack-alternative in Golang and React
+1. [Meshery](https://github.com/layer5io/meshery) **(label: good-first-issue)** \ 
+ Meshery, the service mesh management plane.
+1. [Moby](https://github.com/moby/moby) **(label: exp/beginner)** \ 
+ Open-source application container engine
+1. [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue) **(label: n/a)** \ 
+ Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
+1. [script](https://github.com/bitfield/script) **(label: good-first-issue)** \ 
+ A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+1. [Terraform](https://github.com/hashicorp/terraform) **(label: good-first-issue)** \ 
+ A tool for building, changing, and versioning infrastructure safely and efficiently.
+1. [TiDB](https://github.com/pingcap/tidb) **(label: for-new-contributors)** \ 
+ A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 
 </details>
 
 <details>
-<summary><h2>Ruby</h2></summary>
+<summary>
 
-- [bolt](https://github.com/puppetlabs/bolt) _(label: Beginner-Friendly)_ <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
-- [chatwoot](https://github.com/chatwoot/chatwoot) _(label: good-first-issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
-- [chef](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
-- [Discourse](https://meta.discourse.org/tags/starter-task) _(label: n/a)_ <br> Civilized discussion platform. See "How to contribute to Discourse".
-- [Faker](https://github.com/faker-ruby/faker) _(label: good-first-issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
-- [Goby](https://github.com/nskins/goby) _(label: n/a)_ <br> Framework for developing text-RPGs.
-- [Hanami](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
-- [JRuby](https://github.com/jruby/jruby) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
-- [mapknitter](https://github.com/publiclab/mapknitter) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
-- [Matestack](https://github.com/matestack/matestack-ui-core) _(label: good-first-issue)_ <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
-- [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
-- [open-build-service](https://github.com/openSUSE/open-build-service) _(label: good-first-issue-:1st_place_medal:)_ <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
-- [osem](https://github.com/openSUSE/osem) _(label: good-first-issue)_ <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
-- [PublicLab.org](https://github.com/publiclab/plots2) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out new contributors welcome page.
-- [Ruby on Rails](https://github.com/rails/rails) _(label: good-first-issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
-- [Sinatra](https://github.com/sinatra/sinatra) _(label: good-first-issue)_ <br> Classy web-development dressed in a DSL.
+## Haskell
+
+</summary>
+
+1. [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) **(label: good first issue)** \ 
+ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 </details>
 
 <details>
-<summary><h2>Rust</h2></summary>
+<summary>
 
-- [a-b-street](https://github.com/a-b-street/abstreet) _(label: good first issue)_ <br> Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
-- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) _(label: good-first-issue)_ <br> Lightning-fast linter for .env files. Written in Rust
-- [Hyper](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
-- [Iron](https://github.com/iron/iron) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
-- [nushell](https://github.com/nushell/nushell) _(label: good-first-issue)_ <br> A modern shell for the GitHub era written in Rust.
-- [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
-- [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
-- [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
-- [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
-- [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
-- [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
+## Java
 
-</details>
+</summary>
 
-<details>
-<summary><h2>Scala</h2></summary>
-
-- [playframework](https://github.com/playframework/playframework) _(label: good-first-issue)_ <br> The High Velocity Web Framework
-- [Twitter Util](https://github.com/twitter/util) _(label: good-first-issue)_ <br> Wonderful reusable code from Twitter
-
-</details>
-<details>
-<summary><h2>Smalltalk</h2></summary>
-
-- [Pharo](https://github.com/pharo-project/pharo) _(label: good-first-issue)_ <br> A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
-
-</details>
-
-<details>
-<summary><h2>Swift</h2></summary>
-
-- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+1. [appsmith](https://github.com/appsmithorg/appsmith) **(label: good-first-issue)** \ 
+ Drag & Drop internal tool builder
+1. [Codename One](https://github.com/codenameone/CodenameOne) **(label: good-first-issue)** \ 
+ Cross-platform mobile app development framework for Java developers
+1. [elasticsearch](https://github.com/elastic/elasticsearch) **(label: good-first-issue)** \ 
+ Open Source, Distributed, RESTful Search Engine.
+1. [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) **(label: good-first-issue)** \ 
+ An android app to convert images to PDF file.
+1. [JabRef](https://github.com/JabRef/jabref) **(label: good-first-issue)** \ 
+ Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
+1. [OpenMetadata](https://github.com/open-metadata/OpenMetadata) **(label: good first issue)** \ 
+ OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+1. [SirixDB](https://github.com/sirixdb/sirix) **(label: good-first-issue)** \ 
+ SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
+1. [Strongbox](https://github.com/strongbox/strongbox) **(label: good-first-issue)** \ 
+ Strongbox is an artifact repository manager written in Java.
+1. [TEAMMATES](https://github.com/TEAMMATES/teammates) **(label: good-first-issue)** \ 
+ TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
+1. [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) **(label: good-first-issue)** \ 
+ A distributed SQL query engine for big data. Ask for guidance on project's Slack.
+1. [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) **(label: good-first-issue)** \ 
+ Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
+1. [XWiki](https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding) **(label: n/a)** \ 
+ XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki.
+1. [zerocode](https://github.com/authorjapps/zerocode) **(label: good-first-issue)** \ 
+ API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 
 </details>
 
 <details>
-<summary><h2>TypeScript</h2></summary>
+<summary>
 
-- [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-- [Booster](https://github.com/boostercloud/booster) _(label: good-first-issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
-- [game-of-life](https://github.com/TroyTae/game-of-life) _(label: good-first-issue)_ <br> Conway's Game of Life web version!
-- [Graphback](https://github.com/aerogear/graphback) _(label: good-first-issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
-- [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
-- [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) _(label: good-first-issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
-- [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good-first-issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
-- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
-- [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
-- [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
-- [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good-first-issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
-- [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
-- [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+## JavaScript
+
+</summary>
+
+1. [altair](https://github.com/imolorhe/altair) **(label: good-first-issue)** \ 
+ A beautiful feature-rich GraphQL Client for all platforms.
+1. [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) **(label: easy)** \ 
+ Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+1. [appsmith](https://github.com/appsmithorg/appsmith) **(label: good-first-issue)** \ 
+ Drag & Drop internal tool builder
+1. [AVA](https://github.com/sindresorhus/ava) **(label: good-for-beginner)** \ 
+ Futuristic test runner.
+1. [Babel](https://github.com/babel/babel) **(label: good-first-issue)** \ 
+ A compiler for writing next generation JavaScript.
+1. [Binari](https://github.com/BrandonArmand/Binari) **(label: up-for-grabs)** \ 
+ Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
+1. [Botpress](https://github.com/botpress/botpress) **(label: contributor-friendly)** \ 
+ The only sane way to build great bots.
+1. [Brave Browser](https://github.com/brave/brave-browser) **(label: good-first-issue)** \ 
+ Desktop browser for macOS, Windows, and Linux.
+1. [cdnjs](https://github.com/cdnjs/cdnjs) **(label: good-first-issue)** \ 
+ The best FOSS web front-end resource CDN
+1. [Check It Out](https://github.com/jwu910/check-it-out) **(label: good-first-issue)** \ 
+ Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
+1. [Create React App](https://github.com/facebook/create-react-app) **(label: good-first-issue)** \ 
+ Create React apps with no build configuration.
+1. [cypress](https://github.com/cypress-io/cypress) **(label: good first issue)** \ 
+ Fast, easy and reliable testing for anything that runs in a browser.
+1. [electron](https://github.com/electron/electron) **(label: good-first-issue)** \ 
+ Build cross platform desktop apps with JavaScript, HTML, and CSS
+1. [Ember.js](https://github.com/emberjs/ember.js) **(label: Good-for-New-Contributors)** \ 
+ A JavaScript framework for creating ambitious web applications.
+1. [Ember.js Data](https://github.com/emberjs/data) **(label: Good-for-New-Contributors)** \ 
+ A data persistence library for Ember.js.
+1. [ESLint](https://github.com/eslint/eslint) **(label: good-first-issue)** \ 
+ A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+1. [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) **(label: good-for-beginner)** \ 
+ Awesome ESLint rules.
+1. [Fastify](https://github.com/fastify/fastify) **(label: good-first-issue)** \ 
+ Fast and low overhead web framework, for Node.js.
+1. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) **(label: first-timers-only)** \ 
+ Open source codebase and curriculum. Learn to code and help nonprofits.
+1. [Gatsby.js](https://github.com/gatsbyjs/gatsby) **(label: good-first-issue)** \ 
+ Build blazing fast, modern apps and websites with React.
+1. [Ghost](https://github.com/TryGhost/Ghost) **(label: good-first-issue)** \ 
+ Just a blogging platform
+1. [Habitica](https://github.com/HabitRPG/habitica) **(label: good-first-issue)** \ 
+ Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
+1. [Hoppscotch](https://github.com/hoppscotch/hoppscotch) **(label: good-first-issue)** \ 
+ A free, fast and beautiful API request builder.
+1. [Hyper](https://github.com/zeit/hyper) **(label: good-first-issue)** \ 
+ JS/HTML/CSS Terminal
+1. [iD](https://github.com/openstreetmap/iD) **(label: good-first-issue)** \ 
+ The easy-to-use OpenStreetMap editor in JavaScript.
+1. [Jest](https://github.com/facebook/jest) **(label: good-first-issue)** \ 
+ A complete and easy to set up JavaScript testing solution.
+1. [json-editor](https://github.com/json-editor/json-editor) **(label: good-first-issue)** \ 
+ JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
+1. [Kap](https://github.com/wulkano/kap) **(label: good-first-issue)** \ 
+ An open-source screen recorder built with web technology
+1. [Kinto.js](https://github.com/Kinto/kinto.js) **(label: easy-pick)** \ 
+ An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
+1. [Leaflet](https://github.com/Leaflet/Leaflet) **(label: good-first-issue)** \ 
+ JavaScript library for mobile-friendly interactive maps.
+1. [Letra Extension](https://github.com/jayehernandez/letra-extension) **(label: good-first-issue)** \ 
+ Passively learn a new language every time you open a new tab.
+1. [material-ui](https://github.com/mui-org/material-ui) **(label: good-first-issue)** \ 
+ React components for faster and easier web development. Build your own design system, or start with Material Design.
+1. [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") **(label: n/a)** \ 
+ Open source Slack-alternative in Golang and React
+1. [md-page](https://github.com/oscarmorrison/md-page) **(label: good-first-issue)** \ 
+ Create a webpage with just markdown.
+1. [Meteor](https://github.com/meteor/meteor) **(label: good-first-issue)** \ 
+ Meteor is an ultra-simple environment for building modern web applications.
+1. [Mocha](https://github.com/mochajs/mocha) **(label: good-first-issue)** \ 
+ Javascript test framework for Node.js and the browser.
+1. [Moment.js](https://github.com/moment/moment) **(label: Up-For-Grabs)** \ 
+ A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+1. [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) **(label: good-first-issue)** \ 
+ Canonical common brand names for OpenStreetMap
+1. [NativeScript](https://github.com/NativeScript/NativeScript) **(label: good-first-issue)** \ 
+ NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+1. [netlify-cms](https://github.com/netlify/netlify-cms) **(label: good-first-issue)** \ 
+ Open source content management for your git workflow.
+1. [Next.js](https://github.com/zeit/next.js) **(label: good-first-issue)** \ 
+ A minimalistic framework for universal server-rendered React applications
+1. [Node.js core](https://github.com/nodejs/node) **(label: good-first-issue)** \ 
+ JavaScript runtime built on Chrome's V8 JavaScript engine
+1. [nuclear](https://github.com/nukeop/nuclear) **(label: good-first-issue)** \ 
+ Multiplatform music player that streams from free sources.
+1. [p5.js](https://github.com/processing/p5.js) **(label: good-first-issue)** \ 
+ p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
+1. [pixi.js](https://github.com/pixijs/pixi.js) **(label: 🤩 Good First PR)** \ 
+ A 2D JavaScript Renderer
+1. [PouchDB](https://github.com/pouchdb/pouchdb) **(label: help-wanted)** \ 
+ PouchDB is a pocket-sized database.
+1. [Predator](https://github.com/Zooz/predator) **(label: good-first-issue)** \ 
+ A powerful open-source platform for load testing APIs.
+1. [ramda-adjunct](https://github.com/char0n/ramda-adjunct) **(label: help-wanted)** \ 
+ Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+1. [React](https://github.com/facebook/react) **(label: good-first-issue)** \ 
+ A declarative, efficient, and flexible JavaScript library for building user interfaces.
+1. [React Help Create](https://github.com/Omar-Belghaouti/react-help-create) **(label: first-timers-only)** \ 
+ This command line helps you create components, pages and even redux implementation for your react project.
+1. [React Native](https://github.com/facebook/react-native) **(label: Good-first-issue)** \ 
+ A framework for building native apps with React.
+1. [React server](https://github.com/redfin/react-server) **(label: good-first-contribution)** \ 
+ React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
+1. [React-content-loader](https://github.com/danilowoz/create-content-loader) **(label: good-first-issue)** \ 
+ Tool to create your own react-content-loader easily.
+1. [ReactiveSearch](https://github.com/appbaseio/reactivesearch) **(label: good-first-issue-:wave:)** \ 
+ A UI components library for Elasticsearch: Available for React, Vue and React Native.
+1. [reactjs.org](https://github.com/reactjs/reactjs.org) **(label: good-first-issue)** \ 
+ The documenation website for reactjs
+1. [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) **(label: help-wanted)** \ 
+ A browser extension to enhance the Reddit browsing experience.
+1. [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) **(label: good-first-issue)** \ 
+ The official React integration for Semantic UI.
+1. [serverless](https://github.com/serverless/serverless) **(label: good-first-issue)** \ 
+ The Serverless Framework
+1. [SimplQ](https://github.com/SimplQ/simplQ-frontend) **(label: good-first-issue)** \ 
+ Free online queue manager for easy and instant crowd control.
+1. [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) **(label: good-first-issue)** \ 
+ A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
+1. [stryker](https://github.com/stryker-mutator/stryker) **(label: 👶 Good first issue)** \ 
+ The JavaScript mutation testing framework
+1. [Superalgos](https://github.com/Superalgos/Superalgos) **(label: good first issue)** \ 
+ A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
+1. [Svelte](https://github.com/sveltejs/svelte) **(label: good-first-issue)** \ 
+ Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
+1. [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) **(label: good-first-issue)** \ 
+ Swag opportunities for developers.
+1. [Tessel 2 CLI](https://github.com/tessel/t2-cli) **(label: contribution-starter)** \ 
+ Command line interface to Tessel 2.
+1. [Time to Leave](https://github.com/thamara/time-to-leave) **(label: good-first-issue)** \ 
+ Working hours time tracker app based on Electron and Javascript.
+1. [Vest](https://github.com/ealush/vest) **(label: good-first-issue)** \ 
+ Validations framework inspired by unit testing frameworks.
+1. [Video Hub App](https://github.com/whyboris/Video-Hub-App) **(label: good-first-issue)** \ 
+ Angular & Electron app for browsing and searching videos on your PC.
+1. [Video.js](https://github.com/videojs/video.js) **(label: good first issue)** \ 
+ The player framework
+1. [Vue CLI](https://github.com/vuejs/vue-cli) **(label: good-first-issue)** \ 
+ Standard Tooling for Vue.js Development
+1. [Vue Router](https://github.com/vuejs/vue-router) **(label: good-first-issue)** \ 
+ The official router for Vue.js.
+1. [Vue.js](https://github.com/vuejs/vue) **(label: good-first-issue)** \ 
+ The Progressive JavaScript Framework.
+1. [VuePress](https://github.com/vuejs/vuepress) **(label: good-first-issue)** \ 
+ Minimalistic Vue-powered static site generator
+1. [webdriver.io](https://github.com/webdriverio/webdriverio) **(label: first-timers-only)** \ 
+ Next-gen browser and mobile automation test framework for Node.js
+1. [Yarn](https://github.com/yarnpkg/yarn) **(label: good-first-issue)** \ 
+ Fast, reliable, and secure dependency management.
+
+</details>
+
+<details>
+<summary>
+
+## Julia
+
+</summary>
+
+1. [Julia Language: Good first issue](https://github.com/JuliaLang/julia) **(label: good-first-issue)** \ 
+ "Move like Python, Run like C" - A fresh approach to technical computing!
+1. [Julia Language: Help wanted](https://github.com/JuliaLang/julia) **(label: help-wanted)** \ 
+ "Move like Python, Run like C" - A fresh approach to technical computing!
+
+</details>
+
+<details>
+<summary>
+
+## Kotlin
+
+</summary>
+
+1. [Atrium](https://github.com/robstoll/atrium) **(label: good-first-issue)** \ 
+ Multiplatform assertion library for Kotlin
+1. [Hexagon](https://github.com/hexagonkt/hexagon) **(label: help-wanted)** \ 
+ A microservices toolkit written in Kotlin
+1. [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground) **(label: good-first-issue)** \ 
+ A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
+1. [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) **(label: good-first-issue)** \ 
+ A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
+
+</details>
+
+<details>
+<summary>
+
+## Latex
+
+</summary>
+
+1. [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode) **(label: good-first-issue)** \ 
+ A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
+
+</details>
+
+<details>
+<summary>
+
+## Markdown
+
+</summary>
+
+1. [tldr-pages](https://github.com/tldr-pages/tldr) **(label: help-wanted)** \ 
+ Collaborative cheatsheets for console commands.
+
+</details>
+
+<details>
+<summary>
+
+## Perl
+
+</summary>
+
+1. [Ravada](https://github.com/UPC/ravada) **(label: good-first-issue)** \ 
+ Remote Virtual Desktops Manager.
+
+</details>
+
+<details>
+<summary>
+
+## PHP
+
+</summary>
+
+1. [Appwrite](https://github.com/appwrite/appwrite) **(label: good-first-issue)** \ 
+ An End-to-end backend server for frontend and mobile developers. 🚀
+1. [Deployer](https://github.com/deployphp/deployer) **(label: good-for-beginner)** \ 
+ A deployment tool written in PHP with support for popular frameworks out of the box.
+1. [Drupal](https://www.drupal.org/getting-involved-guide) **(label: n/a)** \ 
+ Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
+1. [Flarum](https://github.com/flarum/core) **(label: Good-first-issue)** \ 
+ Simple forum software for building great communities.
+1. [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) **(label: good-first-issue)** \ 
+ A package that provides an easy way to integrate MailChimp with Laravel 5.
+1. [Matomo](https://github.com/matomo-org/matomo) **(label: help-wanted)** \ 
+ Matomo is the leading Free/Libre open analytics platform.
+1. [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) **(label: n/a)** \ 
+ The free and open-source wiki software package that powers Wikipedia.
+1. [NextCloud Server](https://github.com/nextcloud/server) **(label: good-first-issue)** \ 
+ Nextcloud server, a safe home for all your data.
+1. [OrgManager](https://github.com/orgmanager/orgmanager) **(label: beginners-only)** \ 
+ Supercharge your GitHub organizations!
+1. [PHP Censor](https://github.com/php-censor/php-censor) **(label: good-for-beginner)** \ 
+ Open source self-hosted continuous integration server for PHP projects.
+1. [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) **(label: newbie)** \ 
+ Admin interface for MySQL written in PHP.
+1. [PrestaShop](https://github.com/PrestaShop/PrestaShop) **(label: good-first-issue)** \ 
+ The open source ecommerce solution to start your online business and start selling online.
+1. [Symfony](https://github.com/symfony/symfony) **(label: good-first-issue)** \ 
+ Symfony is a PHP framework for web applications and a set of reusable PHP components.
+
+</details>
+
+<details>
+<summary>
+
+## Python
+
+</summary>
+
+1. [Ansible](https://github.com/ansible/ansible) **(label: easyfix)** \ 
+ A simple IT automation platform
+1. [ArviZ](https://github.com/arviz-devs/arviz) **(label: Beginner)** \ 
+ Exploratory Anaylsis of Bayesian Models.
+1. [Bokeh](https://github.com/bokeh/bokeh) **(label: good-first-issue)** \ 
+ Bokeh is an interactive visualization library for modern web browsers.
+1. [BorgBackup](https://github.com/borgbackup/borg) **(label: easy)** \ 
+ Deduplicating backup program with compression and authenticated encryption.
+1. [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) **(label: good-first-issue)** \ 
+ Building a Better Democracy for the Internet Age
+1. [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) **(label: n/a)** \ 
+ A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+1. [Colossal-AI](https://github.com/hpcaitech/ColossalAI) **(label: good first issue)** \ 
+ An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
+1. [cookiecutter](https://github.com/cookiecutter/cookiecutter) **(label: good first issue)** \ 
+ A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+1. [Create aio app](https://github.com/aio-libs/create-aio-app) **(label: good-first-issue)** \ 
+ A command line utility that creates the aiohttp template with the best practices.
+1. [datascience](https://github.com/data-8/datascience) **(label: good-first-issue)** \ 
+ A Jupyter notebook Python library for introductory data science.
+1. [django cookiecutter](https://github.com/pydanny/cookiecutter-django) **(label: hacktoberfest)** \ 
+ An implementation of Python for backend web development.
+1. [Fabric](https://github.com/fabric/fabric) **(label: Low-hanging-fruit)** \ 
+ Pythonic remote execution and deployment.
+1. [H2O Wave](https://github.com/h2oai/wave) **(label: good first issue)** \ 
+ Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+1. [jarvis](https://github.com/sukeesh/Jarvis) **(label: difficulty/newcomer)** \ 
+ A personal assistant for Linux, MacOs and Windows based on Command line Interface.
+1. [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) **(label: Low-Hanging-Fruit)** \ 
+ 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
+1. [Jupyter notebook](https://github.com/jupyter/notebook) **(label: good-first-issue)** \ 
+ Jupyter interactive notebook.
+1. [Kinto](https://github.com/Kinto/kinto) **(label: easy-pick)** \ 
+ A lightweight JSON storage service with synchronisation and sharing abilities.
+1. [Kinto.sh](https://github.com/rbreaves/kinto) **(label: first-timers-only)** \ 
+ Make Linux & Windows type like a mac.
+1. [Mailpile](https://github.com/mailpile/Mailpile) **(label: Low-Hanging-Fruit)** \ 
+ A free & open modern, fast email client with user-friendly encryption and privacy features
+1. [matplotlib](https://github.com/matplotlib/matplotlib) **(label: good-first-issue)** \ 
+ Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+1. [MindsDB](https://github.com/mindsdb/mindsdb) **(label: good-first-issue)** \ 
+ MindsDB is an open source AI layer for existing databases.
+1. [mitmproxy](https://github.com/mitmproxy/mitmproxy) **(label: help-wanted)** \ 
+ An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+1. [mygpo](https://github.com/gpodder/mygpo) **(label: starter-issue)** \ 
+ The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
+1. [mypy](https://github.com/python/mypy) **(label: good-first-issue)** \ 
+ An optional static typing for python.
+1. [OpenMetadata](https://github.com/open-metadata/OpenMetadata) **(label: good first issue)** \ 
+ OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+1. [opsdroid](https://github.com/opsdroid/opsdroid) **(label: good-first-issue)** \ 
+ An open source chat-ops bot framework.
+1. [pandas](https://github.com/pandas-dev/pandas) **(label: good-first-issue)** \ 
+ Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+1. [Pytest](https://github.com/pytest-dev/pytest) **(label: status:-easy)** \ 
+ The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+1. [Python Babel](https://github.com/python-babel/babel) **(label: difficulty/low)** \ 
+ The Python Internationalization Library.
+1. [pythonping](https://github.com/alessandromaggio/pythonping) **(label: good first issue)** \ 
+ PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
+1. [Pytorch](https://github.com/pytorch/pytorch) **(label: good-first-issue)** \ 
+ PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+1. [SaltStack](https://github.com/saltstack/salt) **(label: good-first-issue)** \ 
+ Software to automate the management and configuration of any infrastructure or application at scale.
+1. [scikit-learn](https://github.com/scikit-learn/scikit-learn) **(label: good-first-issue)** \ 
+ Scikit-learn is a machine learning library for Python.
+1. [scrapy](https://github.com/scrapy/scrapy) **(label: good-first-issue)** \ 
+ A fast high-level web crawling & scraping framework for Python.
+1. [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) **(label: good-first-issue)** \ 
+ A tool for visualizing sorting algorithms with a educational Wiki Page.
+1. [SymPy](https://github.com/sympy/sympy) **(label: Easy-to-Fix)** \ 
+ A Python library for symbolic mathematics.
+1. [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) **(label: Good-First-Issue)** \ 
+ Learn and code in Python using your native language.
+1. [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) **(label: level:starter)** \ 
+ The strictest and most opinionated python linter ever!
+1. [Zulip](https://github.com/zulip/zulip) **(label: good-first-issue)** \ 
+ Powerful open source group chat.
+
+</details>
+
+<details>
+<summary>
+
+## Ruby
+
+</summary>
+
+1. [bolt](https://github.com/puppetlabs/bolt) **(label: Beginner-Friendly)** \ 
+ Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
+1. [chatwoot](https://github.com/chatwoot/chatwoot) **(label: good-first-issue)** \ 
+ Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+1. [chef](https://github.com/chef/chef) **(label: Type:-Jump-In)** \ 
+ A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
+1. [Discourse](https://meta.discourse.org/tags/starter-task) **(label: n/a)** \ 
+ Civilized discussion platform. See "How to contribute to Discourse".
+1. [Faker](https://github.com/faker-ruby/faker) **(label: good-first-issue)** \ 
+ Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
+1. [Goby](https://github.com/nskins/goby) **(label: n/a)** \ 
+ Framework for developing text-RPGs.
+1. [Hanami](https://github.com/hanami/hanami) **(label: easy)** \ 
+ A modern framework for Ruby.
+1. [JRuby](https://github.com/jruby/jruby) **(label: beginner)** \ 
+ An implementation of Ruby on the Java Virtual Machine.
+1. [mapknitter](https://github.com/publiclab/mapknitter) **(label: first-timers-only)** \ 
+ Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
+1. [Matestack](https://github.com/matestack/matestack-ui-core) **(label: good-first-issue)** \ 
+ Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
+1. [ohai](https://github.com/chef/ohai) **(label: Type:-Jump-In)** \ 
+ Ohai profiles your system and emits JSON
+1. [open-build-service](https://github.com/openSUSE/open-build-service) **(label: good-first-issue-:1st_place_medal:)** \ 
+ A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
+1. [osem](https://github.com/openSUSE/osem) **(label: good-first-issue)** \ 
+ Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
+1. [PublicLab.org](https://github.com/publiclab/plots2) **(label: first-timers-only)** \ 
+ An open source publishing platform for environmental projects. Check out new contributors welcome page.
+1. [Ruby on Rails](https://github.com/rails/rails) **(label: good-first-issue)** \ 
+ Ruby on Rails (Rails) is an open source web application framework written in Ruby.
+1. [Sinatra](https://github.com/sinatra/sinatra) **(label: good-first-issue)** \ 
+ Classy web-development dressed in a DSL.
+
+</details>
+
+<details>
+<summary>
+
+## Rust
+
+</summary>
+
+1. [a-b-street](https://github.com/a-b-street/abstreet) **(label: good first issue)** \ 
+ Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
+1. [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) **(label: good-first-issue)** \ 
+ Lightning-fast linter for .env files. Written in Rust
+1. [Hyper](https://github.com/hyperium/hyper) **(label: E-easy)** \ 
+ A fast, safe and correct low-level HTTP library for Rust.
+1. [Iron](https://github.com/iron/iron) **(label: easy)** \ 
+ An extensible, concurrent web framework for Rust
+1. [nushell](https://github.com/nushell/nushell) **(label: good-first-issue)** \ 
+ A modern shell for the GitHub era written in Rust.
+1. [Ockam](https://github.com/ockam-network/ockam) **(label: good first issue)** \ 
+ End-to-end encryption and mutual authentication for distributed applications.
+1. [Rust-Clippy](https://github.com/rust-lang/rust-clippy) **(label: good-first-issue)** \ 
+ A bunch of lints to catch common mistakes and improve Rust code
+1. [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) **(label: good-first-issue)** \ 
+ A tool for formatting Rust code according to style guidelines.
+1. [Servo](https://github.com/servo/servo) **(label: E-easy)** \ 
+ A browser engine designed for applications including embedded use.
+1. [TiKV](https://github.com/tikv/tikv) **(label: difficulty/easy)** \ 
+ A distributed transactional key-value database
+1. [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) **(label: n/a)** \ 
+ Veloren is a multiplayer voxel RPG written in Rust.
+
+</details>
+
+<details>
+<summary>
+
+## Scala
+
+</summary>
+
+1. [playframework](https://github.com/playframework/playframework) **(label: good-first-issue)** \ 
+ The High Velocity Web Framework
+1. [Twitter Util](https://github.com/twitter/util) **(label: good-first-issue)** \ 
+ Wonderful reusable code from Twitter
+
+</details>
+<details>
+<summary>
+
+## Smalltalk
+
+</summary>
+
+1. [Pharo](https://github.com/pharo-project/pharo) **(label: good-first-issue)** \ 
+ A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
+
+</details>
+
+<details>
+<summary>
+
+## Swift
+
+</summary>
+
+1. [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) **(label: help-wanted)** \ 
+ Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+
+</details>
+
+<details>
+<summary>
+
+## TypeScript
+
+</summary>
+
+1. [Amplication](https://github.com/amplication/amplication) **(label: good first issue)** \ 
+ Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+1. [Booster](https://github.com/boostercloud/booster) **(label: good-first-issue)** \ 
+ A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+1. [game-of-life](https://github.com/TroyTae/game-of-life) **(label: good-first-issue)** \ 
+ Conway's Game of Life web version!
+1. [Graphback](https://github.com/aerogear/graphback) **(label: good-first-issue)** \ 
+ A CLI and runtime framework to generate a GraphQL API in seconds.
+1. [H2O Wave](https://github.com/h2oai/wave) **(label: good first issue)** \ 
+ Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+1. [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) **(label: good first issue)** \ 
+ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+1. [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) **(label: good-first-issue)** \ 
+ Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+1. [LitmusChaos](https://github.com/litmuschaos/litmus) **(label: good-first-issue)** \ 
+ Litmus is a toolset to do cloud-native chaos engineering.
+1. [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) **(label: good first issue)** \ 
+ EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
+1. [OpenMetadata](https://github.com/open-metadata/OpenMetadata) **(label: good first issue)** \ 
+ OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+1. [reatom](https://github.com/artalar/reatom) **(label: good-first-issue)** \ 
+ Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+1. [tinyhttp](https://github.com/talentlessguy/tinyhttp) **(label: good-first-issue)** \ 
+ A 0-legacy, tiny & fast web framework as a replacement of Express.
+1. [TypeScript](https://github.com/Microsoft/TypeScript) **(label: good-first-issue)** \ 
+ A superset of JavaScript that compiles to clean JavaScript output.
+1. [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) **(label: good first issue)** \ 
+ Monorepo for all the tooling which enables ESLint to support TypeScript.
+1. [Visual Studio Code](https://github.com/Microsoft/vscode) **(label: good-first-issue)** \ 
+ A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
 </details>
 
