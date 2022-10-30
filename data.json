@@ -2085,6 +2085,24 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Advice for writing LaTeX documents",
+            "link": "https://github.com/dspinellis/latex-advice",
+            "label": "good first issue",
+            "technologies": [
+                "LaTeX"
+            ],
+            "description": "A collection of advice when using LaTeX."
+        },
+        {
+            "name": "List of online C++ compilers",
+            "link": "https://github.com/arnemertz/online-compilers",
+            "label": "up-for-grabs",
+            "technologies": [
+                "C++"
+            ],
+            "description": "A list of online C++ compilers that  can be useful tools to quickly compile a snippet of code without having to install a proper compiler on our computer."
         }
     ]
 }
