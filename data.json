@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Advice for writing LaTeX documents",
+            "link": "https://github.com/dspinellis/latex-advice",
+            "label": "good first issue",
+            "technologies": [
+                "LaTeX"
+            ],
+            "description": "A collection of advice when using LaTeX."
         }
     ]
 }
