@@ -280,6 +280,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good-first-issue)_ <br> Powerful open source group chat.
+- [Pillow](https://github.com/python-pillow/Pillow) _(label: good-first-issue)_ <br> Python Imaging Library or PIL is a free Python library that adds an image processing ability to the Python interpreter.
 
 ## Ruby
 
