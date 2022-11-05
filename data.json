@@ -2088,7 +2088,7 @@
         },
         {
             "name": "Storybook JS",
-            "link": "https://github.com/storybookjs/storybook,
+            "link": "https://github.com/storybookjs/storybook",
             "label": "good first issue",
             "technologies": [
                 "TypeScript",
