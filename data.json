@@ -219,6 +219,15 @@
             "description": "The Docker CLI"
         },
         {
+            "name": "Dragonfly",
+            "link": "https://github.com/dragonflyoss/Dragonfly2",
+            "label": "good-first-issue",
+            "technologies": [
+              "Go"
+            ],
+            "description": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology"
+        },
+        {
             "name": "Helm",
             "link": "https://github.com/kubernetes/helm",
             "label": "good-first-issue",
