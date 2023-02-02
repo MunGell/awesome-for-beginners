@@ -1286,6 +1286,33 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "OpenSnitch",
+            "link": "https://github.com/evilsocket/opensnitch",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "OpenSnitch is a GNU/Linux port of the Little Snitch application firewall."
+        },
+        {
+            "name": "picosnitch",
+            "link": "https://github.com/elesiuta/picosnitch",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Monitor network traffic per executable using BPF."
+        },
+        {
+            "name": "SysMonTask",
+            "link": "https://github.com/KrispyCamel4u/SysMonTask",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring."
+        },
+        {
             "name": "CiviWiki",
             "link": "https://github.com/CiviWiki/OpenCiviWiki",
             "label": "good-first-issue",
