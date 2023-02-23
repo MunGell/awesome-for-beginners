@@ -2093,7 +2093,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "description": "This Extension Helps you to Generate QR code based on your Input."
+            "description": "Chrome Extension that will Generate QR code based on your Input."
         }
     ]
 }
