@@ -1984,6 +1984,15 @@
             "description": "This command line helps you create components, pages and even redux implementation for your react project."
         },
         {
+            "name": "QR Code Generator",
+            "link": "https://github.com/santoshvandari/QR-Code-Generator",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "This Extension Helps you to Generate QR code based on your Input."
+        },
+        {
             "name": "pythonping",
             "link": "https://github.com/alessandromaggio/pythonping",
             "label": "good first issue",
