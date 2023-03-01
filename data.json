@@ -1,0 +1,2090 @@
+{
+    "sponsors": [
+        {
+            "name": "Thamara Andrade",
+            "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
+            "link": "https://github.com/thamara"
+        }
+    ],
+    "technologies": {
+        ".NET": "net",
+        "C#": "c-1",
+        "C++": "c-2"
+    },
+    "repositories": [
+        {
+            "name": "MvvmCross",
+            "link": "https://github.com/MvvmCross/MvvmCross",
+            "label": "first-timers-only",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+        },
+        {
+            "name": "RawCMS",
+            "link": "https://github.com/arduosoft/RawCMS",
+            "label": "good-first-issue",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
+        },
+        {
+            "name": "Shouldly",
+            "link": "https://github.com/shouldly/shouldly",
+            "label": "Jump-In",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "Should testing for .NET - the way Asserting Should be!"
+        },
+        {
+            "name": "Neovim",
+            "link": "https://github.com/neovim/neovim",
+            "label": "good-first-issue",
+            "technologies": [
+                "C"
+            ],
+            "description": "Vim-fork focused on extensibility and agility."
+        },
+        {
+            "name": "grok.net",
+            "link": "https://github.com/Marusyk/grok.net",
+            "label": "good-first-issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "Cross platform .NET grok implementation"
+        },
+        {
+            "name": "OpenRA",
+            "link": "https://github.com/OpenRA/OpenRA",
+            "label": "Easy",
+            "technologies": [
+                "C#"
+            ],
+            "description": "A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert."
+        },
+        {
+            "name": "osu!",
+            "link": "https://github.com/ppy/osu",
+            "label": "good-first-issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "Music game. Rhythm is just a click away!"
+        },
+        {
+            "name": "Uno Platform",
+            "link": "https://github.com/unoplatform/uno",
+            "label": "good-first-issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly."
+        },
+        {
+            "name": "Cake",
+            "link": "https://github.com/cake-build/cake",
+            "label": "Good-first-issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages."
+        },
+        {
+            "name": "electron",
+            "link": "https://github.com/electron/electron",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++",
+                "JavaScript"
+            ],
+            "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
+        },
+        {
+            "name": "Godot Engine",
+            "link": "https://github.com/godotengine/godot",
+            "label": "good first issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
+        },
+        {
+            "name": "projectM",
+            "link": "https://github.com/projectM-visualizer/projectm",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi."
+        },
+        {
+            "name": "Roc Toolkit",
+            "link": "https://github.com/roc-streaming/roc-toolkit",
+            "label": "help-wanted",
+            "technologies": [
+                "C++"
+            ],
+            "description": "A toolkit for real-time audio streaming over the network."
+        },
+        {
+            "name": "tensorflow",
+            "link": "https://github.com/tensorflow/tensorflow",
+            "label": "stat:contributions-welcome",
+            "technologies": [
+                "C++"
+            ],
+            "description": "Computation using data flow graphs for scalable machine learning"
+        },
+        {
+            "name": "Yugabyte DB",
+            "link": "https://github.com/yugabyte/yugabyte-db",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "Distributed SQL database."
+        },
+        {
+            "name": "MoveIt",
+            "link": "https://github.com/ros-planning/moveit",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
+        },
+        {
+            "name": "Alda",
+            "link": "https://github.com/alda-lang/alda",
+            "label": "low-hanging-fruit",
+            "technologies": [
+                "Clojure"
+            ],
+            "description": "A music programming language for musicians. 🎶"
+        },
+        {
+            "name": "LightTable",
+            "link": "https://github.com/LightTable/LightTable",
+            "label": "good-first-issue",
+            "technologies": [
+                "ClojureScript"
+            ],
+            "description": "The Next Generation code editor! One of the top funded projects on KickStarter."
+        },
+        {
+            "name": "dart.dev",
+            "link": "https://github.com/dart-lang/site-www",
+            "label": "beginner",
+            "technologies": [
+                "Dart"
+            ],
+            "description": "A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps."
+        },
+        {
+            "name": "Ecto",
+            "link": "https://github.com/elixir-ecto/ecto",
+            "label": "Level:Starter",
+            "technologies": [
+                "Elixir"
+            ],
+            "description": "Ecto is a database wrapper and language integrated query for Elixir"
+        },
+        {
+            "name": "Elixir",
+            "link": "https://github.com/elixir-lang/elixir",
+            "label": "Level:Starter",
+            "technologies": [
+                "Elixir"
+            ],
+            "description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications"
+        },
+        {
+            "name": "CockroachDB",
+            "link": "https://github.com/cockroachdb/cockroach",
+            "label": "good-first-issue",
+            "technologies": [],
+            "description": "The Scalable, Survivable, Strongly-Consistent SQL Database"
+        },
+        {
+            "name": "Docker/CLI",
+            "link": "https://github.com/docker/cli",
+            "label": "exp/beginner",
+            "technologies": [
+                "Go"
+            ],
+            "description": "The Docker CLI"
+        },
+        {
+            "name": "Helm",
+            "link": "https://github.com/kubernetes/helm",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "The Kubernetes Package Manager"
+        },
+        {
+            "name": "Hugo",
+            "link": "https://github.com/gohugoio/hugo",
+            "label": "GoodFirstIssue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A Fast and Flexible Static Site Generator built with love in GoLang"
+        },
+        {
+            "name": "Kubernetes",
+            "link": "https://github.com/kubernetes/kubernetes",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Production-Grade Container Scheduling and Management System"
+        },
+        {
+            "name": "Mattermost",
+            "link": "https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:\"Up+For+Grabs\"+label:\"Difficulty/1:Easy\"+label:\"Tech/Go\"",
+            "technologies": [
+                "Go",
+                "JavaScript"
+            ],
+            "description": "Open source Slack-alternative in Golang and React"
+        },
+        {
+            "name": "Moby",
+            "link": "https://github.com/moby/moby",
+            "label": "exp/beginner",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Open-source application container engine"
+        },
+        {
+            "name": "Terraform",
+            "link": "https://github.com/hashicorp/terraform",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A tool for building, changing, and versioning infrastructure safely and efficiently."
+        },
+        {
+            "name": "TiDB",
+            "link": "https://github.com/pingcap/tidb",
+            "label": "for-new-contributors",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database"
+        },
+        {
+            "name": "script",
+            "link": "https://github.com/bitfield/script",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process."
+        },
+        {
+            "name": "httpexpect",
+            "link": "https://github.com/gavv/httpexpect",
+            "label": "help-wanted",
+            "technologies": [
+                "Go"
+            ],
+            "description": "End-to-end HTTP and REST API testing for Go."
+        },
+        {
+            "name": "Killgrave",
+            "link": "https://github.com/friendsofgo/killgrave",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Simple way to generate mock servers in Go."
+        },
+        {
+            "name": "lxd",
+            "link": "https://github.com/lxc/lxd",
+            "label": "easy",
+            "technologies": [
+                "Go"
+            ],
+            "description": "System container and virtual machine manager."
+        },
+        {
+            "name": "PureLB",
+            "link": "https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols."
+        },
+        {
+            "name": "containerd",
+            "link": "https://github.com/containerd/containerd",
+            "label": "exp/beginner",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Industry-standard container runtime with an emphasis on simplicity, robustness and portability."
+        },
+        {
+            "name": "Meshery",
+            "link": "https://github.com/layer5io/meshery",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Meshery, the service mesh management plane."
+        },
+        {
+            "name": "Strongbox",
+            "link": "https://github.com/strongbox/strongbox",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Strongbox is an artifact repository manager written in Java."
+        },
+        {
+            "name": "TEAMMATES",
+            "link": "https://github.com/TEAMMATES/teammates",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students."
+        },
+        {
+            "name": "elasticsearch",
+            "link": "https://github.com/elastic/elasticsearch",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Open Source, Distributed, RESTful Search Engine."
+        },
+        {
+            "name": "JabRef",
+            "link": "https://github.com/JabRef/jabref",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions."
+        },
+        {
+            "name": "Wikimedia Commons Android App",
+            "link": "https://github.com/commons-app/apps-android-commons",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons."
+        },
+        {
+            "name": "XWiki",
+            "link": "https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding",
+            "technologies": [
+                "Java"
+            ],
+            "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki."
+        },
+        {
+            "name": "zerocode",
+            "link": "https://github.com/authorjapps/zerocode",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly."
+        },
+        {
+            "name": "SirixDB",
+            "link": "https://github.com/sirixdb/sirix",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware."
+        },
+        {
+            "name": "Images-to-PDF",
+            "link": "https://github.com/Swati4star/Images-to-PDF",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "An android app to convert images to PDF file."
+        },
+        {
+            "name": "Trino (formerly Presto SQL)",
+            "link": "https://github.com/trinodb/trino",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "A distributed SQL query engine for big data. Ask for guidance on project's Slack."
+        },
+        {
+            "name": "appsmith",
+            "link": "https://github.com/appsmithorg/appsmith",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Drag & Drop internal tool builder"
+        },
+        {
+            "name": "Codename One",
+            "link": "https://github.com/codenameone/CodenameOne",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Cross-platform mobile app development framework for Java developers"
+        },
+        {
+            "name": "name-suggestion-index",
+            "link": "https://github.com/osmlab/name-suggestion-index",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Canonical common brand names for OpenStreetMap"
+        },
+        {
+            "name": "iD",
+            "link": "https://github.com/openstreetmap/iD",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The easy-to-use OpenStreetMap editor in JavaScript."
+        },
+        {
+            "name": "PouchDB",
+            "link": "https://github.com/pouchdb/pouchdb",
+            "label": "help-wanted",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "PouchDB is a pocket-sized database."
+        },
+        {
+            "name": "Leaflet",
+            "link": "https://github.com/Leaflet/Leaflet",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "JavaScript library for mobile-friendly interactive maps."
+        },
+        {
+            "name": "AVA",
+            "link": "https://github.com/sindresorhus/ava",
+            "label": "good-for-beginner",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Futuristic test runner."
+        },
+        {
+            "name": "Kinto.js",
+            "link": "https://github.com/Kinto/kinto.js",
+            "label": "easy-pick",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "An offline-first JavaScript client leveraging the Kinto API for remote data synchronization."
+        },
+        {
+            "name": "ESLint",
+            "link": "https://github.com/eslint/eslint",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript."
+        },
+        {
+            "name": "Tessel 2 CLI",
+            "link": "https://github.com/tessel/t2-cli",
+            "label": "contribution-starter",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Command line interface to Tessel 2."
+        },
+        {
+            "name": "Ember.js",
+            "link": "https://github.com/emberjs/ember.js",
+            "label": "Good-for-New-Contributors",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A JavaScript framework for creating ambitious web applications."
+        },
+        {
+            "name": "Ember.js Data",
+            "link": "https://github.com/emberjs/data",
+            "label": "Good-for-New-Contributors",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A data persistence library for Ember.js."
+        },
+        {
+            "name": "freeCodeCamp",
+            "link": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Open source codebase and curriculum. Learn to code and help nonprofits."
+        },
+        {
+            "name": "Ghost",
+            "link": "https://github.com/TryGhost/Ghost",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Just a blogging platform"
+        },
+        {
+            "name": "eslint-plugin-unicorn",
+            "link": "https://github.com/sindresorhus/eslint-plugin-unicorn",
+            "label": "good-for-beginner",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Awesome ESLint rules."
+        },
+        {
+            "name": "Hyper",
+            "link": "https://github.com/zeit/hyper",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "JS/HTML/CSS Terminal"
+        },
+        {
+            "name": "Moment.js",
+            "link": "https://github.com/moment/moment",
+            "label": "Up-For-Grabs",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates."
+        },
+        {
+            "name": "serverless",
+            "link": "https://github.com/serverless/serverless",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The Serverless Framework"
+        },
+        {
+            "name": "React",
+            "link": "https://github.com/facebook/react",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+        },
+        {
+            "name": "React Native",
+            "link": "https://github.com/facebook/react-native",
+            "label": "Good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A framework for building native apps with React."
+        },
+        {
+            "name": "React server",
+            "link": "https://github.com/redfin/react-server",
+            "label": "good-first-contribution",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "React framework with server render for blazing fast page load and seamless transitions between pages in the browser."
+        },
+        {
+            "name": "Yarn",
+            "link": "https://github.com/yarnpkg/yarn",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Fast, reliable, and secure dependency management."
+        },
+        {
+            "name": "pixi.js",
+            "link": "https://github.com/pixijs/pixi.js",
+            "label": "🤩 Good First PR",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A 2D JavaScript Renderer"
+        },
+        {
+            "name": "Next.js",
+            "link": "https://github.com/zeit/next.js",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A minimalistic framework for universal server-rendered React applications"
+        },
+        {
+            "name": "Semantic-UI-React",
+            "link": "https://github.com/Semantic-Org/Semantic-UI-React",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The official React integration for Semantic UI."
+        },
+        {
+            "name": "Botpress",
+            "link": "https://github.com/botpress/botpress",
+            "label": "contributor-friendly",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The only sane way to build great bots."
+        },
+        {
+            "name": "cdnjs",
+            "link": "https://github.com/cdnjs/cdnjs",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The best FOSS web front-end resource CDN"
+        },
+        {
+            "name": "Video.js",
+            "link": "https://github.com/videojs/video.js",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The player framework"
+        },
+        {
+            "name": "stryker",
+            "link": "https://github.com/stryker-mutator/stryker",
+            "label": "👶 Good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The JavaScript mutation testing framework"
+        },
+        {
+            "name": "Kap",
+            "link": "https://github.com/wulkano/kap",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "An open-source screen recorder built with web technology"
+        },
+        {
+            "name": "Reddit Enhancement Suite",
+            "link": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
+            "label": "help-wanted",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A browser extension to enhance the Reddit browsing experience."
+        },
+        {
+            "name": "Brave Browser",
+            "link": "https://github.com/brave/brave-browser",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Desktop browser for macOS, Windows, and Linux."
+        },
+        {
+            "name": "Fastify",
+            "link": "https://github.com/fastify/fastify",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Fast and low overhead web framework, for Node.js."
+        },
+        {
+            "name": "Node.js core",
+            "link": "https://github.com/nodejs/node",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "JavaScript runtime built on Chrome's V8 JavaScript engine"
+        },
+        {
+            "name": "Jest",
+            "link": "https://github.com/facebook/jest",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A complete and easy to set up JavaScript testing solution."
+        },
+        {
+            "name": "p5.js",
+            "link": "https://github.com/processing/p5.js",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web."
+        },
+        {
+            "name": "NativeScript",
+            "link": "https://github.com/NativeScript/NativeScript",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android."
+        },
+        {
+            "name": "Gatsby.js",
+            "link": "https://github.com/gatsbyjs/gatsby",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Build blazing fast, modern apps and websites with React."
+        },
+        {
+            "name": "Vue.js",
+            "link": "https://github.com/vuejs/vue",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The Progressive JavaScript Framework."
+        },
+        {
+            "name": "md-page",
+            "link": "https://github.com/oscarmorrison/md-page",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Create a webpage with just markdown."
+        },
+        {
+            "name": "Check It Out",
+            "link": "https://github.com/jwu910/check-it-out",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out."
+        },
+        {
+            "name": "nuclear",
+            "link": "https://github.com/nukeop/nuclear",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Multiplatform music player that streams from free sources."
+        },
+        {
+            "name": "material-ui",
+            "link": "https://github.com/mui-org/material-ui",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "React components for faster and easier web development. Build your own design system, or start with Material Design."
+        },
+        {
+            "name": "Meteor",
+            "link": "https://github.com/meteor/meteor",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Meteor is an ultra-simple environment for building modern web applications."
+        },
+        {
+            "name": "Mocha",
+            "link": "https://github.com/mochajs/mocha",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Javascript test framework for Node.js and the browser."
+        },
+        {
+            "name": "Babel",
+            "link": "https://github.com/babel/babel",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A compiler for writing next generation JavaScript."
+        },
+        {
+            "name": "React-content-loader",
+            "link": "https://github.com/danilowoz/create-content-loader",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Tool to create your own react-content-loader easily."
+        },
+        {
+            "name": "netlify-cms",
+            "link": "https://github.com/netlify/netlify-cms",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Open source content management for your git workflow."
+        },
+        {
+            "name": "altair",
+            "link": "https://github.com/imolorhe/altair",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A beautiful feature-rich GraphQL Client for all platforms."
+        },
+        {
+            "name": "Video Hub App",
+            "link": "https://github.com/whyboris/Video-Hub-App",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Angular & Electron app for browsing and searching videos on your PC."
+        },
+        {
+            "name": "Ancient Beast",
+            "link": "https://github.com/FreezingMoon/AncientBeast",
+            "label": "easy",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies."
+        },
+        {
+            "name": "ramda-adjunct",
+            "link": "https://github.com/char0n/ramda-adjunct",
+            "label": "help-wanted",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation."
+        },
+        {
+            "name": "Binari",
+            "link": "https://github.com/BrandonArmand/Binari",
+            "label": "up-for-grabs",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming."
+        },
+        {
+            "name": "SirixDB",
+            "link": "https://github.com/sirixdb/sirix-svelte-front-end",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java."
+        },
+        {
+            "name": "json-editor",
+            "link": "https://github.com/json-editor/json-editor",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind)."
+        },
+        {
+            "name": "Habitica",
+            "link": "https://github.com/HabitRPG/habitica",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)"
+        },
+        {
+            "name": "reactjs.org",
+            "link": "https://github.com/reactjs/reactjs.org",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The documenation website for reactjs"
+        },
+        {
+            "name": "Vest",
+            "link": "https://github.com/ealush/vest",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Validations framework inspired by unit testing frameworks."
+        },
+        {
+            "name": "Hoppscotch",
+            "link": "https://github.com/hoppscotch/hoppscotch",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A free, fast and beautiful API request builder."
+        },
+        {
+            "name": "Predator",
+            "link": "https://github.com/Zooz/predator",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A powerful open-source platform for load testing APIs."
+        },
+        {
+            "name": "Time to Leave",
+            "link": "https://github.com/thamara/time-to-leave",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Working hours time tracker app based on Electron and Javascript."
+        },
+        {
+            "name": "cypress",
+            "link": "https://github.com/cypress-io/cypress",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Fast, easy and reliable testing for anything that runs in a browser."
+        },
+        {
+            "name": "Vue CLI",
+            "link": "https://github.com/vuejs/vue-cli",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Standard Tooling for Vue.js Development"
+        },
+        {
+            "name": "Vue Router",
+            "link": "https://github.com/vuejs/vue-router",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "The official router for Vue.js."
+        },
+        {
+            "name": "VuePress",
+            "link": "https://github.com/vuejs/vuepress",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Minimalistic Vue-powered static site generator"
+        },
+        {
+            "name": "appsmith",
+            "link": "https://github.com/appsmithorg/appsmith",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Drag & Drop internal tool builder"
+        },
+        {
+            "name": "Letra Extension",
+            "link": "https://github.com/jayehernandez/letra-extension",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Passively learn a new language every time you open a new tab."
+        },
+        {
+            "name": "swag-for-dev",
+            "link": "https://github.com/swapagarwal/swag-for-dev",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Swag opportunities for developers."
+        },
+        {
+            "name": "webdriver.io",
+            "link": "https://github.com/webdriverio/webdriverio",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Next-gen browser and mobile automation test framework for Node.js"
+        },
+        {
+            "name": "SimplQ",
+            "link": "https://github.com/SimplQ/simplQ-frontend",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Free online queue manager for easy and instant crowd control."
+        },
+        {
+            "name": "ReactiveSearch",
+            "link": "https://github.com/appbaseio/reactivesearch",
+            "label": "good-first-issue-:wave:",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A UI components library for Elasticsearch: Available for React, Vue and React Native."
+        },
+        {
+            "name": "Create React App",
+            "link": "https://github.com/facebook/create-react-app",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Create React apps with no build configuration."
+        },
+        {
+            "name": "Svelte",
+            "link": "https://github.com/sveltejs/svelte",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM."
+        },
+        {
+            "name": "Julia Language: Help wanted",
+            "link": "https://github.com/JuliaLang/julia",
+            "label": "help-wanted",
+            "technologies": [
+                "Julia"
+            ],
+            "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
+        },
+        {
+            "name": "Julia Language: Good first issue",
+            "link": "https://github.com/JuliaLang/julia",
+            "label": "good-first-issue",
+            "technologies": [
+                "Julia"
+            ],
+            "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
+        },
+        {
+            "name": "Atrium",
+            "link": "https://github.com/robstoll/atrium",
+            "label": "good-first-issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "Multiplatform assertion library for Kotlin"
+        },
+        {
+            "name": "Hexagon",
+            "link": "https://github.com/hexagonkt/hexagon",
+            "label": "help-wanted",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "A microservices toolkit written in Kotlin"
+        },
+        {
+            "name": "Non-Blocking SirixDB HTTP(S)-Server",
+            "link": "https://github.com/sirixdb/sirix",
+            "label": "good-first-issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON."
+        },
+        {
+            "name": "Kotlin Libraries Playground",
+            "link": "https://github.com/LouisCAD/kotlin-libraries-playground",
+            "label": "good-first-issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions."
+        },
+        {
+            "name": "Algorithmic Pseudocode",
+            "link": "https://github.com/just-a-visitor/algorithmic-pseudocode",
+            "label": "good-first-issue",
+            "technologies": [
+                "LaTeX"
+            ],
+            "description": "A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming."
+        },
+        {
+            "name": "tldr-pages",
+            "link": "https://github.com/tldr-pages/tldr",
+            "label": "help-wanted",
+            "technologies": [
+                "Markdown"
+            ],
+            "description": "Collaborative cheatsheets for console commands."
+        },
+        {
+            "name": "Ravada",
+            "link": "https://github.com/UPC/ravada",
+            "label": "good-first-issue",
+            "technologies": [
+                "Perl"
+            ],
+            "description": "Remote Virtual Desktops Manager."
+        },
+        {
+            "name": "phpMyAdmin",
+            "link": "https://github.com/phpmyadmin/phpmyadmin",
+            "label": "newbie",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Admin interface for MySQL written in PHP."
+        },
+        {
+            "name": "Deployer",
+            "link": "https://github.com/deployphp/deployer",
+            "label": "good-for-beginner",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "A deployment tool written in PHP with support for popular frameworks out of the box."
+        },
+        {
+            "name": "Matomo",
+            "link": "https://github.com/matomo-org/matomo",
+            "label": "help-wanted",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Matomo is the leading Free/Libre open analytics platform."
+        },
+        {
+            "name": "OrgManager",
+            "link": "https://github.com/orgmanager/orgmanager",
+            "label": "beginners-only",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Supercharge your GitHub organizations!"
+        },
+        {
+            "name": "PHP Censor",
+            "link": "https://github.com/php-censor/php-censor",
+            "label": "good-for-beginner",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Open source self-hosted continuous integration server for PHP projects."
+        },
+        {
+            "name": "Drupal",
+            "link": "https://www.drupal.org/getting-involved-guide",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels."
+        },
+        {
+            "name": "Symfony",
+            "link": "https://github.com/symfony/symfony",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Symfony is a PHP framework for web applications and a set of reusable PHP components."
+        },
+        {
+            "name": "Laravel Newsletters",
+            "link": "https://github.com/spatie/laravel-newsletter",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "A package that provides an easy way to integrate MailChimp with Laravel 5."
+        },
+        {
+            "name": "Appwrite",
+            "link": "https://github.com/appwrite/appwrite",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "An End-to-end backend server for frontend and mobile developers. 🚀"
+        },
+        {
+            "name": "NextCloud Server",
+            "link": "https://github.com/nextcloud/server",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Nextcloud server, a safe home for all your data."
+        },
+        {
+            "name": "PrestaShop",
+            "link": "https://github.com/PrestaShop/PrestaShop",
+            "label": "good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "The open source ecommerce solution to start your online business and start selling online."
+        },
+        {
+            "name": "Flarum",
+            "link": "https://github.com/flarum/core",
+            "label": "Good-first-issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Simple forum software for building great communities."
+        },
+        {
+            "name": "MediaWiki",
+            "link": "https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "The free and open-source wiki software package that powers Wikipedia."
+        },
+        {
+            "name": "CiviWiki",
+            "link": "https://github.com/CiviWiki/OpenCiviWiki",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Building a Better Democracy for the Internet Age"
+        },
+        {
+            "name": "Python Babel",
+            "link": "https://github.com/python-babel/babel",
+            "label": "difficulty/low",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The Python Internationalization Library."
+        },
+        {
+            "name": "Kinto",
+            "link": "https://github.com/Kinto/kinto",
+            "label": "easy-pick",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A lightweight JSON storage service with synchronisation and sharing abilities."
+        },
+        {
+            "name": "Kinto.sh",
+            "link": "https://github.com/rbreaves/kinto",
+            "label": "first-timers-only",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Make Linux & Windows type like a mac."
+        },
+        {
+            "name": "BorgBackup",
+            "link": "https://github.com/borgbackup/borg",
+            "label": "easy",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Deduplicating backup program with compression and authenticated encryption."
+        },
+        {
+            "name": "scrapy",
+            "link": "https://github.com/scrapy/scrapy",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A fast high-level web crawling & scraping framework for Python."
+        },
+        {
+            "name": "mitmproxy",
+            "link": "https://github.com/mitmproxy/mitmproxy",
+            "label": "help-wanted",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
+        },
+        {
+            "name": "Mailpile",
+            "link": "https://github.com/mailpile/Mailpile",
+            "label": "Low-Hanging-Fruit",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A free & open modern, fast email client with user-friendly encryption and privacy features"
+        },
+        {
+            "name": "coala",
+            "link": "https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use."
+        },
+        {
+            "name": "jarvis",
+            "link": "https://github.com/sukeesh/Jarvis",
+            "label": "difficulty/newcomer",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A personal assistant for Linux, MacOs and Windows based on Command line Interface."
+        },
+        {
+            "name": "JARVIS-on-Messenger",
+            "link": "https://github.com/swapagarwal/JARVIS-on-Messenger",
+            "label": "Low-Hanging-Fruit",
+            "technologies": [
+                "Python"
+            ],
+            "description": "💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger"
+        },
+        {
+            "name": "Pytest",
+            "link": "https://github.com/pytest-dev/pytest",
+            "label": "status:-easy",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing."
+        },
+        {
+            "name": "Fabric",
+            "link": "https://github.com/fabric/fabric",
+            "label": "Low-hanging-fruit",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Pythonic remote execution and deployment."
+        },
+        {
+            "name": "Jupyter notebook",
+            "link": "https://github.com/jupyter/notebook",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Jupyter interactive notebook."
+        },
+        {
+            "name": "Zulip",
+            "link": "https://github.com/zulip/zulip",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Powerful open source group chat."
+        },
+        {
+            "name": "cookiecutter",
+            "link": "https://github.com/cookiecutter/cookiecutter",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects."
+        },
+        {
+            "name": "django cookiecutter",
+            "link": "https://github.com/pydanny/cookiecutter-django",
+            "label": "hacktoberfest",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An implementation of Python for backend web development."
+        },
+        {
+            "name": "wemake-python-styleguide",
+            "link": "https://github.com/wemake-services/wemake-python-styleguide",
+            "label": "level:starter",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The strictest and most opinionated python linter ever!"
+        },
+        {
+            "name": "Ansible",
+            "link": "https://github.com/ansible/ansible",
+            "label": "easyfix",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A simple IT automation platform"
+        },
+        {
+            "name": "Create aio app",
+            "link": "https://github.com/aio-libs/create-aio-app",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A command line utility that creates the aiohttp template with the best practices."
+        },
+        {
+            "name": "opsdroid",
+            "link": "https://github.com/opsdroid/opsdroid",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open source chat-ops bot framework."
+        },
+        {
+            "name": "pandas",
+            "link": "https://github.com/pandas-dev/pandas",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+        },
+        {
+            "name": "SaltStack",
+            "link": "https://github.com/saltstack/salt",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Software to automate the management and configuration of any infrastructure or application at scale."
+        },
+        {
+            "name": "mygpo",
+            "link": "https://github.com/gpodder/mygpo",
+            "label": "starter-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content."
+        },
+        {
+            "name": "tree-sitter-legesher-python",
+            "link": "https://github.com/legesher/tree-sitter-legesher-python",
+            "label": "Good-First-Issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Learn and code in Python using your native language."
+        },
+        {
+            "name": "mypy",
+            "link": "https://github.com/python/mypy",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An optional static typing for python."
+        },
+        {
+            "name": "matplotlib",
+            "link": "https://github.com/matplotlib/matplotlib",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python."
+        },
+        {
+            "name": "datascience",
+            "link": "https://github.com/data-8/datascience",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Jupyter notebook Python library for introductory data science."
+        },
+        {
+            "name": "ArviZ",
+            "link": "https://github.com/arviz-devs/arviz",
+            "label": "Beginner",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Exploratory Anaylsis of Bayesian Models."
+        },
+        {
+            "name": "MindsDB",
+            "link": "https://github.com/mindsdb/mindsdb",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "MindsDB is an open source AI layer for existing databases."
+        },
+        {
+            "name": "Bokeh",
+            "link": "https://github.com/bokeh/bokeh",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Bokeh is an interactive visualization library for modern web browsers."
+        },
+        {
+            "name": "SymPy",
+            "link": "https://github.com/sympy/sympy",
+            "label": "Easy-to-Fix",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python library for symbolic mathematics."
+        },
+        {
+            "name": "Pytorch",
+            "link": "https://github.com/pytorch/pytorch",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing."
+        },
+        {
+            "name": "Sorting-Algorithms-Visualizer",
+            "link": "https://github.com/LucasPilla/Sorting-Algorithms-Visualizer",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A tool for visualizing sorting algorithms with a educational Wiki Page."
+        },
+        {
+            "name": "scikit-learn",
+            "link": "https://github.com/scikit-learn/scikit-learn",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Scikit-learn is a machine learning library for Python."
+        },
+        {
+            "name": "JRuby",
+            "link": "https://github.com/jruby/jruby",
+            "label": "beginner",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "An implementation of Ruby on the Java Virtual Machine."
+        },
+        {
+            "name": "Sinatra",
+            "link": "https://github.com/sinatra/sinatra",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Classy web-development dressed in a DSL."
+        },
+        {
+            "name": "Goby",
+            "link": "https://github.com/nskins/goby",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Framework for developing text-RPGs."
+        },
+        {
+            "name": "Hanami",
+            "link": "https://github.com/hanami/hanami",
+            "label": "easy",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "A modern framework for Ruby."
+        },
+        {
+            "name": "chef",
+            "link": "https://github.com/chef/chef",
+            "label": "Type:-Jump-In",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure"
+        },
+        {
+            "name": "ohai",
+            "link": "https://github.com/chef/ohai",
+            "label": "Type:-Jump-In",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Ohai profiles your system and emits JSON"
+        },
+        {
+            "name": "PublicLab.org",
+            "link": "https://github.com/publiclab/plots2",
+            "label": "first-timers-only",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "An open source publishing platform for environmental projects. Check out new contributors welcome page."
+        },
+        {
+            "name": "Discourse",
+            "link": "https://meta.discourse.org/tags/starter-task",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Civilized discussion platform. See \"How to contribute to Discourse\"."
+        },
+        {
+            "name": "osem",
+            "link": "https://github.com/openSUSE/osem",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences"
+        },
+        {
+            "name": "open-build-service",
+            "link": "https://github.com/openSUSE/open-build-service",
+            "label": "good-first-issue-:1st_place_medal:",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way."
+        },
+        {
+            "name": "bolt",
+            "link": "https://github.com/puppetlabs/bolt",
+            "label": "Beginner-Friendly",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM."
+        },
+        {
+            "name": "chatwoot",
+            "link": "https://github.com/chatwoot/chatwoot",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc."
+        },
+        {
+            "name": "mapknitter",
+            "link": "https://github.com/publiclab/mapknitter",
+            "label": "first-timers-only",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print."
+        },
+        {
+            "name": "Ruby on Rails",
+            "link": "https://github.com/rails/rails",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Ruby on Rails (Rails) is an open source web application framework written in Ruby."
+        },
+        {
+            "name": "Faker",
+            "link": "https://github.com/faker-ruby/faker",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers."
+        },
+        {
+            "name": "Matestack",
+            "link": "https://github.com/matestack/matestack-ui-core",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js"
+        },
+        {
+            "name": "Servo",
+            "link": "https://github.com/servo/servo",
+            "label": "E-easy",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A browser engine designed for applications including embedded use."
+        },
+        {
+            "name": "Rust-Clippy",
+            "link": "https://github.com/rust-lang/rust-clippy",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A bunch of lints to catch common mistakes and improve Rust code"
+        },
+        {
+            "name": "Rustfmt",
+            "link": "https://github.com/rust-lang-nursery/rustfmt",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A tool for formatting Rust code according to style guidelines."
+        },
+        {
+            "name": "Iron",
+            "link": "https://github.com/iron/iron",
+            "label": "easy",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "An extensible, concurrent web framework for Rust"
+        },
+        {
+            "name": "TiKV",
+            "link": "https://github.com/tikv/tikv",
+            "label": "difficulty/easy",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A distributed transactional key-value database"
+        },
+        {
+            "name": "nushell",
+            "link": "https://github.com/nushell/nushell",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A modern shell for the GitHub era written in Rust."
+        },
+        {
+            "name": "Hyper",
+            "link": "https://github.com/hyperium/hyper",
+            "label": "E-easy",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A fast, safe and correct low-level HTTP library for Rust."
+        },
+        {
+            "name": "dotenv-linter",
+            "link": "https://github.com/dotenv-linter/dotenv-linter",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Lightning-fast linter for .env files. Written in Rust"
+        },
+        {
+            "name": "Veloren",
+            "link": "https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Veloren is a multiplayer voxel RPG written in Rust."
+        },
+        {
+            "name": "Twitter Util",
+            "link": "https://github.com/twitter/util",
+            "label": "good-first-issue",
+            "technologies": [
+                "Scala"
+            ],
+            "description": "Wonderful reusable code from Twitter"
+        },
+        {
+            "name": "playframework",
+            "link": "https://github.com/playframework/playframework",
+            "label": "good-first-issue",
+            "technologies": [
+                "Scala"
+            ],
+            "description": "The High Velocity Web Framework"
+        },
+        {
+            "name": "Pharo",
+            "link": "https://github.com/pharo-project/pharo",
+            "label": "good-first-issue",
+            "technologies": [
+                "Smalltalk"
+            ],
+            "description": "A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk."
+        },
+        {
+            "name": "OpenFoodFacts-iOS",
+            "link": "https://github.com/openfoodfacts/openfoodfacts-ios",
+            "label": "help-wanted",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product"
+        },
+        {
+            "name": "TypeScript",
+            "link": "https://github.com/Microsoft/TypeScript",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A superset of JavaScript that compiles to clean JavaScript output."
+        },
+        {
+            "name": "Visual Studio Code",
+            "link": "https://github.com/Microsoft/vscode",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
+        },
+        {
+            "name": "reatom",
+            "link": "https://github.com/artalar/reatom",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Reatom is declarative and reactive state manager, designed for both simple and complex applications."
+        },
+        {
+            "name": "game-of-life",
+            "link": "https://github.com/TroyTae/game-of-life",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Conway's Game of Life web version!"
+        },
+        {
+            "name": "Graphback",
+            "link": "https://github.com/aerogear/graphback",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A CLI and runtime framework to generate a GraphQL API in seconds."
+        },
+        {
+            "name": "LitmusChaos",
+            "link": "https://github.com/litmuschaos/litmus",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Litmus is a toolset to do cloud-native chaos engineering."
+        },
+        {
+            "name": "Booster",
+            "link": "https://github.com/boostercloud/booster",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A truly serverless framework, write your code and deploy it in seconds without any server configuration files."
+        },
+        {
+            "name": "tinyhttp",
+            "link": "https://github.com/talentlessguy/tinyhttp",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A 0-legacy, tiny & fast web framework as a replacement of Express."
+        },
+        {
+            "name": "jupyterlab-lsp",
+            "link": "https://github.com/krassowski/jupyterlab-lsp",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)"
+        },
+        {
+            "name": "a-b-street",
+            "link": "https://github.com/a-b-street/abstreet",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit."
+        },
+        {
+            "name": "typescript-eslint",
+            "link": "https://github.com/typescript-eslint/typescript-eslint",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Monorepo for all the tooling which enables ESLint to support TypeScript."
+        },
+        {
+            "name": "Colossal-AI",
+            "link": "https://github.com/hpcaitech/ColossalAI",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open-source deep learning system for large-scale model training and inference with high efficiency and low cost."
+        },
+        {
+            "name": "Amplication",
+            "link": "https://github.com/amplication/amplication",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
+        },
+        {
+            "name": "React Help Create",
+            "link": "https://github.com/Omar-Belghaouti/react-help-create",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "This command line helps you create components, pages and even redux implementation for your react project."
+        },
+        {
+            "name": "pythonping",
+            "link": "https://github.com/alessandromaggio/pythonping",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell."
+        },
+        {
+            "name": "flutter",
+            "link": "https://github.com/flutter/flutter",
+            "label": "good first contribution",
+            "technologies": [
+                "Dart"
+            ],
+            "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase."
+        },
+        {
+            "name": "Profanity",
+            "link": "https://github.com/profanity-im/profanity",
+            "label": "good-first-issue",
+            "technologies": [
+                "C"
+            ],
+            "description": "Ncurses XMPP chat client."
+        },
+        {
+            "name": "Superalgos",
+            "link": "https://github.com/Superalgos/Superalgos",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token."
+        },
+        {
+            "name": "Ockam",
+            "link": "https://github.com/ockam-network/ockam",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "End-to-end encryption and mutual authentication for distributed applications."
+        },
+        {
+            "name": "H2O Wave",
+            "link": "https://github.com/h2oai/wave",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript"
+            ],
+            "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
+        },
+        {
+            "name": "Node Efficientnet",
+            "link": "https://github.com/ntedgi/node-efficientnet",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
+        },
+        {
+            "name": "OpenMetadata",
+            "link": "https://github.com/open-metadata/OpenMetadata",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript",
+                "Java"
+            ],
+            "description": "OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration."
+        },
+        {
+            "name": "Hasura GraphQL Engine",
+            "link": "https://github.com/hasura/graphql-engine",
+            "label": "good first issue",
+            "technologies": [
+                "Haskell",
+                "TypeScript"
+            ],
+            "description": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events."
+        },
+        {
+            "name": "Legerity",
+            "link": "https://github.com/MADE-Apps/legerity",
+            "label": "good first issue",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Legerity for Uno Platform",
+            "link": "https://github.com/MADE-Apps/legerity-uno",
+            "label": "good first issue",
+            "technologies": [
+                ".NET"
+            ],
+            "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        }
+    ]
+}
