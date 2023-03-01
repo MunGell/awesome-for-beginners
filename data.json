@@ -2085,6 +2085,15 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Roc Droid",
+            "link": "https://github.com/roc-streaming/roc-droid/labels/good%20first%20issue",
+            "label": "good first issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "Android app for real-time audio streaming using Roc Toolkit"
         }
     ]
 }
