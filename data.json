@@ -210,6 +210,15 @@
             "description": "The Scalable, Survivable, Strongly-Consistent SQL Database"
         },
         {
+            "name": "WebRTC",
+            "link": "https://github.com/pion/webrtc",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Pion SFU is a pure Go implementation of the WebRTC API. It provides a flexible and extensible platform for building scalable video conferencing applications."
+        },
+        {
             "name": "Docker/CLI",
             "link": "https://github.com/docker/cli",
             "label": "exp/beginner",
