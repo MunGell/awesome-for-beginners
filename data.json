@@ -2086,5 +2086,14 @@
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         }
+        {
+            "name": "xguard",
+            "link": "https://github.com/johngitahi/xguard",
+            "label": "low-hanging-fruit",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A simple guard clauses library to help Python junior developers guard their functions"
+        }
     ]
 }
