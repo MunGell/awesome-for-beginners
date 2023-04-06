@@ -16,6 +16,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [ClojureScript](#clojurescript)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -82,6 +83,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Ecto](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+## Elm
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
 ## Go
 
