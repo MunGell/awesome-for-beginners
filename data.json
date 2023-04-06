@@ -2085,6 +2085,16 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "Exosphere",
+            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "label": "Good First Issue",
+            "technologies": [
+                "Elm",
+                "Ansible"
+            ],
+            "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
     ]
 }
