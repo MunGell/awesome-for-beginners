@@ -2085,6 +2085,44 @@
                 ".NET"
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
+        },
+        {
+            "name": "OpenSnitch",
+            "link": "https://github.com/evilsocket/opensnitch",
+            "label": "first-timers-only",
+            "technologies": [
+                "linux",
+                "security",
+                "networking",
+                "firewall",
+                "data-breach",
+                "application-firewall"
+            ],
+            "description": "OpenSnitch is a GNU/Linux interactive application firewall inspired by Little Snitch."
+        },
+        {
+            "name": "PicoSnitch",
+            "link": "https://github.com/elesiuta/picosnitch",
+            "label": "first-timers-only",
+            "technologies": [
+                "security",
+                "privacy",
+                "networking",
+                "monitoring",
+                "intrusion-detection",
+                "bandwidth-monitor",
+                "privacy-protection"
+            ],
+            "description": "Monitor network traffic per executable using BPF"
+        },
+        {
+            "name": "SysMonTask",
+            "link": "https://github.com/KrispyCamel4u/SysMonTask",
+            "label": "first-timers-only",
+            "technologies": [
+                "python"
+            ],
+            "description": "Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring."
         }
     ]
 }
