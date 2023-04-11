@@ -1828,6 +1828,17 @@
             "technologies": [
                 "Scala"
             ],
+            
+            "description": "Wonderful reusable code from Twitter"
+        },
+        {
+            "name": "Dheeraj Singh",
+            "link": "https://github.com/dheeraj1129",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+                
+            ],
             "description": "Wonderful reusable code from Twitter"
         },
         {
