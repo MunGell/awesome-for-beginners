@@ -110,6 +110,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [script](https://github.com/bitfield/script) _(label: good-first-issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good-first-issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb) _(label: for-new-contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [Digger](https://github.com/diggerhq/digger) _(label: good-first-issue)_ <br> An open source terraform cloud alternative.
 
 ## Haskell
 
