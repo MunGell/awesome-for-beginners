@@ -2096,5 +2096,14 @@
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
+        {
+            "name": "xguard",
+            "link": "https://github.com/johngitahi/xguard",
+            "label": "low-hanging-fruit",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A simple guard clauses library to help Python junior developers guard their functions"
+        }
     ]
 }
