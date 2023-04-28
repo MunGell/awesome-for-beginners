@@ -2096,5 +2096,15 @@
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
+        },
+        {
+            "name": "Slirik",
+            "link": "https://github.com/MrMystery10-del/Slirik",
+            "label": "Good First Issue",
+            "technologies": [
+                "Java","Rust"
+            ],
+            "description": "Modern compiled+interpreted programming language, designed for fast development and programming newcomers friendly."
+        }
     ]
 }
