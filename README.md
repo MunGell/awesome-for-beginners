@@ -124,6 +124,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JabRef](https://github.com/JabRef/jabref) _(label: good-first-issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [SirixDB](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
+- [Slirik](https://github.com/MrMystery10-del/Slirik) <br>Slirik is a modern programming language designed to offer the best of both worlds: the simplicity and ease of use of a scripting language, as well as the power and performance of a deep language. Slirik has a unique mix of a compiler and interpreter, making it flexible and efficient.
 - [Strongbox](https://github.com/strongbox/strongbox) _(label: good-first-issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good-first-issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good-first-issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
@@ -321,6 +322,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Slirik](https://github.com/MrMystery10-del/Slirik) <br>Slirik is a modern programming language designed to offer the best of both worlds: the simplicity and ease of use of a scripting language, as well as the power and performance of a deep language. Slirik has a unique mix of a compiler and interpreter, making it flexible and efficient.
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 
