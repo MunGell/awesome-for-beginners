@@ -264,6 +264,15 @@
             "description": "Open-source application container engine"
         },
         {
+            "name": "Teletrace",
+            "link": "https://github.com/teletrace/teletrace",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A distributed tracing tool that helps developers monitor and troubleshoot complex distributed systems by providing end-to-end transaction monitoring and tracing across various microservices."
+        },
+        {
             "name": "Terraform",
             "link": "https://github.com/hashicorp/terraform",
             "label": "good-first-issue",
