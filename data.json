@@ -2095,7 +2095,7 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
-        }
+        },
         {
             "name": "aspnetcore",
             "link": "https://github.com/dotnet/aspnetcore",
