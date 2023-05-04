@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "winforms",
+            "link": "https://github.com/dotnet/winforms",
+            "label": "good first issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "Windows Forms (WinForms) is a UI framework for building Windows desktop applications."
         }
     ]
 }
