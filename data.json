@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "aspnetcore",
+            "link": "https://github.com/dotnet/aspnetcore",
+            "label": "good first issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "ASP Net Core is an open-source and cross-platform framework for building web apps, IoT apps, and mobile backends."
         }
     ]
 }
