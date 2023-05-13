@@ -2095,6 +2095,16 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Roc Java",
+            "link": "https://github.com/roc-streaming/roc-java/labels/good%20first%20issue",
+            "label": "good first issue",
+            "technologies": [
+                "Java",
+                "Android"
+            ],
+            "description": "Java bindings for Roc Toolkit (real-time audio streaming)"
         }
     ]
 }
