@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Roc Go",
+            "link": "https://github.com/roc-streaming/roc-go/labels/good%20first%20issue",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Go bindings for Roc Toolkit (real-time audio streaming)"
         }
     ]
 }
