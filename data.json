@@ -1333,7 +1333,7 @@
         {
             "name": "scrapy",
             "link": "https://github.com/scrapy/scrapy",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -2050,7 +2050,7 @@
         {
             "name": "OpenMetadata",
             "link": "https://github.com/open-metadata/OpenMetadata",
-            "label": "good first issue",
+            "label": "good-first-issue",
             "technologies": [
                 "Python",
                 "TypeScript",
