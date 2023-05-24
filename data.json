@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "zoom-rs",
+            "link": "https://github.com/security-union/zoom-rs",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Teleconference system with a web based user interface written in Rust"
         }
     ]
 }
