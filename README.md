@@ -323,6 +323,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
+- [Hyperswitch](https://gitlab.com/juspay/hyperswitch) _(label: good-first-issue)_ <br> An Open Source Financial Switch to make Payments fast, reliable and affordable.
 
 ## Scala
 
