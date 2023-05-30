@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Hyperswitch",
+            "link": "https://github.com/juspay/hyperswitch",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "An Open Source Financial Switch to make payments open, fast and reliable"
         }
     ]
 }
