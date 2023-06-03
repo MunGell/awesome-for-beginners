@@ -158,6 +158,15 @@
             "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
         },
         {
+            "name": "F3D",
+            "link": "https://github.com/f3d-app/f3d",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "Fast and minimalist 3D viewer."
+        },
+        {
             "name": "Alda",
             "link": "https://github.com/alda-lang/alda",
             "label": "low-hanging-fruit",
