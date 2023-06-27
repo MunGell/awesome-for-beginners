@@ -309,6 +309,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PublicLab.org](https://github.com/publiclab/plots2) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out new contributors welcome page.
 - [Ruby on Rails](https://github.com/rails/rails) _(label: good-first-issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Sinatra](https://github.com/sinatra/sinatra) _(label: good-first-issue)_ <br> Classy web-development dressed in a DSL.
+- [Podiscover](https://github.com/enderahmetyurt/podiscover) _(label: good-first-issue)_ <br> An open source social media platform to discover new podcasts 
 
 ## Rust
 
