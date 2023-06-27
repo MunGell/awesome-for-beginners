@@ -1742,6 +1742,15 @@
             "description": "Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js"
         },
         {
+            "name": "Podiscover",
+            "link": "https://github.com/enderahmetyurt/podiscover",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "An open source social media platform to discover new podcasts."
+        },
+        {
             "name": "Servo",
             "link": "https://github.com/servo/servo",
             "label": "E-easy",
