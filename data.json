@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "DemoGPT",
+            "link": "https://github.com/melih-unsal/DemoGPT",
+            "label": "🤩 Good First PR",
+            "technologies": [
+                "Python"
+            ],
+            "description": "DemoGPT enables you to create quick demos by just using prompts."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
