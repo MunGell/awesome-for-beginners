@@ -13,6 +13,16 @@
     },
     "repositories": [
         {
+            "name": "DummyUser API",
+            "link": "http://dummyuser.vercel.app/",
+            "label": "first-timers-only",
+            "technologies": [
+                "NEXT.JS"
+            ],
+            "description":"Our API can quickly produce a variety of profiles for your application, giving it a boost with actual user data and providing a lively and interesting user experience while saving you time."
+            
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
