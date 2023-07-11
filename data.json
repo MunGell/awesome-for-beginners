@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Flowbite",
+            "link": "https://github.com/themesberg/flowbite/",
+            "label": "Good First Issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Open-source UI components built with Tailwind CSS and TypeScript."
         }
     ]
 }
