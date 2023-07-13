@@ -1,0 +1,13 @@
+const fs = require('fs');
+const data = require('../../data.json');
+
+const TPL_FILE = './.github/tpl.md';
+const TARGET = './README.md';
+
+const tpl = getTemplate(TPL_FILE);
+
+const categories = {};
+
+data.repositories.sort((a, b) => {
+    const nameA = a.name.toUpperCase();
+    const nameB = b.name.toUpperCase
