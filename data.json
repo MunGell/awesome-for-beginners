@@ -1663,7 +1663,7 @@
         },
         {
             "name": "Discourse",
-            "link": "https://meta.discourse.org/tags/starter-task",
+            "link": "https://github.com/discourse/discourse",
             "technologies": [
                 "Ruby"
             ],
