@@ -2095,6 +2095,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "activist",
+            "link": "https://github.com/activist-org/activist",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
         }
     ]
 }
