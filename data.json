@@ -2095,6 +2095,18 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "NBN Atlas project hub",
+            "link": "https://github.com/nbnuk/nbn-project-hub",
+            "label": "Good First Issue",
+            "technologies": [
+                "JavaScript",
+                "React",
+                "Expo",
+                "TypeScript"
+            ],
+            "description": "Get stuck in developing React components for the NBN Atlas of UK biodiversity data. We need simple, visually cool components that nature based charities and voluntary organisations can use in their websites. Help nature and help make a difference. Also Expo, Python projects."
         }
     ]
 }
