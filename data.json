@@ -9,7 +9,8 @@
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
-        "C++": "c-2"
+        "C++": "c-2",
+        "Java": "1.8"
     },
     "repositories": [
         {
