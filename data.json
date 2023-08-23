@@ -2095,6 +2095,26 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Exosphere",
+            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "label": "Good First Issue",
+            "technologies": [
+                "Elm",
+                "Ansible"
+            ],
+            "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "machineGit",
+            "link": "https://github.com/sahitya12345/machineGit/blob/main/Text%20Classification%20using%20NLP(Bag%20of%20Words).ipynb",
+            "label": "Good First Issue",
+            "technologies": [
+                "Python",
+                "NLP"
+            ],
+            "description": "A Text classification system using bag of words and support vector machine."
         }
     ]
 }
