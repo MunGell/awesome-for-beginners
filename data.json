@@ -1858,6 +1858,15 @@
             "description": "Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product"
         },
         {
+            "name": "Basic-Car-Maintenance",
+            "link": "https://github.com/mikaelacaron/Basic-Car-Maintenance",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "A basic app to track your car's maintenance events, like fixes, oil changes, etc."
+        },
+        {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
             "label": "good-first-issue",
