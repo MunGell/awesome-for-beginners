@@ -1726,7 +1726,7 @@
         {
             "name": "Mongoid",
             "link": "https://github.com/mongodb/mongoid",
-            "label": "good-first-issue",
+            "label": "neweng",
             "technologies": [
                 "Ruby"
             ],
