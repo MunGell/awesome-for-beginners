@@ -1724,6 +1724,15 @@
             "description": "Ruby on Rails (Rails) is an open source web application framework written in Ruby."
         },
         {
+            "name": "Mongoid",
+            "link": "https://github.com/mongodb/mongoid",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Mongoid is an ODM (Object-Document Mapper) framework for MongoDB in Ruby, perfect for standalone Ruby projects or for working with MongoDB from Ruby on Rails."
+        },        
+        {
             "name": "Faker",
             "link": "https://github.com/faker-ruby/faker",
             "label": "good-first-issue",
