@@ -208,6 +208,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good-first-issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 - [Yarn](https://github.com/yarnpkg/yarn) _(label: good-first-issue)_ <br> Fast, reliable, and secure dependency management.
+- [Materio Free Bootstrap 5 HTML Admin Template](https://github.com/themeselection/materio-bootstrap-html-admin-template-free) _(label: good-first-issue)_ <br> Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
 
 ## Julia
 
