@@ -355,6 +355,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
+## Themes & Templates
+
+- [Materio free bootstrap 5 HTML Admin Template](https://github.com/themeselection/materio-bootstrap-html-admin-template-free) _(label: good-first-issue)_ <br> A beginner friendly and Open Source Bootstrap 5 HTML Admin Template for developing various web apps with ease.
+
 
 ## Contribute
 
