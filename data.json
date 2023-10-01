@@ -451,6 +451,15 @@
             "description": "Cross-platform mobile app development framework for Java developers"
         },
         {
+            "name": "Fireproof",
+            "link": "https://github.com/fireproof-storage",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Zero dependency, offline-capable CRDT database, runs in the browser and connects to any cloud."
+        },
+        {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
             "label": "good-first-issue",
