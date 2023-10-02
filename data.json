@@ -1492,6 +1492,15 @@
             "description": "Software to automate the management and configuration of any infrastructure or application at scale."
         },
         {
+            "name": "numpy",
+            "link": "https://github.com/numpy/numpy",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A python language library which is used in computing large multidimensional arrays and and matrices using built-in functions."
+        },
+        {
             "name": "mygpo",
             "link": "https://github.com/gpodder/mygpo",
             "label": "starter-issue",
