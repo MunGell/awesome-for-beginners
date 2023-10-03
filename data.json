@@ -2095,6 +2095,17 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Linux Kernel",
+            "link": "https://github.com/torvalds/linux",
+            "label": "good-first-issue",
+            "technologies": [
+                "C",
+                "Assembly"
+            ],
+            "description": "The kernel of the Linux operating system, written primarily in C and Assembly language. It's the core of the Linux OS."
         }
+        
     ]
 }
