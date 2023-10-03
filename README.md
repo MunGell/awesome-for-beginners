@@ -269,7 +269,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
 - [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Kinto.sh](https://github.com/rbreaves/kinto) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
-- [Mailpile](https://github.com/mailpile/Mailpile) _(label: Low-Hanging-Fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [matplotlib](https://github.com/matplotlib/matplotlib) _(label: good-first-issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good-first-issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
