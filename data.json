@@ -2095,6 +2095,13 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+          "name": "CASE",
+          "link": "https://github.com/casejs/case",
+          "label": "Good First Issue",
+          "technologies": ["TypeScript"],
+          "description": "CASE is an open-source and frameworkless tool that makes it easy to build CRUD web applications."
         }
     ]
 }
