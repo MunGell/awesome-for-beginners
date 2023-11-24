@@ -291,6 +291,9 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good-first-issue)_ <br> Powerful open source group chat.
 - [Tensorflow](https://github.com/tensorflow/tensorflow) _(label: level:good-first-issue)_  <br> An Open Source Machine Learning Framework for Everyone.
+- [PyroDetect](https://github.com/Sukanyasingh3/PyroDetect) _(label: good-first-issue)_ <br> Tool to detect fire in CCTV Images using a Tensorflow CNN Classification Model.
+- [AgroAid](https://github.com/Sukanyasingh3/AgroAid) _(label: level:starter)_  <br> A plant disease detector using ResNet50
+- [Speech Emotion Recognition](https://github.com/Sukanyasingh3/Speech-Emotion-Recognition) _(label: level:starter)_  <br> Speech Emotion Recognition (SER) using model with LSTM layers, utilizing NLP techniques and deep learning to classify speech recordings into 7 emotions
 
 ## Ruby
 
