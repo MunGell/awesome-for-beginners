@@ -291,6 +291,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good-first-issue)_ <br> Powerful open source group chat.
 - [PyroDetect](https://github.com/Sukanyasingh3/PyroDetect) _(label: good-first-issue)_ <br> Tool to detect fire in CCTV Images using a Tensorflow CNN Classification Model.
+- [AgroAid](https://github.com/Sukanyasingh3/AgroAid) _(label: level:starter)_  <br> A plant disease detector using ResNet50
 
 ## Ruby
 
