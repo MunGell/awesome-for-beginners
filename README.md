@@ -114,6 +114,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Haskell
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- [Tensorflow](https://github.com/tensorflow/haskell) _(label: good first issue)_ <br>Haskell bindings for TensorFlow.
 
 ## Java
 
