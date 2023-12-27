@@ -344,6 +344,16 @@
             "description": "Meshery, the service mesh management plane."
         },
         {
+            "name": "Go-Fast CDN",
+            "link": "https://github.com/kevinanielsen/go-fast-cdn",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go",
+                "TypeScript"
+            ],
+            "description": "A fast and simple CDN written in Go and Vite/React all embedded in one executable, making it easy to dockerize."
+        },
+        {
             "name": "Strongbox",
             "link": "https://github.com/strongbox/strongbox",
             "label": "good-first-issue",
