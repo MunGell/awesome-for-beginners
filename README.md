@@ -336,6 +336,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Swift
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+- [Scrippi](https://github.com/igormomc/Scrippi) _(label: help-wanted)_ <br> A macOS menu bar app designed to enhance productivity by simplifying the execution of frequently used scripts and commands. Customize your menu, quickly execute scripts, and choose your preferred terminal, all from your menu bar. Ideal for developers and IT professionals who frequently interact with command-line tools.
 
 ## TypeScript
 
