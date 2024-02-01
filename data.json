@@ -1600,6 +1600,15 @@
             "description": "Scikit-learn is a machine learning library for Python."
         },
         {
+            "name": "Sneat-Free-Django-Admin-Template",
+            "link": "https://github.com/themeselection/sneat-bootstrap-html-django-admin-template-free",
+            "label": "beginner",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Most powerful and comprehensive free bootstrap django admin template"
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
