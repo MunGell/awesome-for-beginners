@@ -264,6 +264,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
+- [Harmony](https://github.com/harmonydata/harmony) _(label: good first issue)_ <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.
 - [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(label: Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
