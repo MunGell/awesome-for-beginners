@@ -1286,6 +1286,51 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "WordPress",
+            "link": "https://wordpress.org/",
+            "label": "beginner-friendly",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "WordPress is a free and open-source content management system (CMS) written in PHP. It is one of the most popular and user-friendly platforms for creating websites and blogs."
+        },
+            {
+                "name": "Magento",
+                "link": "https://github.com/magento/magento2",
+                "label": "good-first-issue",
+                "technologies": ["PHP"],
+                "description": "Magento is an open-source e-commerce platform written in PHP. It provides a flexible shopping cart system and powerful features for online merchants."
+            },
+            {
+                "name": "Slim Framework",
+                "link": "https://github.com/slimphp/Slim",
+                "label": "good-first-issue",
+                "technologies": ["PHP"],
+                "description": "Slim is a micro-framework for PHP that helps you quickly build simple yet powerful web applications and APIs."
+            },
+            {
+                "name": "CakePHP",
+                "link": "https://github.com/cakephp/cakephp",
+                "label": "good-for-beginner",
+                "technologies": ["PHP"],
+                "description": "CakePHP is a rapid development framework for PHP that provides an extensible architecture for developing, maintaining, and deploying applications."
+            },
+            {
+                "name": "CodeIgniter",
+                "link": "https://github.com/codeigniter4/CodeIgniter4",
+                "label": "good-first-issue",
+                "technologies": ["PHP"],
+                "description": "CodeIgniter is a lightweight and straightforward PHP framework with a small footprint, designed for developers who need a simple and elegant toolkit to create full-featured web applications."
+            },
+            {
+                "name": "October CMS",
+                "link": "https://github.com/octobercms/october",
+                "label": "beginner-friendly",
+                "technologies": ["PHP"],
+                "description": "October CMS is a free, open-source, self-hosted content management system based on the Laravel PHP framework."
+            },
+        
+        {
             "name": "CiviWiki",
             "link": "https://github.com/CiviWiki/OpenCiviWiki",
             "label": "good-first-issue",
