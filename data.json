@@ -1876,6 +1876,15 @@
             "description": "A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
         },
         {
+            "name": "Impler.io",
+            "link": "https://github.com/implerhq/impler.io",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "100% open source data import experience with readymade CSV & Excel import widget 🚀"
+        },
+        {
             "name": "reatom",
             "link": "https://github.com/artalar/reatom",
             "label": "good-first-issue",
