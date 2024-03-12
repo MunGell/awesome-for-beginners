@@ -1359,7 +1359,7 @@
         },
         {
             "name": "coala",
-            "link": "https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee",
+            "link": "https://github.com/coala/coala",
             "technologies": [
                 "Python"
             ],
