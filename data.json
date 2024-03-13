@@ -2095,6 +2095,24 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Tokio",
+            "link": "https://github.com/tokio-rs/tokio",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A runtime for writing reliable asynchronous applications with Rust."
+        },
+        {
+            "name": "Tracing",
+            "link": "https://github.com/tokio-rs/tracing",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Application level tracing for Rust."
         }
     ]
 }
