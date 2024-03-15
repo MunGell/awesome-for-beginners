@@ -2095,6 +2095,18 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "react-bootstrap",
+            "link": "https://github.com/react-bootstrap/react-bootstrap",
+            "label": "help-wanted",
+            "technologies": [
+                "React",
+                "JavaScript",
+                "TypeScript",
+                "MDX"
+            ],
+            "description": "React bootsrap is a library replace bootstrap javascript with react component without unneeded dependencies like JQuery"
         }
     ]
 }
