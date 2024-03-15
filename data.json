@@ -2113,6 +2113,34 @@
                 "Rust"
             ],
             "description": "Application level tracing for Rust."
-        }
+        },
+        {
+            "name": "Nvtop",
+            "link": "https://github.com/Syllo/nvtop",
+            "label": "good-first-issue",
+            "technologies": [
+                "C"
+            ],
+            "description": "GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm"
+        },
+        {
+            "name": "Lexido",
+            "link": "https://github.com/micr0-dev/lexido",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A terminal assistant, powered by Gemini"
+        },
+        {
+            "name": "Under-new-management",
+            "link": "https://github.com/classvsoftware/under-new-management",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Detect when your installed Chrome extensions have changed owners."
+        } 
+
     ]
 }
