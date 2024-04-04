@@ -208,6 +208,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good-first-issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 - [Yarn](https://github.com/yarnpkg/yarn) _(label: good-first-issue)_ <br> Fast, reliable, and secure dependency management.
+- [Small game in javascript](https://github.com/GenissonEmilio/Pizza-project)
 
 ## Julia
 
