@@ -17,6 +17,9 @@ data.repositories.sort((a, b) => {
     if (nameA > nameB) {
         return 1;
     }
+
+
+    
     return 0;
 }).forEach(repo =>
     repo.technologies.forEach(tech => {
