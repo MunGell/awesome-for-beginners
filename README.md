@@ -207,7 +207,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Vue.js](https://github.com/vuejs/vue) _(label: good-first-issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good-first-issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
-- [Yarn](https://github.com/yarnpkg/yarn) _(label: good-first-issue)_ <br> Fast, reliable, and secure dependency management.
+- [Yarn](https://github.com/yarnpkg/yarn) _(label: good first pick)_ <br> Fast, reliable, and secure dependency management.
 
 ## Julia
 
