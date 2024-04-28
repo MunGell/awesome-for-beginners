@@ -1108,6 +1108,15 @@
             "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
         },
         {
+            "name": "Julia",
+            "link": "https://github.com/JuliaLang/julia",
+            "label": "good-first-issue",
+            "technologies": [
+                "Julia"
+            ],
+            "description": "Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia"
+        },
+        {
             "name": "Atrium",
             "link": "https://github.com/robstoll/atrium",
             "label": "good-first-issue",
