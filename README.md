@@ -66,6 +66,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [electron](https://github.com/electron/electron) _(label: good-first-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [MoveIt](https://github.com/ros-planning/moveit) _(label: good-first-issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
+- [MiniOB](https://github.com/oceanbase/miniob) _(label: good-first-issue)_ <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 - [projectM](https://github.com/projectM-visualizer/projectm) _(label: good-first-issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) _(label: help-wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow) _(label: stat:contributions-welcome)_ <br> Computation using data flow graphs for scalable machine learning
