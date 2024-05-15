@@ -1886,7 +1886,7 @@
         },
         {
             "name": "game-of-life",
-            "link": "https://github.com/TroyTae/game-of-life",
+            "link": "https://github.com/yuanchuan/game-of-life",
             "label": "good-first-issue",
             "technologies": [
                 "TypeScript"
