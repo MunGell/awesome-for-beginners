@@ -1090,6 +1090,15 @@
             "description": "Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM."
         },
         {
+            "name": "SAMA chat server",
+            "link": "https://github.com/SAMA-Communications/sama-server",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Chat server platform"
+        },
+        {
             "name": "Julia Language: Help wanted",
             "link": "https://github.com/JuliaLang/julia",
             "label": "help-wanted",
