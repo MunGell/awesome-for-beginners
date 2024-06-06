@@ -1995,7 +1995,7 @@
         {
             "name": "flutter",
             "link": "https://github.com/flutter/flutter",
-            "label": "good first contribution",
+            "label": "good first issue",
             "technologies": [
                 "Dart"
             ],
