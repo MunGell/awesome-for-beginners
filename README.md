@@ -37,7 +37,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [TypeScript](#typescript)
 
 ## .NET
-
+- [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) _(label: good first issue)_ <br> A library that facilitates building simple asynchronous/event-driven architectures for monoliths.
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
