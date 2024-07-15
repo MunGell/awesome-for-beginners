@@ -95,6 +95,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Go
 
+- [CockroachDB](https://github.com/cockroachdb/cockroach/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) _(label: good first issue/E-easy)_ <br> Cloud Native, Distributed SQL Database.
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
