@@ -2095,6 +2095,20 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "awesome-machine-learning",
+            "link": "https://github.com/josephmisiti/awesome-machine-learning",
+            "label": "Good First Issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A curated list of awesome machine learning frameworks, libraries and software."
         }
+
+
+
+
+
     ]
 }
