@@ -22,6 +22,15 @@
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
+            "name" : "Email-Scheduler",
+            "link" : "https://github.com/RishabhRaj43/Email-Scheduler",
+            "label" : "Beginner-Friendly",
+            "technologies" : [
+                "JavaScript"
+            ],
+            "description" : "An email scheduler made in React and Node js."
+        },
+        {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
             "label": "good-first-issue",
