@@ -341,7 +341,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Booster](https://github.com/boostercloud/booster) _(label: good-first-issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
-- [game-of-life](https://github.com/TroyTae/game-of-life) _(label: good-first-issue)_ <br> Conway's Game of Life web version!
 - [Graphback](https://github.com/aerogear/graphback) _(label: good-first-issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
