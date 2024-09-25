@@ -22,6 +22,15 @@
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
+            "name": "Mindect",
+            "link": "https://github.com/Gitstar-OC/mindect",
+            "label": "good-first-issue",
+            "technologies": [
+                "Markdown"
+            ],
+            "description": "Docs for everyone to learn about Machine and Deep Learning, AI and various Algorithms"
+        },
+        {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
             "label": "good-first-issue",
