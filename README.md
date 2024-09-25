@@ -228,7 +228,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Markdown
 
 - [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
-- [mindect](https://github.com/gitstar-oc/mindect) _(label: help-wanted)_ <br> Docs for learning AI, ML, Deep Learning from Very Beginner level to Expert with images. 
 
 ## Perl
 
