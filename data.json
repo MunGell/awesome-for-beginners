@@ -668,7 +668,7 @@
         },
         {
             "name": "cdnjs",
-            "link": "https://github.com/cdnjs/cdnjs",
+            "link": "https://github.com/cdnjs/packages",
             "label": "good-first-issue",
             "technologies": [
                 "JavaScript"
