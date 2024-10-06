@@ -2086,6 +2086,16 @@
             ],
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
+        { 
+            "name": "seemapatl",
+            "link": " https://github.com/seemaPatl/awesome-for-beginners/pull/new/seemapatel.24",
+            "label": "contribution-starter",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A simple to do list maintainer"
+    }
+        ,
         {
             "name": "Exosphere",
             "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
