@@ -138,7 +138,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good-first-issue)_ <br> A compiler for writing next generation JavaScript.
-- [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
+- [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundamentals of dynamic programming.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good-first-issue)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [cdnjs](https://github.com/cdnjs/cdnjs) _(label: good-first-issue)_ <br> The best FOSS web front-end resource CDN
@@ -285,7 +285,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [SaltStack](https://github.com/saltstack/salt) _(label: good-first-issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
+- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with an educational Wiki Page.
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
@@ -294,7 +294,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Ruby
 
 - [bolt](https://github.com/puppetlabs/bolt) _(label: Beginner-Friendly)_ <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
-- [chatwoot](https://github.com/chatwoot/chatwoot) _(label: good-first-issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+- [chatwoot](https://github.com/chatwoot/chatwoot) _(label: good-first-issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp, etc.
 - [chef](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(label: n/a)_ <br> Civilized discussion platform. See "How to contribute to Discourse".
 - [Faker](https://github.com/faker-ruby/faker) _(label: good-first-issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
@@ -318,7 +318,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Iron](https://github.com/iron/iron) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [nushell](https://github.com/nushell/nushell) _(label: good-first-issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
-- [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
+- [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good-first-issue)_ <br> A bunch of links to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good-first-issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
