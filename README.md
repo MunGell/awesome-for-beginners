@@ -157,6 +157,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good-first-issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good-first-issue)_ <br> A free, fast and beautiful API request builder.
 - [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
+- [HMPL](https://github.com/hmpl-lang/hmpl) _(label: good-first-issue)_ <br> Template language for displaying UI from server to client.
 - [iD](https://github.com/openstreetmap/iD) _(label: good-first-issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [Jest](https://github.com/facebook/jest) _(label: good-first-issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good-first-issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
