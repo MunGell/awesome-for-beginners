@@ -20,7 +20,8 @@ jobs:
         run: node .github/scripts/build.js
       - name: Commit
         run: |
-          git config --global user.name 'Shmavon Gazanchyan'
-          git config --global user.email 'MunGell@users.noreply.github.com'
+          git config --global user.name 'Github Action'
+          git config --global user.email 'github-action@github.com'
           git commit -am "Update README.md"
           git push
+          
