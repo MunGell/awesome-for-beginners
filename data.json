@@ -2272,6 +2272,16 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+            "name": "SuperDuperDB",
+            "link": "https://github.com/SuperDuperDB/superduperdb",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "MLOps"
+            ],
+            "description": "🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data"
+        },
+        {
             "name": "LinksHub",
             "link": "https://github.com/rupali-codes/LinksHub",
             "label": "good first issue",
