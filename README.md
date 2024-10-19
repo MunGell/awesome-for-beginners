@@ -97,6 +97,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good-first-issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
