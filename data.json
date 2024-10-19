@@ -1020,7 +1020,7 @@
         {
             "name": "Time to Leave",
             "link": "https://github.com/thamara/time-to-leave",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
