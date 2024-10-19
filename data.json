@@ -2253,7 +2253,16 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
-        "name": "Vite",
+            "name": "activist",
+            "link": "https://github.com/activist-org/activist",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript", "Python"
+            ],
+            "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
+        },
+        {
+            "name": "Vite",
             "link": "https://github.com/vitejs/vite",
             "label": "good first issue",
             "technologies": [
