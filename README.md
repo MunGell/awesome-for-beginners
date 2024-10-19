@@ -228,6 +228,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Julia
 
+- [Julia](https://github.com/JuliaLang/julia) _(label: good-first-issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia) _(label: good-first-issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
 
