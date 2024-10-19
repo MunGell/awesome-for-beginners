@@ -69,6 +69,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## C++
 
 - [electron](https://github.com/electron/electron) _(label: good-first-issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [F3D](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [MoveIt](https://github.com/ros-planning/moveit) _(label: good-first-issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 - [projectM](https://github.com/projectM-visualizer/projectm) _(label: good-first-issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
