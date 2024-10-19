@@ -1662,14 +1662,6 @@
             "description": "An open source publishing platform for environmental projects. Check out new contributors welcome page."
         },
         {
-            "name": "Discourse",
-            "link": "https://github.com/discourse/discourse",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Civilized discussion platform. See \"How to contribute to Discourse\"."
-        },
-        {
             "name": "osem",
             "link": "https://github.com/openSUSE/osem",
             "label": "good-first-issue",
