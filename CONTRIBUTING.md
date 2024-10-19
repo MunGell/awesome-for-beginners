@@ -16,4 +16,4 @@ Please ensure that your pull request adheres to the following guidelines:
 - The contributed repository must be maintained, have an active community to be able to help newcomers and have issues with an appropriate label.
 - Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
 
-Thank you for your suggestions!
+Thank you for your suggestions!!
