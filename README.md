@@ -405,7 +405,7 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-<table><tr><td align="center"><a href="https://github.com/thamara"><img src="https://avatars1.githubusercontent.com/u/846063?v=4?s=60" width="60px;" alt=""/><br/><sub><b>Thamara Andrade</b></sub></a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/MixeroTN"><img src="https://avatars.githubusercontent.com/u/40803091" width="60px;" alt=""/><br/><sub><b>TMichał Gołkowski</b></sub></a></td></tr></table>
 
 ## License
 
