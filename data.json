@@ -2235,6 +2235,16 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+        "name": "Vite",
+            "link": "https://github.com/vitejs/vite",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "description": "Next generation frontend tooling. It's fast! Alternative to Create React App"
+        },
+        {
             "name": "Manifest",
             "link": "https://github.com/mnfst/manifest",
             "label": "good first issue",
