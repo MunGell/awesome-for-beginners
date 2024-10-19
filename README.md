@@ -355,6 +355,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Swift
 
+- [Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) _(label: good first issue)_ <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
