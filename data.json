@@ -2088,7 +2088,7 @@
         },
         {
             "name": "Visual Studio Code",
-            "link": "(https://github.com/Microsoft/vscode)",
+            "link": "https://github.com/Microsoft/vscode",
             "label": "first-timers-only",
             "technologies": [
                 "TypeScript"
