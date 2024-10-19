@@ -2089,7 +2089,7 @@
         {
             "name": "Visual Studio Code",
             "link": "https://github.com/Microsoft/vscode",
-            "label": "first-timers-only",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
