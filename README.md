@@ -9,6 +9,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Table of Contents:
 
 - [.NET](#net)
+- [Ansible](#ansible)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
@@ -16,6 +17,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [ClojureScript](#clojurescript)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -42,9 +44,12 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good-first-issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting Should be!
 
+## Ansible
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
+
 ## C
 
-- [Neovim](https://github.com/neovim/neovim) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
 - [Profanity](https://github.com/profanity-im/profanity) _(label: good-first-issue)_ <br> Ncurses XMPP chat client.
 
 ## C#
@@ -83,10 +88,15 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Ecto](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 
+## Elm
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
+
 ## Go
 
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good-first-issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
@@ -109,6 +119,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good-first-issue)_ <br> Cross-platform mobile app development framework for Java developers
+- [DSA](https://github.com/abhishektripathi66/DSA) _(label: good-first-issue)_ <br> DSA questions practising repo for Java developers
 - [elasticsearch](https://github.com/elastic/elasticsearch) _(label: good-first-issue)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) _(label: good-first-issue)_ <br> An android app to convert images to PDF file.
 - [JabRef](https://github.com/JabRef/jabref) _(label: good-first-issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
@@ -125,13 +136,13 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [altair](https://github.com/imolorhe/altair) _(label: good-first-issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [API-pull-with-JavaScript](https://github.com/AliBasboga/APIExampleWithExpress.git) _(label: API-pull-and-use)_ <br> API data extraction and delivery to the user to present.
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good-first-issue)_ <br> A compiler for writing next generation JavaScript.
 - [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good-first-issue)_ <br> Desktop browser for macOS, Windows, and Linux.
-- [cdnjs](https://github.com/cdnjs/cdnjs) _(label: good-first-issue)_ <br> The best FOSS web front-end resource CDN
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good-first-issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [Create React App](https://github.com/facebook/create-react-app) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
 - [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
@@ -144,7 +155,9 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) _(label: good-first-issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good-first-issue)_ <br> Just a blogging platform
+- [grommet](https://github.com/grommet/grommet) _(label: good-first-issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good-first-issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
+- [HMPL](https://github.com/hmpl-lang/hmpl) _(label: good-first-issue)_ <br> Template language for displaying UI from server to client.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good-first-issue)_ <br> A free, fast and beautiful API request builder.
 - [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
 - [iD](https://github.com/openstreetmap/iD) _(label: good-first-issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
@@ -293,6 +306,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JRuby](https://github.com/jruby/jruby) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [mapknitter](https://github.com/publiclab/mapknitter) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 - [Matestack](https://github.com/matestack/matestack-ui-core) _(label: good-first-issue)_ <br> Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js
+- [multiwoven](https://github.com/Multiwoven/multiwoven) _(label: good-first-issue)_ <br> The open-source reverse ETL, data activation platform for modern data teams.
 - [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service](https://github.com/openSUSE/open-build-service) _(label: good-first-issue-:1st_place_medal:)_ <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
 - [osem](https://github.com/openSUSE/osem) _(label: good-first-issue)_ <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
@@ -331,12 +345,12 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Booster](https://github.com/boostercloud/booster) _(label: good-first-issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
-- [game-of-life](https://github.com/TroyTae/game-of-life) _(label: good-first-issue)_ <br> Conway's Game of Life web version!
 - [Graphback](https://github.com/aerogear/graphback) _(label: good-first-issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) _(label: good-first-issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good-first-issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
+- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
