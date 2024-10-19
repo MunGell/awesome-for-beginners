@@ -169,6 +169,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good-first-issue)_ <br> A free, fast and beautiful API request builder.
 - [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
 - [iD](https://github.com/openstreetmap/iD) _(label: good-first-issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [Jasmine](https://github.com/jasmine/jasmine) _(label: good-first-issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good-first-issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good-first-issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kap](https://github.com/wulkano/kap) _(label: good-first-issue)_ <br> An open-source screen recorder built with web technology
@@ -251,6 +252,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Deployer](https://github.com/deployphp/deployer) _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: n/a)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 - [Flarum](https://github.com/flarum/core) _(label: Good-first-issue)_ <br> Simple forum software for building great communities.
+- [FreshRSS](https://github.com/FreshRSS/FreshRSS) _(label: good first issue)_ <br> FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012.
 - [Laravel Newsletters](https://github.com/spatie/laravel-newsletter) _(label: good-first-issue)_ <br> A package that provides an easy way to integrate MailChimp with Laravel 5.
 - [Matomo](https://github.com/matomo-org/matomo) _(label: help-wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: n/a)_ <br> The free and open-source wiki software package that powers Wikipedia.
