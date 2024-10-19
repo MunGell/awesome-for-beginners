@@ -2089,7 +2089,7 @@
         {
             "name": "QuestDB",
             "link": "https://github.com/questdb/questdb",
-            "label": "good first issue",
+            "label": "Good first issue",
             "technologies": [
                 "Java"
             ],
