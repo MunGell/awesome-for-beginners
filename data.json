@@ -2141,6 +2141,15 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
+            "name": "HueHive",
+            "link": "https://github.com/croma-app/croma",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A open source react native app iOS and android for color palette management"
+        },
+        {
             "name": "QuestDB",
             "link": "https://github.com/questdb/questdb",
             "label": "Good first issue",
