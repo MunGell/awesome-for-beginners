@@ -2245,6 +2245,15 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+            "name": "LinksHub",
+            "link": "https://github.com/rupali-codes/LinksHub",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work."
+        },
+        {
             "name": "activist",
             "link": "https://github.com/activist-org/activist",
             "label": "good first issue",
