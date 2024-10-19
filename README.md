@@ -100,6 +100,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [Kanister](https://github.com/kanisteroio/kanister) _(label: good-first-issue)_ <br> A Data Protection Workflow Management Engine
 - [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good-first-issue)_ <br> Simple way to generate mock servers in Go.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good-first-issue)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
