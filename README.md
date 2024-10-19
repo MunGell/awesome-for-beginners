@@ -156,6 +156,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) _(label: good-first-issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good-first-issue)_ <br> Just a blogging platform
+- [grommet](https://github.com/grommet/grommet) _(label: good-first-issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good-first-issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good-first-issue)_ <br> A free, fast and beautiful API request builder.
 - [Hyper](https://github.com/zeit/hyper) _(label: good-first-issue)_ <br> JS/HTML/CSS Terminal
