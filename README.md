@@ -268,6 +268,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## Python
 
+- [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
 - [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
 - [Bokeh](https://github.com/bokeh/bokeh) _(label: good-first-issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
@@ -363,6 +364,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## TypeScript
 
+- [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Booster](https://github.com/boostercloud/booster) _(label: good-first-issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [Graphback](https://github.com/aerogear/graphback) _(label: good-first-issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
