@@ -196,6 +196,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [serverless](https://github.com/serverless/serverless) _(label: good-first-issue)_ <br> The Serverless Framework
 - [SimplQ](https://github.com/SimplQ/simplQ-frontend) _(label: good-first-issue)_ <br> Free online queue manager for easy and instant crowd control.
 - [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) _(label: good-first-issue)_ <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
+- [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
 - [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good-first-issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
@@ -354,6 +355,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+- [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good-first-issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
