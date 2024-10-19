@@ -9,6 +9,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Table of Contents:
 
 - [.NET](#net)
+- [Angular](#angular)
 - [Ansible](#ansible)
 - [C](#c)
 - [C#](#c-1)
@@ -35,6 +36,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
+- [Typescript](#typescript)
 
 ## .NET
 
@@ -43,6 +45,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good-first-issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting Should be!
+
+## Angular
+
+- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 ## Ansible
 
@@ -282,6 +288,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [mygpo](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [mypy](https://github.com/python/mypy) _(label: good-first-issue)_ <br> An optional static typing for python.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [opsdroid](https://github.com/opsdroid/opsdroid) _(label: good-first-issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas) _(label: good-first-issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
@@ -363,6 +370,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A text editor for various coding entities
+
+## Typescript
+
+- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 
 ## Contribute
