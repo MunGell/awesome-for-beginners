@@ -40,15 +40,6 @@
             "description": "Should testing for .NET - the way Asserting Should be!"
         },
         {
-            "name": "Neovim",
-            "link": "https://github.com/neovim/neovim",
-            "label": "good-first-issue",
-            "technologies": [
-                "C"
-            ],
-            "description": "Vim-fork focused on extensibility and agility."
-        },
-        {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good-first-issue",
@@ -217,6 +208,15 @@
                 "Go"
             ],
             "description": "The Docker CLI"
+        },
+        {
+            "name": "Dragonfly",
+            "link": "https://github.com/dragonflyoss/Dragonfly2",
+            "label": "good-first-issue",
+            "technologies": [
+              "Go"
+            ],
+            "description": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology"
         },
         {
             "name": "Helm",
@@ -451,6 +451,15 @@
             "description": "Cross-platform mobile app development framework for Java developers"
         },
         {
+            "name": "DSA",
+            "link": "https://github.com/abhishektripathi66/DSA",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "DSA questions practising repo for Java developers"
+        },
+        {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
             "label": "good-first-issue",
@@ -577,6 +586,24 @@
             "description": "JS/HTML/CSS Terminal"
         },
         {
+            "name": "API-pull-with-JavaScript",
+            "link": "https://github.com/AliBasboga/APIExampleWithExpress.git",
+            "label": "API-pull-and-use",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "API data extraction and delivery to the user to present."
+        },
+        {
+            "name": "HMPL",
+            "link": "https://github.com/hmpl-lang/hmpl",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Template language for displaying UI from server to client."
+        },
+        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
@@ -665,15 +692,6 @@
                 "JavaScript"
             ],
             "description": "The only sane way to build great bots."
-        },
-        {
-            "name": "cdnjs",
-            "link": "https://github.com/cdnjs/cdnjs",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "The best FOSS web front-end resource CDN"
         },
         {
             "name": "Video.js",
@@ -1715,6 +1733,15 @@
             "description": "Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print."
         },
         {
+            "name": "multiwoven",
+            "link": "https://github.com/Multiwoven/multiwoven",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "The open-source reverse ETL, data activation platform for modern data teams."
+        },
+        {
             "name": "Ruby on Rails",
             "link": "https://github.com/rails/rails",
             "label": "good-first-issue",
@@ -1883,15 +1910,6 @@
                 "TypeScript"
             ],
             "description": "Reatom is declarative and reactive state manager, designed for both simple and complex applications."
-        },
-        {
-            "name": "game-of-life",
-            "link": "https://github.com/TroyTae/game-of-life",
-            "label": "good-first-issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "Conway's Game of Life web version!"
         },
         {
             "name": "Graphback",
@@ -2095,6 +2113,41 @@
                 "JavaScript"
             ],
             "description": "Storybook is a frontend workshop for building UI components and pages in isolation."
+        },
+        {
+            "name": "Visual Studio Code",
+            "link": "https://github.com/Microsoft/vscode",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A text editor for various coding entities"
+        },
+        {
+            "name": "Exosphere",
+            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "label": "Good First Issue",
+            "technologies": [
+                "Elm",
+                "Ansible"
+            ],
+            "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "Manifest",
+            "link": "https://github.com/mnfst/manifest",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+        },
+        {
+            "name": "grommet",
+            "link": "https://github.com/grommet/grommet",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
         }
     ]
 }
