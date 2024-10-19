@@ -2087,13 +2087,23 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
-            "name": "Croma",
+            "name": "HueHive",
             "link": "https://github.com/croma-app/croma",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
-            "description": "A open source react native app for web, iOS and android for color palette management"
+            "description": "A open source react native app iOS and android for color palette management"
+        },
+        {
+            "name": "Exosphere",
+            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "label": "Good First Issue",
+            "technologies": [
+                "Elm",
+                "Ansible"
+            ],
+            "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
     ]
 }
