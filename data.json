@@ -2075,7 +2075,7 @@
         },
         {
             "name": "flutter",
-            "link": "https://github.com/flutter/flutter/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22",
+            "link": "https://github.com/flutter/flutter",
             "label": "good first issue",
             "technologies": [
                 "Dart"
