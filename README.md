@@ -50,7 +50,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim) _(label: good-first-issue)_ <br> Vim-fork focused on extensibility and agility.
 - [Profanity](https://github.com/profanity-im/profanity) _(label: good-first-issue)_ <br> Ncurses XMPP chat client.
 
 ## C#
