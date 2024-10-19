@@ -237,6 +237,15 @@
             "description": "A Fast and Flexible Static Site Generator built with love in GoLang"
         },
         {
+            "name": "Kanister",
+            "link": "https://github.com/kanisteroio/kanister",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A Data Protection Workflow Management Engine"
+        },
+        {
             "name": "Kubernetes",
             "link": "https://github.com/kubernetes/kubernetes",
             "label": "good-first-issue",
