@@ -2101,7 +2101,7 @@
             "link": "https://github.com/activist-org/activist",
             "label": "good first issue",
             "technologies": [
-                "TypeScript"
+                "TypeScript", "Python"
             ],
             "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
         }
