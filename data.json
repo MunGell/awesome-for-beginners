@@ -160,7 +160,7 @@
         {
             "name": "F3D",
             "link": "https://github.com/f3d-app/f3d",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
