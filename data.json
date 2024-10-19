@@ -460,6 +460,15 @@
             "description": "Cross-platform mobile app development framework for Java developers"
         },
         {
+            "name": "DSA",
+            "link": "https://github.com/abhishektripathi66/DSA",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "DSA questions practising repo for Java developers"
+        },
+        {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
             "label": "good-first-issue",
