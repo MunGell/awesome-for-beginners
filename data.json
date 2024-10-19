@@ -2099,7 +2099,7 @@
         {
             "name": "SuperDuperDB",
             "link": "https://github.com/SuperDuperDB/superduperdb",
-            "label": "Good First Issue",
+            "label": "good first issue",
             "technologies": [
                 "Python",
                 "MLOps"
