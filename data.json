@@ -2099,7 +2099,7 @@
         {
           "name": "Manifest",
           "link": "https://github.com/mnfst/manifest",
-          "label": "Good First Issue",
+          "label": "good first issue",
           "technologies": ["TypeScript"],
           "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
         }
