@@ -2141,6 +2141,15 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
+            "name": "Avo Admin for Ruby on Rails",
+            "link": "https://github.com/avo-hq/avo",
+            "label": "Good first issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Build business apps 10x faster using Ruby on Rails."
+        },
+        {
             "name": "HueHive",
             "link": "https://github.com/croma-app/croma",
             "label": "good first issue",
