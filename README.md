@@ -272,7 +272,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Bokeh](https://github.com/bokeh/bokeh) _(label: good-first-issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good-first-issue)_ <br> Building a Better Democracy for the Internet Age
-- [coala](https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [coala](https://github.com/coala/coala) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good-first-issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
