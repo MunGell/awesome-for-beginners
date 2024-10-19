@@ -27,6 +27,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
 - [Markdown](#markdown)
+- [MLOps](#mlops)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
@@ -247,6 +248,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
+## MLOps
+
+- [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada) _(label: good-first-issue)_ <br> Remote Virtual Desktops Manager.
@@ -310,6 +315,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good-first-issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good-first-issue)_ <br> A fast high-level web crawling & scraping framework for Python.
 - [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good-first-issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
+- [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
