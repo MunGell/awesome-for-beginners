@@ -1904,6 +1904,15 @@
             "description": "Veloren is a multiplayer voxel RPG written in Rust."
         },
         {
+            "name": "Sniffnet",
+            "link": "https://github.com/GyulyVGC/sniffnet",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Application to comfortably monitor network traffic."
+        },
+        {
             "name": "Twitter Util",
             "link": "https://github.com/twitter/util",
             "label": "good-first-issue",
