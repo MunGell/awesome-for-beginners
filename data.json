@@ -40,15 +40,6 @@
             "description": "Should testing for .NET - the way Asserting Should be!"
         },
         {
-            "name": "Neovim",
-            "link": "https://github.com/neovim/neovim",
-            "label": "good-first-issue",
-            "technologies": [
-                "C"
-            ],
-            "description": "Vim-fork focused on extensibility and agility."
-        },
-        {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good-first-issue",
