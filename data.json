@@ -2115,6 +2115,13 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+            "name": "Manifest",
+            "link": "https://github.com/mnfst/manifest",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+        },
+        {
             "name": "grommet",
             "link": "https://github.com/grommet/grommet",
             "label": "good-first-issue",
