@@ -350,6 +350,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) _(label: good-first-issue)_ <br> Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good-first-issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
+- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
