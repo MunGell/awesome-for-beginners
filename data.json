@@ -176,15 +176,6 @@
             "description": "The Next Generation code editor! One of the top funded projects on KickStarter."
         },
         {
-            "name": "sButtons",
-            "link": "https://github.com/shahednasser/sbuttons",
-            "label": "good-first-issue",
-            "technologies": [
-                "CSS"
-            ],
-            "description": "Simple buttons you can easily use for your next project."
-        },
-        {
             "name": "dart.dev",
             "link": "https://github.com/dart-lang/site-www",
             "label": "beginner",
@@ -2096,7 +2087,17 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
-            "name": "Vite",
+            "name": "Exosphere",
+            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "label": "Good First Issue",
+            "technologies": [
+                "Elm",
+                "Ansible"
+            ],
+            "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+        "name": "Vite",
             "link": "https://github.com/vitejs/vite",
             "label": "good first issue",
             "technologies": [

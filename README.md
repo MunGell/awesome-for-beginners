@@ -9,14 +9,15 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Table of Contents:
 
 - [.NET](#net)
+- [Ansible](#ansible)
 - [C](#c)
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
 - [ClojureScript](#clojurescript)
-- [CSS](#css)
 - [Dart](#dart)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -42,6 +43,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good-first-issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 - [Shouldly](https://github.com/shouldly/shouldly) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting Should be!
+
+## Ansible
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
 ## C
 
@@ -74,10 +79,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [LightTable](https://github.com/LightTable/LightTable) _(label: good-first-issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
 
-## CSS
-
-- [sButtons](https://github.com/shahednasser/sbuttons) _(label: good-first-issue)_ <br> Simple buttons you can easily use for your next project.
-
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
@@ -87,6 +88,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Ecto](https://github.com/elixir-ecto/ecto) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 - [Elixir](https://github.com/elixir-lang/elixir) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+## Elm
+
+- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
 ## Go
 
