@@ -1921,15 +1921,6 @@
             "description": "Reatom is declarative and reactive state manager, designed for both simple and complex applications."
         },
         {
-            "name": "game-of-life",
-            "link": "https://github.com/TroyTae/game-of-life",
-            "label": "good-first-issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "Conway's Game of Life web version!"
-        },
-        {
             "name": "Graphback",
             "link": "https://github.com/aerogear/graphback",
             "label": "good-first-issue",
