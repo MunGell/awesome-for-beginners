@@ -595,6 +595,15 @@
             "description": "JS/HTML/CSS Terminal"
         },
         {
+            "name": "HMPL",
+            "link": "https://github.com/hmpl-lang/hmpl",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Template language for displaying UI from server to client."
+        },
+        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
