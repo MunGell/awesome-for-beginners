@@ -1286,6 +1286,15 @@
             ],
             "description": "An End-to-end backend server for frontend and mobile developers. 🚀"
         },
+		{
+            "name": "FreshRSS",
+            "link": "https://github.com/FreshRSS/FreshRSS",
+            "label": "good first issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012."
+        },
         {
             "name": "NextCloud Server",
             "link": "https://github.com/nextcloud/server",
