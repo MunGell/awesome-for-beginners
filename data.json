@@ -2113,6 +2113,15 @@
                 "Ansible"
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
+        },
+        {
+            "name": "grommet",
+            "link": "https://github.com/grommet/grommet",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
         }
     ]
 }
