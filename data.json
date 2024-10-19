@@ -1742,6 +1742,15 @@
             "description": "Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print."
         },
         {
+            "name": "multiwoven",
+            "link": "https://github.com/Multiwoven/multiwoven",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "The open-source reverse ETL, data activation platform for modern data teams."
+        },
+        {
             "name": "Ruby on Rails",
             "link": "https://github.com/rails/rails",
             "label": "good-first-issue",
