@@ -216,6 +216,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Vest](https://github.com/ealush/vest) _(label: good-first-issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good-first-issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
+- [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vue CLI](https://github.com/vuejs/vue-cli) _(label: good-first-issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router) _(label: good-first-issue)_ <br> The official router for Vue.js.
 - [Vue.js](https://github.com/vuejs/vue) _(label: good-first-issue)_ <br> The Progressive JavaScript Framework.
@@ -378,6 +379,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A text editor for various coding entities
+- [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 
 ## Typescript
 
