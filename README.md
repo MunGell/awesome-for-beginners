@@ -142,7 +142,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good-first-issue)_ <br> Desktop browser for macOS, Windows, and Linux.
-- [cdnjs](https://github.com/cdnjs/cdnjs) _(label: good-first-issue)_ <br> The best FOSS web front-end resource CDN
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good-first-issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [Create React App](https://github.com/facebook/create-react-app) _(label: good-first-issue)_ <br> Create React apps with no build configuration.
 - [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
