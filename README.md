@@ -319,7 +319,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [bolt](https://github.com/puppetlabs/bolt) _(label: Beginner-Friendly)_ <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 - [chatwoot](https://github.com/chatwoot/chatwoot) _(label: good-first-issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [chef](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
-- [Discourse](https://meta.discourse.org/tags/starter-task) _(label: n/a)_ <br> Civilized discussion platform. See "How to contribute to Discourse".
 - [Faker](https://github.com/faker-ruby/faker) _(label: good-first-issue)_ <br> Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers.
 - [Goby](https://github.com/nskins/goby) _(label: n/a)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
