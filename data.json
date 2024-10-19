@@ -149,6 +149,15 @@
             "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
         },
         {
+            "name": "MiniOB",
+            "link": "https://github.com/oceanbase/miniob",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese)."
+        },
+        {
             "name": "F3D",
             "link": "https://github.com/f3d-app/f3d",
             "label": "good first issue",
