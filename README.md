@@ -1,4 +1,4 @@
-# Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
@@ -120,6 +120,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good-first-issue)_ <br> Cross-platform mobile app development framework for Java developers
+- [DSA](https://github.com/abhishektripathi66/DSA) _(label: good-first-issue)_ <br> DSA questions practising repo for Java developers
 - [elasticsearch](https://github.com/elastic/elasticsearch) _(label: good-first-issue)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) _(label: good-first-issue)_ <br> An android app to convert images to PDF file.
 - [JabRef](https://github.com/JabRef/jabref) _(label: good-first-issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
