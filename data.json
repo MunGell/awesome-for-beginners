@@ -2123,6 +2123,15 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
+            "name": "QuestDB",
+            "link": "https://github.com/questdb/questdb",
+            "label": "Good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Questdb is a fast open source SQL time series database."
+        },
+        {
             "name": "Oppia",
             "link": "https://github.com/oppia/oppia",
             "label": "good first issue",
