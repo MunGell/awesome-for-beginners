@@ -1162,15 +1162,6 @@
             "description": "A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON."
         },
         {
-            "name": "Kotlin Libraries Playground",
-            "link": "https://github.com/LouisCAD/kotlin-libraries-playground",
-            "label": "good-first-issue",
-            "technologies": [
-                "Kotlin"
-            ],
-            "description": "A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions."
-        },
-        {
             "name": "Algorithmic Pseudocode",
             "link": "https://github.com/just-a-visitor/algorithmic-pseudocode",
             "label": "good-first-issue",
