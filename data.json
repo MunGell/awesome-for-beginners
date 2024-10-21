@@ -167,15 +167,6 @@
             "description": "A music programming language for musicians. 🎶"
         },
         {
-            "name": "LightTable",
-            "link": "https://github.com/LightTable/LightTable",
-            "label": "good-first-issue",
-            "technologies": [
-                "ClojureScript"
-            ],
-            "description": "The Next Generation code editor! One of the top funded projects on KickStarter."
-        },
-        {
             "name": "dart.dev",
             "link": "https://github.com/dart-lang/site-www",
             "label": "beginner",
