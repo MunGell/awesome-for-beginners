@@ -1421,15 +1421,6 @@
             "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
         },
         {
-            "name": "Mailpile",
-            "link": "https://github.com/mailpile/Mailpile",
-            "label": "Low-Hanging-Fruit",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A free & open modern, fast email client with user-friendly encryption and privacy features"
-        },
-        {
             "name": "coala",
             "link": "https://github.com/coala/coala",
             "technologies": [
