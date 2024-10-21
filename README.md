@@ -15,7 +15,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [C#](#c-1)
 - [C++](#c-2)
 - [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
 - [Dart](#dart)
 - [Elixir](#elixir)
 - [Elm](#elm)
@@ -81,10 +80,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Clojure
 
 - [Alda](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
-
-## ClojureScript
-
-- [LightTable](https://github.com/LightTable/LightTable) _(label: good-first-issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
 
 ## Dart
 
