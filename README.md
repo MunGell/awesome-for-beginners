@@ -36,7 +36,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Smalltalk](#smalltalk)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Typescript](#typescript)
 
 ## .NET
 
@@ -374,6 +373,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good-first-issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
@@ -381,10 +381,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-
-## Typescript
-
-- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 
 ## Contribute
