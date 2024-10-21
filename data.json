@@ -247,7 +247,7 @@
         },
         {
             "name": "Kanister",
-            "link": "https://github.com/kanisteroio/kanister",
+            "link": "https://github.com/kanisterio/kanister",
             "label": "good-first-issue",
             "technologies": [
                 "Go"
