@@ -388,8 +388,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good-first-issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A text editor for various coding entities
+- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 
 ## Typescript
