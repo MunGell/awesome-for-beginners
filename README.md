@@ -174,7 +174,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Letra Extension](https://github.com/jayehernandez/letra-extension) _(label: good-first-issue)_ <br> Passively learn a new language every time you open a new tab.
 - [material-ui](https://github.com/mui-org/material-ui) _(label: good-first-issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
-- [md-page](https://github.com/oscarmorrison/md-page) _(label: good-first-issue)_ <br> Create a webpage with just markdown.
 - [Meteor](https://github.com/meteor/meteor) _(label: good-first-issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
 - [Mocha](https://github.com/mochajs/mocha) _(label: good-first-issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Moment.js](https://github.com/moment/moment) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
