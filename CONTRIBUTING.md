@@ -3,7 +3,7 @@
 Please ensure that your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one to avoid duplicates.
-- Ensure your contribution is useful and relevant, with sufficient content and a clear, concise description for each item.Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
+- Ensure your contribution is useful and relevant, with sufficient content and a clear, concise description for each item. Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Only include your suggested repository to `data.json` file, README.md file is generated from it.
 - New categories or improvements to existing categories are welcome.
