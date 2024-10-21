@@ -49,15 +49,6 @@
             "description": "Cross platform .NET grok implementation"
         },
         {
-            "name": "OpenRA",
-            "link": "https://github.com/OpenRA/OpenRA",
-            "label": "Easy",
-            "technologies": [
-                "C#"
-            ],
-            "description": "A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert."
-        },
-        {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
             "label": "good-first-issue",
