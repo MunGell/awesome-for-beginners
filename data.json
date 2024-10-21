@@ -802,15 +802,6 @@
             "description": "The Progressive JavaScript Framework."
         },
         {
-            "name": "md-page",
-            "link": "https://github.com/oscarmorrison/md-page",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Create a webpage with just markdown."
-        },
-        {
             "name": "Check It Out",
             "link": "https://github.com/jwu910/check-it-out",
             "label": "good-first-issue",
