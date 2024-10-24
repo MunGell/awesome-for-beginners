@@ -1,9 +1,9 @@
 {
     "sponsors": [
         {
-            "name": "Thamara Andrade",
-            "image": "https://avatars1.githubusercontent.com/u/846063?v=4?s=60",
-            "link": "https://github.com/thamara"
+            "name": "Michał Gołkowski",
+            "image": "https://avatars.githubusercontent.com/u/40803091",
+            "link": "https://github.com/MixeroTN"
         }
     ],
     "technologies": {
@@ -40,15 +40,6 @@
             "description": "Should testing for .NET - the way Asserting Should be!"
         },
         {
-            "name": "Neovim",
-            "link": "https://github.com/neovim/neovim",
-            "label": "good-first-issue",
-            "technologies": [
-                "C"
-            ],
-            "description": "Vim-fork focused on extensibility and agility."
-        },
-        {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good-first-issue",
@@ -56,15 +47,6 @@
                 "C#"
             ],
             "description": "Cross platform .NET grok implementation"
-        },
-        {
-            "name": "OpenRA",
-            "link": "https://github.com/OpenRA/OpenRA",
-            "label": "Easy",
-            "technologies": [
-                "C#"
-            ],
-            "description": "A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert."
         },
         {
             "name": "osu!",
@@ -158,6 +140,24 @@
             "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
         },
         {
+            "name": "MiniOB",
+            "link": "https://github.com/oceanbase/miniob",
+            "label": "good-first-issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese)."
+        },
+        {
+            "name": "F3D",
+            "link": "https://github.com/f3d-app/f3d",
+            "label": "good first issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "Fast and minimalist 3D viewer."
+        },
+        {
             "name": "Alda",
             "link": "https://github.com/alda-lang/alda",
             "label": "low-hanging-fruit",
@@ -165,15 +165,6 @@
                 "Clojure"
             ],
             "description": "A music programming language for musicians. 🎶"
-        },
-        {
-            "name": "LightTable",
-            "link": "https://github.com/LightTable/LightTable",
-            "label": "good-first-issue",
-            "technologies": [
-                "ClojureScript"
-            ],
-            "description": "The Next Generation code editor! One of the top funded projects on KickStarter."
         },
         {
             "name": "dart.dev",
@@ -219,6 +210,15 @@
             "description": "The Docker CLI"
         },
         {
+            "name": "Dragonfly",
+            "link": "https://github.com/dragonflyoss/Dragonfly2",
+            "label": "good-first-issue",
+            "technologies": [
+              "Go"
+            ],
+            "description": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology"
+        },
+        {
             "name": "Helm",
             "link": "https://github.com/kubernetes/helm",
             "label": "good-first-issue",
@@ -235,6 +235,15 @@
                 "Go"
             ],
             "description": "A Fast and Flexible Static Site Generator built with love in GoLang"
+        },
+        {
+            "name": "Kanister",
+            "link": "https://github.com/kanisterio/kanister",
+            "label": "good-first-issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A Data Protection Workflow Management Engine"
         },
         {
             "name": "Kubernetes",
@@ -406,15 +415,6 @@
             "description": "API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly."
         },
         {
-            "name": "SirixDB",
-            "link": "https://github.com/sirixdb/sirix",
-            "label": "good-first-issue",
-            "technologies": [
-                "Java"
-            ],
-            "description": "SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware."
-        },
-        {
             "name": "Images-to-PDF",
             "link": "https://github.com/Swati4star/Images-to-PDF",
             "label": "good-first-issue",
@@ -449,6 +449,15 @@
                 "Java"
             ],
             "description": "Cross-platform mobile app development framework for Java developers"
+        },
+        {
+            "name": "DSA",
+            "link": "https://github.com/abhishektripathi66/DSA",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "DSA questions practising repo for Java developers"
         },
         {
             "name": "name-suggestion-index",
@@ -577,6 +586,24 @@
             "description": "JS/HTML/CSS Terminal"
         },
         {
+            "name": "API-pull-with-JavaScript",
+            "link": "https://github.com/AliBasboga/APIExampleWithExpress.git",
+            "label": "API-pull-and-use",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "API data extraction and delivery to the user to present."
+        },
+        {
+            "name": "HMPL",
+            "link": "https://github.com/hmpl-lang/hmpl",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Template language for displaying UI from server to client."
+        },
+        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
@@ -665,15 +692,6 @@
                 "JavaScript"
             ],
             "description": "The only sane way to build great bots."
-        },
-        {
-            "name": "cdnjs",
-            "link": "https://github.com/cdnjs/cdnjs",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "The best FOSS web front-end resource CDN"
         },
         {
             "name": "Video.js",
@@ -784,15 +802,6 @@
             "description": "The Progressive JavaScript Framework."
         },
         {
-            "name": "md-page",
-            "link": "https://github.com/oscarmorrison/md-page",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Create a webpage with just markdown."
-        },
-        {
             "name": "Check It Out",
             "link": "https://github.com/jwu910/check-it-out",
             "label": "good-first-issue",
@@ -901,15 +910,6 @@
             "description": "Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation."
         },
         {
-            "name": "Binari",
-            "link": "https://github.com/BrandonArmand/Binari",
-            "label": "up-for-grabs",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming."
-        },
-        {
             "name": "SirixDB",
             "link": "https://github.com/sirixdb/sirix-svelte-front-end",
             "label": "good-first-issue",
@@ -975,7 +975,7 @@
         {
             "name": "Time to Leave",
             "link": "https://github.com/thamara/time-to-leave",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1034,6 +1034,15 @@
                 "JavaScript"
             ],
             "description": "Passively learn a new language every time you open a new tab."
+        },
+        {
+            "name": "Jasmine",
+            "link": "https://github.com/jasmine/jasmine",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Simple JavaScript testing framework for browsers and node.js."
         },
         {
             "name": "swag-for-dev",
@@ -1108,6 +1117,15 @@
             "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
         },
         {
+            "name": "Julia",
+            "link": "https://github.com/JuliaLang/julia",
+            "label": "good-first-issue",
+            "technologies": [
+                "Julia"
+            ],
+            "description": "Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia"
+        },
+        {
             "name": "Atrium",
             "link": "https://github.com/robstoll/atrium",
             "label": "good-first-issue",
@@ -1133,15 +1151,6 @@
                 "Kotlin"
             ],
             "description": "A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON."
-        },
-        {
-            "name": "Kotlin Libraries Playground",
-            "link": "https://github.com/LouisCAD/kotlin-libraries-playground",
-            "label": "good-first-issue",
-            "technologies": [
-                "Kotlin"
-            ],
-            "description": "A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions."
         },
         {
             "name": "Algorithmic Pseudocode",
@@ -1250,6 +1259,15 @@
             ],
             "description": "An End-to-end backend server for frontend and mobile developers. 🚀"
         },
+		{
+            "name": "FreshRSS",
+            "link": "https://github.com/FreshRSS/FreshRSS",
+            "label": "good first issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "FreshRSS is a self-hosted RSS and Atom feed aggregator. It is lightweight, easy to work with, powerful, and customizable. Since 2012."
+        },
         {
             "name": "NextCloud Server",
             "link": "https://github.com/nextcloud/server",
@@ -1349,17 +1367,8 @@
             "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
         },
         {
-            "name": "Mailpile",
-            "link": "https://github.com/mailpile/Mailpile",
-            "label": "Low-Hanging-Fruit",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A free & open modern, fast email client with user-friendly encryption and privacy features"
-        },
-        {
             "name": "coala",
-            "link": "https://github.com/issues?utf8=✓&q=is:open+is:issue+user:coala+label:difficulty/newcomer++no:assignee",
+            "link": "https://github.com/coala/coala",
             "technologies": [
                 "Python"
             ],
@@ -1600,6 +1609,15 @@
             "description": "Scikit-learn is a machine learning library for Python."
         },
         {
+            "name": "Embedchain",
+            "link": "https://github.com/embedchain/embedchain/",
+            "label": "good-first-issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Embedchain is a framework to easily create LLM powered bots over any dataset."
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
@@ -1662,14 +1680,6 @@
             "description": "An open source publishing platform for environmental projects. Check out new contributors welcome page."
         },
         {
-            "name": "Discourse",
-            "link": "https://meta.discourse.org/tags/starter-task",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Civilized discussion platform. See \"How to contribute to Discourse\"."
-        },
-        {
             "name": "osem",
             "link": "https://github.com/openSUSE/osem",
             "label": "good-first-issue",
@@ -1713,6 +1723,15 @@
                 "Ruby"
             ],
             "description": "Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print."
+        },
+        {
+            "name": "multiwoven",
+            "link": "https://github.com/Multiwoven/multiwoven",
+            "label": "good-first-issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "The open-source reverse ETL, data activation platform for modern data teams."
         },
         {
             "name": "Ruby on Rails",
@@ -1822,6 +1841,15 @@
             "description": "Veloren is a multiplayer voxel RPG written in Rust."
         },
         {
+            "name": "Sniffnet",
+            "link": "https://github.com/GyulyVGC/sniffnet",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Application to comfortably monitor network traffic."
+        },
+        {
             "name": "Twitter Util",
             "link": "https://github.com/twitter/util",
             "label": "good-first-issue",
@@ -1858,6 +1886,15 @@
             "description": "Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product"
         },
         {
+            "name": "Basic-Car-Maintenance",
+            "link": "https://github.com/mikaelacaron/Basic-Car-Maintenance",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "A basic app to track your car's maintenance events, like fixes, oil changes, etc."
+        },
+        {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
             "label": "good-first-issue",
@@ -1873,7 +1910,16 @@
             "technologies": [
                 "TypeScript"
             ],
-            "description": "A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle."
+            "description": "A code editor redefined and optimized for building and debugging modern web and cloud applications."
+        },
+        {
+            "name": "Impler.io",
+            "link": "https://github.com/implerhq/impler.io",
+            "label": "good-first-issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "100% open source data import experience with readymade CSV & Excel import widget 🚀"
         },
         {
             "name": "reatom",
@@ -1883,15 +1929,6 @@
                 "TypeScript"
             ],
             "description": "Reatom is declarative and reactive state manager, designed for both simple and complex applications."
-        },
-        {
-            "name": "game-of-life",
-            "link": "https://github.com/TroyTae/game-of-life",
-            "label": "good-first-issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "Conway's Game of Life web version!"
         },
         {
             "name": "Graphback",
@@ -1995,7 +2032,7 @@
         {
             "name": "flutter",
             "link": "https://github.com/flutter/flutter",
-            "label": "good first contribution",
+            "label": "good first issue",
             "technologies": [
                 "Dart"
             ],
@@ -2037,6 +2074,15 @@
                 "TypeScript"
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
+        },
+      	{
+            "name": "H2O Wave Apps",
+            "link": "https://github.com/h2oai/wave-apps",
+            "label": "hacktoberfest",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Sample AI Apps built with H2O Wave."
         },
         {
             "name": "Node Efficientnet",
@@ -2087,6 +2133,63 @@
             "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
+            "name": "OMRChecker",
+            "link": "https://github.com/Udayraj123/OMRChecker",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github."
+        },
+        {
+            "name": "Avo Admin for Ruby on Rails",
+            "link": "https://github.com/avo-hq/avo",
+            "label": "Good first issue",
+            "technologies": [
+                "Ruby"
+            ],
+            "description": "Build business apps 10x faster using Ruby on Rails."
+        },
+        {
+            "name": "HueHive",
+            "link": "https://github.com/croma-app/croma",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A open source react native app iOS and android for color palette management"
+        },
+        {
+            "name": "QuestDB",
+            "link": "https://github.com/questdb/questdb",
+            "label": "Good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Questdb is a fast open source SQL time series database."
+        },
+        {
+            "name": "Oppia",
+            "link": "https://github.com/oppia/oppia",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript",
+                "Angular"
+            ],
+            "description": "Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege."
+        },
+        {
+            "name": "Storybook JS",
+            "link": "https://github.com/storybookjs/storybook",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation."
+        },
+        {
             "name": "Exosphere",
             "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
             "label": "Good First Issue",
@@ -2104,6 +2207,60 @@
                 "Python",
             ],
             "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs."
+        },
+        {
+            "name": "SuperDuperDB",
+            "link": "https://github.com/SuperDuperDB/superduperdb",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "MLOps"
+            ],
+            "description": "🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data"
+        },
+        {
+            "name": "LinksHub",
+            "link": "https://github.com/rupali-codes/LinksHub",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work."
+        },
+        {
+            "name": "activist",
+            "link": "https://github.com/activist-org/activist",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript", "Python"
+            ],
+            "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
+        },
+        {
+            "name": "Vite",
+            "link": "https://github.com/vitejs/vite",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "description": "Next generation frontend tooling. It's fast! Alternative to Create React App"
+        },
+        {
+            "name": "Manifest",
+            "link": "https://github.com/mnfst/manifest",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+        },
+        {
+            "name": "grommet",
+            "link": "https://github.com/grommet/grommet",
+            "label": "good-first-issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
         }
     ]
 }
