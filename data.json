@@ -1877,15 +1877,6 @@
             "description": "A dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk."
         },
         {
-            "name": "OpenFoodFacts-iOS",
-            "link": "https://github.com/openfoodfacts/openfoodfacts-ios",
-            "label": "help-wanted",
-            "technologies": [
-                "Swift"
-            ],
-            "description": "Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product"
-        },
-        {
             "name": "Basic-Car-Maintenance",
             "link": "https://github.com/mikaelacaron/Basic-Car-Maintenance",
             "label": "good first issue",
