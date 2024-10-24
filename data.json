@@ -2200,6 +2200,15 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+            "name": "Harmony",
+            "link": "https://github.com/harmonydata/harmony",
+            "label": "Good First Issue",
+            "technologies": [
+                "Python",
+            ],
+            "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs."
+        },
+        {
             "name": "SuperDuperDB",
             "link": "https://github.com/SuperDuperDB/superduperdb",
             "label": "good first issue",
