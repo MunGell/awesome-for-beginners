@@ -1752,15 +1752,6 @@
             "description": "Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers."
         },
         {
-            "name": "Matestack",
-            "link": "https://github.com/matestack/matestack-ui-core",
-            "label": "good-first-issue",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Write dynamic User Interfaces in pure Ruby. Rails engine built on top of Vue.js"
-        },
-        {
             "name": "Servo",
             "link": "https://github.com/servo/servo",
             "label": "E-easy",
@@ -2204,7 +2195,7 @@
             "link": "https://github.com/harmonydata/harmony",
             "label": "Good First Issue",
             "technologies": [
-                "Python",
+                "Python"
             ],
             "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs."
         },
