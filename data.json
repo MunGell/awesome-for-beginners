@@ -721,15 +721,6 @@
             "description": "The JavaScript mutation testing framework"
         },
         {
-            "name": "Kap",
-            "link": "https://github.com/wulkano/kap",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "An open-source screen recorder built with web technology"
-        },
-        {
             "name": "Reddit Enhancement Suite",
             "link": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
             "label": "help-wanted",
