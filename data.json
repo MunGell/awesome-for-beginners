@@ -1609,14 +1609,6 @@
             "description": "Classy web-development dressed in a DSL."
         },
         {
-            "name": "Goby",
-            "link": "https://github.com/nskins/goby",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Framework for developing text-RPGs."
-        },
-        {
             "name": "Hanami",
             "link": "https://github.com/hanami/hanami",
             "label": "easy",
