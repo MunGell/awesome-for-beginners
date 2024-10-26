@@ -1322,15 +1322,6 @@
             "description": "A lightweight JSON storage service with synchronisation and sharing abilities."
         },
         {
-            "name": "Kinto.sh",
-            "link": "https://github.com/rbreaves/kinto",
-            "label": "first-timers-only",
-            "technologies": [
-                "Python"
-            ],
-            "description": "Make Linux & Windows type like a mac."
-        },
-        {
             "name": "BorgBackup",
             "link": "https://github.com/borgbackup/borg",
             "label": "easy",
