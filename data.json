@@ -1384,15 +1384,6 @@
             "description": "A personal assistant for Linux, MacOs and Windows based on Command line Interface."
         },
         {
-            "name": "JARVIS-on-Messenger",
-            "link": "https://github.com/swapagarwal/JARVIS-on-Messenger",
-            "label": "Low-Hanging-Fruit",
-            "technologies": [
-                "Python"
-            ],
-            "description": "💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger"
-        },
-        {
             "name": "Pytest",
             "link": "https://github.com/pytest-dev/pytest",
             "label": "status:-easy",
