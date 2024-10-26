@@ -24,7 +24,7 @@
         {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 ".NET"
             ],
@@ -42,7 +42,7 @@
         {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C#"
             ],
@@ -51,7 +51,7 @@
         {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C#"
             ],
@@ -60,7 +60,7 @@
         {
             "name": "Uno Platform",
             "link": "https://github.com/unoplatform/uno",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C#"
             ],
@@ -78,7 +78,7 @@
         {
             "name": "electron",
             "link": "https://github.com/electron/electron",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++",
                 "JavaScript"
@@ -97,7 +97,7 @@
         {
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -124,7 +124,7 @@
         {
             "name": "Yugabyte DB",
             "link": "https://github.com/yugabyte/yugabyte-db",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -133,7 +133,7 @@
         {
             "name": "MoveIt",
             "link": "https://github.com/ros-planning/moveit",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -142,7 +142,7 @@
         {
             "name": "MiniOB",
             "link": "https://github.com/oceanbase/miniob",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -196,7 +196,7 @@
         {
             "name": "CockroachDB",
             "link": "https://github.com/cockroachdb/cockroach",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [],
             "description": "The Scalable, Survivable, Strongly-Consistent SQL Database"
         },
@@ -212,7 +212,7 @@
         {
             "name": "Dragonfly",
             "link": "https://github.com/dragonflyoss/Dragonfly2",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
               "Go"
             ],
@@ -221,7 +221,7 @@
         {
             "name": "Helm",
             "link": "https://github.com/kubernetes/helm",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -239,7 +239,7 @@
         {
             "name": "Kanister",
             "link": "https://github.com/kanisterio/kanister",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -248,7 +248,7 @@
         {
             "name": "Kubernetes",
             "link": "https://github.com/kubernetes/kubernetes",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -275,7 +275,7 @@
         {
             "name": "Terraform",
             "link": "https://github.com/hashicorp/terraform",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -293,7 +293,7 @@
         {
             "name": "script",
             "link": "https://github.com/bitfield/script",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -311,7 +311,7 @@
         {
             "name": "Killgrave",
             "link": "https://github.com/friendsofgo/killgrave",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -346,7 +346,7 @@
         {
             "name": "Meshery",
             "link": "https://github.com/layer5io/meshery",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -355,7 +355,7 @@
         {
             "name": "utils",
             "link": "https://github.com/kashifkhan0771/utils",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -364,7 +364,7 @@
         {
             "name": "Strongbox",
             "link": "https://github.com/strongbox/strongbox",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -373,7 +373,7 @@
         {
             "name": "TEAMMATES",
             "link": "https://github.com/TEAMMATES/teammates",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -382,7 +382,7 @@
         {
             "name": "elasticsearch",
             "link": "https://github.com/elastic/elasticsearch",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -391,7 +391,7 @@
         {
             "name": "JabRef",
             "link": "https://github.com/JabRef/jabref",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -400,7 +400,7 @@
         {
             "name": "Wikimedia Commons Android App",
             "link": "https://github.com/commons-app/apps-android-commons",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -417,7 +417,7 @@
         {
             "name": "zerocode",
             "link": "https://github.com/authorjapps/zerocode",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -426,7 +426,7 @@
         {
             "name": "Images-to-PDF",
             "link": "https://github.com/Swati4star/Images-to-PDF",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -435,7 +435,7 @@
         {
             "name": "Trino (formerly Presto SQL)",
             "link": "https://github.com/trinodb/trino",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -444,7 +444,7 @@
         {
             "name": "appsmith",
             "link": "https://github.com/appsmithorg/appsmith",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -453,7 +453,7 @@
         {
             "name": "Codename One",
             "link": "https://github.com/codenameone/CodenameOne",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -462,7 +462,7 @@
         {
             "name": "DSA",
             "link": "https://github.com/abhishektripathi66/DSA",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -471,7 +471,7 @@
         {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -480,7 +480,7 @@
         {
             "name": "iD",
             "link": "https://github.com/openstreetmap/iD",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -498,7 +498,7 @@
         {
             "name": "Leaflet",
             "link": "https://github.com/Leaflet/Leaflet",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -525,7 +525,7 @@
         {
             "name": "ESLint",
             "link": "https://github.com/eslint/eslint",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -570,7 +570,7 @@
         {
             "name": "Ghost",
             "link": "https://github.com/TryGhost/Ghost",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -588,7 +588,7 @@
         {
             "name": "Hyper",
             "link": "https://github.com/zeit/hyper",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -606,7 +606,7 @@
         {
             "name": "HMPL",
             "link": "https://github.com/hmpl-lang/hmpl",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -624,7 +624,7 @@
         {
             "name": "serverless",
             "link": "https://github.com/serverless/serverless",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -633,7 +633,7 @@
         {
             "name": "React",
             "link": "https://github.com/facebook/react",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -660,7 +660,7 @@
         {
             "name": "Yarn",
             "link": "https://github.com/yarnpkg/yarn",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -678,7 +678,7 @@
         {
             "name": "Next.js",
             "link": "https://github.com/zeit/next.js",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -687,7 +687,7 @@
         {
             "name": "Semantic-UI-React",
             "link": "https://github.com/Semantic-Org/Semantic-UI-React",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -732,7 +732,7 @@
         {
             "name": "Brave Browser",
             "link": "https://github.com/brave/brave-browser",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -741,7 +741,7 @@
         {
             "name": "Fastify",
             "link": "https://github.com/fastify/fastify",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -750,7 +750,7 @@
         {
             "name": "Node.js core",
             "link": "https://github.com/nodejs/node",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -759,7 +759,7 @@
         {
             "name": "Jest",
             "link": "https://github.com/facebook/jest",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -768,7 +768,7 @@
         {
             "name": "p5.js",
             "link": "https://github.com/processing/p5.js",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -777,7 +777,7 @@
         {
             "name": "NativeScript",
             "link": "https://github.com/NativeScript/NativeScript",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -786,7 +786,7 @@
         {
             "name": "Gatsby.js",
             "link": "https://github.com/gatsbyjs/gatsby",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -795,7 +795,7 @@
         {
             "name": "Vue.js",
             "link": "https://github.com/vuejs/vue",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -804,7 +804,7 @@
         {
             "name": "Check It Out",
             "link": "https://github.com/jwu910/check-it-out",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -813,7 +813,7 @@
         {
             "name": "nuclear",
             "link": "https://github.com/nukeop/nuclear",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -822,7 +822,7 @@
         {
             "name": "material-ui",
             "link": "https://github.com/mui-org/material-ui",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -831,7 +831,7 @@
         {
             "name": "Meteor",
             "link": "https://github.com/meteor/meteor",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -840,7 +840,7 @@
         {
             "name": "Mocha",
             "link": "https://github.com/mochajs/mocha",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -849,7 +849,7 @@
         {
             "name": "Babel",
             "link": "https://github.com/babel/babel",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -858,7 +858,7 @@
         {
             "name": "React-content-loader",
             "link": "https://github.com/danilowoz/create-content-loader",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -867,7 +867,7 @@
         {
             "name": "netlify-cms",
             "link": "https://github.com/netlify/netlify-cms",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -876,7 +876,7 @@
         {
             "name": "altair",
             "link": "https://github.com/imolorhe/altair",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -885,7 +885,7 @@
         {
             "name": "Video Hub App",
             "link": "https://github.com/whyboris/Video-Hub-App",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -912,7 +912,7 @@
         {
             "name": "SirixDB",
             "link": "https://github.com/sirixdb/sirix-svelte-front-end",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -921,7 +921,7 @@
         {
             "name": "json-editor",
             "link": "https://github.com/json-editor/json-editor",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -930,7 +930,7 @@
         {
             "name": "Habitica",
             "link": "https://github.com/HabitRPG/habitica",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -939,7 +939,7 @@
         {
             "name": "reactjs.org",
             "link": "https://github.com/reactjs/reactjs.org",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -948,7 +948,7 @@
         {
             "name": "Vest",
             "link": "https://github.com/ealush/vest",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -957,7 +957,7 @@
         {
             "name": "Hoppscotch",
             "link": "https://github.com/hoppscotch/hoppscotch",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -966,7 +966,7 @@
         {
             "name": "Predator",
             "link": "https://github.com/Zooz/predator",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -993,7 +993,7 @@
         {
             "name": "Vue CLI",
             "link": "https://github.com/vuejs/vue-cli",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1002,7 +1002,7 @@
         {
             "name": "Vue Router",
             "link": "https://github.com/vuejs/vue-router",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1011,7 +1011,7 @@
         {
             "name": "VuePress",
             "link": "https://github.com/vuejs/vuepress",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1020,7 +1020,7 @@
         {
             "name": "appsmith",
             "link": "https://github.com/appsmithorg/appsmith",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1029,7 +1029,7 @@
         {
             "name": "Letra Extension",
             "link": "https://github.com/jayehernandez/letra-extension",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1038,7 +1038,7 @@
         {
             "name": "Jasmine",
             "link": "https://github.com/jasmine/jasmine",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1047,7 +1047,7 @@
         {
             "name": "swag-for-dev",
             "link": "https://github.com/swapagarwal/swag-for-dev",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1065,7 +1065,7 @@
         {
             "name": "ReactiveSearch",
             "link": "https://github.com/appbaseio/reactivesearch",
-            "label": "good-first-issue-:wave:",
+            "label": "good first issue-:wave:",
             "technologies": [
                 "JavaScript"
             ],
@@ -1074,7 +1074,7 @@
         {
             "name": "Create React App",
             "link": "https://github.com/facebook/create-react-app",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1083,7 +1083,7 @@
         {
             "name": "Svelte",
             "link": "https://github.com/sveltejs/svelte",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1101,7 +1101,7 @@
         {
             "name": "Julia Language: Good first issue",
             "link": "https://github.com/JuliaLang/julia",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Julia"
             ],
@@ -1110,7 +1110,7 @@
         {
             "name": "Julia",
             "link": "https://github.com/JuliaLang/julia",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Julia"
             ],
@@ -1119,7 +1119,7 @@
         {
             "name": "Atrium",
             "link": "https://github.com/robstoll/atrium",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Kotlin"
             ],
@@ -1137,7 +1137,7 @@
         {
             "name": "Non-Blocking SirixDB HTTP(S)-Server",
             "link": "https://github.com/sirixdb/sirix",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Kotlin"
             ],
@@ -1146,7 +1146,7 @@
         {
             "name": "Algorithmic Pseudocode",
             "link": "https://github.com/just-a-visitor/algorithmic-pseudocode",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "LaTeX"
             ],
@@ -1164,7 +1164,7 @@
         {
             "name": "Ravada",
             "link": "https://github.com/UPC/ravada",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Perl"
             ],
@@ -1226,7 +1226,7 @@
         {
             "name": "Symfony",
             "link": "https://github.com/symfony/symfony",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1235,7 +1235,7 @@
         {
             "name": "Laravel Newsletters",
             "link": "https://github.com/spatie/laravel-newsletter",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1244,7 +1244,7 @@
         {
             "name": "Appwrite",
             "link": "https://github.com/appwrite/appwrite",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1262,7 +1262,7 @@
         {
             "name": "NextCloud Server",
             "link": "https://github.com/nextcloud/server",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1271,7 +1271,7 @@
         {
             "name": "PrestaShop",
             "link": "https://github.com/PrestaShop/PrestaShop",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1297,7 +1297,7 @@
         {
             "name": "CiviWiki",
             "link": "https://github.com/CiviWiki/OpenCiviWiki",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1342,7 +1342,7 @@
         {
             "name": "scrapy",
             "link": "https://github.com/scrapy/scrapy",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1395,7 +1395,7 @@
         {
             "name": "Jupyter notebook",
             "link": "https://github.com/jupyter/notebook",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1404,7 +1404,7 @@
         {
             "name": "Zulip",
             "link": "https://github.com/zulip/zulip",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1449,7 +1449,7 @@
         {
             "name": "Create aio app",
             "link": "https://github.com/aio-libs/create-aio-app",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1458,7 +1458,7 @@
         {
             "name": "opsdroid",
             "link": "https://github.com/opsdroid/opsdroid",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1467,7 +1467,7 @@
         {
             "name": "pandas",
             "link": "https://github.com/pandas-dev/pandas",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1476,7 +1476,7 @@
         {
             "name": "SaltStack",
             "link": "https://github.com/saltstack/salt",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1503,7 +1503,7 @@
         {
             "name": "mypy",
             "link": "https://github.com/python/mypy",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1512,7 +1512,7 @@
         {
             "name": "matplotlib",
             "link": "https://github.com/matplotlib/matplotlib",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1521,7 +1521,7 @@
         {
             "name": "datascience",
             "link": "https://github.com/data-8/datascience",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1539,7 +1539,7 @@
         {
             "name": "MindsDB",
             "link": "https://github.com/mindsdb/mindsdb",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1548,7 +1548,7 @@
         {
             "name": "Bokeh",
             "link": "https://github.com/bokeh/bokeh",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1566,7 +1566,7 @@
         {
             "name": "Pytorch",
             "link": "https://github.com/pytorch/pytorch",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1575,7 +1575,7 @@
         {
             "name": "Sorting-Algorithms-Visualizer",
             "link": "https://github.com/LucasPilla/Sorting-Algorithms-Visualizer",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1584,7 +1584,7 @@
         {
             "name": "scikit-learn",
             "link": "https://github.com/scikit-learn/scikit-learn",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1593,7 +1593,7 @@
         {
             "name": "Embedchain",
             "link": "https://github.com/embedchain/embedchain/",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Python"
             ],
@@ -1611,7 +1611,7 @@
         {
             "name": "Sinatra",
             "link": "https://github.com/sinatra/sinatra",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1664,7 +1664,7 @@
         {
             "name": "osem",
             "link": "https://github.com/openSUSE/osem",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1673,7 +1673,7 @@
         {
             "name": "open-build-service",
             "link": "https://github.com/openSUSE/open-build-service",
-            "label": "good-first-issue-:1st_place_medal:",
+            "label": "good first issue-:1st_place_medal:",
             "technologies": [
                 "Ruby"
             ],
@@ -1691,7 +1691,7 @@
         {
             "name": "chatwoot",
             "link": "https://github.com/chatwoot/chatwoot",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1709,7 +1709,7 @@
         {
             "name": "multiwoven",
             "link": "https://github.com/Multiwoven/multiwoven",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1718,7 +1718,7 @@
         {
             "name": "Ruby on Rails",
             "link": "https://github.com/rails/rails",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1727,7 +1727,7 @@
         {
             "name": "Faker",
             "link": "https://github.com/faker-ruby/faker",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1745,7 +1745,7 @@
         {
             "name": "Rust-Clippy",
             "link": "https://github.com/rust-lang/rust-clippy",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1754,7 +1754,7 @@
         {
             "name": "Rustfmt",
             "link": "https://github.com/rust-lang-nursery/rustfmt",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1781,7 +1781,7 @@
         {
             "name": "nushell",
             "link": "https://github.com/nushell/nushell",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1799,7 +1799,7 @@
         {
             "name": "dotenv-linter",
             "link": "https://github.com/dotenv-linter/dotenv-linter",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1816,7 +1816,7 @@
         {
             "name": "Sniffnet",
             "link": "https://github.com/GyulyVGC/sniffnet",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1825,7 +1825,7 @@
         {
             "name": "Twitter Util",
             "link": "https://github.com/twitter/util",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Scala"
             ],
@@ -1834,7 +1834,7 @@
         {
             "name": "playframework",
             "link": "https://github.com/playframework/playframework",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Scala"
             ],
@@ -1843,7 +1843,7 @@
         {
             "name": "Pharo",
             "link": "https://github.com/pharo-project/pharo",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Smalltalk"
             ],
@@ -1870,7 +1870,7 @@
         {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1879,7 +1879,7 @@
         {
             "name": "Visual Studio Code",
             "link": "https://github.com/Microsoft/vscode",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1888,7 +1888,7 @@
         {
             "name": "Impler.io",
             "link": "https://github.com/implerhq/impler.io",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1897,7 +1897,7 @@
         {
             "name": "reatom",
             "link": "https://github.com/artalar/reatom",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1906,7 +1906,7 @@
         {
             "name": "Graphback",
             "link": "https://github.com/aerogear/graphback",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1915,7 +1915,7 @@
         {
             "name": "LitmusChaos",
             "link": "https://github.com/litmuschaos/litmus",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1924,7 +1924,7 @@
         {
             "name": "Booster",
             "link": "https://github.com/boostercloud/booster",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -1933,7 +1933,7 @@
         {
             "name": "tinyhttp",
             "link": "https://github.com/talentlessguy/tinyhttp",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "TypeScript"
             ],
@@ -2005,7 +2005,7 @@
         {
             "name": "Profanity",
             "link": "https://github.com/profanity-im/profanity",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C"
             ],
@@ -2220,7 +2220,7 @@
         {
             "name": "grommet",
             "link": "https://github.com/grommet/grommet",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
