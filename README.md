@@ -282,7 +282,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [H2O Wave Apps](https://github.com/h2oai/wave-apps) _(label: hacktoberfest)_ <br> Sample AI Apps built with H2O Wave.
 - [Harmony](https://github.com/harmonydata/harmony) _(label: Good First Issue)_ <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.
 - [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) _(label: Low-Hanging-Fruit)_ <br> 💬 A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 - [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
 - [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Kinto.sh](https://github.com/rbreaves/kinto) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
