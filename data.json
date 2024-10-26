@@ -1063,15 +1063,6 @@
             "description": "Next-gen browser and mobile automation test framework for Node.js"
         },
         {
-            "name": "SimplQ",
-            "link": "https://github.com/SimplQ/simplQ-frontend",
-            "label": "good-first-issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Free online queue manager for easy and instant crowd control."
-        },
-        {
             "name": "ReactiveSearch",
             "link": "https://github.com/appbaseio/reactivesearch",
             "label": "good-first-issue-:wave:",
