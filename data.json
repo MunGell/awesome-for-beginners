@@ -1949,15 +1949,6 @@
             "description": "A 0-legacy, tiny & fast web framework as a replacement of Express."
         },
         {
-            "name": "jupyterlab-lsp",
-            "link": "https://github.com/krassowski/jupyterlab-lsp",
-            "label": "good-first-issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)"
-        },
-        {
             "name": "a-b-street",
             "link": "https://github.com/a-b-street/abstreet",
             "label": "good first issue",
