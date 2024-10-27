@@ -216,7 +216,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good-first-issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 - [Yarn](https://github.com/yarnpkg/yarn) _(label: good-first-issue)_ <br> Fast, reliable, and secure dependency management.
-- [Todo List App](https://github.com/pixelledbot/todo-list-app) - A simple todo list app built with HTML, CSS, and JavaScript. Features include adding, completing, deleting tasks, and persistent storage using localStorage.
+- [Todo List App](https://github.com/pixelledbot/todo-list-app) _(Label: good-first-issue)_ <br> A simple todo list app built with HTML, CSS, and JavaScript. Features include adding, completing, deleting tasks, and persistent storage using localStorage.
 
 ## Julia
 

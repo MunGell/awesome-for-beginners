@@ -2256,12 +2256,11 @@
         {
             "name": "Todo List App",
             "link": "https://github.com/pixelledbot/todo-list-app",
-            "label" : "good-first-issue",
+            "label": "good-first-issue",
             "technologies": ["JavaScript"],
-            "description": "A simple todo list app built with HTML, CSS, and JavaScript. Features include adding, completing, deleting tasks, and persistent storage using localStorage.",
-        }
-            ]
-          }
-          
+            "description": "A simple todo list app built with HTML, CSS, and JavaScript. Features include adding, completing, deleting tasks, and persistent storage using localStorage."
+        }          
+            
     ]
+          
 }
