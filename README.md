@@ -84,6 +84,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 - [flutter](https://github.com/flutter/flutter) _(label: good first issue)_ <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+- [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app) _(label: good first issue)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## Elixir
 
@@ -352,7 +353,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Swift
 
 - [Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) _(label: good first issue)_ <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
-- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
 
