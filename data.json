@@ -1959,15 +1959,6 @@
             "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
         },
         {
-            "name": "React Help Create",
-            "link": "https://github.com/Omar-Belghaouti/react-help-create",
-            "label": "first-timers-only",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "This command line helps you create components, pages and even redux implementation for your react project."
-        },
-        {
             "name": "pythonping",
             "link": "https://github.com/alessandromaggio/pythonping",
             "label": "good first issue",
