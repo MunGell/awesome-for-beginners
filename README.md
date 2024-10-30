@@ -189,7 +189,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Predator](https://github.com/Zooz/predator) _(label: good first issue)_ <br> A powerful open-source platform for load testing APIs.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [React](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [React Help Create](https://github.com/Omar-Belghaouti/react-help-create) _(label: first-timers-only)_ <br> This command line helps you create components, pages and even redux implementation for your react project.
 - [React Native](https://github.com/facebook/react-native) _(label: Good-first-issue)_ <br> A framework for building native apps with React.
 - [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
