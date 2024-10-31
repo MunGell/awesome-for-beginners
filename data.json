@@ -2199,6 +2199,17 @@
                 "JavaScript"
             ],
             "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
+        },
+        {
+            "name": "shivani",
+            "link": "https://github.com/shivani1105/BlazingPizza",
+            "label": "good first issue",
+            "technologies": [
+                "C#",
+                "Blazor",
+                "Entity Framework"
+            ],
+            "description": "A Blazor project demonstrating data insertion with Entity Framework and SQLite, using a structured setup with controllers, services, and models."
         }
     ]
 }
