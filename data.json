@@ -1447,15 +1447,6 @@
             "description": "A simple IT automation platform"
         },
         {
-            "name": "Create aio app",
-            "link": "https://github.com/aio-libs/create-aio-app",
-            "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A command line utility that creates the aiohttp template with the best practices."
-        },
-        {
             "name": "opsdroid",
             "link": "https://github.com/opsdroid/opsdroid",
             "label": "good first issue",
