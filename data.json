@@ -2199,6 +2199,17 @@
                 "JavaScript"
             ],
             "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
-        }
+        },
+        {
+            "name": "Rawsec Cybersecurity Inventory",
+            "link": "https://gitlab.com/rawsec/rawsec-cybersecurity-list",
+            "label": "difficulty::easy",
+            "technologies": [
+                "JavaScript",
+                "JSON",
+	        "Pug"
+            ],
+            "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
+        },
     ]
 }
