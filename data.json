@@ -1805,6 +1805,15 @@
             ],
             "description": "Application to comfortably monitor network traffic."
         },
+	{
+            "name": "Sugar",
+            "link": "https://github.com/KilroyWasHere-cs-j/Sugar.git",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A barebones web browser written in Rust"
+        },
         {
             "name": "Twitter Util",
             "link": "https://github.com/twitter/util",
