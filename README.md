@@ -19,6 +19,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Go](#go)
+- [GDScript](#gdscript)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -117,6 +118,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb) _(label: for-new-contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [utils](https://github.com/kashifkhan0771/utils) _(label: good first issue)_ <br> Common Utilities library for Go
+
+## GDScript
+
+- [Pong Game](https://github.com/mujtaba-io/godot-pong-game), _(label: good first issue)_<br> A pong game made in Godot 4.3.
 
 ## Haskell
 
