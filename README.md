@@ -163,7 +163,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good first issue)_ <br> Just a blogging platform
 - [grommet](https://github.com/grommet/grommet) _(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good first issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
-- [HMPL](https://github.com/hmpl-lang/hmpl) _(label: good first issue)_ <br> Template language for displaying UI from server to client.
+- [HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> A open source react native app iOS and android for color palette management
 - [Hyper](https://github.com/zeit/hyper) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
