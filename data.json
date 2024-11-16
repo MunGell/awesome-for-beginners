@@ -605,12 +605,12 @@
         },
         {
             "name": "HMPL",
-            "link": "https://github.com/hmpl-lang/hmpl",
+            "link": "https://github.com/hmpl-language/hmpl",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
-            "description": "Template language for displaying UI from server to client."
+            "description": "Server-oriented customizable templating for JavaScript."
         },
         {
             "name": "Moment.js",
