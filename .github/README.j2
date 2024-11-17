@@ -21,7 +21,7 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-<table>{% for sponsor in sponsors %}<tr><td align="center"><a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" width="60px;" alt=""/><br/><sub><b>{{ sponsor.name }}</b></sub></a></td></tr>{% endfor %}</table>
+<table><tr>{% for sponsor in sponsors %}{% if loop.index != 1 and (loop.index - 1) % 6 == 0 %}</tr><tr>{% endif %}<td align="center"><a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" width="60px;" alt=""/><br/><sub><b>{{ sponsor.name }}</b></sub></a></td>{% endfor %}</tr></table>
 
 ## License
 
