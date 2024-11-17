@@ -7,10 +7,13 @@ If you are a maintainer of open-source projects, add the label `first-timers-onl
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
 ## Table of Contents:
-
-<% toc %>
-
-<% content %>
+{% for category in categories %}
+- [{{ category.title }}](#{{ category.link_id }}){% endfor %}
+{% for category in categories %}
+## {{ category.title }}
+{% for entry in category.entries %}
+- [{{ entry.name }}]({{ entry.link }}) _(label: {% if entry.label is defined %}{{ entry.label }}{% else %}n/a{% endif %})_ <br> {{ entry.description }}{% endfor %}
+{% endfor %}
 
 ## Contribute
 
@@ -18,10 +21,11 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-<% sponsors %>
+<table><tr>{% for sponsor in sponsors %}{% if loop.index != 1 and (loop.index - 1) % 6 == 0 %}</tr><tr>{% endif %}<td align="center"><a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" width="60px;" alt=""/><br/><sub><b>{{ sponsor.name }}</b></sub></a></td>{% endfor %}</tr></table>
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
+
