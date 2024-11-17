@@ -1,9 +1,14 @@
 from jinja2 import Environment, FileSystemLoader
 import json
 
+DATAFILE = "./data.json"
+TEMPLATEPATH = "./.github/"
+TEMPLATEFILE = "README.j2"
+TARGETFILE = "./README.md"
+
 technologies = {}
 
-with open("../../data.json", 'r') as datafile:
+with open(DATAFILE, 'r') as datafile:
     data = json.loads(datafile.read())
 
 for technology in data["technologies"]:
@@ -16,9 +21,9 @@ for repository in data["repositories"]:
             technologies[repo_technology] = {"link_id": repo_technology.lower(), "entries": []}
         technologies[repo_technology]["entries"].append(repository)
 
-env = Environment(loader = FileSystemLoader(".."))
+env = Environment(loader = FileSystemLoader(TEMPLATEPATH))
 
-template = env.get_template("README.j2")
+template = env.get_template(TEMPLATEFILE)
 
 categories = []
 for key, value in zip(technologies.keys(), technologies.values()):
@@ -32,4 +37,4 @@ sponsors = data["sponsors"]
 
 output = template.render(categories=categories, sponsors=sponsors)
 
-open("README.md", "w").write(output)
+open(TARGETFILE, "w").write(output)
