@@ -3,7 +3,7 @@ import json
 
 DATAFILE = "./data.json"
 TEMPLATEPATH = "./.github/"
-TEMPLATEFILE = "README.j2"
+TEMPLATEFILE = "README-template.j2"
 TARGETFILE = "./README.md"
 
 technologies = {}
