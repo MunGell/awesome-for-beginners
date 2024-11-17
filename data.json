@@ -2210,6 +2210,15 @@
 	        "Pug"
             ],
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
+        },
+        {
+            "name": "Keras",
+            "link": "https://github.com/keras-team/keras",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It allows for easy and fast prototyping, supports convolutional and recurrent networks, and is user-friendly."
         }
     ]
 }
