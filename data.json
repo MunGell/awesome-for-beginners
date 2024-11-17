@@ -2210,6 +2210,15 @@
 	        "Pug"
             ],
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
-        }
+        },
+        {
+            "name": "zoom-rs",
+            "link": "https://github.com/security-union/zoom-rs",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "Teleconference system with a web based user interface written in Rust"
+	}
     ]
 }
