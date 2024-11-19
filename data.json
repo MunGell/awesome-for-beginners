@@ -2219,6 +2219,16 @@
                 "Rust"
             ],
             "description": "Teleconference system with a web based user interface written in Rust"
-	}
+	    },
+        {
+            "name": "FastAPI",
+            "link": "https://github.com/tiangolo/fastapi",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
+        }
+        
     ]
 }
