@@ -288,6 +288,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
 - [Embedchain](https://github.com/embedchain/embedchain/) _(label: good first issue)_ <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
+- [FastAPI](https://github.com/tiangolo/fastapi) _(label: good first issue)_ <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [H2O Wave Apps](https://github.com/h2oai/wave-apps) _(label: hacktoberfest)_ <br> Sample AI Apps built with H2O Wave.
 - [Harmony](https://github.com/harmonydata/harmony) _(label: Good First Issue)_ <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!
