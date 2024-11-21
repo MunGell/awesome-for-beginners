@@ -1036,15 +1036,6 @@
             "description": "Drag & Drop internal tool builder"
         },
         {
-            "name": "Letra Extension",
-            "link": "https://github.com/jayehernandez/letra-extension",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Passively learn a new language every time you open a new tab."
-        },
-        {
             "name": "Jasmine",
             "link": "https://github.com/jasmine/jasmine",
             "label": "good first issue",
