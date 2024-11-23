@@ -6,6 +6,9 @@ TEMPLATEPATH = "./.github/"
 TEMPLATEFILE = "README-template.j2"
 TARGETFILE = "./README.md"
 
+def new_technology_dict(repo_technology):
+    return {"link_id": repo_technology.lower(), "entries": []}
+
 technologies = {}
 
 with open(DATAFILE, 'r') as datafile:
@@ -18,11 +21,10 @@ for repository in data["repositories"]:
     repo_technologies = repository["technologies"]
     for repo_technology in repo_technologies:
         if not technologies.get(repo_technology, False):
-            technologies[repo_technology] = {"link_id": repo_technology.lower(), "entries": []}
+            technologies[repo_technology] = new_technology_dict(repo_technology)
         technologies[repo_technology]["entries"].append(repository)
 
 env = Environment(loader = FileSystemLoader(TEMPLATEPATH))
-
 template = env.get_template(TEMPLATEFILE)
 
 categories = []
