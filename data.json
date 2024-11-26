@@ -1000,15 +1000,6 @@
             "description": "Fast, easy and reliable testing for anything that runs in a browser."
         },
         {
-            "name": "Vue CLI",
-            "link": "https://github.com/vuejs/vue-cli",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Standard Tooling for Vue.js Development"
-        },
-        {
             "name": "Vue Router",
             "link": "https://github.com/vuejs/vue-router",
             "label": "good first issue",
