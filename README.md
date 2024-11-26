@@ -22,6 +22,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [JSON](#json)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
 - [LaTeX](#latex)
@@ -29,6 +30,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [MLOps](#mlops)
 - [Perl](#perl)
 - [PHP](#php)
+- [Pug](#pug)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -84,6 +86,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 - [flutter](https://github.com/flutter/flutter) _(label: good first issue)_ <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
+- [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app) _(label: good first issue)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## Elixir
 
@@ -160,7 +163,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good first issue)_ <br> Just a blogging platform
 - [grommet](https://github.com/grommet/grommet) _(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good first issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
-- [HMPL](https://github.com/hmpl-lang/hmpl) _(label: good first issue)_ <br> Template language for displaying UI from server to client.
+- [HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> A open source react native app iOS and android for color palette management
 - [Hyper](https://github.com/zeit/hyper) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
@@ -170,7 +173,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 - [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
-- [Letra Extension](https://github.com/jayehernandez/letra-extension) _(label: good first issue)_ <br> Passively learn a new language every time you open a new tab.
 - [material-ui](https://github.com/mui-org/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
 - [Meteor](https://github.com/meteor/meteor) _(label: good first issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
@@ -187,8 +189,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PouchDB](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
 - [Predator](https://github.com/Zooz/predator) _(label: good first issue)_ <br> A powerful open-source platform for load testing APIs.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 - [React](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [React Help Create](https://github.com/Omar-Belghaouti/react-help-create) _(label: first-timers-only)_ <br> This command line helps you create components, pages and even redux implementation for your react project.
 - [React Native](https://github.com/facebook/react-native) _(label: Good-first-issue)_ <br> A framework for building native apps with React.
 - [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
@@ -216,6 +218,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 - [Yarn](https://github.com/yarnpkg/yarn) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 
+## JSON
+
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
+
 ## Julia
 
 - [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
@@ -227,6 +233,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Atrium](https://github.com/robstoll/atrium) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
+- [OpenCalc](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
 
 ## LaTeX
 
@@ -261,6 +268,10 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Symfony](https://github.com/symfony/symfony) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 
+## Pug
+
+- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
+
 ## Python
 
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
@@ -272,14 +283,14 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [coala](https://github.com/coala/coala) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
-- [Create aio app](https://github.com/aio-libs/create-aio-app) _(label: good first issue)_ <br> A command line utility that creates the aiohttp template with the best practices.
 - [datascience](https://github.com/data-8/datascience) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
 - [Embedchain](https://github.com/embedchain/embedchain/) _(label: good first issue)_ <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
+- [FastAPI](https://github.com/tiangolo/fastapi) _(label: good first issue)_ <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [H2O Wave Apps](https://github.com/h2oai/wave-apps) _(label: hacktoberfest)_ <br> Sample AI Apps built with H2O Wave.
-- [Harmony](https://github.com/harmonydata/harmony) _(label: Good First Issue)_ <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.
+- [Harmony](https://github.com/harmonydata/harmony) _(label: Good First Issue)_ <br> Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!
 - [jarvis](https://github.com/sukeesh/Jarvis) _(label: difficulty/newcomer)_ <br> A personal assistant for Linux, MacOs and Windows based on Command line Interface.
 - [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good first issue)_ <br> Jupyter interactive notebook.
 - [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
@@ -339,6 +350,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) _(label: good first issue)_ <br> Application to comfortably monitor network traffic.
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
+- [zoom-rs](https://github.com/security-union/zoom-rs) _(label: good first issue)_ <br> Teleconference system with a web based user interface written in Rust
 
 ## Scala
 
@@ -352,7 +364,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 ## Swift
 
 - [Basic-Car-Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) _(label: good first issue)_ <br> A basic app to track your car's maintenance events, like fixes, oil changes, etc.
-- [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios) _(label: help-wanted)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ## TypeScript
 
