@@ -25,7 +25,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JSON](#json)
 - [Julia](#julia)
 - [Kotlin](#kotlin)
-- [LaTeX](#latex)
 - [Markdown](#markdown)
 - [MLOps](#mlops)
 - [Perl](#perl)
@@ -233,10 +232,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
-
-## LaTeX
-
-- [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
 
 ## Markdown
 
