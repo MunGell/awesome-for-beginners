@@ -1135,15 +1135,6 @@
             "description": "A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON."
         },
         {
-            "name": "Algorithmic Pseudocode",
-            "link": "https://github.com/just-a-visitor/algorithmic-pseudocode",
-            "label": "good first issue",
-            "technologies": [
-                "LaTeX"
-            ],
-            "description": "A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming."
-        },
-        {
             "name": "tldr-pages",
             "link": "https://github.com/tldr-pages/tldr",
             "label": "help-wanted",
