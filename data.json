@@ -76,6 +76,15 @@
             "description": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages."
         },
         {
+            "name": "Spectre.Console",
+            "link": "https://github.com/spectreconsole/spectre.console",
+            "label": "good first issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "A .NET library that makes it easier to create beautiful console applications."
+        },
+        {
             "name": "electron",
             "link": "https://github.com/electron/electron",
             "label": "good first issue",
