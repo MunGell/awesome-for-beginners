@@ -63,6 +63,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Cake](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
 - [grok.net](https://github.com/Marusyk/grok.net) _(label: good first issue)_ <br> Cross platform .NET grok implementation
 - [osu!](https://github.com/ppy/osu) _(label: good first issue)_ <br> Music game. Rhythm is just a click away!
+- [Spectre.Console](https://github.com/spectreconsole/spectre.console) _(label: good first issue)_ <br> A .NET library that makes it easier to create beautiful console applications.
 - [Uno Platform](https://github.com/unoplatform/uno) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 
 ## C++
