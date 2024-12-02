@@ -1734,6 +1734,15 @@
             ],
             "description": "An extensible, concurrent web framework for Rust"
         },
+	{
+            "name": "TensorZero",
+            "link": "https://github.com/tensorzero/tensorzero",
+            "label": "good-first-issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models."
+        },
         {
             "name": "TiKV",
             "link": "https://github.com/tikv/tikv",
