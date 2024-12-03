@@ -1690,15 +1690,6 @@
             "description": "Ruby on Rails (Rails) is an open source web application framework written in Ruby."
         },
         {
-            "name": "Faker",
-            "link": "https://github.com/faker-ruby/faker",
-            "label": "good first issue",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Faker is a Ruby library for generating fake data such as names, addresses, and phone numbers."
-        },
-        {
             "name": "Servo",
             "link": "https://github.com/servo/servo",
             "label": "E-easy",
