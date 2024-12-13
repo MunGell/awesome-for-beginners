@@ -11,9 +11,12 @@ If you are a maintainer of open-source projects, add the label `first-timers-onl
 
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
 
+
 ## Table of Contents:
-{% for category in categories %}
-- [{{ category.title }}](#{{ category.link_id }}){% endfor %}
+
+||Languages|
+|--|--|{% for category_group, categories in category_groups.items() %}
+|{{ category_group }}|{% for category in categories %}[{{ category.title }}](#{{ category.link_id }}){% if loop.index < (categories | length) %}, {% endif %}{% endfor %}|{% endfor %}
 {% for category in categories %}
 ## {{ category.title }}
 {% for entry in category.entries %}
