@@ -595,15 +595,6 @@
             "description": "Awesome ESLint rules."
         },
         {
-            "name": "Hyper",
-            "link": "https://github.com/zeit/hyper",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "JS/HTML/CSS Terminal"
-        },
-        {
             "name": "API-pull-with-JavaScript",
             "link": "https://github.com/AliBasboga/APIExampleWithExpress.git",
             "label": "API-pull-and-use",
