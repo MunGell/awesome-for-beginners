@@ -1143,6 +1143,15 @@
             ],
             "description": "Collaborative cheatsheets for console commands."
         },
+	{
+            "name": "First Contributions",
+            "link": "https://github.com/firstcontributions/first-contributions",
+            "label": "good first issue",
+            "technologies": [
+                "Markdown"
+            ],
+            "description": "A sandbox project to help beginners to contribute to open source projects"
+        },
         {
             "name": "Ravada",
             "link": "https://github.com/UPC/ravada",
