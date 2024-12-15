@@ -1126,6 +1126,15 @@
             "description": "A microservices toolkit written in Kotlin"
         },
         {
+            "name": "Scribe-Android",
+            "link": "https://github.com/scribe-org/Scribe-Android",
+            "label": "good first issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "Android keyboards for language learners with translation, verb conjugation and more!"
+        },
+        {
             "name": "Non-Blocking SirixDB HTTP(S)-Server",
             "link": "https://github.com/sirixdb/sirix",
             "label": "good first issue",
