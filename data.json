@@ -2183,13 +2183,20 @@
             "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
         },
         {
+            "name": "Todo List App",
+            "link": "https://github.com/pixelledbot/todo-list-app",
+            "label": "good-first-issue",
+            "technologies": ["JavaScript"],
+            "description": "A simple todo list app built with HTML, CSS, and JavaScript. Features include adding, completing, deleting tasks, and persistent storage using localStorage."
+        },
+        {
             "name": "Rawsec Cybersecurity Inventory",
             "link": "https://gitlab.com/rawsec/rawsec-cybersecurity-list",
             "label": "difficulty::easy",
             "technologies": [
                 "JavaScript",
                 "JSON",
-	        "Pug"
+	              "Pug"
             ],
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
         },
@@ -2201,7 +2208,7 @@
                 "Rust"
             ],
             "description": "Teleconference system with a web based user interface written in Rust"
-	    },
+	      },
         {
             "name": "FastAPI",
             "link": "https://github.com/tiangolo/fastapi",
@@ -2212,4 +2219,5 @@
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
         }
     ]
+          
 }
