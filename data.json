@@ -293,7 +293,7 @@
         {
             "name": "TiDB",
             "link": "https://github.com/pingcap/tidb",
-            "label": "for-new-contributors",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
