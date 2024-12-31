@@ -10,6 +10,9 @@ Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) b
 If you are a maintainer of open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so that people can find it.
 
 If you are not a programmer but would like to contribute, check out the [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) list.
+
+If you would like to be guided through how to contribute to a repository on GitHub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions).
+
 ## Table of Contents:
 
 ||Languages|
@@ -106,7 +109,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [script](https://github.com/bitfield/script) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
-- [TiDB](https://github.com/pingcap/tidb) _(label: for-new-contributors)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+- [TiDB](https://github.com/pingcap/tidb) _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [utils](https://github.com/kashifkhan0771/utils) _(label: good first issue)_ <br> Common Utilities library for Go
 
 ## Haskell
