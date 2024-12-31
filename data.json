@@ -658,8 +658,8 @@
             "description": "React framework with server render for blazing fast page load and seamless transitions between pages in the browser."
         },
         {
-            "name": "Yarn",
-            "link": "https://github.com/yarnpkg/yarn",
+            "name": "Berry - Active development trunk for Yarn",
+            "link": "https://github.com/yarnpkg/berry",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
