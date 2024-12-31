@@ -662,7 +662,8 @@
             "link": "https://github.com/yarnpkg/berry",
             "label": "good first issue",
             "technologies": [
-                "JavaScript"
+                "JavaScript",
+		"TypeScript"
             ],
             "description": "Fast, reliable, and secure dependency management."
         },
