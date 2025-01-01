@@ -180,7 +180,8 @@
             "link": "https://github.com/metabase/metabase",
             "label": "good first issue",
             "technologies": [
-                "Clojure"
+                "Clojure",
+                "TypeScript"
             ],
             "description": "Open source business intelligence and analytics platform"
         },
