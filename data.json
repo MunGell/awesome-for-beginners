@@ -176,6 +176,16 @@
             "description": "A music programming language for musicians. 🎶"
         },
         {
+            "name": "Metabase",
+            "link": "https://github.com/metabase/metabase",
+            "label": "good first issue",
+            "technologies": [
+                "Clojure",
+                "TypeScript"
+            ],
+            "description": "Open source business intelligence and analytics platform"
+        },
+        {
             "name": "dart.dev",
             "link": "https://github.com/dart-lang/site-www",
             "label": "beginner",
