@@ -347,7 +347,7 @@
         },
         {
             "name": "PureLB",
-            "link": "https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue",
+            "link": "https://gitlab.com/purelb/purelb",
             "technologies": [
                 "Go"
             ],
@@ -1783,7 +1783,7 @@
         },
         {
             "name": "Veloren",
-            "link": "https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner",
+            "link": "https://gitlab.com/veloren/veloren",
             "technologies": [
                 "Rust"
             ],
@@ -2122,7 +2122,7 @@
         },
         {
             "name": "Exosphere",
-            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "link": "https://gitlab.com/exosphere/exosphere",
             "label": "Good First Issue",
             "technologies": [
                 "Elm",
