@@ -428,11 +428,12 @@
         },
         {
             "name": "XWiki",
-            "link": "https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding",
+            "link": "https://jira.xwiki.org/issues",
+	    "label": "onboarding",
             "technologies": [
                 "Java"
             ],
-            "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki."
+            "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/)."
         },
         {
             "name": "zerocode",
