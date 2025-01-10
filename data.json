@@ -275,12 +275,13 @@
         },
         {
             "name": "Mattermost",
-            "link": "https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:\"Up+For+Grabs\"+label:\"Difficulty/1:Easy\"+label:\"Tech/Go\"",
+	    "link": "https://github.com/mattermost/mattermost",
+	    "label": "Good First Issue, Difficulty/1:Easy",
             "technologies": [
                 "Go",
                 "JavaScript"
             ],
-            "description": "Open source Slack-alternative in Golang and React"
+            "description": "Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'"
         },
         {
             "name": "Moby",
