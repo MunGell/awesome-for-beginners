@@ -2212,7 +2212,16 @@
                 "Rust"
             ],
             "description": "Teleconference system with a web based user interface written in Rust"
-	    },
+	},
+	{
+	    "name": "Catima - Android App",
+	    "link": "https://github.com/CatimaLoyalty/Android",
+	    "label": "good first issue",
+	    "technologies": [
+		    "Java"
+	    ],
+	    "description": "Catima, a Loyalty Card & Ticket Manager for Android"
+	},
         {
             "name": "FastAPI",
             "link": "https://github.com/tiangolo/fastapi",
