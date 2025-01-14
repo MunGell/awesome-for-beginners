@@ -46,7 +46,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Ansible
 
-- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
+- [Exosphere](https://gitlab.com/exosphere/exosphere) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
 ## C
 
@@ -90,7 +90,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Elm
 
-- [Exosphere](https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
+- [Exosphere](https://gitlab.com/exosphere/exosphere) _(label: Good First Issue)_ <br> Exosphere is a user-friendly client interface for OpenStack-based cloud systems.
 
 ## Go
 
@@ -104,10 +104,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
+- [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issue, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
 - [Meshery](https://github.com/layer5io/meshery) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
 - [Moby](https://github.com/moby/moby) _(label: exp/beginner)_ <br> Open-source application container engine
-- [PureLB](https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
+- [PureLB](https://gitlab.com/purelb/purelb) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [script](https://github.com/bitfield/script) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb) _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
@@ -132,7 +132,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding) _(label: n/a)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki.
+- [XWiki](https://jira.xwiki.org/issues) _(label: onboarding)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 
 ## JavaScript
@@ -170,7 +170,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 - [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [material-ui](https://github.com/mui-org/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
+- [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issue, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
 - [Meteor](https://github.com/meteor/meteor) _(label: good first issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
 - [Mocha](https://github.com/mochajs/mocha) _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Moment.js](https://github.com/moment/moment) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
@@ -341,7 +341,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Sniffnet](https://github.com/GyulyVGC/sniffnet) _(label: good first issue)_ <br> Application to comfortably monitor network traffic.
 - [TensorZero](https://github.com/tensorzero/tensorzero) _(label: good-first-issue)_ <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
-- [Veloren](https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
+- [Veloren](https://gitlab.com/veloren/veloren) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 - [zoom-rs](https://github.com/security-union/zoom-rs) _(label: good first issue)_ <br> Teleconference system with a web based user interface written in Rust
 
 ## Scala
