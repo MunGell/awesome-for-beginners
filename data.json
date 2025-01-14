@@ -275,12 +275,13 @@
         },
         {
             "name": "Mattermost",
-            "link": "https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:\"Up+For+Grabs\"+label:\"Difficulty/1:Easy\"+label:\"Tech/Go\"",
+	    "link": "https://github.com/mattermost/mattermost",
+	    "label": "Good First Issue, Difficulty/1:Easy",
             "technologies": [
                 "Go",
                 "JavaScript"
             ],
-            "description": "Open source Slack-alternative in Golang and React"
+            "description": "Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'"
         },
         {
             "name": "Moby",
@@ -347,7 +348,7 @@
         },
         {
             "name": "PureLB",
-            "link": "https://gitlab.com/purelb/purelb/-/issues?label_name[]=GoodFirstIssue",
+            "link": "https://gitlab.com/purelb/purelb",
             "technologies": [
                 "Go"
             ],
@@ -427,11 +428,12 @@
         },
         {
             "name": "XWiki",
-            "link": "https://jira.xwiki.org/issues/?jql=labels-%3D-Onboarding",
+            "link": "https://jira.xwiki.org/issues",
+	    "label": "onboarding",
             "technologies": [
                 "Java"
             ],
-            "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the onboarding wiki."
+            "description": "XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/)."
         },
         {
             "name": "zerocode",
@@ -1783,7 +1785,7 @@
         },
         {
             "name": "Veloren",
-            "link": "https://gitlab.com/veloren/veloren/-/issues?label_name[]=beginner",
+            "link": "https://gitlab.com/veloren/veloren",
             "technologies": [
                 "Rust"
             ],
@@ -2122,7 +2124,7 @@
         },
         {
             "name": "Exosphere",
-            "link": "https://gitlab.com/exosphere/exosphere/-/issues/?label_name[]=Good%20First%20Issue",
+            "link": "https://gitlab.com/exosphere/exosphere",
             "label": "Good First Issue",
             "technologies": [
                 "Elm",
