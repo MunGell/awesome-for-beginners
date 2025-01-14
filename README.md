@@ -3,6 +3,21 @@
 <!-- SEE THE CONTRIBUTING GUIDE (`CONTRIBUTING.md`) FOR MORE GUIDANCE -->
 <!-- YOU MAY IGNORE THIS MESSAGE IF YOU ARE EDITING `README-template.j2` -->
 
+
+
+
+
+## My Contribution
+Added this section as part of a GitHub learning exercise.
+
+
+
+
+
+
+
+
+
 # Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
