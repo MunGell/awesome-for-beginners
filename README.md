@@ -334,6 +334,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Iron](https://github.com/iron/iron) _(label: easy)_ <br> An extensible, concurrent web framework for Rust
 - [nushell](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
+- [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good first issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good first issue)_ <br> A tool for formatting Rust code according to style guidelines.
 - [Servo](https://github.com/servo/servo) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
@@ -373,6 +374,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
+- [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [reatom](https://github.com/artalar/reatom) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
