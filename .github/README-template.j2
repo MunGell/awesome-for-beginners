@@ -38,3 +38,21 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>README</title>
+</head>
+<body>
+    <h1>Technologies</h1>
+    {% for category in categories %}
+        <h2>{{ category.title }}</h2>
+        <ul>
+            {% for entry in category.entries %}
+                <li><a href="{{ entry.url }}" target="_blank">{{ entry.name }}</a></li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</body>
+</html>
