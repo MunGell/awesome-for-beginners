@@ -1,8 +1,9 @@
+from jinja2 import Environment, FileSystemLoader
 import json
+import os
 import logging
-from jinja2 import Environment, FileSystemLoader # type: ignore
 
-# Setting up logging for better debugging and traceability
+# Configuring logging
 logging.basicConfig(level=logging.INFO)
 
 DATAFILE = "./data.json"
@@ -11,100 +12,96 @@ TEMPLATEFILE = "README-template.j2"
 TARGETFILE = "./README.md"
 
 def new_technology_dict(repo_technology):
-    """Creates a dictionary for new technology with an empty entries list."""
     return {"link_id": repo_technology.lower(), "entries": []}
 
-def load_data(datafile):
-    """Loads data from the JSON file and handles errors in case of missing file or invalid JSON."""
-    try:
-        with open(datafile, "r") as file:
-            return json.loads(file.read())
-    except FileNotFoundError:
-        logging.error(f"Data file {datafile} not found.")
-        raise
-    except json.JSONDecodeError:
-        logging.error(f"Error decoding JSON from {datafile}. Please check the file format.")
-        raise
+# Function to log warnings for missing data
+def log_warning(message):
+    logging.warning(message)
 
-def process_technologies(data):
-    """Process technology data into a structured format."""
-    technologies = {}
-    for technology in data["technologies"]:
-        technologies[technology] = {
-            "link_id": data["technologies"][technology],
-            "entries": [],
-        }
-    return technologies
+# Check if the data file exists
+if not os.path.exists(DATAFILE):
+    log_warning(f"Data file {DATAFILE} does not exist.")
+    exit(1)
 
-def process_repositories(data, technologies):
-    """Process repository data and associate technologies."""
-    for repository in data["repositories"]:
-        repo_technologies = repository["technologies"]
-        for repo_technology in repo_technologies:
-            if repo_technology not in technologies:
-                technologies[repo_technology] = new_technology_dict(repo_technology)
-            technologies[repo_technology]["entries"].append(repository)
-    return technologies
+# Load data from the JSON file
+try:
+    with open(DATAFILE, "r") as datafile:
+        data = json.loads(datafile.read())
+except json.JSONDecodeError:
+    log_warning("Error: Failed to parse JSON data in the file.")
+    exit(1)
 
-def organize_categories(technologies):
-    """Organize categories and entries for templating."""
-    categories = []
-    for key, value in zip(technologies.keys(), technologies.values()):
-        categories.append(
-            {"title": key, "link_id": value["link_id"], "entries": value["entries"]}
-        )
+# Initialize technologies dictionary
+technologies = {}
 
-    categories = sorted(categories, key=lambda x: x["title"].upper())
-    category_groups = {"Misc": []}
-    
-    # Group categories by first character (A-Z), and handle miscellaneous ones separately
-    for category in categories:
-        category["entries"] = sorted(category["entries"], key=lambda x: x["name"].upper())
-        first_char = category["title"][0].upper()
-        if first_char in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
-            if first_char not in category_groups:
-                category_groups[first_char] = []
-            category_groups[first_char].append(category)
-        else:
-            category_groups["Misc"].append(category)
-    
-    return categories, category_groups
+# Processing technologies
+for technology in data.get("technologies", {}):
+    technologies[technology] = {
+        "link_id": data["technologies"].get(technology),
+        "entries": [],
+    }
 
-def generate_readme(template, categories, category_groups, sponsors):
-    """Render the README file using the Jinja2 template."""
-    output = template.render(category_groups=category_groups, categories=categories, sponsors=sponsors)
+# Processing repositories
+for repository in data.get("repositories", []):
+    repo_technologies = repository.get("technologies", [])
+    if not repo_technologies:
+        log_warning(f"Repository {repository['name']} has no technologies listed.")
+    for repo_technology in repo_technologies:
+        if repo_technology not in technologies:
+            technologies[repo_technology] = new_technology_dict(repo_technology)
+            log_warning(f"Technology {repo_technology} is newly added.")
+        technologies[repo_technology]["entries"].append(repository)
+
+# Create Jinja2 environment and load the template
+env = Environment(loader=FileSystemLoader(TEMPLATEPATH))
+if not os.path.exists(os.path.join(TEMPLATEPATH, TEMPLATEFILE)):
+    log_warning(f"Template file {TEMPLATEFILE} does not exist in the provided path.")
+    exit(1)
+template = env.get_template(TEMPLATEFILE)
+
+# Create categories from the technologies
+categories = []
+for key, value in technologies.items():
+    categories.append(
+        {"title": key, "link_id": value["link_id"], "entries": value["entries"]}
+    )
+
+# Sorting categories and entries
+categories = sorted(categories, key=lambda x: x["title"].upper())
+
+category_groups = {"Misc": []}
+for category in categories:
+    category["entries"] = sorted(category["entries"], key=lambda x: x["name"].upper())
+    first_char = category["title"][0].upper()
+    if first_char in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+        if first_char not in category_groups:
+            category_groups[first_char] = []
+        category_groups[first_char].append(category)
+    else:
+        category_groups["Misc"].append(category)
+
+# Process sponsors
+sponsors = data.get("sponsors", [])
+
+# Generate Table of Contents (TOC)
+toc = []
+for category in categories:
+    toc.append(f"- [{category['title']}]({category['link_id']})")
+
+# Prepare context for rendering the template
+context = {
+    "category_groups": category_groups,
+    "categories": categories,
+    "sponsors": sponsors,
+    "toc": toc  # Adding TOC to context
+}
+
+# Rendering the README file
+try:
+    output = template.render(context)
     with open(TARGETFILE, "w") as targetfile:
         targetfile.write(output)
-    logging.info(f"README generated at {TARGETFILE}")
-
-def main():
-    """Main function to load data, process repositories and generate the README."""
-    try:
-        # Load the data from the JSON file
-        data = load_data(DATAFILE)
-
-        # Process the technology data
-        technologies = process_technologies(data)
-
-        # Process repositories and associate them with technologies
-        technologies = process_repositories(data, technologies)
-
-        # Set up the Jinja2 environment and load the template
-        env = Environment(loader=FileSystemLoader(TEMPLATEPATH))
-        template = env.get_template(TEMPLATEFILE)
-
-        # Organize categories based on technologies
-        categories, category_groups = organize_categories(technologies)
-
-        # Extract sponsors data
-        sponsors = data["sponsors"]
-
-        # Generate the README file using the template
-        generate_readme(template, categories, category_groups, sponsors)
-    
-    except Exception as e:
-        logging.error("An error occurred while generating the README.")
-        logging.exception(e)
-
-if __name__ == "__main__":
-    main()
+    logging.info("README file generated successfully.")
+except Exception as e:
+    log_warning(f"Error while rendering template: {e}")
+    exit(1)
