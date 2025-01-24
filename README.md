@@ -124,7 +124,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
 - [DSA](https://github.com/abhishektripathi66/DSA) _(label: good first issue)_ <br> DSA questions practising repo for Java developers
 - [elasticsearch](https://github.com/elastic/elasticsearch) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
-- [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) _(label: good first issue)_ <br> An android app to convert images to PDF file.
 - [JabRef](https://github.com/JabRef/jabref) _(label: good first issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [QuestDB](https://github.com/questdb/questdb) _(label: Good first issue)_ <br> Questdb is a fast open source SQL time series database.
