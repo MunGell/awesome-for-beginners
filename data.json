@@ -445,15 +445,6 @@
             "description": "API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly."
         },
         {
-            "name": "Images-to-PDF",
-            "link": "https://github.com/Swati4star/Images-to-PDF",
-            "label": "good first issue",
-            "technologies": [
-                "Java"
-            ],
-            "description": "An android app to convert images to PDF file."
-        },
-        {
             "name": "Trino (formerly Presto SQL)",
             "link": "https://github.com/trinodb/trino",
             "label": "good first issue",
