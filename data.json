@@ -2128,8 +2128,7 @@
             "link": "https://github.com/Smoren/itertools-ts",
             "label": "good first issue",
             "technologies": [
-                "TypeScript",
-                "JavaScript"
+                "TypeScript"
             ],
             "description": "Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones)."
         },
