@@ -13,11 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v2
-        with:
-          node-version: "16.x"
+      - name: install jinja2
+        run: sudo pip install jinja2
       - name: Build
-        run: node .github/scripts/build.js
+        run: python3 .github/scripts/render-readme.py
       - name: Commit
         run: |
           git config --global user.name 'Shmavon Gazanchyan'
