@@ -1290,6 +1290,15 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "PyMC",
+            "link": "https://github.com/pymc-devs/pymc",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels."
+        },
+        {
             "name": "CiviWiki",
             "link": "https://github.com/CiviWiki/OpenCiviWiki",
             "label": "good first issue",
