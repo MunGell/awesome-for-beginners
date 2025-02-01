@@ -1085,6 +1085,16 @@
             "description": "Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM."
         },
         {
+            "name": "Devopness",
+            "link": "https://github.com/devopness/devopness",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "description": "Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way."
+        },
+        {
             "name": "Julia Language: Help wanted",
             "link": "https://github.com/JuliaLang/julia",
             "label": "help-wanted",
