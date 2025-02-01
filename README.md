@@ -294,6 +294,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [opsdroid](https://github.com/opsdroid/opsdroid) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas) _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [PyMC](https://github.com/pymc-devs/pymc) _(label: beginner friendly)_ <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 - [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
