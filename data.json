@@ -1089,7 +1089,6 @@
             "link": "https://github.com/devopness/devopness",
             "label": "good first issue",
             "technologies": [
-                "JavaScript",
                 "TypeScript"
             ],
             "description": "Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way."
