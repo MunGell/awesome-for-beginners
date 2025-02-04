@@ -914,15 +914,6 @@
             "description": "Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation."
         },
         {
-            "name": "SirixDB",
-            "link": "https://github.com/sirixdb/sirix-svelte-front-end",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java."
-        },
-        {
             "name": "json-editor",
             "link": "https://github.com/json-editor/json-editor",
             "label": "good first issue",
