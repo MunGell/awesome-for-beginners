@@ -194,7 +194,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) _(label: help-wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) _(label: good first issue)_ <br> The official React integration for Semantic UI.
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
-- [SirixDB](https://github.com/sirixdb/sirix-svelte-front-end) _(label: good first issue)_ <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
 - [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
