@@ -34,7 +34,6 @@ Welcome to the **Awesome First PR Opportunities** project! We're excited that yo
 
 5. **Push Your Changes**:
     ```bash
-    Copy
     git push origin your-branch-name
 
 #### Submitting a Pull Request (PR)
