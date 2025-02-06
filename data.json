@@ -2084,6 +2084,16 @@
             "description": "Build business apps 10x faster using Ruby on Rails."
         },
         {
+            "name": "Simple Weather Application Using JavaScript",
+            "link": "https://github.com/NamanSaini18/Weather_Application",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "HTML/CSS"
+            ],
+            "description": "A simple and elegant weather app using JavaScript, HTML/CSS. Get real-time weather updates with a clean UI and smooth user experience!"
+        },
+        {
             "name": "HueHive",
             "link": "https://github.com/croma-app/croma",
             "label": "good first issue",
