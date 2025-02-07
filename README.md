@@ -38,7 +38,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 - [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
-- [Shouldly](https://github.com/shouldly/shouldly) _(label: Jump-In)_ <br> Should testing for .NET - the way Asserting Should be!
 
 ## Angular
 
