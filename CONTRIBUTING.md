@@ -11,6 +11,7 @@ Welcome to the **Awesome First PR Opportunities** project! We're excited that yo
    ```bash
    git clone https://github.com/your-username/awesome-for-beginners.git
    cd awesome-for-beginners
+   ```
 
 3. **Install Dependencies**: This project does not require specific dependencies, but make sure you have git installed.
 
@@ -19,6 +20,7 @@ Welcome to the **Awesome First PR Opportunities** project! We're excited that yo
 1. **Create a Branch:**: 
     ```bash
     git checkout -b your-branch-name
+    ```
 
 2. **Make Your Changes**: Add or modify the necessary files.
 
@@ -26,15 +28,19 @@ Welcome to the **Awesome First PR Opportunities** project! We're excited that yo
     ```bash
     git status
     git diff
+    ```
         
 4. **Commit Your Changes**:
     ```bash
     git add .
     git commit -m "A clear description of your changes"
+    ```
 
 5. **Push Your Changes**:
     ```bash
     git push origin your-branch-name
+    ```
+
 
 #### Submitting a Pull Request (PR)
 
