@@ -367,6 +367,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [Impler.io](https://github.com/implerhq/impler.io) _(label: good first issue)_ <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
+- [IterTools TS](https://github.com/Smoren/itertools-ts) _(label: good first issue)_ <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 - [LinksHub](https://github.com/rupali-codes/LinksHub) _(label: good first issue)_ <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 - [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
