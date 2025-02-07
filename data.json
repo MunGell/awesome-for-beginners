@@ -2133,6 +2133,15 @@
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         },
         {
+            "name": "IterTools TS",
+            "link": "https://github.com/Smoren/itertools-ts",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones)."
+        },
+        {
             "name": "Harmony",
             "link": "https://github.com/harmonydata/harmony",
             "label": "Good First Issue",
