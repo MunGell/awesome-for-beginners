@@ -31,15 +31,6 @@
             "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
         },
         {
-            "name": "Shouldly",
-            "link": "https://github.com/shouldly/shouldly",
-            "label": "Jump-In",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "Should testing for .NET - the way Asserting Should be!"
-        },
-        {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good first issue",
