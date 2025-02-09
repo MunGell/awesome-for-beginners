@@ -615,6 +615,16 @@
             ],
             "description": "A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates."
         },
+	{
+            "name": "ImprovedTube",
+            "link": "https://github.com/code-charity/youtube",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+		"CSS"
+            ],
+            "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."	
+	},
         {
             "name": "serverless",
             "link": "https://github.com/serverless/serverless",
