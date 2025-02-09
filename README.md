@@ -19,7 +19,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |--|--|
 |Misc|[.NET](#net)|
 |A|[Angular](#angular), [Ansible](#ansible)|
-|C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure)|
+|C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
 |D|[Dart](#dart)|
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
@@ -74,6 +74,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Clojure
 
 - [Metabase](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
+
+## CSS
+
+- [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
 ## Dart
 
@@ -162,6 +166,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> A open source react native app iOS and android for color palette management
 - [iD](https://github.com/openstreetmap/iD) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
