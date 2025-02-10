@@ -2,70 +2,50 @@
 
 Welcome to the **Awesome First PR Opportunities** project! We're excited that you want to contribute. This guide will help you get started.
 
+---
 
-## Setting Up the Development Environment
+## How to Contribute
 
-1. **Fork the Project**: Click the "Fork" button at the top right of the repository page to create a copy of the project in your GitHub account.
+### 1. **Edit the `data.json` File Directly on GitHub**
+The easiest way to contribute is by editing the `data.json` file directly in your browser. Here's how:
 
-2. **Clone Your Fork**:
-   ```bash
-   git clone https://github.com/your-username/awesome-for-beginners.git
-   cd awesome-for-beginners
-   ```
+1. Go to the [`data.json` file](https://github.com/MunGell/awesome-for-beginners/blob/main/data.json) in the repository.
+2. Click the **"Edit"** button (pencil icon) in the top right corner.
+3. Make your changes directly in the browser:
+   - Copy an existing entry in the file.
+   - Fill in your own information following the same format.
+4. Describe your changes in the commit message.
+5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
 
-3. **Install Dependencies**: This project does not require specific dependencies, but make sure you have git installed.
+GitHub will guide you through the rest of the process to submit your PR.
 
-### Making a Contribution
+---
 
-1. **Create a Branch:**: 
-    ```bash
-    git checkout -b your-branch-name
-    ```
+### 2. **Submitting a Pull Request (PR)**
+1. After proposing changes, GitHub will guide you through creating a PR.
+2. Fill out the PR form with a clear description of your changes.
+3. Submit the PR and wait for feedback from the maintainers.
 
-2. **Make Your Changes**: Add or modify the necessary files.
+---
 
-3. **Check Your Changes**:
-    ```bash
-    git status
-    git diff
-    ```
-        
-4. **Commit Your Changes**:
-    ```bash
-    git add .
-    git commit -m "A clear description of your changes"
-    ```
+### 3. **Best Practices**
+- **Follow the Repository Requirements**: Ensure your contribution adheres to the specific requirements of this repository.
+- **Avoid Duplicates**: Check if your suggestion has already been proposed.
+- **Be Clear and Concise**: Provide a detailed description of your changes.
 
-5. **Push Your Changes**:
-    ```bash
-    git push origin your-branch-name
-    ```
+---
 
+### 4. **Reporting an Issue**
+If you encounter an issue or have a suggestion, open an issue by providing:
+- A clear description of the problem or suggestion.
+- Steps to reproduce the issue (if applicable).
+- The expected behavior and the actual behavior.
 
-#### Submitting a Pull Request (PR)
+---
 
-1. Go to the page of your fork on GitHub.
+### 5. **Additional Resources**
+For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
-2. Click on "Compare & pull request".
+---
 
-3. Fill out the PR form with a clear description of your changes.
-
-4. Submit the PR and wait for feedback from the maintainers.
-
-##### Best Practices
-
-**Follow Coding Conventions**: Ensure your code is clean and well-documented.
-
-**Avoid Duplicates**: Check if your suggestion has already been proposed.
-
-**Be Clear and Concise**: Provide a detailed description of your changes.
-
-###### Reporting an Issue
-
-If you encounter an issue, open an issue by providing:
-
-A clear description of the problem.
-
-Steps to reproduce the issue.
-
-The expected behavior and the actual behavior.
+Thank you for your contribution! 
