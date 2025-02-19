@@ -139,6 +139,14 @@
             ],
             "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
         },
+	{
+            "name": "Exploring-git",
+            "link": "https://github.com/Billakanti-Teja/Exploring-git",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Beginner friendly guidelines to contribute to open source projects."
+        },
         {
             "name": "MiniOB",
             "link": "https://github.com/oceanbase/miniob",
