@@ -1,4 +1,4 @@
-### Git Pull Commands
+## Git Pull Commands
 
 Please follow these guidelines while using git pull commands to ensure a smooth workflow in your repository:
 
