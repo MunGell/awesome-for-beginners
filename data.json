@@ -1946,6 +1946,15 @@
             "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
         },
         {
+          "name": "twitter-clone",
+          "link": "https://github.com/Pajkic-lab/twitter-clone",
+          "label": "good first issue",
+          "technologies": [
+            "TypeScript"
+          ],
+          "description": "TwClone is a Twitter replica designed to showcase cutting-edge technologies, foster knowledge sharing, and cultivate a supportive developer community."
+        },
+        {
             "name": "pythonping",
             "link": "https://github.com/alessandromaggio/pythonping",
             "label": "good first issue",
