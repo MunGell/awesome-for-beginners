@@ -102,11 +102,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - [Helm](https://github.com/kubernetes/helm) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [Kanister](https://github.com/kanisterio/kanister) _(label: good first issue)_ <br> A Data Protection Workflow Management Engine
-- [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
-- [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
+- [Kanister](https://github.com/kanisterio/kanister) _(label: good first issues)_ <br> A Data Protection Workflow Management Engine
+- [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good first issues)_ <br> Simple way to generate mock servers in Go.
+- [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good first issues)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
-- [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issue, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
+- [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issues, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
 - [Meshery](https://github.com/layer5io/meshery) _(label: good first issue)_ <br> Meshery, the service mesh management plane.
 - [Moby](https://github.com/moby/moby) _(label: exp/beginner)_ <br> Open-source application container engine
 - [PureLB](https://gitlab.com/purelb/purelb) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
