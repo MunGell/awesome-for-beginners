@@ -1345,14 +1345,6 @@
             "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
         },
         {
-            "name": "coala",
-            "link": "https://github.com/coala/coala",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use."
-        },
-        {
             "name": "jarvis",
             "link": "https://github.com/sukeesh/Jarvis",
             "label": "difficulty/newcomer",
