@@ -1462,15 +1462,6 @@
             "description": "The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content."
         },
         {
-            "name": "tree-sitter-legesher-python",
-            "link": "https://github.com/legesher/tree-sitter-legesher-python",
-            "label": "Good-First-Issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "Learn and code in Python using your native language."
-        },
-        {
             "name": "mypy",
             "link": "https://github.com/python/mypy",
             "label": "good first issue",
