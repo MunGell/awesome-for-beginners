@@ -1938,15 +1938,6 @@
             "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
         },
         {
-            "name": "pythonping",
-            "link": "https://github.com/alessandromaggio/pythonping",
-            "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell."
-        },
-        {
             "name": "flutter",
             "link": "https://github.com/flutter/flutter",
             "label": "good first issue",
