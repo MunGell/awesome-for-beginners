@@ -1543,15 +1543,6 @@
             "description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing."
         },
         {
-            "name": "Sorting-Algorithms-Visualizer",
-            "link": "https://github.com/LucasPilla/Sorting-Algorithms-Visualizer",
-            "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A tool for visualizing sorting algorithms with a educational Wiki Page."
-        },
-        {
             "name": "scikit-learn",
             "link": "https://github.com/scikit-learn/scikit-learn",
             "label": "good first issue",
