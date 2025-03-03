@@ -27,10 +27,12 @@ If you would like to be guided through how to contribute to a repository on GitH
 |J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
+|N|[Node.js](#node.js), [NumPy](#numPy)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
 |R|[Ruby](#ruby), [Rust](#rust)|
 |S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
 |T|[TypeScript](#typescript)|
+
 
 ## .NET
 
@@ -235,9 +237,20 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
+## Node.js
+
+- [Node.js](https://github.com/nodejs/node) _(label: good first issue)_ <br>Node.js is an open-source, cross-platform JavaScript runtime that executes JavaScript code outside a web browser.
+- [Express.js](https://github.com/expressjs/express) _(label: help-wanted)_ <br>Fast, unopinionated, and minimalist web framework for Node.js.
+- [Fastify](https://github.com/fastify/fastify) _(label: good first issue)_ <br> A high-performance web framework for Node.js, with low overhead and powerful plugin support.
+- [NestJS ](https://github.com/nestjs/nest) _(label: good first issue)_ <br> A progressive Node.js framework for building efficient, scalable, and modular applications.
+- [Socket.io](https://github.com/socketio/socket.io) _(label: help-wanted)_ <br> A real-time, bidirectional communication library for web applications, enabling WebSocket support.
+
+
+
 ## MLOps
 
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
+
 
 ## Perl
 
