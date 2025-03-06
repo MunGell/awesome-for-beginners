@@ -2243,6 +2243,17 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+        },
+        {
+            "name": "Mp3 Go",
+            "link": "https://github.com/RachitSharma-191927/mp3Go",
+            "label": "Music Album Seller",
+            "technologies": [
+                "Javascript",
+                "React",
+		"Node.js"
+            ],
+            "description":"Mp3 Go is a seamless music streaming app that lets you enjoy your favorite tracks anytime, anywhere. Experience high-quality audio with an easy-to-use interface for endless music fun!" 
         }
     ]
 }
