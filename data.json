@@ -2244,5 +2244,13 @@
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         }
+        {
+            "name": "Awesome for Beginners",
+            "description": "A beginner-friendly project that helps new developers get started with open-source contributions.",
+            "url": "https://github.com/shreya-20-2003/awesome-for-beginners",
+            "tags": ["open-source", "beginner-friendly", "contributions", "GitHub"]
+          }
+          
+          
     ]
 }
