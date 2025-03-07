@@ -1345,14 +1345,6 @@
             "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
         },
         {
-            "name": "coala",
-            "link": "https://github.com/coala/coala",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use."
-        },
-        {
             "name": "jarvis",
             "link": "https://github.com/sukeesh/Jarvis",
             "label": "difficulty/newcomer",
@@ -1470,15 +1462,6 @@
             "description": "The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content."
         },
         {
-            "name": "tree-sitter-legesher-python",
-            "link": "https://github.com/legesher/tree-sitter-legesher-python",
-            "label": "Good-First-Issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "Learn and code in Python using your native language."
-        },
-        {
             "name": "mypy",
             "link": "https://github.com/python/mypy",
             "label": "good first issue",
@@ -1549,15 +1532,6 @@
                 "Python"
             ],
             "description": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing."
-        },
-        {
-            "name": "Sorting-Algorithms-Visualizer",
-            "link": "https://github.com/LucasPilla/Sorting-Algorithms-Visualizer",
-            "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "A tool for visualizing sorting algorithms with a educational Wiki Page."
         },
         {
             "name": "scikit-learn",
@@ -1944,15 +1918,6 @@
                 "TypeScript"
             ],
             "description": "Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks."
-        },
-        {
-            "name": "pythonping",
-            "link": "https://github.com/alessandromaggio/pythonping",
-            "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
-            "description": "PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell."
         },
         {
             "name": "flutter",
