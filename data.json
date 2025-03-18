@@ -2209,5 +2209,14 @@
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         }
+	{
+	    "name": "cf-pipeline",
+	    "link": "https://github.com/lifemodder19135/cf-pipeline",
+	    "label": "Beginner-Friendly",
+	    "technologies": [
+		"Python"
+	    ],
+	    "description": "A comprehensive API for competetive programming sites like codeforces.com"
+	}
     ]
 }
