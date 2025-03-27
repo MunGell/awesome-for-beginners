@@ -1281,7 +1281,15 @@
             ],
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
-        {
+	{
+            "name": "HashX",
+            "link": "https://github.com/ProgrammerKR/HashX",
+            "technologies": [
+                "Python"
+            ],
+            "description": " A custom hashing algorithm designed for security and encryption."
+        },
+	{
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
