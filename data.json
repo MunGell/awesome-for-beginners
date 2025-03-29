@@ -1287,7 +1287,7 @@
             "technologies": [
                 "Python"
             ],
-            "description": " A custom hashing algorithm designed for security and encryption."
+            "description": " A lightweight , 512 bit, High Performance, Professional open-source hashing algorithm designed for security and encryption."
         },
 	{
             "name": "PyMC",
