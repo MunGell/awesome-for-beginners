@@ -2069,6 +2069,15 @@
             ],
             "description": "Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege."
         },
+		{
+            "name": "Nepali Datepicker",
+            "link": "https://github.com/wwwbijay/angular-nepali-datepicker",
+            "label": "good first issue",
+            "technologies": [
+                "Angular"
+            ],
+            "description": "A configurable Nepali Date Picker(Bikram Sambat) library built for angular appilcations. "
+        },
         {
             "name": "Storybook JS",
             "link": "https://github.com/storybookjs/storybook",
