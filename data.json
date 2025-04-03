@@ -46,7 +46,7 @@
             "technologies": [
                 "C#"
             ],
-            "description": "Music game. Rhythm is just a click away!"
+            "description": "Music game. Rhythm is just a click away!" 
         },
         {
             "name": "Uno Platform",
@@ -69,7 +69,7 @@
         {
             "name": "Spectre.Console",
             "link": "https://github.com/spectreconsole/spectre.console",
-            "label": "good first issue",
+            "label": "good first issue",  
             "technologies": [
                 "C#"
             ],
