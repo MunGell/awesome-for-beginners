@@ -2150,7 +2150,7 @@
             "link": "https://github.com/mnfst/manifest",
             "label": "good first issue",
             "technologies": ["TypeScript"],
-            "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+            "description": "Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
         },
         {
             "name": "grommet",
