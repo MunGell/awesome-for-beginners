@@ -930,7 +930,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "description": "The documenation website for reactjs"
+            "description": "The documentation website for reactjs"
         },
         {
             "name": "Vest",
@@ -2047,7 +2047,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "description": "A open source react native app iOS and android for color palette management"
+            "description": "An open source react native app iOS and android for color palette management"
         },
         {
             "name": "QuestDB",
@@ -2150,7 +2150,7 @@
             "link": "https://github.com/mnfst/manifest",
             "label": "good first issue",
             "technologies": ["TypeScript"],
-            "description": "Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+            "description": "Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
         },
         {
             "name": "grommet",
