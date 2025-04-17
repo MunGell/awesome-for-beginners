@@ -204,7 +204,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good first issue)_ <br> Swag opportunities for developers.
-- [Tessel 2 CLI](https://github.com/tessel/t2-cli) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Time to Leave](https://github.com/thamara/time-to-leave) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
 - [Vest](https://github.com/ealush/vest) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
