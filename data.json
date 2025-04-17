@@ -1282,9 +1282,10 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
 	{
-            "name": "HashX",
-            "link": "https://github.com/ProgrammerKR/HashX",
-            "technologies": [
+            "name": "Hashium",
+            "link": "https://github.com/ProgrammerKR/Hashium",
+            "label": "good first issue",
+	    "technologies": [
                 "Python"
             ],
             "description": " A lightweight , 512 bit, High Performance, Professional open-source hashing algorithm designed for security and encryption."
