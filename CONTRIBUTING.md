@@ -1,19 +1,75 @@
-# Contribution Guidelines
+# Contribution Guide & Guidelines 🚀
 
-Please ensure that your pull request adheres to the following guidelines:
+Welcome to the **Awesome First Pull Request Opportunities** project! We're excited that you want to contribute.
 
-- Search previous suggestions before making a new one to avoid duplicates.
-- Ensure your contribution is useful and relevant, with sufficient content and a clear, concise description for each item. Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Only include your suggested repository to `data.json` file, README.md file is generated from it.
-- New categories or improvements to existing categories are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should be given a meaningful title.
-- Ensure that you describe your pull request.
-- If the label does not clearly state its "beginner-friendly" purpose, confirm with the maintainer that it is used for such issues. Include a link to where the maintainer approves this.
-- Maintainer confirmation is also required in case repository has more than one beginner-friendly-like label (e.g. `low-hanging-fruit` and `up-for-grabs`).
-- Ensure the contributed repository is actively maintained, has a supportive community, and issues with appropriate labels.
-- Links must be pointing directly to the repository, no tracking links allowed. This list is not for advertising purposes.
+This guide aims to help you get started contributing new repositories to the list.
 
-Thank you for your suggestions!!
+It outlines the recommended order for executing tasks and assumes that you have identified a repository you wish to add to the list.
+
+_Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._
+
+## Intitial Checks
+
+- **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates.
+
+## Repository Requirements
+
+- **Reasonably Developed**: The repository must be reasonably established, along with having with a clear goal or function. New repositories with few commits and little content will likely be rejected.
+- **Active Maintenance**: Ensure the contributed repository is actively maintained.
+- **Appropriate Labels**: Issues with appropriate beginner-friend labels must exist. Confirm with the owner around a label's meaning if it's not obviously beginner-friendly (usually `good-first-issue` or `low-hanging-fruit`).
+- **Supportive Community**: The repository should have a supportive community.
+
+## Making Changes and Opening a PR (Pull Request)
+
+### 1. **Edit the `data.json` File Directly on GitHub**
+The easiest way to contribute is by editing the `data.json` file directly in your browser. Here's how:
+
+1. Go to the [`data.json` file](https://github.com/MunGell/awesome-for-beginners/blob/main/data.json) in the repository.
+2. Click the **"Edit"** button (pencil icon) in the top right corner.
+3. Make your changes directly in the browser:
+   - Copy an existing entry in the file.
+   - Fill in your own information following the same format.
+   - Ensure to check the following:
+       - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
+       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
+       - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
+       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
+       - **Single addition**: Make an individual pull request for each suggestion.
+       - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
+4. Describe your changes concisely in the commit message.
+5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
+
+GitHub will guide you through the rest of the process to submit your PR. Ensure your PR's content (especially the title) is understandable, descriptive and relevant.
+
+If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
+
+---
+
+### 2. **Submitting a Pull Request (PR)**
+1. After proposing changes, GitHub will guide you through creating a PR.
+2. Fill out the PR form with a clear description of your changes.
+3. Submit the PR and wait for feedback from the maintainers.
+
+---
+
+### 3. **Best Practices**
+- **Follow the Repository Requirements**: Ensure your contribution adheres to the specific requirements of this repository.
+- **Avoid Duplicates**: Check if your suggestion has already been proposed.
+- **Be Clear and Concise**: Provide a detailed description of your changes.
+
+---
+
+### 4. **Reporting an Issue**
+If you encounter an issue or have a suggestion that you don't want to implement yourself, open an issue ensuring you provide:
+- A clear description of the problem or suggestion.
+- The expected behavior (if creating a feature request or bug report).
+- The current behavior (if creating a bug report).
+
+---
+
+### 5. **Additional Resources**
+For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
+
+---
+
+Thank you for your contribution!
