@@ -1966,15 +1966,6 @@
             "description": "Sample AI Apps built with H2O Wave."
         },
         {
-            "name": "Node Efficientnet",
-            "link": "https://github.com/ntedgi/node-efficientnet",
-            "label": "good first issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "EfficientNet Image Recognition model for Node JS ( written with tensorflow.js )."
-        },
-        {
             "name": "OpenMetadata",
             "link": "https://github.com/open-metadata/OpenMetadata",
             "label": "good first issue",
