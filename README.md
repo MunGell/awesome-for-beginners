@@ -3,7 +3,7 @@
 <!-- SEE THE CONTRIBUTING GUIDE (`CONTRIBUTING.md`) FOR MORE GUIDANCE -->
 <!-- YOU MAY IGNORE THIS MESSAGE IF YOU ARE EDITING `README-template.j2` -->
 
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
@@ -166,7 +166,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> An open source react native app iOS and android for color palette management
-- [iD](https://github.com/openstreetmap/iD) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [iD](https://github.com/openstreetmap/iD) _(label: new contributor opportunity)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
