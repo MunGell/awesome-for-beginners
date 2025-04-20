@@ -474,7 +474,7 @@
         {
             "name": "iD",
             "link": "https://github.com/openstreetmap/iD",
-            "label": "good first issue",
+            "label": "new contributor opportunity",
             "technologies": [
                 "JavaScript"
             ],
