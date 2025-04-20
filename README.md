@@ -372,7 +372,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 - [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Metabase](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
-- [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
