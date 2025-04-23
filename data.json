@@ -13,6 +13,16 @@
     },
     "repositories": [
         {
+            "name": "sameer",
+            "link": "https://github.com/Sameer069",
+            "label": "good first issue",
+            "technologies": [
+                 "React", 
+                "JavaScript"
+            ],
+            "description": "Build blazing fast, modern apps and websites with React."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
