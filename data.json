@@ -1063,9 +1063,10 @@
             "link": "https://github.com/devopness/devopness",
             "label": "good first issue",
             "technologies": [
+                "Python",
                 "TypeScript"
             ],
-            "description": "Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way."
+            "description": "Deploy any software to any cloud: automated DevOps workflows to save software teams time and money."
         },
         {
             "name": "Julia Language: Help wanted",
