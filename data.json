@@ -1687,15 +1687,6 @@
             ],
             "description": "A tool for formatting Rust code according to style guidelines."
         },
-        {
-            "name": "Iron",
-            "link": "https://github.com/iron/iron",
-            "label": "easy",
-            "technologies": [
-                "Rust"
-            ],
-            "description": "An extensible, concurrent web framework for Rust"
-        },
 	{
             "name": "TensorZero",
             "link": "https://github.com/tensorzero/tensorzero",
