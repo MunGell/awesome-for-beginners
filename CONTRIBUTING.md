@@ -38,28 +38,17 @@ The easiest way to contribute is by editing the `data.json` file directly in you
        - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
 4. Describe your changes concisely in the commit message.
 5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
-
-GitHub will guide you through the rest of the process to submit your PR. Ensure your PR's content (especially the title) is understandable, descriptive and relevant.
-
-If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
-
 ---
 
 ### 2. **Submitting a Pull Request (PR)**
 1. After proposing changes, GitHub will guide you through creating a PR.
-2. Fill out the PR form with a clear description of your changes.
-3. Submit the PR and wait for feedback from the maintainers.
+2. Fill out the PR form, ensuring its content (especially the title) is understandable, descriptive and relevant.
+3. If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
+4. Submit the PR and wait for feedback from the maintainers.
 
 ---
 
-### 3. **Best Practices**
-- **Follow the Repository Requirements**: Ensure your contribution adheres to the specific requirements of this repository.
-- **Avoid Duplicates**: Check if your suggestion has already been proposed.
-- **Be Clear and Concise**: Provide a detailed description of your changes.
-
----
-
-### 4. **Reporting an Issue**
+### 3. **Reporting an Issue**
 If you encounter an issue or have a suggestion that you don't want to implement yourself, open an issue ensuring you provide:
 - A clear description of the problem or suggestion.
 - The expected behavior (if creating a feature request or bug report).
@@ -67,7 +56,7 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 
 ---
 
-### 5. **Additional Resources**
+### 4. **Additional Resources**
 For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
 ---
