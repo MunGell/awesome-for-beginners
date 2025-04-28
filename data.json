@@ -2146,6 +2146,17 @@
             ],
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
         },
+	{
+	  "name": "ZtM Job Board",
+	  "link": "https://github.com/zero-to-mastery/ZtM-Job-Board",
+	  "label": "difficulty::easy",
+	  "technologies": [
+	    "JavaScript",
+	    "HTML",
+	    "CSS"
+	  ],
+	  "description": "A place for developers from the Zero To Mastery community to show recruiters they are available for hire."
+	},
         {
             "name": "zoom-rs",
             "link": "https://github.com/security-union/zoom-rs",
