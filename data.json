@@ -2208,6 +2208,15 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+        },
+	{
+            "name": "supabase",
+            "link": "https://github.com/supabase/supabase",
+            "label": "good first issue",
+            "technologies": [
+		"TypeScript"
+            ],
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
 }
