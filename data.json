@@ -2182,6 +2182,15 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+        },
+	{
+            "name": "Reference Generator",
+            "link": "https://github.com/MHIZokuchi/ReferenceNumberGenerator",
+            "label": "good first issue",
+            "technologies": [
+                "c#"
+            ],
+            "description": "A lightweight, flexible C# library for generating unique reference numbers in various formats."
         }
     ]
 }
