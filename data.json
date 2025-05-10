@@ -2182,6 +2182,16 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+        },
+        {
+            "name": "MuhammadUsmanGM",
+            "link": "https://github.com/MuhammadUsmanGM/CPP_Files",
+            "label": "All Bassic Flies for learning CPP",
+            "technologies": [
+                "Python",
+                "C++"
+            ],
+            "description" : "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints"
         }
     ]
 }
