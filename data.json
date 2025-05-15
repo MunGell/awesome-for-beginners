@@ -23,9 +23,11 @@
         },
         {
             "name": "ProjectFolio",
-            "link": "https://github.com/your-username/ProjectFolio",
+            "link": "https://github.com/Nishuldhakar/ProjectFolio",
             "label": "good first issue",
-            "technologies": ["React", "JavaScript"],
+            "technologies": [
+		 "React", "JavaScript"
+	    ],
             "description": "A beginner-friendly personal portfolio site generator for developers using React and Tailwind."
           },       
         {
