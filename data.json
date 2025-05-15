@@ -1460,7 +1460,7 @@
             "technologies": [
                 "Python"
             ],
-            "description": "An optional static typing for python."
+            "description": "Optional static typing for Python."
         },
         {
             "name": "matplotlib",
@@ -1487,7 +1487,7 @@
             "technologies": [
                 "Python"
             ],
-            "description": "Exploratory Anaylsis of Bayesian Models."
+            "description": "Exploratory Analysis of Bayesian Models."
         },
         {
             "name": "MindsDB",
@@ -2124,7 +2124,7 @@
             "link": "https://github.com/mnfst/manifest",
             "label": "good first issue",
             "technologies": ["TypeScript"],
-            "description": "Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly."
+            "description": "Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly."
         },
         {
             "name": "grommet",
