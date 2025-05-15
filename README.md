@@ -269,7 +269,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
-- [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Anaylsis of Bayesian Models.
+- [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Analysis of Bayesian Models.
 - [Bokeh](https://github.com/bokeh/bokeh) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good first issue)_ <br> Building a Better Democracy for the Internet Age
@@ -291,7 +291,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [mygpo](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
-- [mypy](https://github.com/python/mypy) _(label: good first issue)_ <br> An optional static typing for python.
+- [mypy](https://github.com/python/mypy) _(label: good first issue)_ <br> Optional static typing for Python.
 - [OMRChecker](https://github.com/Udayraj123/OMRChecker) _(label: good first issue)_ <br> OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
@@ -370,7 +370,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [IterTools TS](https://github.com/Smoren/itertools-ts) _(label: good first issue)_ <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 - [LinksHub](https://github.com/rupali-codes/LinksHub) _(label: good first issue)_ <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
-- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
+- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
 - [Metabase](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
