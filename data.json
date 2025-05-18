@@ -2182,6 +2182,15 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+        },
+        {
+            "name": "AMP",
+            "link": "https://github.com/ampproject/amphtml",
+            "label": "good first issue",
+            "technologies": [
+		"javaScript"
+            ],
+            "description": "AMP is a web component framework for easily creating user-first websites, stories, ads, emails and more."
         }
     ]
 }
