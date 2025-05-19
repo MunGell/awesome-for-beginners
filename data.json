@@ -2182,6 +2182,15 @@
 		"TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
-        }
+        },
+	{
+            "name": "Advanced-Git",
+            "link": "https://github.com/mike-rambil/Advanced-Git",
+            "label": "beginner-friendly",
+            "technologies": [
+                "Markdown"
+            ],
+            "description": "Collaborative cheatsheets for Git commands."
+        },
     ]
 }
