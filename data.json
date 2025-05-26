@@ -605,7 +605,7 @@
                 "JavaScript",
 		"CSS"
             ],
-            "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."	
+            "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."
 	},
         {
             "name": "serverless",
@@ -2172,6 +2172,15 @@
                 "Python"
             ],
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
+        },
+        {
+            "name": "Mininterface",
+            "link": "https://github.com/CZ-NIC/mininterface/",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An argparse alternative and a dialog toolkit – a minimal interface to Python application (GUI, TUI, CLI, web)."
         },
 	{
             "name": "Readest",
