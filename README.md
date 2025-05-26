@@ -377,6 +377,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [reatom](https://github.com/artalar/reatom) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+- [supabase](https://github.com/supabase/supabase) _(label: good first issue)_ <br> The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good first issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
