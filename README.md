@@ -260,6 +260,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Symfony](https://github.com/symfony/symfony) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+- [Wordpress](https://github.com/WordPress/WordPress) _(label: good first beginner)_ <br> Wordpress is a free open source tools that lets you build and manage websites without needing to know how to code.
 
 ## Pug
 
