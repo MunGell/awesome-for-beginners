@@ -1212,6 +1212,15 @@
             "description": "Symfony is a PHP framework for web applications and a set of reusable PHP components."
         },
         {
+            "name": "WordPress",
+            "link": "https://github.com/WordPress/WordPress",
+            "label": "good-for-beginner",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "Wordpress is a free open source tools that lets you build and manage websites without needing to know how to code."
+        },
+        {
             "name": "Laravel Newsletters",
             "link": "https://github.com/spatie/laravel-newsletter",
             "label": "good first issue",
