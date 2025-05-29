@@ -1212,6 +1212,15 @@
             "description": "Symfony is a PHP framework for web applications and a set of reusable PHP components."
         },
         {
+            "name": "CodeIgniter",
+            "link": "https://github.com/codeigniter4/CodeIgniter4",
+            "label": "good first issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture."
+        },
+        {
             "name": "Laravel Newsletters",
             "link": "https://github.com/spatie/laravel-newsletter",
             "label": "good first issue",
