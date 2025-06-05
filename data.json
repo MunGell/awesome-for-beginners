@@ -663,8 +663,8 @@
             "description": "A 2D JavaScript Renderer"
         },
         {
-            "name": "Next.js",
-            "link": "https://github.com/zeit/next.js",
+            "name": "next.js",
+            "link": "https://github.com/vercel/next.js",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -808,7 +808,7 @@
         },
         {
             "name": "material-ui",
-            "link": "https://github.com/mui-org/material-ui",
+            "link": "https://github.com/mui/material-ui",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -915,8 +915,8 @@
             "description": "Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)"
         },
         {
-            "name": "reactjs.org",
-            "link": "https://github.com/reactjs/reactjs.org",
+            "name": "react.dev",
+            "link": "https://github.com/reactjs/react.dev",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -978,8 +978,8 @@
             "description": "Fast, easy and reliable testing for anything that runs in a browser."
         },
         {
-            "name": "Vue Router",
-            "link": "https://github.com/vuejs/vue-router",
+            "name": "vue router",
+            "link": "https://github.com/vuejs/router",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
