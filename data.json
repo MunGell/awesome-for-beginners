@@ -664,7 +664,7 @@
         },
         {
             "name": "Next.js",
-            "link": "https://github.com/zeit/next.js",
+            "link": "https://github.com/vercel/next.js",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -808,7 +808,7 @@
         },
         {
             "name": "material-ui",
-            "link": "https://github.com/mui-org/material-ui",
+            "link": "https://github.com/mui/material-ui",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -916,7 +916,7 @@
         },
         {
             "name": "reactjs.org",
-            "link": "https://github.com/reactjs/reactjs.org",
+            "link": "https://github.com/reactjs/react.dev",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -979,7 +979,7 @@
         },
         {
             "name": "Vue Router",
-            "link": "https://github.com/vuejs/vue-router",
+            "link": "https://github.com/vuejs/router",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
