@@ -247,6 +247,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## PHP
 
 - [Appwrite](https://github.com/appwrite/appwrite) _(label: good first issue)_ <br> An End-to-end backend server for frontend and mobile developers. 🚀
+- [CodeIgniter](https://github.com/codeigniter4/CodeIgniter4) _(label: good first issue)_ <br> A lightweight, fast PHP framework, it is easy to install and perfect for learning MVC architecture.
 - [Deployer](https://github.com/deployphp/deployer) _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Drupal](https://www.drupal.org/getting-involved-guide) _(label: n/a)_ <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 - [Flarum](https://github.com/flarum/core) _(label: Good-first-issue)_ <br> Simple forum software for building great communities.
