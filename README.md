@@ -173,7 +173,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 - [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
-- [material-ui](https://github.com/mui-org/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issue, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
 - [Meteor](https://github.com/meteor/meteor) _(label: good first issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
 - [Mocha](https://github.com/mochajs/mocha) _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
@@ -181,7 +181,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index) _(label: good first issue)_ <br> Canonical common brand names for OpenStreetMap
 - [NativeScript](https://github.com/NativeScript/NativeScript) _(label: good first issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 - [netlify-cms](https://github.com/netlify/netlify-cms) _(label: good first issue)_ <br> Open source content management for your git workflow.
-- [Next.js](https://github.com/zeit/next.js) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
+- [Next.js](https://github.com/vercel/next.js) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [Node.js core](https://github.com/nodejs/node) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 - [nuclear](https://github.com/nukeop/nuclear) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 - [p5.js](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
@@ -195,7 +195,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
-- [reactjs.org](https://github.com/reactjs/reactjs.org) _(label: good first issue)_ <br> The documentation website for reactjs
+- [reactjs.org](https://github.com/reactjs/react.dev) _(label: good first issue)_ <br> The documentation website for reactjs
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) _(label: help-wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) _(label: good first issue)_ <br> The official React integration for Semantic UI.
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
@@ -209,7 +209,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-- [Vue Router](https://github.com/vuejs/vue-router) _(label: good first issue)_ <br> The official router for Vue.js.
+- [Vue Router](https://github.com/vuejs/router) _(label: good first issue)_ <br> The official router for Vue.js.
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
