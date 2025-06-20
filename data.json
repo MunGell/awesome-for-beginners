@@ -2182,6 +2182,15 @@
             ],
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
         },
+	    {
+            "name": "PyWard",
+            "link": "https://github.com/karanlvm/PyWard",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open-source python linter designed to help devs write optimized and secure code"
+        },
 	{
             "name": "Readest",
             "link": "https://github.com/readest/readest",
