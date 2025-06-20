@@ -95,9 +95,19 @@
             "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
         },
         {
+            "name": "gsoc-dsa-preparation",
+            "link": "https://github.com/123diya-coder/gsoc-dsa-preparation",
+            "label": "good first issue",
+            "technologies": [
+                "C++"
+            ],
+            "description": "DSA practice repo created for GSoC preparation using C++."
+        },
+
+        {
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
-            "label": "good first issue",
+             "label": "good first issue",
             "technologies": [
                 "C++"
             ],
