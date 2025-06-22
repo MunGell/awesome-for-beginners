@@ -267,6 +267,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## Python
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich video downloader for YouTube and other platforms. Beginner-friendly and actively maintained.
+- [gallery-dl](https://github.com/mikf/gallery-dl) - A simple command-line image downloader supporting a wide range of sites. Great for learning automation.
 
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
