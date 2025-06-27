@@ -672,15 +672,6 @@
             "description": "A minimalistic framework for universal server-rendered React applications"
         },
         {
-            "name": "Semantic-UI-React",
-            "link": "https://github.com/Semantic-Org/Semantic-UI-React",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "The official React integration for Semantic UI."
-        },
-        {
             "name": "Botpress",
             "link": "https://github.com/botpress/botpress",
             "label": "contributor-friendly",
