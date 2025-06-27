@@ -334,6 +334,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Hyper](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [nushell](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
+- [Pyrefly](https://github.com/facebook/pyrefly) _(label: good first issue)_ <br> A fast Python typechecker and IDE written in Rust.
 - [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [Rust-Clippy](https://github.com/rust-lang/rust-clippy) _(label: good first issue)_ <br> A bunch of lints to catch common mistakes and improve Rust code
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt) _(label: good first issue)_ <br> A tool for formatting Rust code according to style guidelines.
