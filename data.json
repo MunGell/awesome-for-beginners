@@ -1670,6 +1670,15 @@
             "description": "Ruby on Rails (Rails) is an open source web application framework written in Ruby."
         },
         {
+            "name": "Pyrefly",
+            "link": "https://github.com/facebook/pyrefly",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "A fast Python typechecker and IDE written in Rust."
+        },
+        {
             "name": "Servo",
             "link": "https://github.com/servo/servo",
             "label": "E-easy",
