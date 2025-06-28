@@ -3,7 +3,7 @@
 <!-- SEE THE CONTRIBUTING GUIDE (`CONTRIBUTING.md`) FOR MORE GUIDANCE -->
 <!-- YOU MAY IGNORE THIS MESSAGE IF YOU ARE EDITING `README-template.j2` -->
 
-# Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome First Pull Request Opportunities For All [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
@@ -15,24 +15,25 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 > [!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
+
 ## Table of Contents:
 
-||Languages|
-|--|--|
-|Misc|[.NET](#net)|
-|A|[Angular](#angular), [Ansible](#ansible)|
-|C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
-|D|[Dart](#dart)|
-|E|[Elixir](#elixir), [Elm](#elm)|
-|G|[Go](#go)|
-|H|[Haskell](#haskell)|
-|J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
-|K|[Kotlin](#kotlin)|
-|M|[Markdown](#markdown), [MLOps](#mlops)|
-|P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
-|R|[Ruby](#ruby), [Rust](#rust)|
-|S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
-|T|[TypeScript](#typescript)|
+|      | Languages                                                                |
+| ---- | ------------------------------------------------------------------------ |
+| Misc | [.NET](#net)                                                             |
+| A    | [Angular](#angular), [Ansible](#ansible)                                 |
+| C    | [C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)       |
+| D    | [Dart](#dart)                                                            |
+| E    | [Elixir](#elixir), [Elm](#elm)                                           |
+| G    | [Go](#go)                                                                |
+| H    | [Haskell](#haskell)                                                      |
+| J    | [Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia) |
+| K    | [Kotlin](#kotlin)                                                        |
+| M    | [Markdown](#markdown), [MLOps](#mlops)                                   |
+| P    | [Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)               |
+| R    | [Ruby](#ruby), [Rust](#rust)                                             |
+| S    | [Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)                |
+| T    | [TypeScript](#typescript)                                                |
 
 ## .NET
 
@@ -384,7 +385,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-
 
 ## Contribute
 
