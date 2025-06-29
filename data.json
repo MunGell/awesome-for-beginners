@@ -311,15 +311,6 @@
             "description": "A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process."
         },
         {
-            "name": "Killgrave",
-            "link": "https://github.com/friendsofgo/killgrave",
-            "label": "good first issue",
-            "technologies": [
-                "Go"
-            ],
-            "description": "Simple way to generate mock servers in Go."
-        },
-        {
             "name": "lxd",
             "link": "https://github.com/lxc/lxd",
             "label": "easy",
