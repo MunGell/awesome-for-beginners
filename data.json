@@ -1147,7 +1147,7 @@
                 "Markdown",
                 "JavaScript"
             ],
-            "description": "An open-source curriculum for learning full-stack web development."
+            "description": "An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly."
         },
         {
             "name": "Ravada",
