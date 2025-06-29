@@ -105,7 +105,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Helm](https://github.com/kubernetes/helm) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [Kanister](https://github.com/kanisterio/kanister) _(label: good first issue)_ <br> A Data Protection Workflow Management Engine
-- [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good first issue)_ <br> Simple way to generate mock servers in Go.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
 - [Mattermost](https://github.com/mattermost/mattermost) _(label: Good First Issue, Difficulty/1:Easy)_ <br> Open source Slack-alternative in Golang and React<br>Look for issues labelled 'Up For Grabs'
