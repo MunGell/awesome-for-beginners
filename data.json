@@ -1123,6 +1123,16 @@
             "description": "Collaborative cheatsheets for console commands."
         },
         {
+            "name": "The Odin Project Curriculum",
+            "link": "https://github.com/TheOdinProject/curriculum",
+            "label": "See Description",
+            "technologies": [
+                "Markdown",
+                "JavaScript"
+            ],
+            "description": "An open-source curriculum for learning full-stack web development. There are a few \"Type: Good First Issue\" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly."
+        },
+        {
             "name": "Ravada",
             "link": "https://github.com/UPC/ravada",
             "label": "good first issue",
