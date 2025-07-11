@@ -13,6 +13,16 @@
     },
     "repositories": [
         {
+            "name": "Visual Search",
+            "link": "https://github.com/Yeshwanth-kr/visual-search",
+            "label": "good first project",
+            "technologies": [
+                "React",
+                "Vite"
+            ],
+            "description":"A Progressive Web App to visualize various search algorithms like Breadth First, Depth First, Iterative Deepening, Greedy, Uniform Cost, A*, IDA*"
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
