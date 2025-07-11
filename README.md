@@ -207,7 +207,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vest](https://github.com/ealush/vest) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
-- [Visual Search](https://github.com/Yeshwanth-kr/visual-search) _(label: good first issue)_ <br> A Progressive Web App to visualize various search algorithms like Breadth First, Depth First, Iterative Deepening, Greedy, Uniform Cost, A*, IDA*
+- [Visual Search](https://github.com/Yeshwanth-kr/visual-search) _(label: good first issue)_ <br> An application to visualize various search applications
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vue Router](https://github.com/vuejs/router) _(label: good first issue)_ <br> The official router for Vue.js.
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.

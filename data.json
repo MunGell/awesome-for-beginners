@@ -17,10 +17,9 @@
             "link": "https://github.com/Yeshwanth-kr/visual-search",
             "label": "good first project",
             "technologies": [
-                "React",
-                "Vite"
+                "JavaScript"
             ],
-            "description":"A Progressive Web App to visualize various search algorithms like Breadth First, Depth First, Iterative Deepening, Greedy, Uniform Cost, A*, IDA*"
+            "description":"An application to visualize various search algorithms"        
         },
         {
             "name": "MvvmCross",
