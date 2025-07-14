@@ -1981,7 +1981,7 @@
         {
             "name": "Hasura GraphQL Engine",
             "link": "https://github.com/hasura/graphql-engine",
-            "label": "good first issue",
+            "label": "good first  issue",
             "technologies": [
                 "Haskell",
                 "TypeScript"
