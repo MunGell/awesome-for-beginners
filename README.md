@@ -52,6 +52,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## C
 
 - [Profanity](https://github.com/profanity-im/profanity) _(label: good first issue)_ <br> Ncurses XMPP chat client.
+- [Stumpless](https://github.com/goatshriek/stumpless) _(label: good first issue)_ <br> Fast, feature‑rich C logging library.
 
 ## C#
 
