@@ -1930,6 +1930,15 @@
             ],
             "description": "Ncurses XMPP chat client."
         },
+	{
+  		"name": "Stumpless",
+  		"link": "https://github.com/goatshriek/stumpless",
+  		"label": "good first issue",
+  		"technologies": [
+			"C"
+		],
+  		"description": "Fast, feature‑rich C logging library that can log to syslog, journald, Windows Event Log, SQLite and more."
+	},
         {
             "name": "Superalgos",
             "link": "https://github.com/Superalgos/Superalgos",
