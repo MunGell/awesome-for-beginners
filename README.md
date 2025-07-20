@@ -15,6 +15,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 > [!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
+> Ctrl+F to search by language or project name!
+
 ## Table of Contents:
 
 ||Languages|
@@ -389,7 +391,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Contribute
 
-Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
+Contributions are welcome!
+Please see our [CONTRIBUTING guide](CONTRIBUTING.md) for instructions on how to get started.
 
 ## Thanks to GitHub Sponsors
 
