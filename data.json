@@ -58,6 +58,15 @@
             "description": "OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly."
         },
         {
+            "name": "yuvraj kumar",
+            "link": "https://github.com/geekyuvi069",
+            "label": "good first issue",
+            "technologies": [
+                "python"
+            ],
+            "description": " love is love,u can hate it!!."
+        },
+        {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
             "label": "Good-first-issue",
