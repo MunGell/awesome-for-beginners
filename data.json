@@ -2200,5 +2200,44 @@
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
+	    [
+  {
+    "name": "30-seconds-of-css",
+    "link": "https://github.com/30-seconds/30-seconds-of-css",
+    "label": "stat:contributions-welcome",
+    "technologies": [
+      "CSS"
+    ],
+    "description": "A curated collection of useful CSS snippets you can understand in 30 seconds or less."
+  },
+  {
+    "name": "nerdfonts",
+    "link": "https://github.com/ryanoasis/nerd-fonts",
+    "label": "stat:contributions-welcome",
+    "technologies": [
+      "CSS"
+    ],
+    "description": "Iconic font aggregator with patches for popular developer fonts. CSS is used in website and preview generation."
+  },
+  {
+    "name": "cssnano",
+    "link": "https://github.com/cssnano/cssnano",
+    "label": "stat:contributions-welcome",
+    "technologies": [
+      "CSS"
+    ],
+    "description": "A modular minifier for your CSS, built on top of PostCSS."
+  },
+  {
+    "name": "sanitize.css",
+    "link": "https://github.com/csstools/sanitize.css",
+    "label": "stat:contributions-welcome",
+    "technologies": [
+      "CSS"
+    ],
+    "description": "A best-practices CSS foundation that preserves useful defaults and normalizes styles across browsers."
+  }
+]
+
     ]
 }
