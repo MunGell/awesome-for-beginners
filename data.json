@@ -2199,6 +2199,13 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+    {
+            "name": "BrainDomain",
+            "url": "https://github.com/2004shashwat17/domain",
+            "label": "good first issue",
+            "technologies": ["React js","Node js", "Express js", "MongoDB", "Mongoose", "JavaScript", "TypeScript"],
+            "description": "A web based game for specially abled and normal children build on mern with stripe payment gateway & chatbase (chabot intergration) & oauth2.0 social logins." 
+        }    
     ]
 }
