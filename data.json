@@ -2199,6 +2199,13 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+	{
+		"name": "PersonaGPT",
+		"link": "https://github.com/Khushi2405/PersonaGPT",
+		"label": "good first issue",
+		"technologies": ["Python"],
+		"description": "An intelligent conversational AI bot that showcases a professional profile, collects recruiter contacts, and can be customized for any individual’s career and skills"
+		}
     ]
 }
