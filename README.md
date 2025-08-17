@@ -391,6 +391,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
+- [applowiec](https://github.com/applowiec) 🎉 First contribution!
+
 ## Thanks to GitHub Sponsors
 
 <table><tr><td align="center"><a href="https://github.com/MixeroTN"><img src="https://avatars.githubusercontent.com/u/40803091" width="60px;" alt=""/><br/><sub><b>Michał Gołkowski</b></sub></a></td></tr></table>
