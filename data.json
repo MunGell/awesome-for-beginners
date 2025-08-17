@@ -978,6 +978,15 @@
             "description": "Minimalistic Vue-powered static site generator"
         },
         {
+            "name": "Vitest",
+            "link": "https://github.com/vitest-dev/vitest",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A blazing fast unit test framework powered by Vite."
+        },
+        {
             "name": "appsmith",
             "link": "https://github.com/appsmithorg/appsmith",
             "label": "good first issue",
