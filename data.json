@@ -160,7 +160,7 @@
         {
             "name": "Alda",
             "link": "https://github.com/alda-lang/alda",
-            "label": "Low-Hanging-Fruit",
+            "label": "low-hanging fruit",
             "technologies": [
                 "Go"
             ],
