@@ -98,7 +98,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Go
 
-- [Alda](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
+- [Alda](https://github.com/alda-lang/alda) _(label: low-hanging fruit)_ <br> A music programming language for musicians. 🎶
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
