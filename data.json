@@ -879,15 +879,6 @@
             "description": "Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation."
         },
         {
-            "name": "json-editor",
-            "link": "https://github.com/json-editor/json-editor",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind)."
-        },
-        {
             "name": "Habitica",
             "link": "https://github.com/HabitRPG/habitica",
             "label": "good first issue",
