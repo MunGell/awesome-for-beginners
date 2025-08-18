@@ -982,7 +982,7 @@
             "link": "https://github.com/vitest-dev/vitest",
             "label": "good first issue",
             "technologies": [
-                "JavaScript"
+                "TypeScript"
             ],
             "description": "A blazing fast unit test framework powered by Vite."
         },
