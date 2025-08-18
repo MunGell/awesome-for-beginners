@@ -169,7 +169,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
-- [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 - [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [material-ui](https://github.com/mui/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
