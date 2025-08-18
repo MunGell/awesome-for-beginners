@@ -1500,6 +1500,16 @@
             "description": "MindsDB is an open source AI layer for existing databases."
         },
         {
+            "name": "DocsGPT",
+            "link": "https://github.com/arc53/DocsGPT",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript"
+            ],
+            "description": "Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations."
+        },
+        {
             "name": "Bokeh",
             "link": "https://github.com/bokeh/bokeh",
             "label": "good first issue",
