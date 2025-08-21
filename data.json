@@ -552,6 +552,16 @@
             ],
             "description": "Just a blogging platform"
         },
+		"sponsors": [
+        {
+            "name": "Chijioke Madu",
+            "link": "https://github.com/SaltCJ",
+			"label": "Beginners first time",
+			"technologies": [
+				"Python"
+			]
+			"description": "lighting up the world"
+    },
         {
             "name": "eslint-plugin-unicorn",
             "link": "https://github.com/sindresorhus/eslint-plugin-unicorn",
