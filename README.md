@@ -136,6 +136,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues) _(label: onboarding)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [Processing](https://github.com/processing/processing.git)_<br> Graphics Library.
 
 ## JavaScript
 
