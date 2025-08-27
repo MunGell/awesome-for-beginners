@@ -2200,6 +2200,13 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+	{
+            "name": "Developer RoadMap",
+            "link": "https://github.com/kamranahmedse/developer-roadmap",
+            "label": "good first issue",
+            "technologies": ["FullStack Developer"],
+            "description": "An interactive roadmap of developer paths and skills, showing what to learn and how to become a developer in 2025."
         }
     ]
 }
