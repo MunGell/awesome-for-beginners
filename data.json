@@ -16,128 +16,99 @@
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+            "technologies": [".NET"],
+            "description": ".NET MVVM framework for cross-platform apps, including Xamarin.iOS, Xamarin.Android, Windows, and macOS."
         },
         {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
             "label": "good first issue",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
+            "technologies": [".NET"],
+            "description": "Headless CMS built in ASP.NET Core for API-first development."
         },
         {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
             "label": "good first issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "Cross platform .NET grok implementation"
+            "technologies": ["C#"],
+            "description": "Cross-platform .NET implementation of grok."
         },
         {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
             "label": "good first issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "Music game. Rhythm is just a click away!"
+            "technologies": ["C#"],
+            "description": "A fast-paced music and rhythm game."
         },
         {
             "name": "Uno Platform",
             "link": "https://github.com/unoplatform/uno",
             "label": "good first issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly."
+            "technologies": ["C#"],
+            "description": "Build pixel-perfect, single-source C# and XAML apps for iOS, Android, macOS, Linux, and Web via WebAssembly."
         },
         {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
-            "label": "Good-first-issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages."
+            "label": "good first issue",
+            "technologies": ["C#"],
+            "description": "Cross-platform build automation system with a C# DSL for compiling code, running tests, and packaging."
         },
         {
             "name": "Spectre.Console",
             "link": "https://github.com/spectreconsole/spectre.console",
             "label": "good first issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "A .NET library that makes it easier to create beautiful console applications."
+            "technologies": ["C#"],
+            "description": ".NET library for building beautiful and interactive console applications."
         },
         {
             "name": "electron",
             "link": "https://github.com/electron/electron",
             "label": "good first issue",
-            "technologies": [
-                "C++",
-                "JavaScript"
-            ],
-            "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
+            "technologies": ["C++", "JavaScript"],
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS."
         },
         {
             "name": "Godot Engine",
             "link": "https://github.com/godotengine/godot",
             "label": "good first issue",
-            "technologies": [
-                "C++"
-            ],
-            "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
+            "technologies": ["C++"],
+            "description": "2D and 3D cross-platform game engine supporting C#, Python, and more."
         },
         {
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
             "label": "good first issue",
-            "technologies": [
-                "C++"
-            ],
-            "description": "A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi."
+            "technologies": ["C++"],
+            "description": "Music visualizer library using OpenGL and GLSL with apps for Qt5, SDL, iTunes, and Kodi."
         },
         {
             "name": "Roc Toolkit",
             "link": "https://github.com/roc-streaming/roc-toolkit",
             "label": "help-wanted",
-            "technologies": [
-                "C++"
-            ],
-            "description": "A toolkit for real-time audio streaming over the network."
+            "technologies": ["C++"],
+            "description": "Toolkit for real-time audio streaming over networks."
         },
         {
             "name": "tensorflow",
             "link": "https://github.com/tensorflow/tensorflow",
             "label": "stat:contributions-welcome",
-            "technologies": [
-                "C++"
-            ],
-            "description": "Computation using data flow graphs for scalable machine learning"
+            "technologies": ["C++"],
+            "description": "Scalable machine learning library using data flow graphs."
         },
         {
             "name": "Yugabyte DB",
             "link": "https://github.com/yugabyte/yugabyte-db",
             "label": "good first issue",
-            "technologies": [
-                "C++"
-            ],
-            "description": "Distributed SQL database."
+            "technologies": ["C++"],
+            "description": "Distributed SQL database for cloud-native applications."
         },
         {
             "name": "MoveIt",
             "link": "https://github.com/ros-planning/moveit",
             "label": "good first issue",
-            "technologies": [
-                "C++"
-            ],
-            "description": "Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms."
+            "technologies": ["C++"],
+            "description": "Open-source platform for robotics manipulation, prototyping, and benchmarking algorithms."
         },
         {
             "name": "MiniOB",
