@@ -73,7 +73,7 @@
             "technologies": [
                 "C#"
             ],
-            "description": "A .NET library that makes it easier to create beautiful console applications."
+            "description": "A .NET library that makes it easier to create beautiful console applications. Ideal for beginners looking to explore C# projects."
         },
         {
             "name": "electron",
