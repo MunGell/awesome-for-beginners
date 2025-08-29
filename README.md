@@ -210,7 +210,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue Router](https://github.com/vuejs/router) _(label: good first issue)_ <br> The official router for Vue.js.
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
-- [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+- [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen Browser and mobile automation test framework for Node.js
 
 ## JSON
 
