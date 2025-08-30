@@ -25,7 +25,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |D|[Dart](#dart)|
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
-|H|[Haskell](#haskell)|
+|H|[Haskell](#haskell), [HTML](#html)|
 |J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
@@ -116,9 +116,17 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [TiDB](https://github.com/pingcap/tidb) _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [utils](https://github.com/kashifkhan0771/utils) _(label: good first issue)_ <br> Common Utilities library for Go
 
+
 ## Haskell
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+
+## HTML
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits. Includes many HTML/CSS/JS projects for beginners.
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) _(label: good first issue)_ <br> A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [materialize](https://github.com/Dogfalo/materialize) _(label: good first issue)_ <br> A modern responsive front-end framework based on Material Design. Uses HTML, CSS, and JavaScript.
+- [web-starter-kit](https://github.com/google/web-starter-kit) _(label: good first issue)_ <br> A workflow for building web apps, including HTML, CSS, and JavaScript best practices.
 
 ## Java
 
