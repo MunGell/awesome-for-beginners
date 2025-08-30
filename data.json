@@ -2202,4 +2202,11 @@
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
+    {
+  "project": "LinkFree",
+  "repo": "EddieHubCommunity/LinkFree",
+  "description": "Add your profile details as a beginner-friendly digital business card"
 }
+
+}
+
