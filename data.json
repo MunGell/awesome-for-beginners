@@ -5,6 +5,28 @@
             "image": "https://avatars.githubusercontent.com/u/40803091",
             "link": "https://github.com/MixeroTN"
         }
+            ,
+            {
+                "name": "freeCodeCamp",
+                "link": "https://github.com/freeCodeCamp/freeCodeCamp",
+                "label": "first-timers-only",
+                "technologies": ["HTML"],
+                "description": "Open source codebase and curriculum. Learn HTML, CSS, JavaScript, and help nonprofits."
+            },
+            {
+                "name": "The Odin Project Curriculum",
+                "link": "https://github.com/TheOdinProject/curriculum",
+                "label": "See Description",
+                "technologies": ["HTML"],
+                "description": "An open-source curriculum for learning full-stack web development, including HTML, CSS, and JavaScript."
+            },
+            {
+                "name": "WebAccessibility",
+                "link": "https://github.com/GoogleChrome/accessibility-developer-tools",
+                "label": "good first issue",
+                "technologies": ["HTML"],
+                "description": "Tools for accessibility testing and best practices in HTML and web development."
+            }
     ],
     "technologies": {
         ".NET": "net",

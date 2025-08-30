@@ -120,6 +120,12 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
+## HTML
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn HTML, CSS, JavaScript, and help nonprofits.
+- [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development, including HTML, CSS, and JavaScript.
+- [WebAccessibility](https://github.com/GoogleChrome/accessibility-developer-tools) _(label: good first issue)_ <br> Tools for accessibility testing and best practices in HTML and web development.
+
 ## Java
 
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
@@ -214,8 +220,12 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## JSON
 
-- [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
+## HTML
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn HTML, CSS, JavaScript, and help nonprofits.
+- [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development, including HTML, CSS, and JavaScript.
+- [WebAccessibility](https://github.com/GoogleChrome/accessibility-developer-tools) _(label: good first issue)_ <br> Tools for accessibility testing and best practices in HTML and web development.
 ## Julia
 
 - [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
