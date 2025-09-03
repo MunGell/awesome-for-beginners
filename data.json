@@ -1591,15 +1591,6 @@
             "description": "Ohai profiles your system and emits JSON"
         },
         {
-            "name": "PublicLab.org",
-            "link": "https://github.com/publiclab/plots2",
-            "label": "first-timers-only",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "An open source publishing platform for environmental projects. Check out new contributors welcome page."
-        },
-        {
             "name": "osem",
             "link": "https://github.com/openSUSE/osem",
             "label": "good first issue",
