@@ -323,7 +323,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service](https://github.com/openSUSE/open-build-service) _(label: good first issue-:1st_place_medal:)_ <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
 - [osem](https://github.com/openSUSE/osem) _(label: good first issue)_ <br> Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences
-- [PublicLab.org](https://github.com/publiclab/plots2) _(label: first-timers-only)_ <br> An open source publishing platform for environmental projects. Check out new contributors welcome page.
 - [Ruby on Rails](https://github.com/rails/rails) _(label: good first issue)_ <br> Ruby on Rails (Rails) is an open source web application framework written in Ruby.
 - [Sinatra](https://github.com/sinatra/sinatra) _(label: good first issue)_ <br> Classy web-development dressed in a DSL.
 
