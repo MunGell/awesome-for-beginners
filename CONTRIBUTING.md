@@ -8,7 +8,7 @@ It outlines the recommended order for executing tasks and assumes that you have 
 
 _Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._
 
-## Intitial Checks
+## Initial Checks
 
 - **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates.
 
@@ -33,8 +33,7 @@ The easiest way to contribute is by editing the `data.json` file directly in you
        - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
        - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
        - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
-       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Single addition**: Make an individual pull request for each suggestion.
+       - **Single addition**: Submit one pull request per repository suggestion.
        - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
 4. Describe your changes concisely in the commit message.
 5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
