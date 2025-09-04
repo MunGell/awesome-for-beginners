@@ -489,6 +489,15 @@
             ],
             "description": "JavaScript library for mobile-friendly interactive maps."
         },
+	{
+            "name": "Ecto",
+            "link": "https://github.com/elixir-ecto/ecto",
+            "label": "Starter",
+            "technologies": [
+                "Elixir"
+            ],
+            "description": "Ecto is a database wrapper and language integrated query for Elixir"
+        },
         {
             "name": "AVA",
             "link": "https://github.com/sindresorhus/ava",
