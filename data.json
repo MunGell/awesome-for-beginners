@@ -2191,6 +2191,43 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+		{
+  "name": "Create React App",
+  "github": "facebook/create-react-app",
+  "labels": ["good first issue"],
+  "description": "Set up a modern web app by running one command."
+},
+{
+  "name": "React Content Loader",
+  "github": "danilowoz/react-content-loader",
+  "labels": ["good first issue"],
+  "description": "Easily create content loaders (SVG) for React."
+},
+{
+  "name": "React Documentation (reactjs.org)",
+  "github": "reactjs/reactjs.org",
+  "labels": ["good first issue"],
+  "description": "The React documentation website; always needs improvements."
+},
+{
+  "name": "JabRef",
+  "github": "JabRef/jabref",
+  "labels": ["good first issue"],
+  "description": "Desktop app to manage literature references using Java."
+},
+{
+  "name": "TEAMMATES",
+  "github": "TEAMMATES/teammates",
+  "labels": ["good first issue"],
+  "description": "Online peer evaluation tool; education-focused, Java-based."
+},
+{
+  "name": "Elasticsearch",
+  "github": "elastic/elasticsearch",
+  "labels": ["good first issue"],
+  "description": "Open-source, distributed, RESTful search engine written in Java."
+}
+
     ]
 }
