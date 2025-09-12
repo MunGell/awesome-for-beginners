@@ -104,7 +104,7 @@
             "description": "A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi."
         },
         {
-            "name": "Roc Toolkit",
+            "name": "Roc-Toolkit",
             "link": "https://github.com/roc-streaming/roc-toolkit",
             "label": "help-wanted",
             "technologies": [
