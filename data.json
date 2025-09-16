@@ -1537,13 +1537,13 @@
             "description": "Scikit-learn is a machine learning library for Python."
         },
         {
-            "name": "Embedchain",
-            "link": "https://github.com/embedchain/embedchain/",
+            "name": "Mem0",
+            "link": "https://github.com/mem0ai/mem0/",
             "label": "good first issue",
             "technologies": [
                 "Python"
             ],
-            "description": "Embedchain is a framework to easily create LLM powered bots over any dataset."
+            "description": "Mem0 is a memory framework for LLM applications."
         },
         {
             "name": "JRuby",
