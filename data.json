@@ -95,6 +95,13 @@
             "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
         },
         {
+         "name": "freeCodeCamp",
+         "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+         "tags": ["HTML", "JavaScript", "CSS"],
+         "notes": "Beginner-friendly open-source codebase for learning web development."
+        },
+
+        {
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
             "label": "good first issue",
