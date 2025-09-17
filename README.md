@@ -115,6 +115,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb) _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [utils](https://github.com/kashifkhan0771/utils) _(label: good first issue)_ <br> Common Utilities library for Go
+- [Keploy](https://github.com/keploy/keploy) _(label: good first issue)_ <br> Open-source testing toolkit for developers to generate tests and mocks from API calls automatically.
 
 ## Haskell
 
