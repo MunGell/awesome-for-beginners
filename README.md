@@ -397,6 +397,9 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
+- Lucky — Web3 explorer, crypto enthusiast, supporting open-source projects 🚀
+
+
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
