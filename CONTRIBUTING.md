@@ -62,3 +62,7 @@ For a more comprehensive guide on contributing to open-source projects, check ou
 ---
 
 Thank you for your contribution!
+
+Added myself as contributor to README
+Excited to support open-source and help beginners in Web3 🚀
+
