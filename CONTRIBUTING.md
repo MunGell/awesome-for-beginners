@@ -62,3 +62,6 @@ For a more comprehensive guide on contributing to open-source projects, check ou
 ---
 
 Thank you for your contribution!
+
+- Lucky — Web3 explorer, crypto enthusiast, supporting open-source projects 🚀
+
