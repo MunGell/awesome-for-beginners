@@ -330,6 +330,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [a-b-street](https://github.com/a-b-street/abstreet) _(label: good first issue)_ <br> Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit.
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) _(label: good first issue)_ <br> Lightning-fast linter for .env files. Written in Rust
+- [csv-schema-validator](https://github.com/cleuton/csv-schema-validator) _(label: good first issue)_ <br>A Rust library for validating CSV record data based on rules defined directly in your structs using the #[derive(ValidateCsv)] macro.
 - [Hyper](https://github.com/hyperium/hyper) _(label: E-easy)_ <br> A fast, safe and correct low-level HTTP library for Rust.
 - [nushell](https://github.com/nushell/nushell) _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 - [Ockam](https://github.com/ockam-network/ockam) _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
