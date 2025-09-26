@@ -130,7 +130,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [JabRef](https://github.com/JabRef/jabref) _(label: good first issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [QuestDB](https://github.com/questdb/questdb) _(label: Good first issue)_ <br> Questdb is a fast open source SQL time series database.
-- [Strongbox](https://github.com/strongbox/strongbox) _(label: good first issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
