@@ -140,7 +140,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair](https://github.com/imolorhe/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-- [API-pull-with-JavaScript](https://github.com/AliBasboga/APIExampleWithExpress.git) _(label: API-pull-and-use)_ <br> API data extraction and delivery to the user to present.
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
