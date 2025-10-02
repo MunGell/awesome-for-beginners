@@ -15,6 +15,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 > [!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
+> - Contributed via Hacktoberfest 2025 🎉
 ## Table of Contents:
 
 ||Languages|
