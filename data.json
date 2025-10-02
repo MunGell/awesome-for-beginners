@@ -553,15 +553,6 @@
             "description": "Awesome ESLint rules."
         },
         {
-            "name": "API-pull-with-JavaScript",
-            "link": "https://github.com/AliBasboga/APIExampleWithExpress.git",
-            "label": "API-pull-and-use",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "API data extraction and delivery to the user to present."
-        },
-        {
             "name": "HMPL",
             "link": "https://github.com/hmpl-language/hmpl",
             "label": "good first issue",
