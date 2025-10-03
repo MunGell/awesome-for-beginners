@@ -2176,3 +2176,24 @@
         }
     ]
 }
+{
+  "name": "Deep Learning",
+  "github_link": "https://github.com/janishar/mit-deep-learning-book-pdf",
+  "label": "MIT Press Book",
+  "technologies": ["Deep Learning"],
+  "description": "An MIT Press resource by Ian Goodfellow, Yoshua Bengio, and Aaron Courville intended to help students and practitioners enter the field of machine learning and deep learning."
+}
+{
+  "name": "Machine Learning with PyTorch and Scikit-Learn",
+  "github_link": "https://github.com/rasbt/machine-learning-book",
+  "label": "Book Code Companion",
+  "technologies": ["PyTorch", "Scikit-Learn"],
+  "description": "The official code repository for the book 'Machine Learning with PyTorch and Scikit-Learn' by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili. It covers topics from data preprocessing to advanced deep learning."
+}
+{
+  "name": "Generative Deep Learning, 2nd Edition",
+  "github_link": "https://github.com/mxagar/generative_ai_book",
+  "label": "Personal Notes & Code",
+  "technologies": ["TensorFlow", "Keras"],
+  "description": "Personal notes and code examples on the O'Reilly book 'Generative Deep Learning: Teaching Machines to Paint' "
+}
