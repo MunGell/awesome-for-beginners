@@ -4,8 +4,13 @@
             "name": "Michał Gołkowski",
             "image": "https://avatars.githubusercontent.com/u/40803091",
             "link": "https://github.com/MixeroTN"
+        },
+        {
+            "name": "Test Sponsor",
+            "image": "https://broken-link.com/image.jpg",
+            "link": "https://github.com/nonexistent-user"
         }
-    ],
+    ,
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
@@ -20,6 +25,24 @@
                 ".NET"
             ],
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+        },
+        {
+            "name": "Broken Repo",
+            "link": "https://github.com/this-repo-does-not-exist",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "This is a test repository that doesn't exist"
+        },
+        {
+            "name": "Invalid Tech Repo",
+            "link": "https://github.com/facebook/react",
+            "label": "good first issue",
+            "technologies": [
+                "NonExistentLanguage"
+            ],
+            "description": "Repository with invalid technology"
         },
         {
             "name": "RawCMS",

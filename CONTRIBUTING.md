@@ -8,13 +8,13 @@ It outlines the recommended order for executing tasks and assumes that you have 
 
 _Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._
 
-## Intitial Checks
+## Initial Checks
 
 - **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates.
 
 ## Repository Requirements
 
-- **Reasonably Developed**: The repository must be reasonably established, along with having with a clear goal or function. New repositories with few commits and little content will likely be rejected.
+- **Reasonably Developed**: The repository must be reasonably established, along with having with a clear goal or function. New repositories with few commits and little content will likely be rejected. Make sure the repo has good documentation and is well maintained.
 - **Active Maintenance**: Ensure the contributed repository is actively maintained.
 - **Appropriate Labels**: Issues with appropriate beginner-friend labels must exist. Confirm with the owner around a label's meaning if it's not obviously beginner-friendly (usually `good-first-issue` or `low-hanging-fruit`).
 - **Supportive Community**: The repository should have a supportive community.
@@ -57,7 +57,7 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 ---
 
 ### 4. **Additional Resources**
-For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
+For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository. You can also visit our [broken link](https://this-link-does-not-exist.com) for more information.
 
 ---
 

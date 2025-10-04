@@ -1,0 +1,77 @@
+# A buggy YAML configuration file for testing Greptile's bug detection capabilities
+# This file contains various syntax and logical errors
+
+# Bug: Invalid YAML syntax - missing quotes around string with special characters
+application_name: My App v2.0
+
+# Bug: Invalid indentation (mixing tabs and spaces)
+database:
+	host: localhost
+    port: 5432
+    name: myapp_db
+    # Bug: Invalid boolean value
+    ssl_enabled: yes
+
+# Bug: Duplicate key
+server:
+  port: 3000
+  host: 0.0.0.0
+  port: 8080  # This will override the previous port
+
+# Bug: Invalid list syntax
+features:
+  - authentication
+  - authorization
+  - logging
+  - caching
+  - invalid_item_without_dash
+
+# Bug: Invalid nested structure
+api:
+  endpoints:
+    users: /api/users
+    posts: /api/posts
+    comments: /api/comments
+  # Bug: Missing colon
+  rate_limit 100
+
+# Bug: Invalid reference (circular reference)
+defaults: &defaults
+  timeout: 30
+  retries: 3
+  defaults: *defaults  # This creates a circular reference
+
+# Bug: Invalid multiline string syntax
+description: |
+  This is a multiline description
+  that spans multiple lines
+  but has invalid syntax
+
+# Bug: Invalid anchor reference
+production: &prod
+  environment: production
+  debug: false
+
+development:
+  <<: *prod
+  environment: development
+  debug: true
+  # Bug: Reference to non-existent anchor
+  staging: *staging
+
+# Bug: Invalid data type
+invalid_number: 1,234.56  # Should be 1234.56
+invalid_boolean: True     # Should be true
+invalid_null: NULL        # Should be null
+
+# Bug: Invalid list item
+invalid_list:
+  - item1
+  - item2
+  item3  # Missing dash
+
+# Bug: Invalid mapping
+invalid_mapping:
+  key1: value1
+  key2: value2
+  key3  # Missing colon and value

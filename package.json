@@ -1,0 +1,49 @@
+{
+  "name": "buggy-test-project",
+  "version": "1.0.0",
+  "description": "A test project with various bugs for Greptile testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "build": "webpack",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "lodash": "^4.17.21",
+    "nonexistent-package": "^1.0.0",
+    "react": "^18.0.0",
+    "typescript": "^4.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "webpack": "^5.0.0",
+    "nodemon": "^2.0.0",
+    "eslint": "^8.0.0",
+    "broken-dev-dependency": "^999.999.999"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nonexistent-user/buggy-test-project.git"
+  },
+  "keywords": [
+    "test",
+    "buggy",
+    "greptile"
+  ],
+  "author": "Test Author",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nonexistent-user/buggy-test-project/issues"
+  },
+  "homepage": "https://github.com/nonexistent-user/buggy-test-project#readme"
+}
