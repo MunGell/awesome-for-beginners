@@ -122,6 +122,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Java
 
+- [Number Guess Game](https://github.com/Iswarya952/NumberGuessGame) _(label: good first issue)_ <br> A simple Java game to guess a number. Great for practicing loops, conditionals, and basic Java syntax.
+
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Catima - Android App](https://github.com/CatimaLoyalty/Android) _(label: good first issue)_ <br> Catima, a Loyalty Card & Ticket Manager for Android
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
@@ -264,6 +266,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## Python
+
+- [Word Scramble](https://github.com/Iswarya952/word_scramble) _(label: good first issue)_ <br> A Python game to unscramble words. Ideal for beginners learning strings, lists, and loops.
 
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
