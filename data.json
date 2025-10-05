@@ -22,6 +22,20 @@
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
+            "name": "Number Guess Game",
+            "link": "https://github.com/Iswarya952/NumberGuessGame",
+            "label": "good first issue",
+            "technologies": ["Java"],
+            "description": "A simple Java game to guess a number. Great for practicing loops, conditionals, and basic Java syntax."
+        },
+        {
+            "name": "Word Scramble",
+            "link": "https://github.com/Iswarya952/word_scramble",
+            "label": "good first issue",
+            "technologies": ["Python"],
+            "description": "A Python game to unscramble words. Ideal for beginners learning strings, lists, and loops."
+        },
+        {
             "name": "RawCMS",
             "link": "https://github.com/arduosoft/RawCMS",
             "label": "good first issue",
