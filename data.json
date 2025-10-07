@@ -12,6 +12,15 @@
         "C++": "c-2"
     },
     "repositories": [
+	{
+            "name": "Visual Search",
+            "link": "https://github.com/Yeshwanth-kr/visual-search",
+            "label": "good first issue",
+            "technologies": [
+                "Javascript"
+            ],
+            "description": "A progressive web-application which can visualize various search algorithms."
+        },
         {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
