@@ -2152,19 +2152,14 @@
             "name": "FastAPI",
             "link": "https://github.com/tiangolo/fastapi",
             "label": "good first issue",
-            "technologies": [
-                "Python"
-            ],
+            "technologies": ["Python"],
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
         },
 	{
             "name": "Readest",
             "link": "https://github.com/readest/readest",
             "label": "good first issue",
-            "technologies": [
-                "Rust",
-		"TypeScript"
-            ],
+            "technologies": ["Rust","TypeScript"],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         },
 	{
