@@ -60,5 +60,6 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
 ---
+Juan Jimenez
 
 Thank you for your contribution!
