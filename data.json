@@ -2175,4 +2175,17 @@
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
-}
+},
+		        {
+            "name": "Tone Picker App",
+            "link": "https://github.com/SankethRaykar/tone-picker-app",
+            "label": "good first issue",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Node.js",
+                "Mistral AI API"
+            ],
+            "description": "A full-stack web application that allows users to adjust the tone of their text using the Mistral AI API. It features a dynamic, interactive UI, secure backend for API communication, and functionalities like undo/redo and live loading states."
+        }
