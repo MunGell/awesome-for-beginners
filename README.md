@@ -72,6 +72,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Roc Toolkit](https://github.com/roc-streaming/roc-toolkit) _(label: help-wanted)_ <br> A toolkit for real-time audio streaming over the network.
 - [tensorflow](https://github.com/tensorflow/tensorflow) _(label: stat:contributions-welcome)_ <br> Computation using data flow graphs for scalable machine learning
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) _(label: good first issue)_ <br> Distributed SQL database.
+### 🧠 Artificial Intelligence / Machine Learning
+
+- [ZohaiAli/github-activity-tracker-app](https://github.com/ZohaiAli/github-activity-tracker-app) *(Python/React)* — Visualize your GitHub activity beautifully.
+- [awesome-ai-starters](https://github.com/someone/awesome-ai-starters) *(Python)* — Good first issues for AI beginners.
 
 ## Clojure
 
@@ -399,7 +403,3 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
 
-### 🧠 Artificial Intelligence / Machine Learning
-
-- [ZohaiAli/github-activity-tracker-app](https://github.com/ZohaiAli/github-activity-tracker-app) *(Python/React)* — Visualize your GitHub activity beautifully.
-- [awesome-ai-starters](https://github.com/someone/awesome-ai-starters) *(Python)* — Good first issues for AI beginners.
