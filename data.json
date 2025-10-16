@@ -1033,6 +1033,14 @@
             "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
         },
         {
+  "name": "GitHub Activity Tracker",
+  "link": "https://github.com/ZohaiAli/Github-activity-tracker-app",
+  "label": "good first issue",
+  "technologies": ["Python / JavaScript / C# /"],
+  "description": "A Streamlit-based web dashboard that visualizes GitHub user activity including commits, repositories, pull requests, issues, and language usage in real-time."
+},
+
+        {
             "name": "Julia Language: Good first issue",
             "link": "https://github.com/JuliaLang/julia",
             "label": "good first issue",
