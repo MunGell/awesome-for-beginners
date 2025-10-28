@@ -22,6 +22,7 @@ _Please note that the list in this repository is intended for more substantial p
 ## Making Changes and Opening a PR (Pull Request)
 
 ### 1. **Edit the `data.json` File Directly on GitHub**
+
 The easiest way to contribute is by editing the `data.json` file directly in your browser. Here's how:
 
 1. Go to the [`data.json` file](https://github.com/MunGell/awesome-for-beginners/blob/main/data.json) in the repository.
@@ -30,17 +31,19 @@ The easiest way to contribute is by editing the `data.json` file directly in you
    - Copy an existing entry in the file.
    - Fill in your own information following the same format.
    - Ensure to check the following:
-       - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
-       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
-       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Single addition**: Make an individual pull request for each suggestion.
-       - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
+     - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
+     - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
+     - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
+     - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
+     - **Single addition**: Make an individual pull request for each suggestion.
+     - **New Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
 4. Describe your changes concisely in the commit message.
 5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
+
 ---
 
 ### 2. **Submitting a Pull Request (PR)**
+
 1. After proposing changes, GitHub will guide you through creating a PR.
 2. Fill out the PR form, ensuring its content (especially the title) is understandable, descriptive and relevant.
 3. If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
@@ -49,7 +52,9 @@ The easiest way to contribute is by editing the `data.json` file directly in you
 ---
 
 ### 3. **Reporting an Issue**
+
 If you encounter an issue or have a suggestion that you don't want to implement yourself, open an issue ensuring you provide:
+
 - A clear description of the problem or suggestion.
 - The expected behavior (if creating a feature request or bug report).
 - The current behavior (if creating a bug report).
@@ -57,8 +62,13 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 ---
 
 ### 4. **Additional Resources**
+
 For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
 ---
+
+### 5. _it is important to add languages_
+
+for more convience for diferent type of peeoplke it sutiable to add diferent languages in the repo
 
 Thank you for your contribution!
