@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <string.h>
+
+char* getHint(char* secret, char* guess) {
+    static char result[10];
+    int bulls = 0, cows = 0;
+    int countS[10] = {0}, countG[10] = {0};
+    for (int i = 0; secret[i]; i++) {
+        if (secret[i] == guess[i]) bulls++;
+        else {
+            countS[secret[i] - '0']++;
+            countG[guess[i] - '0']++;
+        }
+    }
+    for (int i = 0; i < 10; i++)
+        cows += countS[i] < countG[i] ? countS[i] : countG[i];
+    sprintf(result, "%dA%dB", bulls, cows);
+    return result;
+}
