@@ -2173,6 +2173,13 @@
             "label": "good first issue",
             "technologies": ["TypeScript"],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+    {
+            "name": "Chakra UI",
+            "link": "https://github.com/chakra-ui/chakra-ui",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "A simple, modular, and accessible component library that gives you the building blocks to build React applications fast."
         }
     ]
 }
