@@ -1,3 +1,1 @@
-# JavaScript Beginner Repositories
-
-* [Beginner JS Starter](https://github.com/freeCodeCamp/freeCodeCamp) (label: good first issue) — A very beginner-friendly JavaScript repository that helps new developers learn and contribute to open source projects with small, guided tasks.
+- [HTML Tutorial](https://github.com/username/html-tutorial) — A beginner-friendly project to learn HTML and basic web structure for first-time contributors.
