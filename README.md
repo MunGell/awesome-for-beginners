@@ -222,8 +222,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Kotlin
 
-- [Atrium](https://github.com/robstoll/atrium) _(label: good first issue)_ <br> Multiplatform assertion library for Kotlin
-- [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
+- [Atrium](https://github.com/robstoll/atrium) _(label: good first issue)_ <br> Multi platform assertion library for Kotlin
+- [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A micro services toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
 - [Scribe-Android](https://github.com/scribe-org/Scribe-Android) _(label: good first issue)_ <br> Android keyboards for language learners with translation, verb conjugation and more!
