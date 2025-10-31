@@ -138,6 +138,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## JavaScript
 
+
+- [Example: useTransition with Async Data](docs/useTransition-example.md)
 - [altair](https://github.com/imolorhe/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
