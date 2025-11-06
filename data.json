@@ -2177,14 +2177,14 @@
     ]
 }
 {
-  "name": "HTML",
-  "project": [
-    {
-      "name": "HTML FEDF",
-      "desc": "A simple project showcasing beginner-friendly HTML experiments.",
-      "url": "https://github.com/praneeta04/HTML-fedf",
-      "labels": ["good first issue"]
-    }
-  ]
+  "name": "HTML FEDF",
+  "repo": "praneeta04/HTML-FEDF",
+  "description": "A simple HTML project for front-end beginners.",
+  "language": "HTML",
+  "upforgrabs": {
+    "name": "good first issue",
+    "link": "https://github.com/praneeta04/HTML-FEDF/labels/good%20first%20issue"
+  }
 }
+
 
