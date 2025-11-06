@@ -2176,3 +2176,15 @@
         }
     ]
 }
+{
+  "name": "HTML",
+  "project": [
+    {
+      "name": "HTML FEDF",
+      "desc": "A simple project showcasing beginner-friendly HTML experiments.",
+      "url": "https://github.com/praneeta04/HTML-fedf",
+      "labels": ["good first issue"]
+    }
+  ]
+}
+
