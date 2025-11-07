@@ -1591,15 +1591,6 @@
             "description": "A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way."
         },
         {
-            "name": "bolt",
-            "link": "https://github.com/puppetlabs/bolt",
-            "label": "Beginner-Friendly",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM."
-        },
-        {
             "name": "chatwoot",
             "link": "https://github.com/chatwoot/chatwoot",
             "label": "good first issue",
