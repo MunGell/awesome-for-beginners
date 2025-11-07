@@ -30,6 +30,16 @@
             ],
             "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
         },
+		{
+            "name": "StudentTaskManager",
+            "link": "https://github.com/akshith30388/StudentTaskManager",
+           "label": "good first issue",
+          "technologies": [
+                    "Java"
+      ],
+           "description": "A simple Java-based task manager app for students to organize assignments and deadlines."
+      },
+
         {
             "name": "grok.net",
             "link": "https://github.com/Marusyk/grok.net",
