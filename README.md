@@ -39,8 +39,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
-- [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
-
 ## Angular
 
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
@@ -56,7 +54,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## C#
 
 - [Cake](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-- [grok.net](https://github.com/Marusyk/grok.net) _(label: good first issue)_ <br> Cross platform .NET grok implementation
 - [osu!](https://github.com/ppy/osu) _(label: good first issue)_ <br> Music game. Rhythm is just a click away!
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) _(label: good first issue)_ <br> A .NET library that makes it easier to create beautiful console applications.
 - [Uno Platform](https://github.com/unoplatform/uno) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
