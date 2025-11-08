@@ -22,24 +22,6 @@
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
-            "name": "RawCMS",
-            "link": "https://github.com/arduosoft/RawCMS",
-            "label": "good first issue",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology."
-        },
-        {
-            "name": "grok.net",
-            "link": "https://github.com/Marusyk/grok.net",
-            "label": "good first issue",
-            "technologies": [
-                "C#"
-            ],
-            "description": "Cross platform .NET grok implementation"
-        },
-        {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
             "label": "good first issue",
