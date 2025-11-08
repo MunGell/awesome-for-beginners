@@ -589,15 +589,16 @@
             ],
             "description": "The Serverless Framework"
         },
-        {
-            "name": "React",
-            "link": "https://github.com/facebook/react",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
-        },
+{
+    "name": "React useTransition Example",
+    "link": "https://react.dev/reference/react/useTransition",
+    "label": "documentation",
+    "technologies": [
+        "JavaScript",
+        "React"
+    ],
+    "description": "Documentation example showing how to use the useTransition hook with async data fetching."
+},
         {
             "name": "React Native",
             "link": "https://github.com/facebook/react-native",
