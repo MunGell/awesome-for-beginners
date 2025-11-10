@@ -354,6 +354,15 @@
             ],
             "description": "Common Utilities library for Go"
         },
+		{
+            "name": "boGO",
+            "link": "https://github.com/RizkiAnurka/boGO",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Boilerplate of Obviously GOlang - Transform SQL schemas into production-ready Go microservices with hexagonal architecture"
+        },
         {
             "name": "TEAMMATES",
             "link": "https://github.com/TEAMMATES/teammates",
