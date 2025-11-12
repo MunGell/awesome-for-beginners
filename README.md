@@ -39,7 +39,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
 - [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
-- [RawCMS](https://github.com/arduosoft/RawCMS) _(label: good first issue)_ <br> RawCMS is a headless CMS written in ASP.NET Core, built for developers that embrace API-first technology.
 
 ## Angular
 
@@ -56,7 +55,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## C#
 
 - [Cake](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-- [grok.net](https://github.com/Marusyk/grok.net) _(label: good first issue)_ <br> Cross platform .NET grok implementation
 - [osu!](https://github.com/ppy/osu) _(label: good first issue)_ <br> Music game. Rhythm is just a click away!
 - [Spectre.Console](https://github.com/spectreconsole/spectre.console) _(label: good first issue)_ <br> A .NET library that makes it easier to create beautiful console applications.
 - [Uno Platform](https://github.com/unoplatform/uno) _(label: good first issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
@@ -183,7 +181,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [p5.js](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [pixi.js](https://github.com/pixijs/pixi.js) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
 - [PouchDB](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
-- [Predator](https://github.com/Zooz/predator) _(label: good first issue)_ <br> A powerful open-source platform for load testing APIs.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 - [React](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -192,7 +189,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [reactjs.org](https://github.com/reactjs/react.dev) _(label: good first issue)_ <br> The documentation website for reactjs
-- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) _(label: help-wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
@@ -200,7 +196,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good first issue)_ <br> Swag opportunities for developers.
 - [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
-- [Time to Leave](https://github.com/thamara/time-to-leave) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
+- [Time to Leave](https://github.com/TTLApp/time-to-leave) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
 - [Vest](https://github.com/ealush/vest) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
@@ -311,7 +307,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Ruby
 
 - [Avo Admin for Ruby on Rails](https://github.com/avo-hq/avo) _(label: Good first issue)_ <br> Build business apps 10x faster using Ruby on Rails.
-- [bolt](https://github.com/puppetlabs/bolt) _(label: Beginner-Friendly)_ <br> Bolt is a Ruby command-line tool for executing commands, scripts, and tasks on remote systems using SSH and WinRM.
 - [chatwoot](https://github.com/chatwoot/chatwoot) _(label: good first issue)_ <br> Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
 - [chef](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [Hanami](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
