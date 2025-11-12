@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'data.json'
-      - '.github/tpl.md'
+      - '.github/README-template.j2'
 
 jobs:
   build:
@@ -17,7 +17,12 @@ jobs:
         run: sudo pip install jinja2
       - name: Build
         run: python3 .github/scripts/render-readme.py
+      - name: Check if file changed
+        id: changedCheck
+        continue-on-error: true
+        run: git diff --exit-code README.md
       - name: Commit
+        if: steps.changedCheck.outcome == 'failure'
         run: |
           git config --global user.name 'Shmavon Gazanchyan'
           git config --global user.email 'MunGell@users.noreply.github.com'
