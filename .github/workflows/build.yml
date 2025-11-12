@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - 'data.json'
-      - '.github/tpl.md'
+      - '.github/README-template.j2'
 
 jobs:
   build:
