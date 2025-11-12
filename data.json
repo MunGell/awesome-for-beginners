@@ -672,15 +672,6 @@
             "description": "The JavaScript mutation testing framework"
         },
         {
-            "name": "Reddit Enhancement Suite",
-            "link": "https://github.com/honestbleeps/Reddit-Enhancement-Suite",
-            "label": "help-wanted",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A browser extension to enhance the Reddit browsing experience."
-        },
-        {
             "name": "Brave Browser",
             "link": "https://github.com/brave/brave-browser",
             "label": "good first issue",
