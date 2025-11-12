@@ -1492,6 +1492,15 @@
             "description": "Embedchain is a framework to easily create LLM powered bots over any dataset."
         },
         {
+            "name": "LeetcodePy",
+            "link": "https://github.com/wislertt/leetcode-py/",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Python LeetCode practice environment with automated problem generation, data structure visualizations, and comprehensive testing. "
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
