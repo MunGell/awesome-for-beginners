@@ -206,7 +206,7 @@
             "link": "https://github.com/dragonflyoss/Dragonfly2",
             "label": "good first issue",
             "technologies": [
-              "Go"
+                "Go"
             ],
             "description": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology"
         },
@@ -248,8 +248,8 @@
         },
         {
             "name": "Mattermost",
-	    "link": "https://github.com/mattermost/mattermost",
-	    "label": "Good First Issue, Difficulty/1:Easy",
+            "link": "https://github.com/mattermost/mattermost",
+            "label": "Good First Issue, Difficulty/1:Easy",
             "technologies": [
                 "Go",
                 "JavaScript"
@@ -375,7 +375,7 @@
         {
             "name": "XWiki",
             "link": "https://jira.xwiki.org/issues",
-	    "label": "onboarding",
+            "label": "onboarding",
             "technologies": [
                 "Java"
             ],
@@ -552,16 +552,16 @@
             ],
             "description": "A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates."
         },
-	{
+        {
             "name": "ImprovedTube",
             "link": "https://github.com/code-charity/youtube",
             "label": "good first issue",
             "technologies": [
                 "JavaScript",
-		"CSS"
+                "CSS"
             ],
-            "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."	
-	},
+            "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."
+        },
         {
             "name": "serverless",
             "link": "https://github.com/serverless/serverless",
@@ -604,7 +604,7 @@
             "label": "good first issue",
             "technologies": [
                 "JavaScript",
-		"TypeScript"
+                "TypeScript"
             ],
             "description": "Fast, reliable, and secure dependency management."
         },
@@ -869,15 +869,15 @@
             ],
             "description": "A free, fast and beautiful API request builder."
         },
-	{
-	    "name": "OpenCalc",
-	    "link": "https://github.com/Darkempire78/OpenCalc",
-	    "label": "good first issue",
-	    "technologies": [
+        {
+            "name": "OpenCalc",
+            "link": "https://github.com/Darkempire78/OpenCalc",
+            "label": "good first issue",
+            "technologies": [
                 "Kotlin"
             ],
-	    "description": "A simple and beautiful calculator for Android."
-	},
+            "description": "A simple and beautiful calculator for Android."
+        },
         {
             "name": "Time to Leave",
             "link": "https://github.com/TTLApp/time-to-leave",
@@ -1167,7 +1167,7 @@
             ],
             "description": "An End-to-end backend server for frontend and mobile developers. 🚀"
         },
-		{
+        {
             "name": "FreshRSS",
             "link": "https://github.com/FreshRSS/FreshRSS",
             "label": "good first issue",
@@ -1626,7 +1626,7 @@
             ],
             "description": "A tool for formatting Rust code according to style guidelines."
         },
-	{
+        {
             "name": "TensorZero",
             "link": "https://github.com/tensorzero/tensorzero",
             "label": "good-first-issue",
@@ -1887,7 +1887,7 @@
             ],
             "description": "Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience."
         },
-      	{
+        {
             "name": "H2O Wave Apps",
             "link": "https://github.com/h2oai/wave-apps",
             "label": "hacktoberfest",
@@ -2044,7 +2044,8 @@
             "link": "https://github.com/activist-org/activist",
             "label": "good first issue",
             "technologies": [
-                "TypeScript", "Python"
+                "TypeScript",
+                "Python"
             ],
             "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
         },
@@ -2062,7 +2063,9 @@
             "name": "Manifest",
             "link": "https://github.com/mnfst/manifest",
             "label": "good first issue",
-            "technologies": ["TypeScript"],
+            "technologies": [
+                "TypeScript"
+            ],
             "description": "Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly."
         },
         {
@@ -2081,7 +2084,7 @@
             "technologies": [
                 "JavaScript",
                 "JSON",
-	        "Pug"
+                "Pug"
             ],
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
         },
@@ -2093,16 +2096,16 @@
                 "Rust"
             ],
             "description": "Teleconference system with a web based user interface written in Rust"
-	},
-	{
-	    "name": "Catima - Android App",
-	    "link": "https://github.com/CatimaLoyalty/Android",
-	    "label": "good first issue",
-	    "technologies": [
-		    "Java"
-	    ],
-	    "description": "Catima, a Loyalty Card & Ticket Manager for Android"
-	},
+        },
+        {
+            "name": "Catima - Android App",
+            "link": "https://github.com/CatimaLoyalty/Android",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Catima, a Loyalty Card & Ticket Manager for Android"
+        },
         {
             "name": "FastAPI",
             "link": "https://github.com/tiangolo/fastapi",
@@ -2112,21 +2115,23 @@
             ],
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
         },
-	{
+        {
             "name": "Readest",
             "link": "https://github.com/readest/readest",
             "label": "good first issue",
             "technologies": [
                 "Rust",
-		"TypeScript"
+                "TypeScript"
             ],
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         },
-	{
+        {
             "name": "supabase",
             "link": "https://github.com/supabase/supabase",
             "label": "good first issue",
-            "technologies": ["TypeScript"],
+            "technologies": [
+                "TypeScript"
+            ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
