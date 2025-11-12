@@ -183,7 +183,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [p5.js](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [pixi.js](https://github.com/pixijs/pixi.js) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
 - [PouchDB](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
-- [Predator](https://github.com/Zooz/predator) _(label: good first issue)_ <br> A powerful open-source platform for load testing APIs.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 - [React](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
