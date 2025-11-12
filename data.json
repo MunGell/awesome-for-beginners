@@ -896,15 +896,6 @@
             ],
             "description": "A free, fast and beautiful API request builder."
         },
-        {
-            "name": "Predator",
-            "link": "https://github.com/Zooz/predator",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A powerful open-source platform for load testing APIs."
-        },
 	{
 	    "name": "OpenCalc",
 	    "link": "https://github.com/Darkempire78/OpenCalc",
