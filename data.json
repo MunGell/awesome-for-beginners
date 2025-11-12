@@ -880,7 +880,7 @@
 	},
         {
             "name": "Time to Leave",
-            "link": "https://github.com/thamara/time-to-leave",
+            "link": "https://github.com/TTLApp/time-to-leave",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
