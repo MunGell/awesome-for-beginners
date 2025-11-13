@@ -1,0 +1,33 @@
+# A descriptive name for your workflow
+name: Check for Broken Links
+
+# This section defines when the workflow will run
+on:
+  # Run this workflow automatically every Sunday at 3 AM UTC
+  schedule:
+    - cron: '0 3 * * 0'
+  # This allows you to run the workflow manually from the GitHub Actions tab
+  workflow_dispatch:
+
+# A workflow is made up of one or more "jobs" that can run in parallel or sequence
+jobs:
+  # We'll define a single job called "check-links"
+  check-links:
+    # This job will run on the latest version of Ubuntu provided by GitHub
+    runs-on: ubuntu-latest
+
+    # The steps that make up the job
+    steps:
+      # Step 1: Check out your repository's code so the action can access it
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Step 2: Use a pre-made action to check links. This is much easier than writing our own!
+      - name: Check links with Lychee
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Tell Lychee to check for links inside the data.json file
+          args: --verbose ./data.json
+        env:
+          # Use the built-in GitHub token to avoid hitting rate limits when checking GitHub links
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
