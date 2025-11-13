@@ -337,6 +337,14 @@
             "description": "Common Utilities library for Go"
         },
         {
+            "name": "Gophercises",
+            "link": "https://github.com/joncalhoun/gophercises",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A set of free coding exercises to help you become more familiar with Go."
+        },
+        {
             "name": "TEAMMATES",
             "link": "https://github.com/TEAMMATES/teammates",
             "label": "good first issue",
