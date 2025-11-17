@@ -247,6 +247,13 @@
             "description": "Production-Grade Container Scheduling and Management System"
         },
         {
+  "name": "Sample Beginner Repo",
+  "github": "https://github.com/sample/repo",
+  "description": "A simple project for first-time contributors.",
+  "tags": ["javascript", "beginner-friendly"]
+},
+
+        {
             "name": "Mattermost",
             "link": "https://github.com/mattermost/mattermost",
             "label": "Good First Issue, Difficulty/1:Easy",
