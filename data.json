@@ -988,6 +988,13 @@
             "description": "Deploy any software to any cloud: automated DevOps workflows to save software teams time and money."
         },
         {
+             "name": "up-for-grabs.net",
+             "url": "https://github.com/up-for-grabs/up-for-grabs.net",
+             "desc": "A list of projects with issues that can be easily resolved by beginners.",
+             "labels": ["help wanted", "good first issue"],
+             "lang": "JavaScript"
+        }, 
+        {
             "name": "Julia Language: Help wanted",
             "link": "https://github.com/JuliaLang/julia",
             "label": "help-wanted",
