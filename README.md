@@ -394,7 +394,7 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-Thanks to Warp.dev for sponsoring this repository through a donation to a charity of my choice.
+Thanks to [Warp.dev](https://go.warp.dev/awesome-for-beginners) for sponsoring this repository through a donation to a charity of my choice.
 
 <table><tr><td align="center"><a href="https://github.com/MixeroTN"><img src="https://avatars.githubusercontent.com/u/40803091" width="60px;" alt=""/><br/><sub><b>Michał Gołkowski</b></sub></a></td></tr></table>
 
