@@ -988,31 +988,15 @@
             "description": "Deploy any software to any cloud: automated DevOps workflows to save software teams time and money."
         },
         {
-            "name": "Julia Language: Help wanted",
-            "link": "https://github.com/JuliaLang/julia",
-            "label": "help-wanted",
-            "technologies": [
-                "Julia"
-            ],
-            "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
-        },
-        {
-            "name": "Julia Language: Good first issue",
-            "link": "https://github.com/JuliaLang/julia",
-            "label": "good first issue",
-            "technologies": [
-                "Julia"
-            ],
-            "description": "\"Move like Python, Run like C\" - A fresh approach to technical computing!"
-        },
-        {
             "name": "Julia",
             "link": "https://github.com/JuliaLang/julia",
             "label": "good first issue",
             "technologies": [
-                "Julia"
+                "Julia",
+                "C",
+                "C++"
             ],
-            "description": "Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia"
+            "description": "The Julia Programming Language - A high-level, high-performance dynamic language for technical computing."
         },
         {
             "name": "Atrium",
