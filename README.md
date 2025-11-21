@@ -58,6 +58,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## C
 
+- [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 - [Profanity](https://github.com/profanity-im/profanity) _(label: good first issue)_ <br> Ncurses XMPP chat client.
 
 ## C#
@@ -72,6 +73,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [F3D](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 - [MiniOB](https://github.com/oceanbase/miniob) _(label: good first issue)_ <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 - [MoveIt](https://github.com/ros-planning/moveit) _(label: good first issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 - [projectM](https://github.com/projectM-visualizer/projectm) _(label: good first issue)_ <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
@@ -220,9 +222,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Julia
 
-- [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> Julia Projects for Beginners — Easy Ideas to Get Started Coding in Julia
-- [Julia Language: Good first issue](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
-- [Julia Language: Help wanted](https://github.com/JuliaLang/julia) _(label: help-wanted)_ <br> "Move like Python, Run like C" - A fresh approach to technical computing!
+- [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 
 ## Kotlin
 
