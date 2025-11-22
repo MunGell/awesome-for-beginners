@@ -1044,6 +1044,15 @@
             "description": "Collaborative cheatsheets for console commands."
         },
         {
+    "name": "Gobyexample",
+    "link": "https://gobyexample.com/",
+    "technologies": [
+        "Go"
+    ],
+    "description": "Hands-on introduction to Go using annotated example programs."
+        },
+
+        {
             "name": "The Odin Project Curriculum",
             "link": "https://github.com/TheOdinProject/curriculum",
             "label": "See Description",
