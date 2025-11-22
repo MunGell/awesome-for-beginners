@@ -215,7 +215,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
-
+- [Quick learn of programming tasks](https://github.com/Chalarangelo/30-seconds-of-code) _(label: good first issue)_ <br> help developers of all levels quickly learn and apply practical solutions for web development and programming challenges
 ## JSON
 
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
