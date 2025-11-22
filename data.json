@@ -2111,3 +2111,9 @@
         }
     ]
 }
+{
+  "name": "JavaScript30 Practice",
+  "repo": "Komali0706/JavaScript30",
+  "description": "Simple JavaScript practice projects for beginners.",
+  "labels": ["good first issue"]
+}
