@@ -33,7 +33,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |D|[Dart](#dart)|
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
-|H|[Haskell](#haskell)|
+|H|[Haskell, [HTML](#html)](#haskell)|
 |J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
@@ -127,6 +127,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Haskell
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+- 
+## HTML
 
 ## Java
 
