@@ -12,6 +12,7 @@
 </div>
 
 # Awesome First Pull Request Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+- [JavaScript30 Practice](https://github.com/Komali0706/JavaScript30) - Simple JavaScript projects for beginners to practice core concepts.
 
 Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) blog post.
 
