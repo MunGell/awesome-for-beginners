@@ -215,6 +215,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+- [FEDF‑S‑104 Election Portal](https://github.com/ArsiyaTasleem90250/FEDF-S-104-election-portal) _(label: good first issue)_ <br> A beginner-friendly election portal application built with JavaScript (and other tech) for learning full-stack web development.
+
 
 ## JSON
 
