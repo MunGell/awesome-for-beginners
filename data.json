@@ -293,6 +293,15 @@
             "description": "A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process."
         },
         {
+            "name": "TimeSync",
+            "link": "https://github.com/AswinAsokan2004/TimeSync",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "TimeSync is a Java-based scheduling tool that keeps period, class, and faculty timings perfectly organized without any messy clashes. It uses solid data-structure logic to automate timetable generation in a clean and efficient way. It’s super beginner-friendly, yet teaches important concepts like conflict detection, structured planning, and real-world resource allocation."
+        },
+        {
             "name": "lxd",
             "link": "https://github.com/lxc/lxd",
             "label": "easy",
