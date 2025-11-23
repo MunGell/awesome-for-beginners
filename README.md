@@ -161,6 +161,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Ember.js](https://github.com/emberjs/ember.js) _(label: Good-for-New-Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [Ember.js Data](https://github.com/emberjs/data) _(label: Good-for-New-Contributors)_ <br> A data persistence library for Ember.js.
 - [ESLint](https://github.com/eslint/eslint) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) _(label: good-for-beginner)_ <br> Awesome ESLint rules.
 - [Fastify](https://github.com/fastify/fastify) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
@@ -215,6 +216,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+- [Fuel Nexus App](https://github.com/ArsiyaTasleem90250/Fuel-Nexus) _(label: good first issue)_ <br> A beginner-friendly fuel delivery app project to practice web development concepts with JavaScript and React.
 
 ## JSON
 
