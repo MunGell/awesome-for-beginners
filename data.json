@@ -2108,6 +2108,17 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "weathercard",
+            "link": "https://github.com/vipul264og/weathercard",
+            "label": "good first issue",
+            "technologies": [
+                "Vite",
+                "React",
+                "Javascript"
+            ],
+            "description": "A simple and fast Weather Card app that fetches real-time weather data and displays temperature, location, and conditions in a clean UI."
         }
     ]
 }
