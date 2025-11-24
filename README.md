@@ -143,6 +143,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues) _(label: onboarding)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
+- [Mindustry](https://github.com/Anuken/Mindustry) - A Java-based tower defense + factory game with many easy issues and active maintainers.
 
 ## JavaScript
 
@@ -343,6 +344,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [TiKV](https://github.com/tikv/tikv) _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 - [Veloren](https://gitlab.com/veloren/veloren) _(label: n/a)_ <br> Veloren is a multiplayer voxel RPG written in Rust.
 - [zoom-rs](https://github.com/security-union/zoom-rs) _(label: good first issue)_ <br> Teleconference system with a web based user interface written in Rust
+- [Tauri](https://github.com/tauri-apps/tauri) - A modern toolkit for building desktop apps; many approachable beginner issues.
 
 ## Scala
 
