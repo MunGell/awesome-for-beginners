@@ -164,6 +164,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [ESLint](https://github.com/eslint/eslint) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) _(label: good-for-beginner)_ <br> Awesome ESLint rules.
 - [Fastify](https://github.com/fastify/fastify) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
+- [First Contributions](https://github.com/firstcontributions/first-contributions) _(label: good first issue)_<br>To make first contribution 
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby) _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good first issue)_ <br> Just a blogging platform
@@ -174,6 +175,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> An open source react native app iOS and android for color palette management
 - [iD](https://github.com/openstreetmap/iD) _(label: new contributor opportunity)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) – Popular repo of JS algorithms with many doc-only improvements. _(label: good first issue)_<br> beginner friendly for learning javascript
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
