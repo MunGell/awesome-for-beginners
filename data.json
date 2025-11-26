@@ -2108,6 +2108,42 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "ALEAPP",
+            "link": "https://github.com/abrignoni/ALEAPP",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Android Logs Events And Protobuf Parser - A forensic tool for parsing Android device artifacts."
+        },
+        {
+            "name": "iLEAPP",
+            "link": "https://github.com/abrignoni/iLEAPP",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "iOS Logs, Events, And Plist Parser - A forensic tool for parsing iOS device artifacts."
+        },
+        {
+            "name": "RLEAPP",
+            "link": "https://github.com/abrignoni/RLEAPP",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Returns Logs Events And Properties Parser - A forensic tool for parsing various archive formats."
+        },
+        {
+            "name": "WLEAPP",
+            "link": "https://github.com/abrignoni/WLEAPP",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Windows Logs Events And Properties Parser - A forensic tool for parsing Windows OS artifacts."
         }
     ]
 }
