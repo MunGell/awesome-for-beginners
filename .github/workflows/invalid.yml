@@ -1,3 +1,14 @@
+GitHub Action: Check on Invalid PR
+#
+# Purpose:
+# This workflow automatically detects pull requests that are not valid
+# (example: spam PRs or PRs not following contribution rules) and
+# responds by:
+#   ? Posting a comment explaining the issue
+#   ? Adding an "Invalid" label (if not already added)
+#   ? Closing the pull request automatically
+#
+# This is useful to prevent spam PRs, especially during events like Hacktoberfest.
 name: Check on Invalid PR
 
 on:
