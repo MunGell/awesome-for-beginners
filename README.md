@@ -70,6 +70,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## C++
 
+- [DuckDB](https://github.com/duckdb/duckdb) _(label: good first issue)_ <br> An in-process SQL OLAP database with beginner-friendly issues.
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [F3D](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
