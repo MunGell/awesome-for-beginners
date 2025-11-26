@@ -293,6 +293,15 @@
             "description": "A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process."
         },
         {
+    "name": "LinkFree",
+    "link": "https://github.com/EddieHubCommunity/LinkFree",
+    "label": "good first issue",
+    "technologies": [
+        "JavaScript"
+    ],
+    "description": "Open-source alternative to Linktree. Active repo with many beginner-friendly issues and a welcoming community."
+},
+        {
             "name": "lxd",
             "link": "https://github.com/lxc/lxd",
             "label": "easy",
