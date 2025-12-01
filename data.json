@@ -1277,6 +1277,15 @@
             "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing."
         },
         {
+            "name": "FakePy",
+            "link": "https://github.com/d0r1h/FakePy",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A beginner-friendly Python utility library for generating fake data."
+        },
+        {
             "name": "Fabric",
             "link": "https://github.com/fabric/fabric",
             "label": "Low-hanging-fruit",
