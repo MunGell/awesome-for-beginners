@@ -303,12 +303,13 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
 - [Pytorch](https://github.com/pytorch/pytorch) _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [Real Python Materials](https://github.com/realpython/materials) _(label: beginner friendly)_ <br>
+  A large collection of beginner-friendly Python project materials from Real Python, covering fundamentals, web development, data processing, and more.
 - [SaltStack](https://github.com/saltstack/salt) _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) _(Label: good first issue)_ <br> A huge collection of beginner-friendly Python algorithms, data structures, and problem-solving examples used by millions of new learners worldwide.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
 
