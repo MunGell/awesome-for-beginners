@@ -1313,6 +1313,15 @@
             "description": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects."
         },
         {
+            "name": "django",
+            "link": "https://github.com/django/django",
+            "label": "good-for-beginner",
+            "technologies": [
+                "Python"
+            ],
+            "description": "The popular web framework has good first issues"
+        },
+        {
             "name": "django cookiecutter",
             "link": "https://github.com/pydanny/cookiecutter-django",
             "label": "hacktoberfest",
