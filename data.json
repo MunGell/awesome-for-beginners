@@ -735,11 +735,11 @@
             "description": "Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out."
         },
         {
-            "name": "nuclear",
-            "link": "https://github.com/nukeop/nuclear",
+            "name": "Jameel",
+            "link": "https://github.com/adeeljameel810-byte/Final-Project",
             "label": "good first issue",
             "technologies": [
-                "JavaScript"
+                "C++"
             ],
             "description": "Multiplatform music player that streams from free sources."
         },
