@@ -2106,7 +2106,13 @@
             "label": "good first issue",
             "technologies": [
                 "TypeScript"
+            
             ],
+             "name": "Jameel",
+            "link": "https://github.com/adeeljameel810-byte/Final-Project",
+            "label": "good first issue",
+            "technologies": [
+                "C++"
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
