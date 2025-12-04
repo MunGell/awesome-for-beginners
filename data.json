@@ -227,6 +227,16 @@
                 "Go"
             ],
             "description": "A Fast and Flexible Static Site Generator built with love in GoLang"
+        },{
+            "name": "Prismiq",
+            "link": "https://github.com/AliAbdullah0/Prismiq",
+            "label": "Good First Issue",
+            "technologies": [
+                "Typescript",
+                "prisma",
+                "npm"
+            ],
+            "description": "A TypeScript-powered builder to generate Prisma-compatible schema files programmatically. Define models, fields, and relationships using a clean API and generate .prisma schemas effortlessly."
         },
         {
             "name": "Kanister",
