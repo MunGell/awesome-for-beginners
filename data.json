@@ -11,6 +11,7 @@
         "C#": "c-1",
         "C++": "c-2"
     },
+    
     "repositories": [
         {
             "name": "MvvmCross",
@@ -39,6 +40,37 @@
             ],
             "description": "OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly."
         },
+
+
+
+        {
+            "name": "DevSars24 Resources",
+            "link": "https://github.com/DevSars24/resources",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A collection of beginner-friendly utilities and examples for developers learning JavaScript and open-source workflows."
+        }
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
