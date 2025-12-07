@@ -2117,6 +2117,13 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+    {
+            "name": "Fantasy-Calendar",
+            "link": "https://github.com/fantasycalendar/Fantasy-Calendar.git",
+            "label": "good first issue",
+            "technologies": ["PHP"],
+            "description": "Build a calendar that fits your world! Whether you're a GM just here to track your Forgotten Realms campaign with a preset calendar, or a fanciful world-builder with 12 moons (Like Eberron's) and zany timekeeping systems to match, we've got you covered."
         }
     ]
 }
