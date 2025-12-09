@@ -2117,6 +2117,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Protolink",
+            "link": "https://github.com/nMaroulis/protolink",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A lightweight and beginner-friendly library to build AI agents based on Agent-to-Agent communication."
         }
     ]
 }
