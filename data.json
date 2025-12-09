@@ -2121,7 +2121,7 @@
         {
             "name": "Protolink",
             "link": "https://github.com/nMaroulis/protolink",
-            "label": "good first issue",
+            "label": "beginner friendly",
             "technologies": [
                 "Python"
             ],
