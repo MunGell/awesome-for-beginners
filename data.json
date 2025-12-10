@@ -1294,6 +1294,13 @@
             ],
             "description": "Pythonic remote execution and deployment."
         },
+		{
+    "name": "FastAPI",
+    "link": "https://github.com/tiangolo/fastapi",
+    "label": "good first issue",
+    "technologies": ["Python"],
+    "description": "A modern, fast web framework for building APIs with Python."
+},
         {
             "name": "Jupyter notebook",
             "link": "https://github.com/jupyter/notebook",
