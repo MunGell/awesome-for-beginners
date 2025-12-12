@@ -42,7 +42,7 @@
         {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
-            "label": "Good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "C#"
             ],
@@ -224,7 +224,7 @@
         {
             "name": "Hugo",
             "link": "https://github.com/gohugoio/hugo",
-            "label": "GoodFirstIssue",
+            "label": "good first issue",
             "technologies": [
                 "Go"
             ],
@@ -251,7 +251,7 @@
         {
             "name": "Mattermost",
             "link": "https://github.com/mattermost/mattermost",
-            "label": "Good First Issue, Difficulty/1:Easy",
+            "label": "good first issue",
             "technologies": [
                 "Go",
                 "JavaScript"
@@ -467,7 +467,7 @@
         {
             "name": "AVA",
             "link": "https://github.com/sindresorhus/ava",
-            "label": "good-for-beginner",
+            "label": "good for beginner",
             "technologies": [
                 "JavaScript"
             ],
@@ -494,7 +494,7 @@
         {
             "name": "Ember.js",
             "link": "https://github.com/emberjs/ember.js",
-            "label": "Good-for-New-Contributors",
+            "label": "good for new contributors",
             "technologies": [
                 "JavaScript"
             ],
@@ -503,7 +503,7 @@
         {
             "name": "Ember.js Data",
             "link": "https://github.com/emberjs/data",
-            "label": "Good-for-New-Contributors",
+            "label": "good for new contributors",
             "technologies": [
                 "JavaScript"
             ],
@@ -530,7 +530,7 @@
         {
             "name": "eslint-plugin-unicorn",
             "link": "https://github.com/sindresorhus/eslint-plugin-unicorn",
-            "label": "good-for-beginner",
+            "label": "good for beginner",
             "technologies": [
                 "JavaScript"
             ],
@@ -585,7 +585,7 @@
         {
             "name": "React Native",
             "link": "https://github.com/facebook/react-native",
-            "label": "Good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -594,7 +594,7 @@
         {
             "name": "React server",
             "link": "https://github.com/redfin/react-server",
-            "label": "good-first-contribution",
+            "label": "good first contribution",
             "technologies": [
                 "JavaScript"
             ],
@@ -613,7 +613,7 @@
         {
             "name": "pixi.js",
             "link": "https://github.com/pixijs/pixi.js",
-            "label": "🤩 Good First PR",
+            "label": "good first PR",
             "technologies": [
                 "JavaScript"
             ],
@@ -649,7 +649,7 @@
         {
             "name": "stryker",
             "link": "https://github.com/stryker-mutator/stryker",
-            "label": "👶 Good first issue",
+            "label": " good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -964,7 +964,7 @@
         {
             "name": "ReactiveSearch",
             "link": "https://github.com/appbaseio/reactivesearch",
-            "label": "good first issue-:wave:",
+            "label": "good first issue :wave:",
             "technologies": [
                 "JavaScript"
             ],
@@ -1085,7 +1085,7 @@
         {
             "name": "Deployer",
             "link": "https://github.com/deployphp/deployer",
-            "label": "good-for-beginner",
+            "label": "good for beginner",
             "technologies": [
                 "PHP"
             ],
@@ -1112,7 +1112,7 @@
         {
             "name": "PHP Censor",
             "link": "https://github.com/php-censor/php-censor",
-            "label": "good-for-beginner",
+            "label": "good for beginner",
             "technologies": [
                 "PHP"
             ],
@@ -1192,7 +1192,7 @@
         {
             "name": "Flarum",
             "link": "https://github.com/flarum/core",
-            "label": "Good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "PHP"
             ],
@@ -1543,7 +1543,7 @@
         {
             "name": "open-build-service",
             "link": "https://github.com/openSUSE/open-build-service",
-            "label": "good first issue-:1st_place_medal:",
+            "label": "good first issue :1st_place_medal:",
             "technologies": [
                 "Ruby"
             ],
@@ -1624,7 +1624,7 @@
         {
             "name": "TensorZero",
             "link": "https://github.com/tensorzero/tensorzero",
-            "label": "good-first-issue",
+            "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
@@ -1933,7 +1933,7 @@
         {
             "name": "Avo Admin for Ruby on Rails",
             "link": "https://github.com/avo-hq/avo",
-            "label": "Good first issue",
+            "label": "good first issue",
             "technologies": [
                 "Ruby"
             ],
@@ -1951,7 +1951,7 @@
         {
             "name": "QuestDB",
             "link": "https://github.com/questdb/questdb",
-            "label": "Good first issue",
+            "label": "good first issue",
             "technologies": [
                 "Java"
             ],
@@ -1981,7 +1981,7 @@
         {
             "name": "Exosphere",
             "link": "https://gitlab.com/exosphere/exosphere",
-            "label": "Good First Issue",
+            "label": "good First Issue",
             "technologies": [
                 "Elm",
                 "Ansible"
@@ -2000,7 +2000,7 @@
         {
             "name": "Harmony",
             "link": "https://github.com/harmonydata/harmony",
-            "label": "Good First Issue",
+            "label": "good First Issue",
             "technologies": [
                 "Python"
             ],
