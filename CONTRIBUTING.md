@@ -10,7 +10,7 @@ _Please note that the list in this repository is intended for more substantial p
 
 ## Intitial Checks
 
-- **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates.
+- **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates search.
 
 ## Repository Requirements
 
@@ -32,7 +32,7 @@ The easiest way to contribute is by editing the `data.json` file directly in you
    - Ensure to check the following:
        - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
        - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
+       - **Trailing Whitespace**: Ensure to avoiding and adding any trailing whitespace (at the end of lines).
        - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
        - **Single addition**: Make an individual pull request for each suggestion.
        - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
