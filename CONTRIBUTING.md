@@ -25,7 +25,7 @@ _Please note that the list in this repository is intended for more substantial p
 The easiest way to contribute is by editing the `data.json` file directly in your browser. Here's how:
 
 1. Go to the [`data.json` file](https://github.com/MunGell/awesome-for-beginners/blob/main/data.json) in the repository.
-2. Click the **"Edit"** button (pencil icon) in the top right corner.
+2. Click the **"Edit"** button (Pencil icon) in the top right corner.
 3. Make your changes directly in the browser:
    - Copy an existing entry in the file.
    - Fill in your own information following the same format.
