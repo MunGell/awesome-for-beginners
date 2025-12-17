@@ -2117,6 +2117,13 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "healthmanagementapp",
+            "link": "https://github.com/NiyatiSaran/health_management_app",
+            "label": "web app",
+            "technologies": ["React","Django"],
+            "description": "A responsive health management application built with React.js."
         }
     ]
 }
