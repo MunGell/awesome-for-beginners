@@ -2117,6 +2117,26 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+        "name": "NumPy",
+        "link": "https://github.com/numpy/numpy",
+        "label": "good first issue",
+        "technologies": [
+            "Python",
+            "C"
+        ],
+        "description": "NumPy is the fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices along with a large collection of high-level mathematical functions."
+        },
+        {
+        "name": "Apache Kafka",
+        "link": "https://github.com/apache/kafka",
+        "label": "good first issue",
+        "technologies": [
+            "Java",
+            "Scala"
+        ],
+        "description": "Apache Kafka is a distributed event streaming platform capable of handling trillions of events a day. It is used for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications."
         }
     ]
 }
