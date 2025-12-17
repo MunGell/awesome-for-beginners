@@ -2117,8 +2117,6 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-<<<<<<< HEAD
-=======
         },
         {
         "name": "Apache Kafka",
@@ -2129,7 +2127,6 @@
             "Scala"
         ],
         "description": "Apache Kafka is a distributed event streaming platform capable of handling trillions of events a day. It is used for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications."
->>>>>>> a7d756d (Add repo Apache Kafka)
         }
     ]
 }
