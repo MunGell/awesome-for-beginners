@@ -427,6 +427,15 @@
             "description": "DSA questions practising repo for Java developers"
         },
         {
+            "name": "fmp4j",
+            "link": "https://github.com/sorndotdev/fmp4j",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "A lightweight Java SDK for accessing the Financial Modeling Prep (FMP) API"
+        },
+        {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
             "label": "good first issue",
