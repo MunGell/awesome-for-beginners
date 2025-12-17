@@ -2117,6 +2117,16 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+        "name": "NumPy",
+        "link": "https://github.com/numpy/numpy",
+        "label": "good first issue",
+        "technologies": [
+            "Python",
+            "C"
+        ],
+        "description": "NumPy is the fundamental package for scientific computing with Python, providing support for large, multi-dimensional arrays and matrices along with a large collection of high-level mathematical functions."
         }
     ]
 }
