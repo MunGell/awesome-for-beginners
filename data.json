@@ -31,6 +31,18 @@
             "description": "Music game. Rhythm is just a click away!"
         },
         {
+            "name": "public-apis",
+            "link": "https://github.com/public-apis/public-apis",
+            "label": "good first issue",
+            "technologies": [
+                "Markdown",
+                "Documentation",
+                "JSON"
+            ],
+            "description": "A collective curated list of free public APIs for developers to use in projects."
+        }
+
+        {
             "name": "Uno Platform",
             "link": "https://github.com/unoplatform/uno",
             "label": "good first issue",
