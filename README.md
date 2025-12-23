@@ -128,6 +128,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
+## HTML
+
+- [Project Name](project-link) _(label: good first issue)_ <br> Short description of the HTML project.
+
 ## Java
 
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
