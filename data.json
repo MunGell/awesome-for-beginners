@@ -2117,6 +2117,18 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+    "name": "cal.com",
+    "link": "https://github.com/calcom/cal.com",
+    "label": "good first issue",
+    "technologies": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+    ],
+    "description": "Cal.com is an open-source scheduling platform that allows users to manage bookings, availability, and integrations, similar to Calendly. It is built using a modern full-stack architecture and is highly active with beginner-friendly issues."
+}
     ]
 }
