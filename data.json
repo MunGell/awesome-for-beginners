@@ -12,7 +12,18 @@
         "C++": "c-2"
     },
     "repositories": [
-        {
+	    {
+		    "name": "30-seconds-of-code",
+		    "link": "https://github.com/30-seconds/30-seconds-of-code",
+		    "label": "good first issue",
+		    "technologies": [
+		        "JavaScript"
+		    ],
+		    "description": "Short JavaScript code snippets for all your development needs."
+	    },
+
+
+	    {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
