@@ -1205,6 +1205,33 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "LangChain",
+            "link": "https://github.com/langchain-ai/langchain",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Framework for building applications powered by large language models, including chains, agents, and retrieval pipelines."
+        },
+        {
+            "name": "Chroma",
+            "link": "https://github.com/chroma-core/chroma",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open-source vector database designed for embeddings, semantic search, and retrieval-augmented generation."
+        },
+        {
+            "name": "Pydantic",
+            "link": "https://github.com/pydantic/pydantic",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Data validation and settings management using Python type hints, widely used in modern API development."
+        },
+        {
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
