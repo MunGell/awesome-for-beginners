@@ -1205,6 +1205,15 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "LangChain",
+            "link": "https://github.com/langchain-ai/langchain",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python Framework for building applications powered by large language models (LLMs), including agents, chains, and retrieval pipelines."
+        },
+        {
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
