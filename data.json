@@ -1205,6 +1205,15 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "Chroma",
+            "link": "https://github.com/chroma-core/chroma",
+            "label": "beginner friendly",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An open-source embedding database designed for AI applications like semantic search and retrieval-augmented generation."
+        },
+        {
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
