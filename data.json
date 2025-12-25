@@ -2117,6 +2117,20 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+	    {
+            "name": "supabase",
+            "link": "https://github.com/supabase/supabase",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+	    {
+            "name": "isa",
+            "link": "https://github.com/isabelbri/first",
+            "label": "good first issue",
+            "technologies": ["TypeScript"],
+            "description": "just a try."
         }
     ]
 }
