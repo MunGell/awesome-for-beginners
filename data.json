@@ -2117,6 +2117,16 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+      "name": "Bombay Shoe Website",
+      "link": "https://github.com/ArjunSaluja/project1",
+      "label": "good first issue",
+      "technologies": [
+        "JavaScript"
+      ],
+      "description": "A shoe-themed website built with HTML, CSS, and JavaScript."
+    }
+        
     ]
 }
