@@ -2117,6 +2117,16 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "js-good-first-issues-finder",
+            "url": "https://github.com/suyash-thakur/js-good-first-issues-finder",
+            "labels": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A tool that finds JavaScript repositories with good first issues for open source newcomers."
         }
+
     ]
 }
