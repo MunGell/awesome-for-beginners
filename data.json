@@ -193,6 +193,13 @@
             "description": "The Scalable, Survivable, Strongly-Consistent SQL Database"
         },
         {
+            "name": "Node.js Best Practices",
+            "link": "https://github.com/goldbergyoni/nodebestpractices",
+            "label": "good first issue",
+            "technologies": ["JavaScript"],
+            "description": "A comprehensive guide to Node.js best practices"
+        },
+        {
             "name": "Docker/CLI",
             "link": "https://github.com/docker/cli",
             "label": "exp/beginner",
