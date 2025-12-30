@@ -310,6 +310,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
+- [Code Complexity Analyzer](https://github.com/YASWANTH1976/code-complexity-analyzer) _(label: good first issue)_ <br> Beginner-friendly tool to analyze Python code complexity and give suggestions.
+
 
 ## Ruby
 
