@@ -3,6 +3,16 @@
 <!-- SEE THE CONTRIBUTING GUIDE (`CONTRIBUTING.md`) FOR MORE GUIDANCE -->
 <!-- YOU MAY IGNORE THIS MESSAGE IF YOU ARE EDITING `README-template.j2` -->
 
+
+
+<div align="center">
+  <div>
+    <a href="https://go.warp.dev/awesome-for-beginners">
+      <img alt="Thanks to Warp.dev for sponsoring this repository through a donation to a charity of my choice." src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Warp%20Packs/Warp-Github-SM-01.jpg">
+    </a>
+  </div>
+</div>
+
 <div align="center">
   <div>
     <a href="https://go.warp.dev/awesome-for-beginners">
