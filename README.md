@@ -403,3 +403,6 @@ Thanks to [Warp.dev](https://go.warp.dev/awesome-for-beginners) for sponsoring t
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
+- **First Contributions**  
+  https://github.com/firstcontributions/first-contributions  
+  Beginner friendly repository to help people make their first open-source contribution.
