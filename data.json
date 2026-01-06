@@ -2117,6 +2117,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Mybucks.online",
+            "link": "https://github.com/mybucks-online/app",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Open-source, browser-based and self-custodial crypto wallet that generates a private key from credentials using one-way hash function."
         }
     ]
 }
