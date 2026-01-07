@@ -61,4 +61,18 @@ For a more comprehensive guide on contributing to open-source projects, check ou
 
 ---
 
+### Common Pitfalls & Validation Tips
+
+Before submitting your pull request, please double-check your changes to avoid common issues that can delay reviews:
+
+- **Validate JSON formatting**: Ensure `data.json` remains valid JSON. Pay special attention to commas between objects and avoid trailing commas.
+- **Preserve alphabetical order**: When adding a new entry, place it in the correct alphabetical position within its technology section.
+- **One repository per PR**: Each pull request should introduce a single new repository to keep reviews focused and efficient.
+- **Verify beginner-friendly labels**: Confirm that the repository uses clearly defined beginner-friendly labels (such as `good first issue`) and that these labels are actively used.
+- **Avoid personal or promotional projects**: Submissions should be established open-source projects with a clear purpose and active maintenance.
+
+Taking a moment to review these points helps maintain the quality and usefulness of the list for new contributors.
+
+---
+
 Thank you for your contribution!
