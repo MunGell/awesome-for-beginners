@@ -1376,6 +1376,15 @@
             "description": "Software to automate the management and configuration of any infrastructure or application at scale."
         },
         {
+            "name": "Stone_Cutter_Auditor",
+            "link": "https://github.com/mylcevaleksandr/Stone_Cutter_Auditor.git",
+            "label": "good first issue",
+            "description": "Building an app using Angular and PyTelegramBotAPI to keep track of the production at a local stone cutting factory in my city.",
+            "technologies": [
+                "Python","Angular"
+            ]
+        },
+        {
             "name": "mygpo",
             "link": "https://github.com/gpodder/mygpo",
             "label": "starter-issue",
