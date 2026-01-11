@@ -262,6 +262,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Symfony](https://github.com/symfony/symfony) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
+- [Admin Notice Plugin](https://github.com/AdityaS62/admin-notice-plugin) _(label: good first issue)_ <br> A beginner-friendly WordPress plugin that demonstrates the use of action hooks to display admin dashboard notices.
+- [Notice Shortcode Plugin](https://github.com/AdityaS62/notice-shortcode-plugin) _(label: good first issue)_ <br> A simple WordPress plugin that introduces shortcodes and frontend rendering with proper output sanitization.
 
 ## Pug
 
