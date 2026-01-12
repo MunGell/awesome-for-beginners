@@ -2119,4 +2119,11 @@
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
     ]
-}
+},
+  {
+    "name": "Example Python Project",
+    "repo": "https://github.com/pypa/sampleproject",
+    "label": "good first issue",
+    "description": "A simple Python project for beginners to learn packaging."
+  }
+]
