@@ -2117,6 +2117,16 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+            "name": "py.ai Content",
+            "link": "https://github.com/cedsic/py.ai-content",
+            "label": "good first issue",
+            "technologies": [
+                "Markdown",
+                "YAML"
+            ],
+            "description": "Content repository for the py.ai website — a community-driven resource for Python and AI learners. Contributors help expand and improve glossary terms, tools, and curated links. Perfect for beginners who want to contribute through simple Markdown/YAML edits."
+        },
     ]
 }
