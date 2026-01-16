@@ -2118,5 +2118,14 @@
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
         }
+        ,
+        {
+            "name": "SmartShield",
+            "link": "https://github.com/akriti04gupta/SmartShield",
+            "label": "good first issue",
+            "technologies": ["Python","TypeScript"],
+            "description": "SmartShield is a secure image-sharing and malware detection system using deep learning and steganography. Beginner-friendly issues available!"
+        }
+
     ]
 }
