@@ -2117,6 +2117,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "fenn",
+            "link": "https://github.com/pyfenn/fenn",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A lightweight Python framework that reduces boilerplate in machine learning projects by automating configuration management, logging, experiment tracking, notifications, and providing ready-to-use ML templates."
         }
     ]
 }
