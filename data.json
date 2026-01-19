@@ -1205,6 +1205,15 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "FilamentPHP",
+            "link": "https://github.com/filamentphp/filament",
+            "label": "good first issue",
+            "technologies": [
+                "PHP"
+            ],
+            "description": "A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire"
+        },
+        {
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
