@@ -59,6 +59,8 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 ### 4. **Additional Resources**
 For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
+okay.
+
 ---
 
 Thank you for your contribution!
