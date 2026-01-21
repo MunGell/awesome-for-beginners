@@ -580,6 +580,7 @@
             ],
             "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
         },
+
         {
             "name": "React Native",
             "link": "https://github.com/facebook/react-native",
@@ -589,6 +590,14 @@
             ],
             "description": "A framework for building native apps with React."
         },
+        {
+            "name": "My Beginner Project",
+            "link": "https://github.com/Mahi-korrapati/my-first-project",
+            "label": "first-timers-only",
+            "technologies": ["C#"],
+            "description": "A simple beginner-friendly project to learn GitHub workflow and programming basics."
+        },
+
         {
             "name": "React server",
             "link": "https://github.com/redfin/react-server",
