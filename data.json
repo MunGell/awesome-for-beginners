@@ -1584,6 +1584,16 @@
             "description": "Ruby on Rails (Rails) is an open source web application framework written in Ruby."
         },
         {
+            "name": "Discourse",
+            "link": "https://github.com/discourse/discourse",
+            "label": "pr-welcome",
+            "technologies": [
+                "Ruby",
+                "JavaScript"
+            ],
+            "description": "A platform for community discussion. Free, open, simple."
+        },
+        {
             "name": "Pyrefly",
             "link": "https://github.com/facebook/pyrefly",
             "label": "good first issue",
