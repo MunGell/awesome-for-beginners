@@ -2117,6 +2117,13 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+	{
+  			"name": "Python 100 Days",
+  			"url": "https://github.com/jackfrued/Python-100-Days",
+  			"description": "A comprehensive Python learning course spanning 100 days, ideal for beginners.",
+  			"language": "Python",
+  			"label": "good first issue"
+		},
     ]
 }
