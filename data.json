@@ -2117,6 +2117,14 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+    {
+        "name": "LinkFree",
+        "repo": "EddieHubCommunity/LinkFree",
+        "description": "Create your own link-in-bio profile. Great for first-time contributors.",
+        "language": "JavaScript",
+        "labels": ["good first issue"]
         }
+
     ]
 }
