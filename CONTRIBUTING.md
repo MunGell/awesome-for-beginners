@@ -59,6 +59,21 @@ If you encounter an issue or have a suggestion that you don't want to implement 
 ### 4. **Additional Resources**
 For a more comprehensive guide on contributing to open-source projects, check out the [First Contributions](https://github.com/firstcontributions/first-contributions) repository.
 
+
+## 💡 Additional Resources for Beginners
+
+If you’re new to open source or contributing to GitHub projects, here are some helpful guides to get you started:
+
+- [How to Contribute to Open Source on GitHub](https://opensource.guide/how-to-contribute/)
+- [Git and GitHub for Beginners – Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [First Contributions Guide](https://github.com/firstcontributions/first-contributions)
+- [Awesome for Beginners Repository](https://github.com/MunGell/awesome-for-beginners)
+
+---
+
+### 🙌 Contributors
+- [Fiza](https://github.com/fizak1234) — added beginner-friendly contribution resources.
+
 ---
 
 Thank you for your contribution!
