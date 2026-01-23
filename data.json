@@ -2117,6 +2117,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Cleanlab",
+            "link": "https://github.com/cleanlab/cleanlab",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Machine learning tools for data-centric AI."
         }
     ]
 }
