@@ -319,6 +319,13 @@
             "description": "Industry-standard container runtime with an emphasis on simplicity, robustness and portability."
         },
         {
+            "name" : "Rana",
+            "link" : "https://github.com/ranaabhishek0702-dotcom/LogiX",
+            "label" : "good first Issue",
+            "technologies":["HTML" , "CSS" , "JS", "LOGIC"]
+
+        },
+        {
             "name": "Meshery",
             "link": "https://github.com/layer5io/meshery",
             "label": "good first issue",
