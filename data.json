@@ -1485,6 +1485,15 @@
             "description": "Embedchain is a framework to easily create LLM powered bots over any dataset."
         },
         {
+          "name": "PyRIT",
+          "link": "https://github.com/Azure/PyRIT",
+          "label": ["beginner", "help wanted", "documentation", "python"],
+          "technologies": [
+              "Python"
+          ]
+          "description": "Python Risk Identification Tool for generative AI — a security framework for identifying risks and evaluating AI model behaviors.",
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
