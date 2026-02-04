@@ -2117,6 +2117,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Rich",
+            "link": "https://github.com/Textualize/rich",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Rich is a Python library for rich text and beautiful formatting in the terminal."
         }
     ]
 }
