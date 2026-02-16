@@ -2091,6 +2091,15 @@
             "description": "Catima, a Loyalty Card & Ticket Manager for Android"
         },
         {
+            "name": "PCRE4J",
+            "link": "https://github.com/alexey-pelykh/pcre4j",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Java binding for the PCRE2 library with java.util.regex-compatible API, wrapper API, and direct PCRE2 API access via JNA and FFM backends."
+        },
+        {
             "name": "FastAPI",
             "link": "https://github.com/tiangolo/fastapi",
             "label": "good first issue",
