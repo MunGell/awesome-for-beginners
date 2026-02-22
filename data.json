@@ -2120,7 +2120,7 @@
         },
         {
             "name": "bux-printer",
-            "link": "https://github.com/bux-project/bux-printer",
+            "link": "https://github.com/princeodein/bux-printer",
             "label": "good first issue",
             "technologies": [
                 "TypeScript"
