@@ -9,7 +9,8 @@
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
-        "C++": "c-2"
+        "C++": "c-2",
+        "HTML": "html"
     },
     "repositories": [
         {
@@ -63,7 +64,8 @@
             "label": "good first issue",
             "technologies": [
                 "C++",
-                "JavaScript"
+                "JavaScript",
+                "HTML"
             ],
             "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
         },
