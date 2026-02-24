@@ -404,7 +404,8 @@
             "link": "https://github.com/appsmithorg/appsmith",
             "label": "good first issue",
             "technologies": [
-                "Java"
+                "Typescript",
+                "Javascript"
             ],
             "description": "Drag & Drop internal tool builder"
         },
@@ -922,15 +923,6 @@
                 "TypeScript"
             ],
             "description": "A blazing fast unit test framework powered by Vite."
-        },
-        {
-            "name": "appsmith",
-            "link": "https://github.com/appsmithorg/appsmith",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Drag & Drop internal tool builder"
         },
         {
             "name": "Jasmine",
