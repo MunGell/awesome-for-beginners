@@ -1332,6 +1332,15 @@
             "description": "The strictest and most opinionated python linter ever!"
         },
         {
+            "name": "shadowsocks-windows",
+            "link": "https://github.com/shadowsocks/shadowsocks-windows",
+            "label": "good first issue",
+            "technologies": [
+                "C#"
+            ],
+            "description": "A C# port of shadowsocks"
+        },
+        {
             "name": "Ansible",
             "link": "https://github.com/ansible/ansible",
             "label": "easyfix",
