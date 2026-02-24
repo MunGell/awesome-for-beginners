@@ -34,13 +34,13 @@ If you would like to be guided through how to contribute to a repository on GitH
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
 |H|[Haskell](#haskell)|
-|J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
+|J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
 |R|[Ruby](#ruby), [Rust](#rust)|
 |S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
-|T|[TypeScript](#typescript)|
+|T|[TypeScript](#typescript), [Typescript](#typescript)|
 
 ## .NET
 
@@ -130,7 +130,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Java
 
-- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [Catima - Android App](https://github.com/CatimaLoyalty/Android) _(label: good first issue)_ <br> Catima, a Loyalty Card & Ticket Manager for Android
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
 - [DSA](https://github.com/abhishektripathi66/DSA) _(label: good first issue)_ <br> DSA questions practising repo for Java developers
@@ -148,7 +147,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair](https://github.com/imolorhe/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
@@ -215,6 +213,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+
+## Javascript
+
+- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 ## JSON
 
@@ -386,6 +388,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vitest](https://github.com/vitest-dev/vitest) _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
+
+## Typescript
+
+- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 
 ## Contribute
