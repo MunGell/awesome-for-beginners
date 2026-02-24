@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+           "name": "BlackVault",
+           "link": "https://github.com/venkat22022202/black-vault",
+           "label": "good first issue",
+           "technologies":[ 
+            "TypeScript"
+        ],
+    "description": "Open-source proxy gateway for AI API keys with encrypted vault and streaming support."
+}
     ]
 }
