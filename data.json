@@ -1432,6 +1432,15 @@
             "description": "Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations."
         },
         {
+            "name": "BeeWare Briefcase",
+            "link": "https://github.com/beeware/briefcase",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Turn Python projects into distributable native applications across desktop and mobile platforms."
+        },
+        {
             "name": "Bokeh",
             "link": "https://github.com/bokeh/bokeh",
             "label": "good first issue",
