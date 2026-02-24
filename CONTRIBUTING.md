@@ -62,3 +62,6 @@ For a more comprehensive guide on contributing to open-source projects, check ou
 ---
 
 Thank you for your contribution!
+
+- Added by Harshit Thakur for practice contribution
+
