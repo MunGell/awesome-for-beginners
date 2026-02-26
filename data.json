@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "bux-printer",
+            "link": "https://github.com/princeodein/bux-printer",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "A simple printer for Bux, a blockchain-based loyalty and rewards platform."
         }
     ]
 }
