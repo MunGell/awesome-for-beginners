@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "Checkstyle",
+            "link": "https://github.com/checkstyle/checkstyle",
+            "label": "good first issue",
+            "technologies": [
+            "Java"
+            ],
+            "description": "A development tool to help programmers write Java code that adheres to a coding standard."
         }
     ]
 }
