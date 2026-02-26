@@ -2109,6 +2109,17 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+            "name": "Faizan",
+            "link": "https://github.com/Mohd5zan",
+            "label": "good first issue",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JAVASCRIPT"
+            ],
+            "description": "Web Developer with above Tech Stack ready to contribute in any Tech."
+        },
     ]
 }
