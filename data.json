@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        }, 
+        {
+            "name": "yoCrypt-Editor",
+            "url": "https://github.com/Yoyo-ace1110/yoCrypt-Editor",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A modern text editor with C++ core encryption and PySide6 UI."
         }
     ]
 }
