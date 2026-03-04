@@ -386,6 +386,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good first issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
+- [AI Seeds](https://github.com/open-ai-school/ai-seeds) _(label: good first issue)_ <br> Free, open-source, multilingual AI education platform. Learn AI from scratch with interactive TensorFlow.js demos. Built with Next.js 15, TypeScript, and TailwindCSS.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vitest](https://github.com/vitest-dev/vitest) _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
 
