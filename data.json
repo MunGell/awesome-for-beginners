@@ -509,6 +509,15 @@
             "description": "A data persistence library for Ember.js."
         },
         {
+            "name": "FileShot.io",
+            "link": "https://github.com/nicholasgriffintn/FileShot.io",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A Node.js and vanilla JS file sharing server with a clean codebase and no framework complexity. Good beginner issues include UI improvements, documentation, and testing."
+        },
+        {
             "name": "freeCodeCamp",
             "link": "https://github.com/freeCodeCamp/freeCodeCamp",
             "label": "first-timers-only",
