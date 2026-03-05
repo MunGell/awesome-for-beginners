@@ -2112,7 +2112,7 @@
 	},
 	{
 		"name": "OpenCV",
-		"link": "",
+		"link": "https://github.com/opencv/opencv",
 		"label": "good first issue",
 		"technologies": [
 			"C++", "Python"
