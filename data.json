@@ -473,6 +473,15 @@
             "description": "Futuristic test runner."
         },
         {
+            "name": "SuggestPilot",
+            "link": "https://github.com/Shantanugupta43/SuggestPilot",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+             ],
+            "description": "A Chrome extension that generates context-aware autocomplete suggestions as you type, powered by Groq's LLM API."
+        },
+        {
             "name": "Kinto.js",
             "link": "https://github.com/Kinto/kinto.js",
             "label": "easy-pick",
