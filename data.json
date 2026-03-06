@@ -60,7 +60,7 @@
         {
             "name": "electron",
             "link": "https://github.com/electron/electron",
-            "label": "good first issue",
+            "label": "beginner friendly",
             "technologies": [
                 "C++",
                 "JavaScript"
