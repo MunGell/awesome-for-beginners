@@ -34,7 +34,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
 |H|[Haskell](#haskell)|
-|J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
+|J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
