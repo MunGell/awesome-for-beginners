@@ -558,8 +558,7 @@
             "link": "https://github.com/code-charity/youtube",
             "label": "good first issue",
             "technologies": [
-                "JavaScript",
-                "CSS"
+                "JavaScript"
             ],
             "description": "A powerful but lightweight extension, to enrich your video experience & enable your content selection."
         },
