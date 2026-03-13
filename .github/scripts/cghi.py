@@ -1,3 +1,23 @@
+GitHub Issue Counter (CLI Tool)
+#
+# This script allows you to check how many open issues exist in 
+# a GitHub repository directly from the command line.
+#
+# How it works:
+# - You provide a repository owner and repository name.
+# - Optionally, you can apply filters (like label filters such as
+#   "good first issue", "bug", etc.).
+# - The script calls GitHub's search API and prints the number of
+#   matching open issues.
+#
+# Example usage:
+#   python script.py microsoft vscode
+#   python script.py microsoft vscode -p label "good first issue"
+#   python script.py torvalds linux -p label bug
+#
+# Requirements:
+#   pip install click requests
+
 import click
 import requests
 
