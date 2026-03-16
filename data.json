@@ -2102,9 +2102,9 @@
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         },
         {
-            "name": "first-contributions",
+            "name": "first-contribution",
             "link": "https://github.com/firstcontributions/first-contributions",
-            "label": "good-first-issue",
+            "label": "best-first-issue",
             "technologies": [
                 "Java"
             ],
