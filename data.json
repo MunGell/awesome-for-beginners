@@ -2102,6 +2102,15 @@
             "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         },
         {
+            "name": "first-contributions",
+            "link": "https://github.com/firstcontributions/first-contributions",
+            "label": "good-first-issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Repository to help beginners make their first pull request"
+        },
+        {
             "name": "supabase",
             "link": "https://github.com/supabase/supabase",
             "label": "good first issue",
