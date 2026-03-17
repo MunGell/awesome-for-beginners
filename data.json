@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "OkHttp",
+            "link": "https://github.com/square/okhttp",
+            "label": "good first issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "The open-source HTTP client for Java and Android. OkHttp makes network communication efficient and resilient with built-in HTTP/2 support, connection pooling, and transparent GZIP."
         }
     ]
 }
