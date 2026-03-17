@@ -404,8 +404,8 @@
             "link": "https://github.com/appsmithorg/appsmith",
             "label": "good first issue",
             "technologies": [
-                "Typescript",
-                "Javascript"
+                "TypeScript",
+                "JavaScript"
             ],
             "description": "Drag & Drop internal tool builder"
         },
