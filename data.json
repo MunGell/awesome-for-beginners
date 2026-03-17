@@ -1242,6 +1242,15 @@
             "description": "Deduplicating backup program with compression and authenticated encryption."
         },
         {
+            "name": "OpenLLMetry",
+            "link": "https://github.com/traceloop/openllmetry",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry."
+        },
+        {
             "name": "scrapy",
             "link": "https://github.com/scrapy/scrapy",
             "label": "good first issue",
