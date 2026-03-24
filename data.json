@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "First Contributions",
+            "link": "https://github.com/firstcontributions/first-contributions",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A simple tutorial to help beginners make their first contribution."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
