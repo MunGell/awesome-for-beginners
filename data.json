@@ -28,7 +28,7 @@
             "technologies": [
                 ".NET"
             ],
-            "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+            "description": "A .NET MVVM framework for building cross-platform applications on Xamarin.iOS, Xamarin.Android, Windows, and Mac."
         },
         {
             "name": "osu!",
