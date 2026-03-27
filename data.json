@@ -138,25 +138,7 @@
                 "C++"
             ],
             "description": "Fast and minimalist 3D viewer."
-        },
-        {
-            "name": "Alda",
-            "link": "https://github.com/alda-lang/alda",
-            "label": "low-hanging fruit",
-            "technologies": [
-                "Go"
-            ],
-            "description": "A music programming language for musicians. 🎶"
-        },
-        {
-            "name": "Metabase",
-            "link": "https://github.com/metabase/metabase",
-            "label": "good first issue",
-            "technologies": [
-                "Clojure",
-                "TypeScript"
-            ],
-            "description": "Open source business intelligence and analytics platform"
+        rce business intelligence and analytics platform"
         },
         {
             "name": "dart.dev",
@@ -2109,6 +2091,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
-        }
+        },
+        {
+    "name": "first-contributions",
+    "link": "https://github.com/firstcontributions/first-contributions",
+    "label": "good first issue",
+    "technologies": [
+        "JavaScript"
+    ],
+    "description": "Help beginners to make their first contribution"
+}
     ]
 }
