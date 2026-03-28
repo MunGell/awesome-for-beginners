@@ -2109,6 +2109,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "github-markdown-toc",
+            "link": "https://github.com/ekalinin/github-markdown-toc",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+           ],
+           "description": "A tool to generate TOC (Table of Contents) for GitHub README.md files."
         }
     ]
 }
