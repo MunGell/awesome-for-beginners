@@ -337,6 +337,15 @@
             "description": "Common Utilities library for Go"
         },
         {
+            "name": "github-markdown-toc",
+            "link": "https://github.com/ekalinin/github-markdown-toc",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "A tool to generate TOC (Table of Contents) for GitHub README.md files."
+        },
+        {
             "name": "TEAMMATES",
             "link": "https://github.com/TEAMMATES/teammates",
             "label": "good first issue",
