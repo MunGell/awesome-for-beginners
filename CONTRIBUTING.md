@@ -8,16 +8,18 @@ It outlines the recommended order for executing tasks and assumes that you have 
 
 _Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._
 
-## Intitial Checks
+## Initial Checks
 
 - **Search for Duplicates**: Check the current list and previous pull requests to avoid submitting duplicates.
 
 ## Repository Requirements
 
-- **Reasonably Developed**: The repository must be reasonably established, along with having with a clear goal or function. New repositories with few commits and little content will likely be rejected.
-- **Active Maintenance**: Ensure the contributed repository is actively maintained.
-- **Appropriate Labels**: Issues with appropriate beginner-friend labels must exist. Confirm with the owner around a label's meaning if it's not obviously beginner-friendly (usually `good-first-issue` or `low-hanging-fruit`).
-- **Supportive Community**: The repository should have a supportive community.
+- **Reasonably Developed**: The repository should be established and have a clear goal or function. Very new repositories with few commits and little content are likely to be rejected.
+- **Actively Maintained**: Ensure the repository is still active (recent commits, open issues, and ongoing updates).
+- **Beginner-Friendly Labels Exist**: At least one open issue should use an appropriate beginner-friendly label.
+- **Clear Label Meaning**: If a label is not obviously beginner-friendly, include proof (such as label documentation, issue template notes, or maintainer confirmation).
+- **Appropriate Scope**: Avoid adding tiny personal repositories intended only for promotion. This list focuses on substantial projects with real contribution opportunities.
+- **Supportive Community**: The project should show welcoming contributor behavior (review activity, contributor docs, or clear issue guidance).
 
 ## Making Changes and Opening a PR (Pull Request)
 
@@ -32,10 +34,9 @@ The easiest way to contribute is by editing the `data.json` file directly in you
    - Ensure to check the following:
        - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
        - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
-       - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Single addition**: Make an individual pull request for each suggestion.
-       - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
+       - **Trailing Whitespace**: Avoid adding trailing whitespace at the end of lines.
+       - **Single Addition**: Create one pull request per suggested repository.
+       - **New Technologies**: New technologies are welcome; if you add one, a new heading will be generated automatically.
 4. Describe your changes concisely in the commit message.
 5. Click **"Propose changes"** to create a new branch and open a Pull Request (PR).
 ---
@@ -43,7 +44,7 @@ The easiest way to contribute is by editing the `data.json` file directly in you
 ### 2. **Submitting a Pull Request (PR)**
 1. After proposing changes, GitHub will guide you through creating a PR.
 2. Fill out the PR form, ensuring its content (especially the title) is understandable, descriptive and relevant.
-3. If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
+3. If your suggested repository uses a non-obvious beginner-friendly issue label, link confirmation or proof that the label is beginner-friendly.
 4. Submit the PR and wait for feedback from the maintainers.
 
 ---
