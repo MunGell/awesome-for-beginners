@@ -43,7 +43,7 @@ The easiest way to contribute is by editing the `data.json` file directly in you
 ### 2. **Submitting a Pull Request (PR)**
 1. After proposing changes, GitHub will guide you through creating a PR.
 2. Fill out the PR form, ensuring its content (especially the title) is understandable, descriptive and relevant.
-3. If your suggest repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
+3. If your suggested repository uses a non-obvious beginner-friendly issue label, ensure to link to confirmation or proof that the label is beginner friendly.
 4. Submit the PR and wait for feedback from the maintainers.
 
 ---
