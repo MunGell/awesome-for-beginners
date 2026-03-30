@@ -153,6 +153,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good first issue)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
+- [Claude Coach Kit](https://github.com/krishna-build/claude-coach-kit) _(label: good first issue)_ <br> Open-source marketing automation toolkit for coaches and solopreneurs.
 - [Create React App](https://github.com/facebook/create-react-app) _(label: good first issue)_ <br> Create React apps with no build configuration.
 - [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -365,6 +366,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Amplication](https://github.com/amplication/amplication) _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Booster](https://github.com/boostercloud/booster) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+- [Claude Coach Kit](https://github.com/krishna-build/claude-coach-kit) _(label: good first issue)_ <br> Open-source marketing automation toolkit for coaches and solopreneurs.
 - [Devopness](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
 - [DocsGPT](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 - [Graphback](https://github.com/aerogear/graphback) _(label: good first issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.

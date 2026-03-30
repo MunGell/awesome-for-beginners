@@ -545,6 +545,16 @@
             "description": "Server-oriented customizable templating for JavaScript."
         },
         {
+            "name": "Claude Coach Kit",
+            "link": "https://github.com/krishna-build/claude-coach-kit",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "description": "Open-source marketing automation toolkit for coaches and solopreneurs."
+        },
+        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
