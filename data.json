@@ -2051,7 +2051,7 @@
             "technologies": [
                 "JavaScript"
             ],
-            "description": "a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
+            "description": "A react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package"
         },
         {
             "name": "Rawsec Cybersecurity Inventory",
@@ -2099,7 +2099,7 @@
                 "Rust",
                 "TypeScript"
             ],
-            "description": "A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
+            "description": "A modern, feature-rich E-book reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface."
         },
         {
             "name": "supabase",
