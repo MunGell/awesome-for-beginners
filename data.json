@@ -1091,15 +1091,6 @@
             "description": "Matomo is the leading Free/Libre open analytics platform."
         },
         {
-            "name": "OrgManager",
-            "link": "https://github.com/orgmanager/orgmanager",
-            "label": "beginners-only",
-            "technologies": [
-                "PHP"
-            ],
-            "description": "Supercharge your GitHub organizations!"
-        },
-        {
             "name": "PHP Censor",
             "link": "https://github.com/php-censor/php-censor",
             "label": "good-for-beginner",
