@@ -260,7 +260,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Matomo](https://github.com/matomo-org/matomo) _(label: help-wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: n/a)_ <br> The free and open-source wiki software package that powers Wikipedia.
 - [NextCloud Server](https://github.com/nextcloud/server) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
-- [OrgManager](https://github.com/orgmanager/orgmanager) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
