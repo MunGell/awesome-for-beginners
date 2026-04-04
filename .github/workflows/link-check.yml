@@ -20,6 +20,5 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --exclude-mail
             --timeout 10
             data.json
