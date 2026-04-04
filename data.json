@@ -781,15 +781,6 @@
             "description": "A compiler for writing next generation JavaScript."
         },
         {
-            "name": "React-content-loader",
-            "link": "https://github.com/danilowoz/create-content-loader",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Tool to create your own react-content-loader easily."
-        },
-        {
             "name": "netlify-cms",
             "link": "https://github.com/netlify/netlify-cms",
             "label": "good first issue",
