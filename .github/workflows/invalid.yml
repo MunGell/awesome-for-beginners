@@ -1,4 +1,4 @@
-name: Check on Invalid PR
+name: Check README.md edit - invalid PR check
 
 on:
   pull_request_target:
@@ -20,14 +20,14 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'This PR is not valid. Please read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/blob/main/CONTRIBUTING.md).'
+              body: 'This PR is not valid (README.md file should not be manually edited). Please read [contributing guidelines](https://github.com/MunGell/awesome-for-beginners/blob/main/CONTRIBUTING.md).'
             });
-            if (context.payload.pull_request.labels.indexOf('Invalid') === -1) {
+            if (context.payload.pull_request.labels.indexOf('invalid: README.md edited') === -1) {
               await github.rest.issues.addLabels({
                 issue_number: context.issue.number,
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                labels: ['Invalid']
+                labels: ['invalid: README.md edited']
               });
             }
             await github.rest.pulls.update({
