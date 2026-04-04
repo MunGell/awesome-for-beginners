@@ -1764,15 +1764,6 @@
             "description": "A 0-legacy, tiny & fast web framework as a replacement of Express."
         },
         {
-            "name": "a-b-street",
-            "link": "https://github.com/a-b-street/abstreet",
-            "label": "good first issue",
-            "technologies": [
-                "Rust"
-            ],
-            "description": "Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit."
-        },
-        {
             "name": "typescript-eslint",
             "link": "https://github.com/typescript-eslint/typescript-eslint",
             "label": "good first issue",
