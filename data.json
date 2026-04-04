@@ -591,15 +591,6 @@
             "description": "A framework for building native apps with React."
         },
         {
-            "name": "React server",
-            "link": "https://github.com/redfin/react-server",
-            "label": "good-first-contribution",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "React framework with server render for blazing fast page load and seamless transitions between pages in the browser."
-        },
-        {
             "name": "Berry - Active development trunk for Yarn",
             "link": "https://github.com/yarnpkg/berry",
             "label": "good first issue",
