@@ -1863,6 +1863,16 @@
             "description": "End-to-end encryption and mutual authentication for distributed applications."
         },
         {
+            "name": "SigNoz",
+            "link": "https://github.com/SigNoz/signoz",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "Go"
+            ],
+            "description": "An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application."
+        },
+        {
             "name": "H2O Wave",
             "link": "https://github.com/h2oai/wave",
             "label": "good first issue",
