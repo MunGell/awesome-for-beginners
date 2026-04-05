@@ -272,6 +272,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
 - [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Analysis of Bayesian Models.
+- [BeeWare Briefcase](https://github.com/beeware/briefcase) _(label: good first issue)_ <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
 - [Bokeh](https://github.com/bokeh/bokeh) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good first issue)_ <br> Building a Better Democracy for the Internet Age
