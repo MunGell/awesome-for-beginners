@@ -1818,15 +1818,6 @@
             "description": "Ncurses XMPP chat client."
         },
         {
-            "name": "Superalgos",
-            "link": "https://github.com/Superalgos/Superalgos",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token."
-        },
-        {
             "name": "Ockam",
             "link": "https://github.com/ockam-network/ockam",
             "label": "good first issue",
