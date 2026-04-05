@@ -199,7 +199,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [stryker](https://github.com/stryker-mutator/stryker) _(label: 👶 Good first issue)_ <br> The JavaScript mutation testing framework
-- [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good first issue)_ <br> Swag opportunities for developers.
 - [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
