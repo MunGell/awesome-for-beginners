@@ -2083,6 +2083,15 @@
                 "TypeScript"
             ],
             "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
+        },
+        {
+            "name": "OopsSec Store",
+            "link": "https://github.com/kOaDT/oss-oopssec-store",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "An intentionally vulnerable e-commerce application for web security training and CTF practice, built with Next.js and React."
         }
     ]
 }
