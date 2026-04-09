@@ -364,6 +364,16 @@
             "description": "Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions."
         },
         {
+  "name": "Spring PetClinic",
+  "link": "https://github.com/spring-projects/spring-petclinic",
+  "label": "good first issue",
+  "technologies": [
+    "Java"
+  ],
+  "description": "A canonical Spring Boot sample application used to demonstrate Spring ecosystem features."
+},
+
+        {
             "name": "Wikimedia Commons Android App",
             "link": "https://github.com/commons-app/apps-android-commons",
             "label": "good first issue",
