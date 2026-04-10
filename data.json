@@ -2087,7 +2087,7 @@
         {
             "name": "Surge",
             "link": "https://github.com/SurgeDM/Surge",
-            "label" "good first issue",
+            "label": "good first issue",
             "technologies": [
                 "Go",
                 "Typescript"
