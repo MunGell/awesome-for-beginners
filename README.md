@@ -261,7 +261,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
 - [Symfony](https://github.com/symfony/symfony) _(label: good first issue)_ <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
-- [Loan Sahayak](https://github.com/Arnav-Singh-5080/Loan-Sahayak-Smart-Loan-Predictor) _(label: beginner-friendly)_ <br> Machine learning based loan eligibility prediction system for beginners to understand real-world ML applications.
 
 ## Pug
 
@@ -312,6 +311,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
+- [Loan Sahayak](https://github.com/Arnav-Singh-5080/Loan-Sahayak-Smart-Loan-Predictor) _(label: beginner-friendly)_ <br> Machine learning based loan eligibility prediction system for beginners to understand real-world ML applications.
 
 ## Ruby
 
