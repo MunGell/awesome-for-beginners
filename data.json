@@ -42,7 +42,7 @@
         {
             "name": "Cake",
             "link": "https://github.com/cake-build/cake",
-            "label": "good first issue",
+            "label": "Good first issue",
             "technologies": [
                 "C#"
             ],
