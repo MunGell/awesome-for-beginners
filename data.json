@@ -2092,6 +2092,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "appwrite",
+            "link": "https://github.com/appwrite/appwrite",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "Docker"
+            ],
+            "description": "Appwrite is an open-source backend server that simplifies web and mobile app development with authentication, databases, and storage."
         }
     ]
 }
