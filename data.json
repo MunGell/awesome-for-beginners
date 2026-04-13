@@ -2092,6 +2092,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "sE2EEnd",
+            "link": "https://github.com/sE2EEnd/sE2EEnd",
+            "label": "good first issue",
+            "technologies": [
+                "Java",
+                "TypeScript"
+            ],
+            "description": "Self-hosted, end-to-end encrypted file sharing. The server never sees your files or encryption keys."
         }
     ]
 }
