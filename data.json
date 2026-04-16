@@ -2092,6 +2092,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Plane",
+            "link": "https://github.com/makeplane/plane",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Open source project management tool, an alternative to Jira, Linear and Asana."
         }
     ]
 }
