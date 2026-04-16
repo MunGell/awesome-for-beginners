@@ -2093,5 +2093,17 @@
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
         }
+
+        {
+            "name": "trustcheck",
+            "link": "https://github.com/Halfblood-Prince/trustcheck",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "a Python CLI and library that evaluates PyPI package trust using metadata, vulnerabilities, provenance, publisher signals, and repo consistency, with support for dependency scans and CI-friendly output."
+"
+        }
+        
     ]
 }
