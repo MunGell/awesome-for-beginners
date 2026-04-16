@@ -1018,6 +1018,15 @@
             "description": "A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON."
         },
         {
+            "name": "TreeTracker Android",
+            "link": "https://github.com/Greenstand/treetracker-android",
+            "label": "good first issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "Android application used to capture and track tree planting data for global reforestation projects."
+        },
+        {
             "name": "tldr-pages",
             "link": "https://github.com/tldr-pages/tldr",
             "label": "help-wanted",
