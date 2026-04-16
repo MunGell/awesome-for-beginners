@@ -19,6 +19,16 @@
             "technologies": [
                 ".NET"
             ],
+            {
+            "name": "appwrite",
+            "link": "https://github.com/appwrite/appwrite",
+            "label": "good first issue",
+           "technologies": [
+            "TypeScript",
+               "Node.js"
+  ],
+  "description": "Appwrite is an open-source backend server that provides developers with APIs for authentication, databases, storage, and more. It is actively maintained and offers beginner-friendly issues for new contributors."
+}
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
