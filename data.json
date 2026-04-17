@@ -2092,6 +2092,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Grafana",
+            "link": "https://github.com/grafana/grafana",
+            "label": "good first issue",
+            "technologies": [
+                "Go",
+                "TypeScript"
+            ],
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
         }
     ]
 }
