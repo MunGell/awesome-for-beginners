@@ -2093,5 +2093,14 @@
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
         }
+        {
+            "name": "Nim",
+            "link": "https://github.com/nim-lang/Nim",
+            "label": "good first issue",
+            "technologies": [
+                "Nim"
+            ],
+            "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula."
+        }
     ]
 }
