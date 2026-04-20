@@ -12,7 +12,7 @@ def get_open_issues(repo_owner, repo_name, search_params):
         # print(data)
         print(data["total_count"])
     else:
-        printer(f"HTTP Error: {response.status_code}")
+        print(f"HTTP Error: {response.status_code}")
         exit(1)
 
 @click.command()
