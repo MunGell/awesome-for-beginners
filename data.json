@@ -9,7 +9,8 @@
     "technologies": {
         ".NET": "net",
         "C#": "c-1",
-        "C++": "c-2"
+        "C++": "c-2",
+        "CSS":"css"
     },
     "repositories": [
         {
@@ -2092,6 +2093,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
-        }
+        },
+        {
+  "name": "last-existing-project"
+},
+{
+  "name": "butterfly-css",
+  "link": "https://github.com/AMR2010M/butterfly-css",
+  "label": "good first issue",
+  "technologies": ["CSS"],
+  "description": "A lightweight CSS framework using HTML attributes for styling and animations"
+}
     ]
 }
