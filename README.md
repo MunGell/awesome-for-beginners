@@ -391,6 +391,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Typescript
 
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 ## Contribute
