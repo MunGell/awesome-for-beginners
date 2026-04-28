@@ -211,6 +211,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+* [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - A CLI that audits GitHub Actions workflows for cost waste, security gaps, and reliability bugs. 16 rules. Six well-scoped good-first-issue tickets currently open across the family of repos.
 
 ## Javascript
 
