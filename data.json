@@ -1414,6 +1414,16 @@
             "description": "Turn Python projects into distributable native applications across desktop and mobile platforms."
         },
         {
+            "name": "Bible School LMS",
+            "link": "https://github.com/ArVaViT/biblie-school",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript"
+            ],
+            "description": "Learning management system for Bible schools and nonprofit education with courses, quizzes, and progress tracking."
+        },
+        {
             "name": "Bokeh",
             "link": "https://github.com/bokeh/bokeh",
             "label": "good first issue",
