@@ -66,6 +66,11 @@
                 "JavaScript"
             ],
             "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
+        {
+            "name" : "karthik",
+            "link":
+            "label": "good first issue",
+        
         },
         {
             "name": "Godot Engine",
