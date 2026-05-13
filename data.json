@@ -1755,6 +1755,15 @@
             "description": "Litmus is a toolset to do cloud-native chaos engineering."
         },
         {
+            "name": "Bilig",
+            "link": "https://github.com/proompteng/bilig",
+            "label": "first-timers-only",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Headless workbook runtime for TypeScript services, spreadsheet formulas, and coding-agent tools."
+        },
+        {
             "name": "Booster",
             "link": "https://github.com/boostercloud/booster",
             "label": "good first issue",
