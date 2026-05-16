@@ -54,6 +54,7 @@
             "label": "good first issue",
             "technologies": [
                 "C#"
+                ".NET"
             ],
             "description": "A .NET library that makes it easier to create beautiful console applications."
         },
@@ -63,7 +64,9 @@
             "label": "good first issue",
             "technologies": [
                 "C++",
-                "JavaScript"
+                "JavaScript",
+                "HTML",
+                "CSS"
             ],
             "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
         },
@@ -72,7 +75,9 @@
             "link": "https://github.com/godotengine/godot",
             "label": "good first issue",
             "technologies": [
-                "C++"
+                "C++",
+                "C#"
+                
             ],
             "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
         },
