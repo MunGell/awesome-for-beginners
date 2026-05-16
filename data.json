@@ -18,6 +18,8 @@
             "label": "first-timers-only",
             "technologies": [
                 ".NET"
+                "C#"
+                
             ],
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
