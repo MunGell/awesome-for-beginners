@@ -1933,6 +1933,17 @@
             "description": "Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege."
         },
         {
+            "name": "Open Source Starter Lab",
+            "link": "https://github.com/P-r-e-m-i-u-m/open-source-starter-lab",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript",
+                "Markdown"
+            ],
+            "description": "A beginner-friendly lab for practicing Git, GitHub, pull requests, CI, TypeScript CLI work, and maintainer habits through small guided issues."
+        },
+        {
             "name": "Storybook JS",
             "link": "https://github.com/storybookjs/storybook",
             "label": "good first issue",
