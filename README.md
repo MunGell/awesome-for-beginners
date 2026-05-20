@@ -187,6 +187,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Next.js](https://github.com/vercel/next.js) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [Node.js core](https://github.com/nodejs/node) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 - [nuclear](https://github.com/nukeop/nuclear) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
+- [Open Source Starter Lab](https://github.com/P-r-e-m-i-u-m/open-source-starter-lab) _(label: good first issue)_ <br> A beginner-friendly lab for practicing Git, GitHub, pull requests, CI, TypeScript CLI work, and maintainer habits through small guided issues.
 - [p5.js](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [pixi.js](https://github.com/pixijs/pixi.js) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
 - [PouchDB](https://github.com/pouchdb/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
@@ -234,6 +235,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Markdown
 
+- [Open Source Starter Lab](https://github.com/P-r-e-m-i-u-m/open-source-starter-lab) _(label: good first issue)_ <br> A beginner-friendly lab for practicing Git, GitHub, pull requests, CI, TypeScript CLI work, and maintainer habits through small guided issues.
 - [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
 - [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
@@ -374,6 +376,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
 - [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowing developers to create a backend easily and quickly.
 - [Metabase](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
+- [Open Source Starter Lab](https://github.com/P-r-e-m-i-u-m/open-source-starter-lab) _(label: good first issue)_ <br> A beginner-friendly lab for practicing Git, GitHub, pull requests, CI, TypeScript CLI work, and maintainer habits through small guided issues.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
