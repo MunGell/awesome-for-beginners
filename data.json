@@ -76,6 +76,21 @@
             ],
             "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
         },
+
+        {
+            "name":"Prompt-wars-hvac",
+            "link":"https://github.com/Jha-2022/Prompt-wars-hvac",
+            "label":"good first issue",
+            "technologies": [
+                "javascript",
+                "html",
+                "css",
+                "react",
+                "python"
+            ],
+
+            "description": "Smart HVAC AI Monitoring Platform VenueHub is a real-time, AI-driven facility monitoring dashboard designed to optimize HVAC (Heating, Ventilation, and Air Conditioning) systems."
+        }
         {
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
