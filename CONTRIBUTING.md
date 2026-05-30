@@ -6,7 +6,7 @@ This guide aims to help you get started contributing new repositories to the lis
 
 It outlines the recommended order for executing tasks and assumes that you have identified a repository you wish to add to the list. Check out the repository requirements section, if you would like to know what a good addition should have.
 
-_Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._
+_Please note that the list in this repository is intended for more substantial projects, and we kindly ask that small personal projects not be added in the hope of receiving contributions. Thank you for your understanding._                             
 
 ## Initial Checks
 
