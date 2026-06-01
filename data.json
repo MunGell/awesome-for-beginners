@@ -1737,15 +1737,6 @@
             "description": "Reatom is declarative and reactive state manager, designed for both simple and complex applications."
         },
         {
-            "name": "Graphback",
-            "link": "https://github.com/aerogear/graphback",
-            "label": "good first issue",
-            "technologies": [
-                "TypeScript"
-            ],
-            "description": "A CLI and runtime framework to generate a GraphQL API in seconds."
-        },
-        {
             "name": "LitmusChaos",
             "link": "https://github.com/litmuschaos/litmus",
             "label": "good first issue",
@@ -1875,15 +1866,6 @@
                 ".NET"
             ],
             "description": "A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET."
-        },
-        {
-            "name": "Legerity for Uno Platform",
-            "link": "https://github.com/MADE-Apps/legerity-uno",
-            "label": "good first issue",
-            "technologies": [
-                ".NET"
-            ],
-            "description": "An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET."
         },
         {
             "name": "OMRChecker",
