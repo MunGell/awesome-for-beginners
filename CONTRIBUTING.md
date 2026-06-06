@@ -14,7 +14,7 @@ _Please note that the list in this repository is intended for more substantial p
 
 ## Repository Requirements
 
-- **Reasonably Developed**: The repository must be reasonably established, along with having with a clear goal or function. New repositories with few commits and little content will likely be rejected.
+- **Reasonably Developed**: The repository must be reasonably established, along with having a clear goal or function. New repositories with few commits and little content will likely be rejected.
 - **Active Maintenance**: Ensure the contributed repository is actively maintained.
 - **Appropriate Labels**: Issues with appropriate beginner-friend labels must exist. Confirm with the owner around a label's meaning if it's not obviously beginner-friendly (usually `good-first-issue` or `low-hanging-fruit`).
 - **Supportive Community**: The repository should have a supportive community.
@@ -32,7 +32,7 @@ The easiest way to contribute is by editing the `data.json` file directly in you
    - Ensure to check the following:
        - **Direct Links**: Links must point directly to the repository. No tracking links are allowed. This list is not for advertising purposes.
        - **Spelling and Grammar**: Proofread your contribution for spelling and grammar errors.
-       - **Trailing Whitespace**: Ensure to avoiding adding any trailing whitespace (at the end of lines).
+       - **Trailing Whitespace**: Avoid adding any trailing whitespace (at the end of lines).
        - **Single addition**: Submit one pull request per repository suggestion.
        - **New  Technologies**: New technologies are welcomed, all you need to do is add them and a new heading will be generated for them.
 4. Describe your changes concisely in the commit message.
