@@ -1414,8 +1414,8 @@
             "description": "Turn Python projects into distributable native applications across desktop and mobile platforms."
         },
         {
-            "name": "Bible School LMS",
-            "link": "https://github.com/ArVaViT/biblie-school",
+            "name": "Equip",
+            "link": "https://github.com/ArVaViT/equip",
             "label": "good first issue",
             "technologies": [
                 "Python",
