@@ -2092,6 +2092,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "mos",
+            "link": "https://github.com/dhiraj2105/mos",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "Python"
+            ],
+            "description": "A lightweight memory infrastructure service for LLM applications. It provides long-term memory storage, semantic retrieval over embeddings, prompt context construction, and memory expiration support."
         }
     ]
 }
