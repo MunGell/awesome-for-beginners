@@ -446,6 +446,16 @@
             "description": "The easy-to-use OpenStreetMap editor in JavaScript."
         },
         {
+            "name": "Payload Components",
+            "link": "https://github.com/Ducksss/payload-components",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "description": "MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects."
+        },
+        {
             "name": "PouchDB",
             "link": "https://github.com/pouchdb/pouchdb",
             "label": "help-wanted",
