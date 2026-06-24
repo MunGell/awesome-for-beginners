@@ -1782,6 +1782,16 @@
             "description": "Monorepo for all the tooling which enables ESLint to support TypeScript."
         },
         {
+            "name": "Docusaurus",
+            "link": "https://github.com/facebook/docusaurus",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "description": "An optimized web framework for building content-driven websites quickly."
+        },
+        {
             "name": "Colossal-AI",
             "link": "https://github.com/hpcaitech/ColossalAI",
             "label": "good first issue",
