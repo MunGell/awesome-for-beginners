@@ -9,6 +9,19 @@ TARGETFILE = "./README.md"
 def new_technology_dict(repo_technology):
     return {"link_id": repo_technology.lower(), "entries": []}
 
+
+def escape_angle_brackets(text):
+    return str(text).replace("<", "&lt;").replace(">", "&gt;")
+
+
+def escape_description(text):
+    escaped_text = escape_angle_brackets(text)
+    escaped_text = escaped_text.replace("&lt;br&gt;", "<br>")
+    escaped_text = escaped_text.replace("&lt;br/&gt;", "<br/>")
+    escaped_text = escaped_text.replace("&lt;br /&gt;", "<br />")
+    return escaped_text
+
+
 technologies = {}
 
 with open(DATAFILE, "r") as datafile:
@@ -28,6 +41,8 @@ for repository in data["repositories"]:
         technologies[repo_technology]["entries"].append(repository)
 
 env = Environment(loader=FileSystemLoader(TEMPLATEPATH))
+env.filters["escape_angle_brackets"] = escape_angle_brackets
+env.filters["escape_description"] = escape_description
 template = env.get_template(TEMPLATEFILE)
 
 categories = []

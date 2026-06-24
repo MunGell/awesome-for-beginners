@@ -19,11 +19,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ||Languages|
 |--|--|{% for category_group, categories in category_groups.items() %}
-|{{ category_group }}|{% for category in categories %}[{{ category.title }}](#{{ category.link_id }}){% if loop.index < (categories | length) %}, {% endif %}{% endfor %}|{% endfor %}
+|{{ category_group }}|{% for category in categories %}[{{ category.title | escape_angle_brackets }}](#{{ category.link_id }}){% if loop.index < (categories | length) %}, {% endif %}{% endfor %}|{% endfor %}
 {% for category in categories %}
-## {{ category.title }}
+## {{ category.title | escape_angle_brackets }}
 {% for entry in category.entries %}
-- [{{ entry.name }}]({{ entry.link }}) _(label: {% if entry.label is defined %}{{ entry.label }}{% else %}n/a{% endif %})_ <br> {{ entry.description }}{% endfor %}
+- [{{ entry.name | escape_angle_brackets }}]({{ entry.link }}) _(label: {% if entry.label is defined %}{{ entry.label | escape_angle_brackets }}{% else %}n/a{% endif %})_ <br> {{ entry.description | escape_description }}{% endfor %}
 {% endfor %}
 
 ## Contribute
@@ -32,7 +32,7 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## Thanks to GitHub Sponsors
 
-<table><tr>{% for sponsor in sponsors %}{% if loop.index != 1 and (loop.index - 1) % 6 == 0 %}</tr><tr>{% endif %}<td align="center"><a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" width="60px;" alt=""/><br/><sub><b>{{ sponsor.name }}</b></sub></a></td>{% endfor %}</tr></table>
+<table><tr>{% for sponsor in sponsors %}{% if loop.index != 1 and (loop.index - 1) % 6 == 0 %}</tr><tr>{% endif %}<td align="center"><a href="{{ sponsor.link }}"><img src="{{ sponsor.image }}" width="60px;" alt=""/><br/><sub><b>{{ sponsor.name | escape_angle_brackets }}</b></sub></a></td>{% endfor %}</tr></table>
 
 ## License
 
