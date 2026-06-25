@@ -1,19 +1,25 @@
 import click
 import requests
 
-def get_open_issues(repo_owner, repo_name, search_params):
-    api_url = f"https://api.github.com/search/issues?q=is:issue%20state:open%20repo:{repo_owner}/{repo_name}"
+DEFAULT_TIMEOUT_SECONDS = 10
+
+
+def get_open_issues(repo_owner, repo_name, search_params, timeout_seconds=DEFAULT_TIMEOUT_SECONDS):
+    query_parts = ["is:issue", "state:open", f"repo:{repo_owner}/{repo_name}"]
     for search_param, param in search_params:
-        api_url += f'%20{search_param}:"{param}"'
-    print(api_url)
-    response = requests.get(api_url)
-    if response.status_code == 200:
-        data = response.json()
-        # print(data)
-        print(data["total_count"])
-    else:
-        printer(f"HTTP Error: {response.status_code}")
-        exit(1)
+        query_parts.append(f'{search_param}:"{param}"')
+
+    try:
+        response = requests.get(
+            "https://api.github.com/search/issues",
+            params={"q": " ".join(query_parts)},
+            timeout=timeout_seconds,
+        )
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        raise click.ClickException(f"GitHub API request failed: {exc}") from exc
+
+    click.echo(response.json()["total_count"])
 
 @click.command()
 @click.argument("repo_owner")
@@ -29,10 +35,17 @@ def get_open_issues(repo_owner, repo_name, search_params):
     e.g. `-p label "good first issue"`
     '''
 )
-def cghi(repo_owner, repo_name, search_params):
-    """Counts the number of GitHub issues"""
-    print(search_params)
-    get_open_issues(repo_owner, repo_name, search_params)
+@click.option(
+    "--timeout",
+    "timeout_seconds",
+    default=DEFAULT_TIMEOUT_SECONDS,
+    show_default=True,
+    type=click.IntRange(min=1),
+    help="Seconds to wait for GitHub before failing fast.",
+)
+def cghi(repo_owner, repo_name, search_params, timeout_seconds):
+    """Count open GitHub issues without waiting indefinitely for the API."""
+    get_open_issues(repo_owner, repo_name, search_params, timeout_seconds=timeout_seconds)
 
 if __name__ == "__main__":
     cghi()
