@@ -145,6 +145,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good first issue)_ <br> Desktop browser for macOS, Windows, and Linux.
+- [career-ops](https://github.com/santifer/career-ops) _(label: good first issue)_ <br> CLI-agnostic job-search automation: pipeline tracking, offer evaluation, CV generation, and zero-token job scanning. Runs on any AI coding CLI.
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good first issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
 - [Create React App](https://github.com/facebook/create-react-app) _(label: good first issue)_ <br> Create React apps with no build configuration.
 - [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
