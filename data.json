@@ -1170,6 +1170,15 @@
             "description": "The free and open-source wiki software package that powers Wikipedia."
         },
         {
+            "name": "Kitab",
+            "link": "https://github.com/abdulrahman-103/Kitab",
+            "label": "help-wanted",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A simple and lightweight word processor written in qt (pyside6)."
+        },
+        {
             "name": "PyMC",
             "link": "https://github.com/pymc-devs/pymc",
             "label": "beginner friendly",
