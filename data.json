@@ -2092,6 +2092,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "FirstCommit",
+            "link": "https://github.com/Ayushmore1214/FirstCommit",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "CSS"
+            ],
+            "description": "A beginner-friendly open source learning lab with a DevOps glossary, built to help newcomers make their first real open source contribution."
         }
     ]
 }
