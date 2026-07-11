@@ -104,6 +104,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
 - [Helm](https://github.com/kubernetes/helm) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
+- [IronClaw](https://github.com/IronSecCo/ironclaw) _(label: good first issue)_ <br> Security-first, self-hosted AI agents with container isolation you can prove: run untrusted agent code in hardened sandboxes.
 - [Kanister](https://github.com/kanisterio/kanister) _(label: good first issue)_ <br> A Data Protection Workflow Management Engine
 - [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
