@@ -664,6 +664,15 @@
             "description": "Fast and low overhead web framework, for Node.js."
         },
         {
+            "name": "Express",
+            "link": "https://github.com/expressjs/express",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Fast, unopinionated, minimalist web framework for Node.js."
+        },
+        {
             "name": "Node.js core",
             "link": "https://github.com/nodejs/node",
             "label": "good first issue",
