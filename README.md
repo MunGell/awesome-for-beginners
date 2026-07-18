@@ -133,7 +133,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good first issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good first issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons) _(label: good first issue)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues) _(label: onboarding)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [XWiki](https://jira.xwiki.org/issues) _(label: onboarding)_ <br> XWiki is a free wiki software platform written in Java with a design emphasis on extensibility. Beginners should follow the [onboarding wiki](https://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode) _(label: good first issue)_ <br> API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly.
 
 ## JavaScript
@@ -395,6 +395,6 @@ Contributions are welcome! See the [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
