@@ -2048,6 +2048,16 @@
             "description": "A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints."
         },
         {
+            "name": "AI Language Partner",
+            "link": "https://github.com/duct-tape2/ai-language-partner",
+            "label": "first-timers-only",
+            "technologies": [
+                "TypeScript",
+                "Python"
+            ],
+            "description": "Local-first Japanese speaking practice app for Korean learners with Expo, FastAPI, and local STT/TTS."
+        },
+        {
             "name": "Readest",
             "link": "https://github.com/readest/readest",
             "label": "good first issue",
