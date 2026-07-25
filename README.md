@@ -37,7 +37,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## .NET
 
 - [Legerity](https://github.com/MADE-Apps/legerity) _(label: good first issue)_ <br> A framework for speeding up the development of automated UI tests for Windows, Android, iOS, and Web with Appium/Selenium on .NET.
-- [Legerity for Uno Platform](https://github.com/MADE-Apps/legerity-uno) _(label: good first issue)_ <br> An extension framework to Legerity for speeding up the development of automated UI tests for Uno Platform applications with Appium/Selenium on .NET.
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 
 ## Angular
@@ -357,7 +356,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Booster](https://github.com/boostercloud/booster) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [Devopness](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
 - [DocsGPT](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
-- [Graphback](https://github.com/aerogear/graphback) _(label: good first issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [Impler.io](https://github.com/implerhq/impler.io) _(label: good first issue)_ <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
