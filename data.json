@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Nora",
+            "link": "https://github.com/solomon2773/nora",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Self-hosted control plane for deploying, monitoring, and operating AI agents on Docker and Kubernetes."
         }
     ]
 }
