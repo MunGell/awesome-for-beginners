@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "scikit-learn",
+            "link": "https://github.com/scikit-learn/scikit-learn",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Machine learning library for Python with tools for classification, regression, clustering, and more."
         }
     ]
 }
