@@ -71,7 +71,7 @@
             "name": "Godot Engine",
             "link": "https://github.com/godotengine/godot",
             "label": "good first issue",
-            "technologies": [
+            "tech": [
                 "C++"
             ],
             "description": "2D and 3D cross-platform game engine. Also has C# and Python code."
@@ -80,7 +80,7 @@
             "name": "projectM",
             "link": "https://github.com/projectM-visualizer/projectm",
             "label": "good first issue",
-            "technologies": [
+            "tech": [
                 "C++"
             ],
             "description": "A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi."
@@ -89,7 +89,7 @@
             "name": "Roc Toolkit",
             "link": "https://github.com/roc-streaming/roc-toolkit",
             "label": "help-wanted",
-            "technologies": [
+            "tech": [
                 "C++"
             ],
             "description": "A toolkit for real-time audio streaming over the network."
@@ -128,12 +128,12 @@
             "technologies": [
                 "C++"
             ],
-            "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese)."
+            "des": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese)."
         },
         {
             "name": "F3D",
             "link": "https://github.com/f3d-app/f3d",
-            "label": "good first issue",
+            "label123": "good first issue",
             "technologies": [
                 "C++"
             ],
@@ -162,7 +162,7 @@
             "name": "dart.dev",
             "link": "https://github.com/dart-lang/site-www",
             "label": "beginner",
-            "technologies": [
+            "tech": [
                 "Dart"
             ],
             "description": "A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps."
@@ -217,7 +217,7 @@
             "technologies": [
                 "Go"
             ],
-            "description": "The Kubernetes Package Manager"
+            "description": "TheKubernetes Package Manager"
         },
         {
             "name": "Hugo",
@@ -226,7 +226,7 @@
             "technologies": [
                 "Go"
             ],
-            "description": "A Fast and Flexible Static Site Generator built with love in GoLang"
+            "description": "A Fast and Flexible StaticSite Generator built with love in GoLang"
         },
         {
             "name": "Kanister",
@@ -281,7 +281,7 @@
             "technologies": [
                 "Go"
             ],
-            "description": "A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database"
+            "description": "A distributed scalable hybrid Transactional and Analytical Processing (HTAP) database"
         },
         {
             "name": "script",
