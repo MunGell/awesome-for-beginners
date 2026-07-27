@@ -2074,6 +2074,18 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Img2Num",
+            "link": "https://github.com/Ryan-Millard/Img2Num",
+            "label": "good first issue",
+            "technologies": [
+                "C",
+                "C++",
+                "JavaScript",
+                "Python"
+            ],
+            "description": "Cross-platform raster-to-SVG vectorization library designed for natural images."
         }
     ]
 }
