@@ -1459,6 +1459,15 @@
             "description": "Mem0 is a memory framework for LLM applications."
         },
         {
+            "name": "Django ORM Lens",
+            "link": "https://github.com/FROWNINGdev/django-orm-lens",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Static analysis for Django models: ER diagrams, N+1 detection and migration-risk linting, exposed as a CLI, a VS Code extension and an MCP server. Parses source directly, so no database or Django import is needed."
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
