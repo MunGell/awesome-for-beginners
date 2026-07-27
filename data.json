@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "PatchRail",
+            "link": "https://github.com/patchrail/patchrail",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Local-first CLI that explains CI failure logs by classifying the root cause of a failed build and suggesting a reproduction command, all offline."
         }
     ]
 }
