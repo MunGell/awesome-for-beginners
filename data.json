@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "MoonDownloader",
+            "link": "https://github.com/LeyckerS/moondownloader",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Bulk file downloader for Windows: real-Chrome extraction over CDP, pure-HTTP extraction with a Chrome TLS fingerprint, aiohttp streaming, a WebView2 GUI and a headless CLI."
         }
     ]
 }
