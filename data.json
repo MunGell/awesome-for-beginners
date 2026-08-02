@@ -21,6 +21,18 @@
             ],
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
+     {
+            "name": "Betterly",
+            "link": "https://github.com/Princy-y/Betterly",
+            "label": "need-contributions",
+            "technologies": [
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "PostCSS"
+            ],
+            "description": "A modern productivity and organization web application built with Next.js and TypeScript. Betterly focuses on delivering a responsive and intuitive user experience to help users manage tasks, improve workflows, and stay organized efficiently."
+        },
         {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
