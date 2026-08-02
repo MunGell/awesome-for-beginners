@@ -2074,6 +2074,17 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
-        }
+        },
+        {
+            "name": "Claude Coach Kit",
+            "link": "https://github.com/krishna-build/claude-coach-kit",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "React",
+                "Supabase"
+            ],
+            "description": "Open-source marketing automation toolkit. Has good-first-issue labels for beginners."
+        },
     ]
 }
