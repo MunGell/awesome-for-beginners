@@ -1567,6 +1567,14 @@
             "description": "A fast Python typechecker and IDE written in Rust."
         },
         {
+  "name": "OpenObserve",
+  "desc": "Open source observability platform for logs, metrics, and traces.",
+  "site": "https://github.com/openobserve/openobserve",
+  "tags": [
+    "Rust"
+  ]
+},
+        {
             "name": "Servo",
             "link": "https://github.com/servo/servo",
             "label": "E-easy",
