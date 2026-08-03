@@ -247,6 +247,15 @@
             "description": "Production-Grade Container Scheduling and Management System"
         },
         {
+            "name": "enrich-companies",
+            "link": "https://github.com/Alessandro114/enrich-companies",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "CLI tool to enrich CSV files with company data from 250M+ records. Revenue, employees, credit score, NACE codes, and more."
+        },
+        {
             "name": "Mattermost",
             "link": "https://github.com/mattermost/mattermost",
             "label": "Good First Issue, Difficulty/1:Easy",
