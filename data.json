@@ -31,6 +31,15 @@
             "description": "Music game. Rhythm is just a click away!"
         },
         {
+            "name": "gauravbuildz",
+            "link": "https://github.com/gauravbuildz/smart-campus-management.git",
+            "label": "good first issue",
+            "technologies": [
+                "typescript,next.js,react"
+            ],
+            "description": "smart management system using Ai."
+        },
+        {
             "name": "Uno Platform",
             "link": "https://github.com/unoplatform/uno",
             "label": "good first issue",
