@@ -1277,11 +1277,11 @@
             "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing."
         },
         {
-            "name": "Faker",
-            "link": "https://github.com/joke2k/faker",
+            "name": "Reflex",
+            "link": "https://github.com/reflex-dev/reflex",
             "label": "good first issue",
             "technologies": ["python"],
-            "description": "A library for generating fake data for testing and development."
+            "description": "A Python framework for building full-stack web applications with a single Python codebase."
         },
         {
             "name": "Fabric",
