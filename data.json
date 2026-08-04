@@ -410,6 +410,16 @@
             "description": "Drag & Drop internal tool builder"
         },
         {
+            "name": "AgentsKit",
+            "link": "https://github.com/AgentsKit-io/agentskit",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "JavaScript"
+            ],
+            "description": "A modular toolkit for building JavaScript AI agents, with a tiny core and plug-and-play packages for chat, runtimes, tools, memory, RAG, sandboxing, observability, and evaluation."
+        },
+        {
             "name": "Codename One",
             "link": "https://github.com/codenameone/CodenameOne",
             "label": "good first issue",
