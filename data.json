@@ -1251,6 +1251,13 @@
             "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing."
         },
         {
+            "name": "sktime",
+            "link": "https://github.com/sktime/sktime",
+            "label": "good first issue",
+            "technologies": ["python"],
+            "description": "A Python library for machine learning with time series."
+        },
+        {
             "name": "Fabric",
             "link": "https://github.com/fabric/fabric",
             "label": "Low-hanging-fruit",
