@@ -1188,6 +1188,15 @@
             "description": "Building a Better Democracy for the Internet Age"
         },
         {
+            "name": "Agent Sweep",
+            "link": "https://github.com/Ishannaik/agent-sweep",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Command-line tool that finds and redacts secrets leaked into the session histories of AI coding agents such as Claude Code."
+        },
+        {
             "name": "Python Babel",
             "link": "https://github.com/python-babel/babel",
             "label": "difficulty/low",
