@@ -1701,6 +1701,15 @@
             "description": "A basic app to track your car's maintenance events, like fixes, oil changes, etc."
         },
         {
+            "name": "ItsPaint",
+            "link": "https://github.com/joshlin2201/itspaint",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "A native macOS paint and screenshot markup app. The drawing engine is a UI-free SwiftPM package with its own test suite, so most issues can be solved and tested without touching the app."
+        },
+        {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
             "label": "good first issue",
