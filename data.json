@@ -140,6 +140,15 @@
             "description": "Fast and minimalist 3D viewer."
         },
         {
+            "name": "CPP DSA Practice Repo",
+            "link": "https://github.com/shubham37r/cpp-dsa-practice.git",
+            "label": "beginner",
+            "technologiess": [
+                "C++"
+            ],
+            "description": "Sample repo added for DSA practice."
+        },
+        {
             "name": "Alda",
             "link": "https://github.com/alda-lang/alda",
             "label": "low-hanging fruit",
