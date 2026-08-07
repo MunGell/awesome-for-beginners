@@ -13,13 +13,22 @@
     },
     "repositories": [
         {
+            "name": "First Contributions",
+            "link": "https://github.com/firstcontributions/first-contributions",
+            "label": "first-timers-only",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A simple tutorial to help beginners make their first contribution."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
             "technologies": [
                 ".NET"
             ],
-            "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
+            "description": "A .NET MVVM framework for building cross-platform applications on Xamarin.iOS, Xamarin.Android, Windows, and Mac."
         },
         {
             "name": "osu!",
@@ -46,7 +55,7 @@
             "technologies": [
                 "C#"
             ],
-            "description": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages."
+            "description": "Cake (C# Make) is a free and open-source, cross-platform build automation system with a C# DSL. Beginners can use it to compile code, copy files, run unit tests, compress files, and build NuGet packages."
         },
         {
             "name": "Spectre.Console",
