@@ -437,6 +437,15 @@
             "description": "Canonical common brand names for OpenStreetMap"
         },
         {
+            "name": "axios",
+            "link": "https://github.com/axios/axios",
+            "label": "Promise client",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Promise based HTTP client for the browser and node.js"
+        },
+        {
             "name": "iD",
             "link": "https://github.com/openstreetmap/iD",
             "label": "new contributor opportunity",
