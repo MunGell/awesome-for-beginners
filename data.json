@@ -68,6 +68,15 @@
             "description": "Build cross platform desktop apps with JavaScript, HTML, and CSS"
         },
         {
+            "name": "JavaScript Algorithms",
+            "link": "https://github.com/trekhleb/javascript-algorithms",
+            "label": "good first issue",
+            "technologies": [
+            "JavaScript"
+        ],
+           "description": "Beginner-friendly algorithms and data structures repository"
+        },
+        {
             "name": "Godot Engine",
             "link": "https://github.com/godotengine/godot",
             "label": "good first issue",
