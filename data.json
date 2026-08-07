@@ -210,6 +210,15 @@
             ],
             "description": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology"
         },
+            {
+      "name": "Gophercises",
+      "link": "https://github.com/gophercises/gophercises",
+      "label": "good first issue",
+      "technologies": [
+        "Go"
+      ],
+      "description": "A collection of coding exercises for beginners learning Go."
+    },
         {
             "name": "Helm",
             "link": "https://github.com/kubernetes/helm",
