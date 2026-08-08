@@ -22,6 +22,15 @@
             "description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac."
         },
         {
+            "name": "mutant-ai",
+            "link": "https://github.com/ankitgmishra/mutant-ai",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "An agentic Python package for behavioral data generation and hypothesis-driven red team attacks for LLMs, AI agents, and RAG systems."
+        },
+        {
             "name": "osu!",
             "link": "https://github.com/ppy/osu",
             "label": "good first issue",
