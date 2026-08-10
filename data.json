@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "YazSes",
+            "link": "https://github.com/MSKazemi/yazses",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Voice dictation and speech-to-text for Linux, macOS and Windows. Hold a key, speak, release, and the text is typed into the focused window. Runs on the CPU with faster-whisper; nothing leaves the machine by default."
         }
     ]
 }
