@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "LangChain",
+            "link": "https://github.com/langchain-ai/langchain",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Building applications with LLMs through composability"
         }
     ]
 }
