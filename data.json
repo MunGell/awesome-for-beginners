@@ -545,6 +545,15 @@
             "description": "Server-oriented customizable templating for JavaScript."
         },
         {
+            "name": "Responsively App",
+            "link": "https://github.com/responsively-org/responsively-app",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "A modified browser that speeds up responsive web application development."
+        },
+        {
             "name": "Moment.js",
             "link": "https://github.com/moment/moment",
             "label": "Up-For-Grabs",
