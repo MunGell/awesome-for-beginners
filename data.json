@@ -1459,6 +1459,15 @@
             "description": "Mem0 is a memory framework for LLM applications."
         },
         {
+            "name": "Lians",
+            "link": "https://github.com/Lians-ai/Lians",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Local-first memory for AI agents with MCP, temporal recall, and multi-language SDKs."
+        },
+        {
             "name": "JRuby",
             "link": "https://github.com/jruby/jruby",
             "label": "beginner",
