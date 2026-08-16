@@ -26,7 +26,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |E|[Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
 |H|[Haskell](#haskell)|
-|J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
+|J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
 |M|[Markdown](#markdown), [MLOps](#mlops)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
@@ -139,6 +139,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair](https://github.com/imolorhe/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
+- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
@@ -202,10 +203,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
 - [webdriver.io](https://github.com/webdriverio/webdriverio) _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
-
-## Javascript
-
-- [appsmith](https://github.com/appsmithorg/appsmith) _(label: good first issue)_ <br> Drag & Drop internal tool builder
 
 ## JSON
 
