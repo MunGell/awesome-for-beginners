@@ -259,6 +259,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Python
 
+- [Agent Tools & MCP Hub](https://github.com/tarunjandra/agent-tools-mcp-hub) _(label: good first issue)_ <br> A curated, modular collection of plug-and-play AI Agent tools and Model Context Protocol (MCP) server connectors in Python & TypeScript.
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
 - [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Analysis of Bayesian Models.
