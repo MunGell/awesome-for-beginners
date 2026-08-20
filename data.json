@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "HFlow",
+            "link": "https://github.com/Hebbian-Robotics/hflow",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "HFlow helps you build observable data pipelines for robotics and physical AI with provenance-stamped episodes, visual Airflow graphs, and queryable metadata."
         }
     ]
 }
