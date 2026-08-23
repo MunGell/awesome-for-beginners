@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "deja-vu",
+            "link": "https://github.com/vshulcz/deja-vu",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Memory for coding agents, built from the session files they already write to disk: search, recall over MCP, and automatic recall across twenty agents."
         }
     ]
 }
