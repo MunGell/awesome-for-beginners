@@ -2077,3 +2077,12 @@
         }
     ]
 }
+{
+    "name":"techie",
+    "link":"https://github.com/Manage-agent",
+    "label": "good first issue",
+    "technoloigies": ["Pyhton", "Typescript"],
+    "description": "A reliable and competent digital manage assistant which assists in manganing and scheduling tasks"}
+]
+}
+    
