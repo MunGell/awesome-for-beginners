@@ -1701,6 +1701,15 @@
             "description": "A basic app to track your car's maintenance events, like fixes, oil changes, etc."
         },
         {
+            "name": "Plonk",
+            "link": "https://github.com/ostapondo/Plonk",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "A window manager for macOS. Draw the zones you want on each monitor, then drop windows into them with a drag, a shortcut or by saying so out loud."
+        },
+        {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
             "label": "good first issue",
