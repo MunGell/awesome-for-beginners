@@ -943,15 +943,6 @@
             "description": "A UI components library for Elasticsearch: Available for React, Vue and React Native."
         },
         {
-            "name": "Create React App",
-            "link": "https://github.com/facebook/create-react-app",
-            "label": "good first issue",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Create React apps with no build configuration."
-        },
-        {
             "name": "Svelte",
             "link": "https://github.com/sveltejs/svelte",
             "label": "good first issue",
