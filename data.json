@@ -2074,6 +2074,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "OffPDF",
+            "link": "https://github.com/McanKul/offpdf",
+            "label": "good first issue",
+            "technologies": [
+                "Rust",
+                "TypeScript"
+            ],
+            "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
         }
     ]
 }
