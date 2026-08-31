@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "no_human",
+            "link": "https://github.com/no-human-ai/no_human",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "From ticket to reviewed pull request. no_human proves the code it wrote is correct. You drop a ticket on the board (or point it at Jira or Linear) and it plans, writes the code, and opens a pull request. Before that PR reaches you, the work is checked by a second model that never saw the coder's session and is told to assume the job is not done. You get a pass/fail checklist that cites files and lines, not a score. If the agent deleted or weakened a test, a tamper guard stops the attempt. For bug fixes, the tests offered as proof have to fail on the old code and pass on the new. It's Free and open-source, on your machine."
         }
     ]
 }
