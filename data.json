@@ -2074,6 +2074,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Sotto",
+            "link": "https://github.com/getsotto/sotto",
+            "label": "good first issue",
+            "technologies": [
+                "Rust",
+                "TypeScript"
+            ],
+            "description": "End-to-end encrypted secret sync for developer teams. One Rust crypto core shared by the CLI and the browser via WebAssembly, while the server only ever sees ciphertext."
         }
     ]
 }
