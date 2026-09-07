@@ -13,6 +13,18 @@
     },
     "repositories": [
         {
+            "name": "LibreSign",
+            "link": "https://github.com/LibreSign/libresign",
+            "label": "good first issue",
+            "technologies": [
+                "php",
+                "javascript",
+                "vue",
+                "pdf"
+            ],
+            "description": "Digital document signature application for individuals and enterprises with beginner-friendly issues"
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
