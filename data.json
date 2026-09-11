@@ -2074,6 +2074,16 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "Posnic",
+            "link": "https://github.com/Posnic/POS",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "Electron"
+            ],
+            "description": "Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows."
         }
     ]
 }
