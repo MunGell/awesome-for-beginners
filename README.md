@@ -209,6 +209,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## JSON
 
+- [JsonToolBox](https://jsontoolbox.cc/) - Free, privacy-first JSON tools that run entirely in your browser.
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 
 ## Julia
