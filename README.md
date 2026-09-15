@@ -260,6 +260,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Python
 
 - [activist](https://github.com/activist-org/activist) _(label: good first issue)_ <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
+- [aiogram](https://github.com/aiogram/aiogram) _(label: good first issue)_ <br> Modern and fully asynchronous framework for Telegram Bot API written in Python.
 - [Ansible](https://github.com/ansible/ansible) _(label: easyfix)_ <br> A simple IT automation platform
 - [ArviZ](https://github.com/arviz-devs/arviz) _(label: Beginner)_ <br> Exploratory Analysis of Bayesian Models.
 - [BeeWare Briefcase](https://github.com/beeware/briefcase) _(label: good first issue)_ <br> Turn Python projects into distributable native applications across desktop and mobile platforms.
