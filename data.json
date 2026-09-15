@@ -1982,6 +1982,16 @@
             "description": "activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them."
         },
         {
+            "name": "aiogram",
+            "link": "https://github.com/aiogram/aiogram ",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Modern and fully asynchronous framework for Telegram Bot API written in Python."
+            
+        },
+        {
             "name": "Vite",
             "link": "https://github.com/vitejs/vite",
             "label": "good first issue",
