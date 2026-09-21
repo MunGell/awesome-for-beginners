@@ -427,6 +427,15 @@
             "description": "DSA questions practising repo for Java developers"
         },
         {
+            "name": "Hiero SDK Java",
+            "link": "https://github.com/hiero-ledger/hiero-sdk-java",
+            "label": "good first issue",
+            "technologies": [
+                "Java"
+            ],
+            "description": "Java SDK for interacting with the Hiero network."
+        },
+        {
             "name": "name-suggestion-index",
             "link": "https://github.com/osmlab/name-suggestion-index",
             "label": "good first issue",
