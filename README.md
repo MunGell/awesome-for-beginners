@@ -137,6 +137,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## JavaScript
 
+- [DevShelf](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> The open-source community directory for discovering developer tools, verified free APIs, and dev resources with zero paywalls.
 - [altair](https://github.com/imolorhe/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
