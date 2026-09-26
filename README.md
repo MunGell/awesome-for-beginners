@@ -377,6 +377,8 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 - [Vitest](https://github.com/vitest-dev/vitest) _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
+- * [PACT OS](https://github.com/TheVicky1/Pact_OS) (label: `good first issue`) — Open-source local-first accountability operating system featuring a financial engine, focus timers, and habit streak tracking. (Live Demo: [pact-os.vercel.app](https://pact-os.vercel.app))
+
 
 ## Typescript
 
