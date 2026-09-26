@@ -2074,6 +2074,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
-        }
+        },
+        {
+            "name": "yasbd-lib",
+            "link": "https://github.com/speedyk-005/yasbd-lib",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "High-accuracy, rule-based sentence boundary detector (SBD). Drop-in pysbd adapter, streaming APIs, CLI, and a spaCy component across 39+ languages."
+        },
     ]
 }
