@@ -982,15 +982,6 @@
             "description": "Multiplatform assertion library for Kotlin"
         },
         {
-            "name": "Hexagon",
-            "link": "https://github.com/hexagontk/hexagon",
-            "label": "help-wanted",
-            "technologies": [
-                "Kotlin"
-            ],
-            "description": "A microservices toolkit written in Kotlin"
-        },
-        {
             "name": "Scribe-Android",
             "link": "https://github.com/scribe-org/Scribe-Android",
             "label": "good first issue",
