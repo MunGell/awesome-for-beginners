@@ -1360,8 +1360,8 @@
             "description": "Exploratory Analysis of Bayesian Models."
         },
         {
-            "name": "MindsDB",
-            "link": "https://github.com/mindsdb/minds",
+            "name": "mindshub",
+            "link": "https://github.com/mindsdb/mindshub",
             "label": "good first issue",
             "technologies": [
                 "Python"
