@@ -276,7 +276,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [matplotlib](https://github.com/matplotlib/matplotlib) _(label: good first issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [Mem0](https://github.com/mem0ai/mem0/) _(label: good first issue)_ <br> Mem0 is a memory framework for LLM applications.
-- [MindsDB](https://github.com/mindsdb/minds) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
+- [mindshub](https://github.com/mindsdb/mindshub) _(label: good first issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [mygpo](https://github.com/gpodder/mygpo) _(label: starter-issue)_ <br> The webservice for gpodder.net, a libre web service that allows users to manage their podcast subscriptions and discover new content.
 - [mypy](https://github.com/python/mypy) _(label: good first issue)_ <br> Optional static typing for Python.
