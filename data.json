@@ -464,15 +464,6 @@
             "description": "JavaScript library for mobile-friendly interactive maps."
         },
         {
-            "name": "AVA",
-            "link": "https://github.com/avajs/ava",
-            "label": "good-for-beginner",
-            "technologies": [
-                "JavaScript"
-            ],
-            "description": "Futuristic test runner."
-        },
-        {
             "name": "Kinto.js",
             "link": "https://github.com/Kinto/kinto.js",
             "label": "easy-pick",
