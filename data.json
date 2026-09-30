@@ -1595,15 +1595,6 @@
             "description": "A fast, safe and correct low-level HTTP library for Rust."
         },
         {
-            "name": "dotenv-linter",
-            "link": "https://github.com/dotenv-linter/dotenv-linter",
-            "label": "good first issue",
-            "technologies": [
-                "Rust"
-            ],
-            "description": "Lightning-fast linter for .env files. Written in Rust"
-        },
-        {
             "name": "Veloren",
             "link": "https://gitlab.com/veloren/veloren",
             "technologies": [
