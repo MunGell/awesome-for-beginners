@@ -2020,6 +2020,15 @@
                 "Python"
             ],
             "description": "A simple framework that automates ML/DL workflows by providing prebuilt trainers, templates, logging, configuration management, and much more."
+        },
+        {
+            "name": "wardenIQ",
+            "link": "https://github.com/adlerqa/wardeniq",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Turns requirement documents into a grounded test suite, then continuously checks your code against it."
         }
     ]
 }
