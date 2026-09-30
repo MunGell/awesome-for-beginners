@@ -114,7 +114,7 @@
         },
         {
             "name": "MoveIt",
-            "link": "https://github.com/ros-planning/moveit",
+            "link": "https://github.com/moveit/moveit",
             "label": "good first issue",
             "technologies": [
                 "C++"
@@ -203,7 +203,7 @@
         },
         {
             "name": "Dragonfly",
-            "link": "https://github.com/dragonflyoss/Dragonfly2",
+            "link": "https://github.com/dragonflyoss/dragonfly",
             "label": "good first issue",
             "technologies": [
                 "Go"
@@ -212,7 +212,7 @@
         },
         {
             "name": "Helm",
-            "link": "https://github.com/kubernetes/helm",
+            "link": "https://github.com/helm/helm",
             "label": "good first issue",
             "technologies": [
                 "Go"
@@ -293,8 +293,8 @@
             "description": "A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process."
         },
         {
-            "name": "lxd",
-            "link": "https://github.com/lxc/lxd",
+            "name": "Incus",
+            "link": "https://github.com/lxc/incus",
             "label": "easy",
             "technologies": [
                 "Go"
@@ -320,7 +320,7 @@
         },
         {
             "name": "Meshery",
-            "link": "https://github.com/layer5io/meshery",
+            "link": "https://github.com/meshery/meshery",
             "label": "good first issue",
             "technologies": [
                 "Go"
@@ -447,7 +447,7 @@
         },
         {
             "name": "PouchDB",
-            "link": "https://github.com/pouchdb/pouchdb",
+            "link": "https://github.com/apache/pouchdb",
             "label": "help-wanted",
             "technologies": [
                 "JavaScript"
@@ -465,7 +465,7 @@
         },
         {
             "name": "AVA",
-            "link": "https://github.com/sindresorhus/ava",
+            "link": "https://github.com/avajs/ava",
             "label": "good-for-beginner",
             "technologies": [
                 "JavaScript"
@@ -500,8 +500,8 @@
             "description": "A JavaScript framework for creating ambitious web applications."
         },
         {
-            "name": "Ember.js Data",
-            "link": "https://github.com/emberjs/data",
+            "name": "WarpDrive",
+            "link": "https://github.com/warp-drive-data/warp-drive",
             "label": "Good-for-New-Contributors",
             "technologies": [
                 "JavaScript"
@@ -574,7 +574,7 @@
         },
         {
             "name": "React",
-            "link": "https://github.com/facebook/react",
+            "link": "https://github.com/react/react",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -583,7 +583,7 @@
         },
         {
             "name": "React Native",
-            "link": "https://github.com/facebook/react-native",
+            "link": "https://github.com/react/react-native",
             "label": "Good-first-issue",
             "technologies": [
                 "JavaScript"
@@ -602,7 +602,7 @@
         },
         {
             "name": "pixi.js",
-            "link": "https://github.com/pixijs/pixi.js",
+            "link": "https://github.com/pixijs/pixijs",
             "label": "🤩 Good First PR",
             "technologies": [
                 "JavaScript"
@@ -638,7 +638,7 @@
         },
         {
             "name": "stryker",
-            "link": "https://github.com/stryker-mutator/stryker",
+            "link": "https://github.com/stryker-mutator/stryker-js",
             "label": "👶 Good first issue",
             "technologies": [
                 "JavaScript"
@@ -674,7 +674,7 @@
         },
         {
             "name": "Jest",
-            "link": "https://github.com/facebook/jest",
+            "link": "https://github.com/jestjs/jest",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -772,8 +772,8 @@
             "description": "A compiler for writing next generation JavaScript."
         },
         {
-            "name": "netlify-cms",
-            "link": "https://github.com/netlify/netlify-cms",
+            "name": "Decap CMS",
+            "link": "https://github.com/decaporg/decap-cms",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -782,7 +782,7 @@
         },
         {
             "name": "altair",
-            "link": "https://github.com/imolorhe/altair",
+            "link": "https://github.com/altair-graphql/altair",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -851,15 +851,6 @@
                 "JavaScript"
             ],
             "description": "A free, fast and beautiful API request builder."
-        },
-        {
-            "name": "OpenCalc",
-            "link": "https://github.com/Darkempire78/OpenCalc",
-            "label": "good first issue",
-            "technologies": [
-                "Kotlin"
-            ],
-            "description": "A simple and beautiful calculator for Android."
         },
         {
             "name": "Time to Leave",
@@ -944,7 +935,7 @@
         },
         {
             "name": "Create React App",
-            "link": "https://github.com/facebook/create-react-app",
+            "link": "https://github.com/react/create-react-app",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -992,7 +983,7 @@
         },
         {
             "name": "Hexagon",
-            "link": "https://github.com/hexagonkt/hexagon",
+            "link": "https://github.com/hexagontk/hexagon",
             "label": "help-wanted",
             "technologies": [
                 "Kotlin"
@@ -1154,7 +1145,7 @@
         },
         {
             "name": "Flarum",
-            "link": "https://github.com/flarum/core",
+            "link": "https://github.com/flarum/framework",
             "label": "Good-first-issue",
             "technologies": [
                 "PHP"
@@ -1288,7 +1279,7 @@
         },
         {
             "name": "django cookiecutter",
-            "link": "https://github.com/pydanny/cookiecutter-django",
+            "link": "https://github.com/cookiecutter/cookiecutter-django",
             "label": "hacktoberfest",
             "technologies": [
                 "Python"
@@ -1387,7 +1378,7 @@
         },
         {
             "name": "MindsDB",
-            "link": "https://github.com/mindsdb/mindsdb",
+            "link": "https://github.com/mindsdb/minds",
             "label": "good first issue",
             "technologies": [
                 "Python"
@@ -1586,21 +1577,12 @@
         },
         {
             "name": "Rustfmt",
-            "link": "https://github.com/rust-lang-nursery/rustfmt",
+            "link": "https://github.com/rust-lang/rustfmt",
             "label": "good first issue",
             "technologies": [
                 "Rust"
             ],
             "description": "A tool for formatting Rust code according to style guidelines."
-        },
-        {
-            "name": "TensorZero",
-            "link": "https://github.com/tensorzero/tensorzero",
-            "label": "good-first-issue",
-            "technologies": [
-                "Rust"
-            ],
-            "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models."
         },
         {
             "name": "TiKV",
@@ -1729,7 +1711,7 @@
         },
         {
             "name": "reatom",
-            "link": "https://github.com/artalar/reatom",
+            "link": "https://github.com/reatom/reatom",
             "label": "good first issue",
             "technologies": [
                 "TypeScript"
@@ -1756,7 +1738,7 @@
         },
         {
             "name": "tinyhttp",
-            "link": "https://github.com/talentlessguy/tinyhttp",
+            "link": "https://github.com/tinyhttp/tinyhttp",
             "label": "good first issue",
             "technologies": [
                 "TypeScript"
@@ -1810,7 +1792,7 @@
         },
         {
             "name": "Ockam",
-            "link": "https://github.com/ockam-network/ockam",
+            "link": "https://github.com/build-trust/ockam",
             "label": "good first issue",
             "technologies": [
                 "Rust"
@@ -1887,7 +1869,7 @@
         },
         {
             "name": "HueHive",
-            "link": "https://github.com/croma-app/croma",
+            "link": "https://github.com/croma-app/huehive-mobile-app",
             "label": "good first issue",
             "technologies": [
                 "JavaScript"
@@ -1953,8 +1935,8 @@
             "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!"
         },
         {
-            "name": "SuperDuperDB",
-            "link": "https://github.com/SuperDuperDB/superduperdb",
+            "name": "Superduper",
+            "link": "https://github.com/superduper-io/superduper",
             "label": "good first issue",
             "technologies": [
                 "Python",
@@ -2021,8 +2003,8 @@
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
         },
         {
-            "name": "zoom-rs",
-            "link": "https://github.com/security-union/zoom-rs",
+            "name": "videocall-rs",
+            "link": "https://github.com/security-union/videocall-rs",
             "label": "good first issue",
             "technologies": [
                 "Rust"
@@ -2040,7 +2022,7 @@
         },
         {
             "name": "FastAPI",
-            "link": "https://github.com/tiangolo/fastapi",
+            "link": "https://github.com/fastapi/fastapi",
             "label": "good first issue",
             "technologies": [
                 "Python"
