@@ -28,7 +28,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |H|[Haskell](#haskell)|
 |J|[Java](#java), [JavaScript](#javascript), [Javascript](#javascript), [JSON](#json), [Julia](#julia)|
 |K|[Kotlin](#kotlin)|
-|M|[Markdown](#markdown), [MLOps](#mlops)|
+|M|[Markdown](#markdown)|
 |P|[Perl](#perl), [PHP](#php), [Pug](#pug), [Python](#python)|
 |R|[Ruby](#ruby), [Rust](#rust)|
 |S|[Scala](#scala), [Smalltalk](#smalltalk), [Swift](#swift)|
@@ -139,7 +139,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 - [altair](https://github.com/altair-graphql/altair) _(label: good first issue)_ <br> A beautiful feature-rich GraphQL Client for all platforms.
 - [Ancient Beast](https://github.com/FreezingMoon/AncientBeast) _(label: easy)_ <br> Turn based strategy game where you 3d print a squad of creatures with unique abilities in order to defeat your enemies.
-- [AVA](https://github.com/avajs/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
@@ -227,10 +226,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [The Odin Project Curriculum](https://github.com/TheOdinProject/curriculum) _(label: See Description)_ <br> An open-source curriculum for learning full-stack web development. There are a few "Type: Good First Issue" labelled issues, but any content addition/deletion issues seem reasonably beginner friendly.
 - [tldr-pages](https://github.com/tldr-pages/tldr) _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
-## MLOps
-
-- [Superduper](https://github.com/superduper-io/superduper) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
-
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada) _(label: good first issue)_ <br> Remote Virtual Desktops Manager.
@@ -297,7 +292,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [SaltStack](https://github.com/saltstack/salt) _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Superduper](https://github.com/superduper-io/superduper) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
