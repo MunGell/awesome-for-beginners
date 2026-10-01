@@ -326,7 +326,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Scala
 
 - [playframework](https://github.com/playframework/playframework) _(label: good first issue)_ <br> The High Velocity Web Framework
-- [Twitter Util](https://github.com/twitter/util) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
 
 ## Smalltalk
 
