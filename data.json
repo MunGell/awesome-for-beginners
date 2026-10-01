@@ -429,7 +429,7 @@
         {
             "name": "Hiero SDK Java",
             "link": "https://github.com/hiero-ledger/hiero-sdk-java",
-            "label": "good first issue",
+            "label": "Good First Issue",
             "technologies": [
                 "Java"
             ],
