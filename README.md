@@ -153,6 +153,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Create React App](https://github.com/react/create-react-app) _(label: good first issue)_ <br> Create React apps with no build configuration.
 - [cypress](https://github.com/cypress-io/cypress) _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 - [Decap CMS](https://github.com/decaporg/decap-cms) _(label: good first issue)_ <br> Open source content management for your git workflow.
+- [DevShelf](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Ember.js](https://github.com/emberjs/ember.js) _(label: Good-for-New-Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
 - [ESLint](https://github.com/eslint/eslint) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
@@ -348,6 +349,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Booster](https://github.com/boostercloud/booster) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [Devopness](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+- [DevShelf](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 - [DocsGPT](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
