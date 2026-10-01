@@ -128,6 +128,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Java
 
 - [Catima - Android App](https://github.com/CatimaLoyalty/Android) _(label: good first issue)_ <br> Catima, a Loyalty Card & Ticket Manager for Android
+- [Checkstyle](https://github.com/checkstyle/checkstyle) _(label: good first issue)_ <br> A development tool to help programmers write Java code that adheres to a coding standard.
 - [Codename One](https://github.com/codenameone/CodenameOne) _(label: good first issue)_ <br> Cross-platform mobile app development framework for Java developers
 - [DSA](https://github.com/abhishektripathi66/DSA) _(label: good first issue)_ <br> DSA questions practising repo for Java developers
 - [elasticsearch](https://github.com/elastic/elasticsearch) _(label: good first issue)_ <br> Open Source, Distributed, RESTful Search Engine.
