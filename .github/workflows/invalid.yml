@@ -4,10 +4,8 @@ on:
   pull_request_target:
     branches:
       - main
-    paths-ignore:
-      - '.github/**'
-      - 'data.json'
-      - 'CONTRIBUTING.md'
+    paths:
+      - 'README.md'
 
 jobs:
   check:
