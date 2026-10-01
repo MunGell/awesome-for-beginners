@@ -23,7 +23,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 |A|[Angular](#angular), [Ansible](#ansible)|
 |C|[C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)|
 |D|[Dart](#dart)|
-|E|[Elixir](#elixir), [Elm](#elm)|
+|E|[Electron](#electron), [Elixir](#elixir), [Elm](#elm)|
 |G|[Go](#go)|
 |H|[Haskell](#haskell)|
 |J|[Java](#java), [JavaScript](#javascript), [JSON](#json), [Julia](#julia)|
@@ -86,6 +86,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
 - [flutter](https://github.com/flutter/flutter) _(label: good first issue)_ <br> Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
 - [OpenFoodFacts](https://github.com/openfoodfacts/smooth-app) _(label: good first issue)_ <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+
+## Electron
+
+- [Posnic](https://github.com/Posnic/POS) _(label: good first issue)_ <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
 
 ## Elixir
 
@@ -180,6 +184,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [nuclear](https://github.com/nukeop/nuclear) _(label: good first issue)_ <br> Multiplatform music player that streams from free sources.
 - [p5.js](https://github.com/processing/p5.js) _(label: good first issue)_ <br> p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web.
 - [pixi.js](https://github.com/pixijs/pixijs) _(label: 🤩 Good First PR)_ <br> A 2D JavaScript Renderer
+- [Posnic](https://github.com/Posnic/POS) _(label: good first issue)_ <br> Offline-first open source POS and billing software for retail shops and restaurants, with online/offline workflows.
 - [PouchDB](https://github.com/apache/pouchdb) _(label: help-wanted)_ <br> PouchDB is a pocket-sized database.
 - [ramda-adjunct](https://github.com/char0n/ramda-adjunct) _(label: help-wanted)_ <br> Ramda Adjunct is the most popular and most comprehensive set of functional utilities for use with Ramda, providing a variety of useful, well tested functions with excellent documentation.
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
