@@ -1612,15 +1612,6 @@
             "description": "Application to comfortably monitor network traffic."
         },
         {
-            "name": "Twitter Util",
-            "link": "https://github.com/twitter/util",
-            "label": "good first issue",
-            "technologies": [
-                "Scala"
-            ],
-            "description": "Wonderful reusable code from Twitter"
-        },
-        {
             "name": "playframework",
             "link": "https://github.com/playframework/playframework",
             "label": "good first issue",
