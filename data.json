@@ -1949,6 +1949,16 @@
             "description": "An inventory of tools and resources that aims to help people to find everything related to CyberSecurity."
         },
         {
+            "name": "DevShelf",
+            "link": "https://github.com/RitualDev-Lab/DevShelf",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript",
+                "TypeScript"
+            ],
+            "description": "A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring."
+        },
+        {
             "name": "videocall-rs",
             "link": "https://github.com/security-union/videocall-rs",
             "label": "good first issue",
