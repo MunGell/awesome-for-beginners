@@ -300,7 +300,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [chef](https://github.com/chef/chef) _(label: Type:-Jump-In)_ <br> A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
 - [Hanami](https://github.com/hanami/hanami) _(label: easy)_ <br> A modern framework for Ruby.
 - [JRuby](https://github.com/jruby/jruby) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
-- [mapknitter](https://github.com/publiclab/mapknitter) _(label: first-timers-only)_ <br> Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print.
 - [multiwoven](https://github.com/Multiwoven/multiwoven) _(label: good first issue)_ <br> The open-source reverse ETL, data activation platform for modern data teams.
 - [ohai](https://github.com/chef/ohai) _(label: Type:-Jump-In)_ <br> Ohai profiles your system and emits JSON
 - [open-build-service](https://github.com/openSUSE/open-build-service) _(label: good first issue-:1st_place_medal:)_ <br> A generic system to build and distribute packages from sources in an automatic, consistent and reproducible way.
