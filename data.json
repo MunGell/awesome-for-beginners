@@ -2042,5 +2042,14 @@
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
         }
+        {
+            "name": "Nim",
+            "link": "https://github.com/nim-lang/Nim",
+            "label": "good first issue",
+            "technologies": [
+                "Nim"
+            ],
+            "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula."
+        }
     ]
 }
