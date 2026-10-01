@@ -1959,8 +1959,6 @@
             "description": "A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring."
         },
         {
-            "name": "zoom-rs",
-            "link": "https://github.com/security-union/zoom-rs",
             "name": "videocall-rs",
             "link": "https://github.com/security-union/videocall-rs",
             "label": "good first issue",
