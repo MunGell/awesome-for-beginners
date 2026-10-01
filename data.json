@@ -1505,15 +1505,6 @@
             "description": "Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc."
         },
         {
-            "name": "mapknitter",
-            "link": "https://github.com/publiclab/mapknitter",
-            "label": "first-timers-only",
-            "technologies": [
-                "Ruby"
-            ],
-            "description": "Upload your own aerial images, position (rubbersheet) them in a web interface over existing map data, and share via web or composite and export for print."
-        },
-        {
             "name": "multiwoven",
             "link": "https://github.com/Multiwoven/multiwoven",
             "label": "good first issue",
