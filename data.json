@@ -2080,10 +2080,8 @@
             "link": "https://github.com/Ryan-Millard/Img2Num",
             "label": "good first issue",
             "technologies": [
-                "C",
                 "C++",
-                "JavaScript",
-                "Python"
+                "JavaScript"
             ],
             "description": "Cross-platform raster-to-SVG vectorization library designed for natural images."
         }
