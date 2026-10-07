@@ -2050,6 +2050,16 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Podiom",
+            "link": "https://github.com/Podiom/Podiom",
+            "label": "good first issue",
+            "technologies": [
+                "Go",
+                "Svelte"
+            ],
+            "description": "Self-hosted orchestration layer for local Claude Code and Codex CLI agents: durable named agents, sessions that survive provider and profile switches, scheduling, and a shared project ledger, in a single Go binary with an embedded web UI."
         }
     ]
 }
