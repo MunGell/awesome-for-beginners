@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Styx",
+            "link": "https://github.com/NicholasFlemmer/styx-app",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Desktop app that runs coding agents on many projects at once and makes them ask before touching production"
         }
     ]
 }
