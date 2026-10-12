@@ -2050,6 +2050,16 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Loment",
+            "link": "https://github.com/FujoJTOP/loment",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "Loment"
+            ],
+            "description": "Loment is a systems programming language that compiles directly to native x86-64 (Linux ELF, Windows PE, or freestanding for bare metal) with no runtime and no libc. Its compiler driver is written in Loment itself, with a Python reference implementation alongside it."
         }
     ]
 }
