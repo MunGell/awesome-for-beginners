@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "gknowledge",
+            "link": "https://github.com/openapi/gknowledge",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A native GNOME (GTK 4) desktop app that turns your documents into a linked, cited Markdown wiki, offline by default with optional local or cloud LLMs."
         }
     ]
 }
