@@ -2051,5 +2051,16 @@
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
         }
+        ,
+        {
+          "name": "KanaDojo",
+          "link": "https://github.com/lingdojo/kana-dojo",
+          "label": "good first issue",
+          "technologies": [
+            "TypeScript",
+            "JavaScript"
+          ],
+          "description": "An open-source Japanese learning platform with interactive practice tools and beginner-friendly contribution opportunities."
+        }
     ]
 }
