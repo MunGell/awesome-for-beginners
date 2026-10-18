@@ -11,7 +11,7 @@ def new_technology_dict(repo_technology):
 
 technologies = {}
 
-with open(DATAFILE, "r") as datafile:
+with open(DATAFILE, "r", encoding="utf-8") as datafile:
     data = json.loads(datafile.read())
 
 for technology in data["technologies"]:
@@ -52,4 +52,5 @@ sponsors = data["sponsors"]
 
 output = template.render(category_groups=category_groups, categories=categories, sponsors=sponsors)
 
-open(TARGETFILE, "w").write(output)
+with open(TARGETFILE, "w", encoding="utf-8") as targetfile:
+    targetfile.write(output)
