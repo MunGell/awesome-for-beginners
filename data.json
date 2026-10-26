@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Telar",
+            "link": "https://github.com/deeptelar/telar",
+            "label": "good first issue",
+            "technologies": [
+                "Kotlin"
+            ],
+            "description": "Kotlin Multiplatform library for stateful AI agent workflows: graphs of nodes with checkpoints, human approval and tool calling."
         }
     ]
 }
