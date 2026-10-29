@@ -296,6 +296,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Pytorch](https://github.com/pytorch/pytorch) _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [SaltStack](https://github.com/saltstack/salt) _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
+- [SciProof](https://github.com/hayagrivai-labs/sciproof) _(label: good first issue)_ <br> Offline-first tool for recording computational experiments, verifying evidence manifests with floating-point tolerances, and exporting LaTeX macros for papers.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!

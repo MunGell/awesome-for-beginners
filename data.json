@@ -1,7 +1,7 @@
 {
     "sponsors": [
         {
-            "name": "Michał Gołkowski",
+            "name": "Micha\u0142 Go\u0142kowski",
             "image": "https://avatars.githubusercontent.com/u/40803091",
             "link": "https://github.com/MixeroTN"
         }
@@ -147,7 +147,7 @@
             "technologies": [
                 "Go"
             ],
-            "description": "A music programming language for musicians. 🎶"
+            "description": "A music programming language for musicians. \ud83c\udfb6"
         },
         {
             "name": "Metabase",
@@ -604,7 +604,7 @@
         {
             "name": "pixi.js",
             "link": "https://github.com/pixijs/pixijs",
-            "label": "🤩 Good First PR",
+            "label": "\ud83e\udd29 Good First PR",
             "technologies": [
                 "JavaScript"
             ],
@@ -640,7 +640,7 @@
         {
             "name": "stryker",
             "link": "https://github.com/stryker-mutator/stryker-js",
-            "label": "👶 Good first issue",
+            "label": "\ud83d\udc76 Good first issue",
             "technologies": [
                 "JavaScript"
             ],
@@ -1106,7 +1106,7 @@
             "technologies": [
                 "PHP"
             ],
-            "description": "An End-to-end backend server for frontend and mobile developers. 🚀"
+            "description": "An End-to-end backend server for frontend and mobile developers. \ud83d\ude80"
         },
         {
             "name": "FreshRSS",
@@ -1672,7 +1672,7 @@
             "technologies": [
                 "TypeScript"
             ],
-            "description": "100% open source data import experience with readymade CSV & Excel import widget 🚀"
+            "description": "100% open source data import experience with readymade CSV & Excel import widget \ud83d\ude80"
         },
         {
             "name": "reatom",
@@ -1821,7 +1821,7 @@
             "technologies": [
                 "Python"
             ],
-            "description": "OMRChecker helps to grade exams fast and accurately using a scanner 🖨 or your phone 🤳. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github."
+            "description": "OMRChecker helps to grade exams fast and accurately using a scanner \ud83d\udda8 or your phone \ud83e\udd33. Learn image processing with Python and OpenCV while contributing to one of the most popular repositories related to OMR topic on github."
         },
         {
             "name": "Avo Admin for Ruby on Rails",
@@ -1897,7 +1897,7 @@
             "technologies": [
                 "Python"
             ],
-            "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to £500!"
+            "description": "Natural language processing tool for psychologists to analyse and compare datasets with AI and LLMs.<br>Up for a challenge? Try [this LLM training competition](https://harmonydata.ac.uk/doxa/) for a chance to win up to \u00a3500!"
         },
         {
             "name": "LinksHub",
@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "SciProof",
+            "link": "https://github.com/hayagrivai-labs/sciproof",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Offline-first tool for recording computational experiments, verifying evidence manifests with floating-point tolerances, and exporting LaTeX macros for papers."
         }
     ]
 }
