@@ -1648,6 +1648,15 @@
             "description": "A basic app to track your car's maintenance events, like fixes, oil changes, etc."
         },
         {
+            "name": "Pinto Notes",
+            "link": "https://github.com/pinto-notes/pinto-notes",
+            "label": "good first issue",
+            "technologies": [
+                "Swift"
+            ],
+            "description": "A free, open source notes app for iPhone and Mac that ChatGPT and Claude can read and edit, through an MCP server."
+        },
+        {
             "name": "TypeScript",
             "link": "https://github.com/Microsoft/TypeScript",
             "label": "good first issue",
