@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "deja-vu",
+            "link": "https://github.com/vshulcz/deja-vu",
+            "label": "good first issue",
+            "technologies": [
+                "Go"
+            ],
+            "description": "Memory for coding agents, built from the session files they already write to disk: search, recall over MCP, and automatic recall across Claude Code, Codex, Cursor, opencode, and 40+ agents."
         }
     ]
 }
