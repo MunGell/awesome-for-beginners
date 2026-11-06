@@ -1550,6 +1550,15 @@
             "description": "A browser engine designed for applications including embedded use."
         },
         {
+            "name": "Mekanism Rust Foundry",
+            "link": "https://github.com/GabrielNichols/mekanism-rust-foundry",
+            "label": "good first issue",
+            "technologies": [
+                "Rust"
+            ],
+            "description": "An open-source Rust parity lab for a future native Mekanism port to Horizon, with reproducible Java reference tests."
+        },
+        {
             "name": "Rust-Clippy",
             "link": "https://github.com/rust-lang/rust-clippy",
             "label": "good first issue",
