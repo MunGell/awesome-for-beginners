@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "ManaWG",
+            "link": "https://github.com/Abuarchiv/manawg",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Free, self-hostable app for shared flats: split expenses, cleaning rota, shopping list, calendar and chat. Next.js, Postgres and Supabase, with a Docker Compose stack."
         }
     ]
 }
