@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "YazSes",
+            "link": "https://github.com/MSKazemi/yazses",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "Voice dictation and speech-to-text for Linux, macOS and Windows. Hold a key, speak, release, and the text is typed into the focused window. Runs on the CPU with faster-whisper; nothing leaves the machine by default."
         }
     ]
 }
