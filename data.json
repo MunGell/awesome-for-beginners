@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Null Motion",
+            "link": "https://github.com/blixvip/NullMotion",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Play a finished motion-graphics ad in sync with the rough drafts it grew from, then export the breakdown as one MP4. Node and browser, zero dependencies."
         }
     ]
 }
