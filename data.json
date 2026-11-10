@@ -2050,6 +2050,17 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Nightshift",
+            "link": "https://github.com/orwa-mahmoud/nightshift",
+            "label": "good first issue",
+            "technologies": [
+                "Shell",
+                "PowerShell",
+                "Markdown"
+            ],
+            "description": "A plugin for Claude Code, Codex and Cursor that runs long coding-agent work against a persistent punch list, with crash recovery and a receipt per item. Beginner issues add Markdown entries to its shift, evidence and receipt catalogs."
         }
     ]
 }
