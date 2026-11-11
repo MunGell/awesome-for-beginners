@@ -2050,6 +2050,16 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Murmury",
+            "link": "https://github.com/GianlucaBave/murmury",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "Swift"
+            ],
+            "description": "An open source Mac app that transcribes calls locally with Whisper and shows short answers from your own documents. Many beginner issues need no Mac: tests, datasets and evals."
         }
     ]
 }
