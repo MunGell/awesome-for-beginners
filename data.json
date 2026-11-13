@@ -2050,6 +2050,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Bash Fighter",
+            "link": "https://github.com/Bash-Entertainment/bash-fighter",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Free, open-source browser-based 20-player free-for-all platform fighter with a deterministic simulation and a Node websocket server."
         }
     ]
 }
