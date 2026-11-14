@@ -2050,6 +2050,16 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "goat",
+            "link": "https://github.com/USAREUR-AF/goatcore",
+            "label": "good first issue",
+            "technologies": [
+                "Rust",
+                "Go"
+            ],
+            "description": "A self-hosted data fabric: WireGuard mesh, brokerless Zenoh pub/sub and identity-based access control for networks with unreliable links."
         }
     ]
 }
