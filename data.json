@@ -483,6 +483,15 @@
             "description": "An offline-first JavaScript client leveraging the Kinto API for remote data synchronization."
         },
         {
+            "name": "env-saaf",
+            "link": "https://github.com/abhi478jeetur-rgb/env-saaf",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Zero-dependency environment variable validator for Node.js - typed values, .env parsing, code scanning and a CLI."
+        },
+        {
             "name": "ESLint",
             "link": "https://github.com/eslint/eslint",
             "label": "good first issue",
