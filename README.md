@@ -158,6 +158,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [DevShelf](https://github.com/RitualDev-Lab/DevShelf) _(label: good first issue)_ <br> A crowdsourced, zero-paywall directory of developer tools, free APIs, and 1-click boilerplates with continuous uptime monitoring.
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Ember.js](https://github.com/emberjs/ember.js) _(label: Good-for-New-Contributors)_ <br> A JavaScript framework for creating ambitious web applications.
+- [env-saaf](https://github.com/abhi478jeetur-rgb/env-saaf) _(label: good first issue)_ <br> Zero-dependency .env validator for Node.js: typed values, all errors at once, code-vs-.env.example diff CLI, secret masking.
 - [ESLint](https://github.com/eslint/eslint) _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) _(label: good-for-beginner)_ <br> Awesome ESLint rules.
 - [Fastify](https://github.com/fastify/fastify) _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
