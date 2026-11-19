@@ -166,7 +166,9 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Ghost](https://github.com/TryGhost/Ghost) _(label: good first issue)_ <br> Just a blogging platform
 - [grommet](https://github.com/grommet/grommet) _(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good first issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
-- [HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
+- [HireSense](https://github.com/khizzcr7/HireSense) _(label: good first issue)_
+  AI recruitment helper: upload a resume, get AI feedback on how well it matches a job. React + Express + Gemini.
+[HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/huehive-mobile-app) _(label: good first issue)_ <br> An open source react native app iOS and android for color palette management
 - [iD](https://github.com/openstreetmap/iD) _(label: new contributor opportunity)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
