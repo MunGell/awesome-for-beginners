@@ -827,7 +827,7 @@
             "description": "Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)"
         },
         {
-            "name": "reactjs.org",
+            "name": "HireSense", "link": "https://github.com/khizzcr7/HireSense", "label": "good first issue", "technologies": [ "JavaScript" ], "description": "AI recruitment helper: upload a resume, get AI feedback on how well it matches a job. React + Express + Gemini." }, { "name": "reactjs.org",
             "link": "https://github.com/reactjs/react.dev",
             "label": "good first issue",
             "technologies": [
