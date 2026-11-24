@@ -65,6 +65,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [electron](https://github.com/electron/electron) _(label: good first issue)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [F3D](https://github.com/f3d-app/f3d) _(label: good first issue)_ <br> Fast and minimalist 3D viewer.
 - [Godot Engine](https://github.com/godotengine/godot) _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
+- [Img2Num](https://github.com/Ryan-Millard/Img2Num) _(label: good first issue)_ <br> Cross-platform raster-to-SVG vectorization library designed for natural images.
 - [Julia](https://github.com/JuliaLang/julia) _(label: good first issue)_ <br> The Julia Programming Language - A high-level, high-performance dynamic language for technical computing.
 - [MiniOB](https://github.com/oceanbase/miniob) _(label: good first issue)_ <br> MiniOB is a compact database that assists developers in understanding the fundamental workings of a database(main language is Chinese).
 - [MoveIt](https://github.com/moveit/moveit) _(label: good first issue)_ <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
@@ -170,6 +171,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
 - [HueHive](https://github.com/croma-app/huehive-mobile-app) _(label: good first issue)_ <br> An open source react native app iOS and android for color palette management
 - [iD](https://github.com/openstreetmap/iD) _(label: new contributor opportunity)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
+- [Img2Num](https://github.com/Ryan-Millard/Img2Num) _(label: good first issue)_ <br> Cross-platform raster-to-SVG vectorization library designed for natural images.
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/jestjs/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
