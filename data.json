@@ -2060,6 +2060,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Bangladesh Address",
+            "link": "https://github.com/rajuAhmed1705/bangladesh-address",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Divisions, districts, upazilas and thanas of Bangladesh as a typed npm package and as SQL and MongoDB dumps."
         }
     ]
 }
