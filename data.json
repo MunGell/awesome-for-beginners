@@ -2060,6 +2060,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Free LLM API Hub",
+            "link": "https://github.com/pacocartones/free-llm-api-hub",
+            "label": "good first issue",
+            "technologies": [
+                "JavaScript"
+            ],
+            "description": "Open dataset of free-tier and trial-credit LLM APIs from 60+ providers, with each entry dated and linked to its source."
         }
     ]
 }
