@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "HoloViz Panel",
+            "link": "https://github.com/holoviz/panel",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python library for building interactive dashboards and data applications."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
