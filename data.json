@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "GeoPandas",
+            "link": "https://github.com/geopandas/geopandas",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python library for working with geospatial data in pandas and creating maps."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
