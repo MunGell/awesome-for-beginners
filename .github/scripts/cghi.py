@@ -1,3 +1,4 @@
+import sys
 import click
 import requests
 
@@ -12,8 +13,8 @@ def get_open_issues(repo_owner, repo_name, search_params):
         # print(data)
         print(data["total_count"])
     else:
-        printer(f"HTTP Error: {response.status_code}")
-        exit(1)
+        print(f"HTTP Error: {response.status_code}")
+        sys.exit(1)
 
 @click.command()
 @click.argument("repo_owner")
