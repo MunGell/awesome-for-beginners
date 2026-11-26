@@ -13,6 +13,15 @@
     },
     "repositories": [
         {
+            "name": "Plotly.py",
+            "link": "https://github.com/plotly/plotly.py",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A Python graphing library for creating interactive charts and maps."
+        },
+        {
             "name": "MvvmCross",
             "link": "https://github.com/MvvmCross/MvvmCross",
             "label": "first-timers-only",
