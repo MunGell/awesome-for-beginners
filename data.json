@@ -1388,6 +1388,15 @@
             "description": "Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations."
         },
         {
+            "name": "Flisk",
+            "link": "https://github.com/flisk-sh/flisk",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Generate and run your whole tech stack without the setup pain - local microservice stacks with Docker and Tilt."
+        },
+        {
             "name": "BeeWare Briefcase",
             "link": "https://github.com/beeware/briefcase",
             "label": "good first issue",
