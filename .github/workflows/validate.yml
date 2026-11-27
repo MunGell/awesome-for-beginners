@@ -1,0 +1,38 @@
+name: Validate Data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data.json'
+      - '.github/scripts/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'data.json'
+      - '.github/scripts/**'
+
+jobs:
+  validate:
+    name: Validate data.json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validate data.json format and schema
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python .github/scripts/validate-data.py --check-single-addition --base=origin/${{ github.base_ref }}
+          else
+            python .github/scripts/validate-data.py
+          fi
