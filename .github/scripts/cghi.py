@@ -2,18 +2,36 @@ import click
 import requests
 
 def get_open_issues(repo_owner, repo_name, search_params):
-    api_url = f"https://api.github.com/search/issues?q=is:issue%20state:open%20repo:{repo_owner}/{repo_name}"
-    for search_param, param in search_params:
-        api_url += f'%20{search_param}:"{param}"'
-    print(api_url)
-    response = requests.get(api_url)
-    if response.status_code == 200:
-        data = response.json()
-        # print(data)
-        print(data["total_count"])
-    else:
-        printer(f"HTTP Error: {response.status_code}")
-        exit(1)
+    # Base search query
+    query = f"is:issue state:open repo:{repo_owner}/{repo_name}"
+    
+    # Append additional search parameters cleanly
+    for key, val in search_params:
+        query += f' {key}:"{val}"'
+    
+    # GitHub Search API endpoint
+    api_url = "https://api.github.com/search/issues"
+    
+    # Required headers by GitHub
+    headers = {
+        "User-Agent": "GitHub-Issue-Counter-App",
+        "Accept": "application/vnd.github.v3+json"
+    }
+    
+    # Pass the query via the 'params' argument so 'requests' handles URL encoding safely
+    try:
+        response = requests.get(api_url, params={"q": query}, headers=headers)
+        
+        if response.status_code == 200:
+            data = response.json()
+            click.echo(f"Total open issues matching criteria: {data['total_count']}")
+        else:
+            click.echo(f"HTTP Error {response.status_code}: {response.text}", err=True)
+            raise click.Abort()
+            
+    except requests.exceptions.RequestException as e:
+        click.echo(f"Network error occurred: {e}", err=True)
+        raise click.Abort()
 
 @click.command()
 @click.argument("repo_owner")
@@ -31,7 +49,6 @@ def get_open_issues(repo_owner, repo_name, search_params):
 )
 def cghi(repo_owner, repo_name, search_params):
     """Counts the number of GitHub issues"""
-    print(search_params)
     get_open_issues(repo_owner, repo_name, search_params)
 
 if __name__ == "__main__":
