@@ -392,6 +392,16 @@
             "description": "API Automation without coding, easy JSON response assertions, Testing REST, SOAP, Kafka and Java/DB APIs, CI/Jenkins Friendly."
         },
         {
+            "name": "Tracekit",
+            "link": "https://github.com/Cygnux-Labs/Tracekit",
+            "label": "good first issue",
+            "technologies": [
+                "Python",
+                "TypeScript"
+            ],
+            "description": "Tamper-evident tracing for AI agents: every tool call is checked against a policy before it runs and signed into a log the agent can't edit."
+        },
+        {
             "name": "Trino (formerly Presto SQL)",
             "link": "https://github.com/trinodb/trino",
             "label": "good first issue",
