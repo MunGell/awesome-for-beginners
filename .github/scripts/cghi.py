@@ -1,19 +1,35 @@
 import click
 import requests
 
+BASE_URL = "https://api.github.com/search/issues"
+
+
+def build_query(repo_owner, repo_name, search_params):
+    query = f"is:issue state:open repo:{repo_owner}/{repo_name}"
+
+    for key, value in search_params:
+        query += f' {key}:"{value}"'
+
+    return query
+
+
 def get_open_issues(repo_owner, repo_name, search_params):
-    api_url = f"https://api.github.com/search/issues?q=is:issue%20state:open%20repo:{repo_owner}/{repo_name}"
-    for search_param, param in search_params:
-        api_url += f'%20{search_param}:"{param}"'
-    print(api_url)
-    response = requests.get(api_url)
-    if response.status_code == 200:
+    query = build_query(repo_owner, repo_name, search_params)
+
+    params = {"q": query}
+
+    try:
+        response = requests.get(BASE_URL, params=params, timeout=10)
+        response.raise_for_status()
+
         data = response.json()
-        # print(data)
-        print(data["total_count"])
-    else:
-        printer(f"HTTP Error: {response.status_code}")
-        exit(1)
+
+        return data["total_count"]
+
+    except requests.exceptions.RequestException as e:
+        print(f"Request Error: {e}")
+        raise SystemExit(1)
+
 
 @click.command()
 @click.argument("repo_owner")
@@ -24,15 +40,25 @@ def get_open_issues(repo_owner, repo_name, search_params):
     "search_params",
     type=(str, str),
     multiple=True,
-    help='''\b
-    GitHub search filter parameters
-    e.g. `-p label "good first issue"`
-    '''
+    help="""
+GitHub search filter parameters
+
+Example:
+-p label "good first issue"
+-p author "octocat"
+""",
 )
 def cghi(repo_owner, repo_name, search_params):
-    """Counts the number of GitHub issues"""
-    print(search_params)
-    get_open_issues(repo_owner, repo_name, search_params)
+    """Counts open GitHub issues."""
+
+    issue_count = get_open_issues(
+        repo_owner,
+        repo_name,
+        search_params
+    )
+
+    print(f"Open issues found: {issue_count}")
+
 
 if __name__ == "__main__":
     cghi()
