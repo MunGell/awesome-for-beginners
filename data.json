@@ -1775,6 +1775,18 @@
             "description": "An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application."
         },
         {
+            "name": "AdaptTable",
+            "link": "https://github.com/orwa-mahmoud/adapttable",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript",
+                "React",
+                "Angular",
+                "Vue"
+            ],
+            "description": "A headless TypeScript data table for React, Angular and Vue with native adapters for 25 UI kits. Beginner issues add locales and port examples to other UI kits."
+        },
+        {
             "name": "H2O Wave",
             "link": "https://github.com/h2oai/wave",
             "label": "good first issue",
