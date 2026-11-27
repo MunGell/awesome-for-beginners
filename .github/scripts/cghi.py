@@ -1,19 +1,41 @@
+import os
+import sys
 import click
 import requests
+import logging
 
-def get_open_issues(repo_owner, repo_name, search_params):
-    api_url = f"https://api.github.com/search/issues?q=is:issue%20state:open%20repo:{repo_owner}/{repo_name}"
+# Configuración de logging
+logging.basicConfig(level=logging.INFO, format="%(message)s")
+logger = logging.getLogger(__name__)
+
+def get_open_issues(repo_owner, repo_name, search_params, show_issues=False):
+    """Obtiene y cuenta issues abiertos en un repositorio de GitHub."""
+    # Construcción de la query base
+    query = f"is:issue state:open repo:{repo_owner}/{repo_name}"
     for search_param, param in search_params:
-        api_url += f'%20{search_param}:"{param}"'
-    print(api_url)
-    response = requests.get(api_url)
-    if response.status_code == 200:
-        data = response.json()
-        # print(data)
-        print(data["total_count"])
-    else:
-        printer(f"HTTP Error: {response.status_code}")
-        exit(1)
+        query += f' {search_param}:"{param}"'
+
+    api_url = f"https://api.github.com/search/issues?q={query}"
+
+    headers = {"User-Agent": "GitHub-Issues-Counter"}
+    token = os.getenv("GITHUB_TOKEN")
+    if token:
+        headers["Authorization"] = f"token {token}"
+
+    try:
+        response = requests.get(api_url, headers=headers, timeout=10)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        logger.error(f"Error en la petición HTTP: {e}")
+        sys.exit(1)
+
+    data = response.json()
+    total = data.get("total_count", 0)
+    logger.info(f"Issues abiertos encontrados: {total}")
+
+    if show_issues and "items" in data:
+        for issue in data["items"]:
+            logger.info(f"- #{issue['number']} {issue['title']}")
 
 @click.command()
 @click.argument("repo_owner")
@@ -24,15 +46,17 @@ def get_open_issues(repo_owner, repo_name, search_params):
     "search_params",
     type=(str, str),
     multiple=True,
-    help='''\b
-    GitHub search filter parameters
-    e.g. `-p label "good first issue"`
-    '''
+    help="Filtro de búsqueda en GitHub (ej: -p label 'good first issue')"
 )
-def cghi(repo_owner, repo_name, search_params):
-    """Counts the number of GitHub issues"""
-    print(search_params)
-    get_open_issues(repo_owner, repo_name, search_params)
+@click.option(
+    "--show-issues",
+    is_flag=True,
+    default=False,
+    help="Muestra los títulos de los issues encontrados"
+)
+def cghi(repo_owner, repo_name, search_params, show_issues):
+    """Cuenta los issues abiertos en un repositorio de GitHub."""
+    get_open_issues(repo_owner, repo_name, search_params, show_issues)
 
 if __name__ == "__main__":
     cghi()
