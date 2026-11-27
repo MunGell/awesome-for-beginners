@@ -1315,6 +1315,15 @@
             "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
         },
         {
+            "name": "py-simple-wrap",
+            "link": "https://github.com/sara-czasak/py-simple-wrap",
+            "label": "good first issue",
+            "technologies": [
+                "Python"
+            ],
+            "description": "A beginner-friendly Python wrapper package that turns common tasks into simple, intuitive one-line functions."
+        },
+        {
             "name": "SaltStack",
             "link": "https://github.com/saltstack/salt",
             "label": "good first issue",
