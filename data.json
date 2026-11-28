@@ -2060,6 +2060,15 @@
                 "TypeScript"
             ],
             "description": "An open-source, offline-first desktop toolkit for editing, organizing, converting, compressing, securing, and OCRing PDF files locally."
+        },
+        {
+            "name": "Friday",
+            "link": "https://github.com/splashxmoon/friday-code",
+            "label": "good first issue",
+            "technologies": [
+                "TypeScript"
+            ],
+            "description": "Desktop app that runs coding agents like Claude Code, Codex and Gemini CLI side by side on a shared task board, each in its own git worktree."
         }
     ]
 }
