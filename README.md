@@ -15,8 +15,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 > [!TIP]
 > All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
-## Table of Contents:
-
+## Table of Contents:<
 ||Languages|
 |--|--|
 |Misc|[.NET](#net)|
@@ -40,7 +39,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [MvvmCross](https://github.com/MvvmCross/MvvmCross) _(label: first-timers-only)_ <br> The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
 
 ## Angular
-
+<p>hi</p>
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 ## Ansible
